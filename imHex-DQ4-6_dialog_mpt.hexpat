@@ -1,50 +1,127 @@
+import hex.provider;
+import std.file;
 import std.io;
-import std.mem;
-import std.math;
-import std.ptr;
 
-fn Add(u32 a, u32 b) {
+/////////////// Defining Functions ///////////////
+
+fn Add(u32 a, u32 b)
+{
   return a + b;
 };
 
-struct header {
+fn newlineSeparate(str input)
+{
+  str output = input + "\n";
+  return output;
+};
+
+fn tabSeparate(str input)
+{
+  str output = "\t" + input + "\n";
+  return output;
+};
+
+////////////// Defining Enumerators //////////////
+
+enum controlCharacterU8 : u8
+{
+  newline = 0x0A,
+  idk = 0xFE
+};
+
+enum controlCharacterU16 : u16
+{
+  nameStart = 0x6140,
+  nameEnd = 0x6240,
+  anonymous = 0x3A2A
+};
+
+enum controlCharacterU32 : u32
+{
+  endString = 0x63404030,
+};
+
+//////////////// Defining Structs ////////////////
+
+struct header
+{
   char MPT0[4];
   u32 dataSize;
-  u32 startString;
-  u32 endString;
-  u32 numberOfStrings;
+  u32 startStrings;
+  u32 endStrings;
+  u32 numberOfStrings; // it seems like this is accurate *most* of the time, but not always
   u32 start;
   u32 stop;
-  //  std::print("Add = {}",Add(std::mem::read_unsigned(addressof(stop), 2, std::mem::Endian::Little),std::mem::read_unsigned(addressof(start), 2, std::mem::Endian::Little)));
-  u32 offset = Add(start, stop);
-  //  u32 offset = std::math::accumulate(start,stop,1);
-  std::print("{}", std::math::accumulate(start, stop, 1));
+  u32 end;
+  u32 BOF = Add(start, stop); // the sum of the values at Address "start" "stop" point to where the Beginning of the File is
+  u32 EOF = Add(BOF, end);    // the sum of the values at Address "BOF" "end" point to where the End of the File is
+  char idk_yet[while ($ != BOF)];
 };
 
-header header @ 0x0; //[[inline]];
+struct string
+{
+  // std::print("\nCurrent Value @ 0x{:X} = 0x{:X}", $, $[$]);
 
-//fn check(char a) { 
-//  if (a != 0x62) {
-//  std::print("{}","a");
-//  }
-//};
+  controlCharacterU16 [[ hidden ]]; // in our case 0x6140 aka "nameStart"
 
-enum controlCharacter: u8 {
-  newline = 0xA
+  if ($[$] != 0x40) // if not "@", then...
+  {
+    char name[while ($[$] != 0x40)];
+    std::print("{}", name);
+    std::file::write(f, newlineSeparate(name));
+  }
+
+  controlCharacterU16 [[ hidden ]]; // in our case 0x6240 aka "nameEnd"
+
+  if ($[$] == 0x2A) // if "*", then...
+  {
+    char name[3]; // catches 3 characters, in our case "*: "
+    std::print("{}", name);
+    std::file::write(f, newlineSeparate(name));
+  }
+
+  char line1[while ($[$] != 0xA)]; // catches all characters until hitting 0xA aka "newline"
+  std::print("\t{}", line1);
+  std::file::write(f, tabSeparate(line1));
+  controlCharacterU8 [[ hidden ]];
+  if ($[$] != 0x40) // if not "@", then...
+  {
+    char line2[while ($[$] != 0xA)]; // catches all characters until hitting 0xA aka "newline"
+    std::print("\t{}", line2);
+    std::file::write(f, tabSeparate(line2));
+    controlCharacterU8 [[ hidden ]];
+    if ($[$] != 0x40) // if not "@", then...
+    {
+      char line3[while ($[$] != 0xA)]; // catches all characters until hitting 0xA aka "newline"
+      std::print("\t{}", line3);
+      std::file::write(f, tabSeparate(line3));
+      controlCharacterU8 [[ hidden ]];
+    }
+  }
+  controlCharacterU32 [[ hidden ]];
+  padding[while ($[$] == 0xFE)];
 };
 
-// @a = nameStart
-// @b = nameEnd
-
-struct stringTable {
-  controlCharacter cc;
-  char string[
-    while ($[$] != 0xA)];
-  //  char begin[while($[$] != name)];
-  std::print("{}", string);
-  //  std::print("{}",std::format("{:02X}\t{}",addressof(string), string));
-  //  str begin[while($[$] != std::mem::read_string(header.offset,1))];
+struct stringTable
+{
+  string string[[  inline, single_color ]];
 };
 
-stringTable stringTable[header.numberOfStrings] @ header.offset; //[[inline]];
-//stringTable stringTable[5] @ header.offset[[inline]];
+////////////////// Pattern Data //////////////////
+
+header header @0x0; //[[ inline ]]; // Highlights in `Hex Editor` and fills in `Pattern Data` panels
+
+// stringTable stringTable[while ($ != header.EOF)] @header.BOF[[ inline ]];
+
+//////////////// Write *.txt file ////////////////
+
+str newfile = hex::prv::get_information("file_path") + ".txt";
+
+std::file::Handle f;
+
+f = std::file::open(newfile, std::file::Mode::Create);
+
+stringTable stringTables[while ($ != header.EOF)] @header.BOF[[ inline ]];
+
+std::file::close(f);
+
