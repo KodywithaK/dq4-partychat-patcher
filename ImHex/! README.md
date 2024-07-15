@@ -35,7 +35,10 @@
 ### MESS6
 
 ## KNOWN ERRORS
-> - `0xE2939AE2939B` Em dash ( `—` ) interpreted as ( `ⓚⓛ` )
+> - `0xE29387` Musical Note? ( `TBD` ) misinterpreted as ( `Ⓡ` )
+> - `0xE29397...E29398` Left/Right Quote Mark? ( `TBD` ) misinterpreted as ( `ⓗ...ⓘ` )
+> - `0xE2939AE2939B` Em dash ( `—` ) misinterpreted as ( `ⓚⓛ` )
+> - French / `Latin-1 Supplement` script misinterpretting.
 
 ## Glossary
 

@@ -36,6 +36,16 @@ enum controlCharacterU16 : u16
   anonymous = 0x3A2A
 };
 
+enum controlCharacterU24 : u24
+{
+  nameEnd = 0xEC828C,
+};
+
+enum charU24 : u24
+{
+  nameEnd = 0xEC828C,
+};
+
 enum controlCharacterU32 : u32
 {
   endString = 0x63404030,
@@ -54,15 +64,17 @@ struct header
   u32 stop;
   u32 end;
   u32 BOF = Add(start, stop); // the sum of the values at Address "start" "stop" point to where the Beginning of the File is
-  u32 EOF = Add(BOF, end);    // the sum of the values at Address "BOF" "end" point to where the End of the File is
+  u32 EOF = Add(BOF, end);// the sum of the values at Address "BOF" "end" point to where the End of the File is
   char idk_yet[while ($ != BOF)];
 };
 
 struct string
 {
-  // std::print("\nCurrent Value @ 0x{:X} = 0x{:X}", $, $[$]);
+// std::print("\nCurrent Value @ 0x{:X} = 0x{:X}", $, $[$]);
 
-  controlCharacterU16 [[ hidden ]]; // in our case 0x6140 aka "nameStart"
+  controlCharacterU16 [[hidden]]; // in our case 0x6140 aka "nameStart"
+
+////////////////// Latin Script //////////////////
 
   if ($[$] != 0x40) // if not "@", then...
   {
@@ -71,7 +83,7 @@ struct string
     std::file::write(f, newlineSeparate(name));
   }
 
-  controlCharacterU16 [[ hidden ]]; // in our case 0x6240 aka "nameEnd"
+  controlCharacterU16 [[hidden]]; // in our case 0x6240 aka "nameEnd"
 
   if ($[$] == 0x2A) // if "*", then...
   {
@@ -80,31 +92,43 @@ struct string
     std::file::write(f, newlineSeparate(name));
   }
 
+//////////////////// Japanese ////////////////////
+  else if ($[$] >= 0xE3)
+  {
+//    std::print("0x{:X}{:X}{:X}",$[$],$[$+1],$[$+2]);
+    char name[while ($[$ + 2] != 0x8C)]; // catches all characters until 0x8C, in our case "「"
+//    std::print("{}", name);
+    std::warning(name);
+    std::file::write(f, newlineSeparate(name));
+    controlCharacterU24;
+  }
+//////////////////////////////////////////////////
+
   char line1[while ($[$] != 0xA)]; // catches all characters until hitting 0xA aka "newline"
   std::print("\t{}", line1);
   std::file::write(f, tabSeparate(line1));
-  controlCharacterU8 [[ hidden ]];
+  controlCharacterU8 [[hidden]];
   if ($[$] != 0x40) // if not "@", then...
   {
     char line2[while ($[$] != 0xA)]; // catches all characters until hitting 0xA aka "newline"
     std::print("\t{}", line2);
     std::file::write(f, tabSeparate(line2));
-    controlCharacterU8 [[ hidden ]];
+    controlCharacterU8 [[hidden]];
     if ($[$] != 0x40) // if not "@", then...
     {
       char line3[while ($[$] != 0xA)]; // catches all characters until hitting 0xA aka "newline"
       std::print("\t{}", line3);
       std::file::write(f, tabSeparate(line3));
-      controlCharacterU8 [[ hidden ]];
+      controlCharacterU8 [[hidden]];
     }
   }
-  controlCharacterU32 [[ hidden ]];
+  controlCharacterU32 [[hidden]];
   padding[while ($[$] == 0xFE)];
 };
 
 struct stringTable
 {
-  string string[[  inline, single_color ]];
+  string string[[ inline, single_color ]];
 };
 
 ////////////////// Pattern Data //////////////////
@@ -121,6 +145,7 @@ std::file::Handle f;
 
 f = std::file::open(newfile, std::file::Mode::Create);
 
-stringTable stringTable[while ($ != header.EOF)] @header.BOF[[ inline ]];
+// stringTable stringTable[5] @header.BOF[[ inline ]];
+stringTable stringTable[while ($ != header.EOF)] @header.BOF[[inline]];
 
 std::file::close(f);
