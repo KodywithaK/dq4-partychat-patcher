@@ -1,0 +1,1199 @@
+~ It looks like the grappling hook can ~
+~ be attached here. ~
+~ Attach the grappling hook? ~
+~ %0%a000120 attaches the grappling hook. ~
+~ The grappling hook is attached. ~
+*: 
+	Haah... Haah...
+	Two incredibly strong monsters went for the dragon's eyes...
+*: 
+	I think...they're p-probably still
+	inside the tower somewhere.
+*: 
+	Run away fast, before they find you!
+	...Gurgh!
+~ Place the dragon's left eye in the ~
+~ statue's eye socket? ~
+~ %0%a000120 puts the dragon's left eye in place. ~
+~ Place the dragon's right eye in the ~
+~ statue's eye socket? ~
+~ %0%a000120 puts the dragon's right eye in place. ~
+~ There's a lever. Pull it? ~
+~ %0%a000120 pulls hard on the lever. ~
+Slon
+	Huh? Who you are?
+Slon
+	Oh. You are this %a000090 character that great bishop Ladja is speaking of.
+Slon
+	You must not interfere with great mastery that is Ladja! Here I will take you to your death!
+Slon
+	Huh huh huh! You are back again! You are stubborn like the monkey, no?
+Slon
+	You troubled the great Ladja with your presence before, but you are no more than merely irritation.
+Slon
+	You must not interfere with great mastery that is Ladja! Here I will take you to your death!
+Ladja
+	Wa ha ha! I was awaring that you will come when I am awaiting here long enough.
+Ladja
+	You are remembering me?
+Ladja
+	Wa ha ha! Not that I am caring if you do or do not!
+Ladja
+	No, all that matters now is that your strength is put to a test.
+Ladja
+	I see... You have grown somewhat stronger than last time we are meeting.
+Ladja
+	Hm? Why the surprise? Oh! You think you can truly ruin me with such performance, little one?
+Ladja
+	Wa ha ha! I am not such foolish that I am fighting here until you become strong enough to destroy me!
+Ladja
+	Nonetheless, I am realising I should have take your life at the same time I turn Pankraz to ashes.
+Ladja
+	It is surprising to me that you remain with the breath even after I, the great Ladja, am with you fighting.
+Ladja
+	I must reporting to Grandmaster Nimzo immediately.
+Ladja
+	But first perhaps a small recreation...
+	Huh... Wa ha ha ha ha!
+~ A glowing orb is giving off a powerful aura. ~
+~ %0%a000120 finds a dragon orb! ~
+~ %0%a000180 acquires a dragon orb! ~
+~ The dragon's eyes are set into the statue. ~
+*: 
+	How long it has been since we did gaze down upon the world from our heavenly domain!
+*: 
+	Lo, if thou wouldst have us descend, thou canst do so at the touch of a button: the A Button, the B Button or the X Button.
+*: 
+	But have a care! The terrain must be flat %H0860%Xshouldst thou%Yshould you%Z wish Zenithia to descend. %H0860%XThou%YYou%Z must find plains or desert or some such similar surface.
+*: 
+	Behold! My sapling of the Great World Tree, Yggdrasil, still lives!
+*: 
+	Zenithia is saved, thanks be to %H0860%Xthy good self%Yyour good selves%Z.
+	Pray, take this as a gift.
+~ %0%a000120 receives an Yggdrasil sapling! ~
+~ %0%a000180 takes it. ~
+*: 
+	Forsooth, the Great World Tree, Yggdrasil, belongeth on the ground below.
+*: 
+	But the power of Nimzo doth grow more briskly than we feared. The darkness spreadeth apace.
+*: 
+	I believe it wise to nurture Her in this pot for
+	the nonce.
+*: 
+	Tee hee hee!
+	Thank you!
+*: 
+	This is a present for you. Help yourself to some  Yggdrasil dew!
+*: 
+	You can't have more than one drop of Yggdrasil dew at a time. That would be naughty! Tee hee!
+*: 
+	But it heals everyone at once. And you can come back for more after you've used it too.
+*: 
+	So the grappling hook came in useful, then?
+*: 
+	Well, that's good to know.
+*: 
+	When peace still reigned over the world, the Zenith Dragon did look down over His earthly dominion and speak to us thus...
+*: 
+	ⓗHumans are a noble breed.ⓘ
+*: 
+	And with these words, He did vanish and conceal Himself.
+*: 
+	Alack! Who would have foretold the demise of Zenithia centuries later? That it should crash so to the ground?
+*: 
+	Were it not for such a tristful pass ⓚⓛ had
+	Zenithia remained aloft ⓚⓛ the world might
+	still now know peace.
+*: 
+	Thy timing is fortuitous, %a000090.
+*: 
+	A faitour hath been hiding among us.
+	An impostor!
+*: 
+	Dr Agon, you say? Who art thou, and wherefore art thou here?
+*: 
+	There hath been no such name among us Zenithians ere now!
+*: 
+	%0%a000090, it is fortunate indeed that thou hast come at this time.
+*: 
+	Help us interrogate this impostor!
+*: 
+	Dr Agon, you say? Who art thou, and wherefore art thou here?
+*: 
+	There hath been no such name among us Zenithians ere now!
+Dr Agon
+	%0%a000090! I've been twiddling my thumb-diddly-ums waiting for you to come on back. I see you've found the dragon orb.
+Dr Agon
+	I thought it might be a bit trickly-dickly for you, but you've turned out to be the wise and brave folks I was hoping for.
+Dr Agon
+	So, can I take a little peekeroo at the orb, then?
+~ %0%a000090 hands the dragon orb to Dr Agon. ~
+Dr Agon
+	Thankly-dankly-doo, %a000090! I can feel the power starting to swell up inside me already.
+~ Dr Agon grasps the dragon orb and begins ~
+~ to meditate... ~
+*: 
+	I-It cannot be!
+*: 
+	Almighty One!
+*: 
+	I am the Zenith Dragon, master and commander of all that comes to pass in the human realm.
+Zenith Dragon
+	Welcome, kin of the legendary hero.
+Zenith Dragon
+	While I have been living among you humans as one of your own, the delicate balance of peace has once more been disturbed.
+Zenith Dragon
+	The gates to Nadiria have been forced asunder, and the Grandmaster of the Underworld endeavours to ascend into the human world.
+Zenith Dragon
+	But in you lies hope! You alone may be able to check this wretched evil!
+Zenith Dragon
+	And I shall do everything in my power to assist you.
+~ %0%a000120 receives the Zenithian Tintinnabulum! ~
+~ %0%a000180 takes it. ~
+Zenith Dragon
+	Whenever you require my assistance, you need only ring that bell.
+Dr Agon
+	I see... Well what if I said I was going to take it
+	by force?
+Dr Agon
+	No, I suppose a thin slip of a man would be squashed like a slime by a fighting force like you.
+Dr Agon
+	Haaaaah... I guess I'll just have to give up on old orby...
+Zenith Dragon
+	Were it not for your assistance, I would have remained powerless as a human.
+Zenith Dragon
+	I thank you, %a000090!
+*: 
+	That Dr Agon was in truth the Zenith Dragon in human form, truly it did catch me unawares.
+*: 
+	For shame, I did doubt Him and call Him an impostor!
+*: 
+	At long last Zenithia is restored, and the Zenith Dragon rules once more!
+*: 
+	But were it not for you, none of these things would have happened. May mercy shine upon you all!
+*: 
+	What? The Zenith Dragon has come back to life?
+*: 
+	Ha-hah! It's time to fight, then!
+	At last!
+*: 
+	It is as I expected. The Zenith Dragon had adopted the form of a human.
+*: 
+	How He must have toiled in order that He could be restored to His true form, and to His true home of Zenithia.
+*: 
+	No mountain is too high for the Zenith Dragon's mighty wings.
+*: 
+	Rumours abound of an evil shrine that doth besmirch the summit of Mt Azimuth.
+*: 
+	Hurry, lest we be too late!
+*: 
+	The armour that the legendary hero
+	used is right here.
+*: 
+	And if you don't want to come to a sticky end, I'd suggest you keep well away from it, got it?
+*: 
+	Then get out of here!
+*: 
+	You're very defiant for one who should be soulless. Hmph! Then you deserve what's coming!
+*: 
+	What are you doing, loitering about here?
+	The prayer session has begun already.
+*: 
+	Hurry up and get inside.
+*: 
+	Long live the great priest!
+	And long live Mada!
+*: 
+	You seem rather strange. Everyone here should be without a soul, and yet you...
+*: 
+	You really seem like...
+*: 
+	Hmph! I don't like this! You shouldn't be here. How did you get in!?
+Georgie
+	Long live the great priest!
+	And long live Mada!
+*: 
+	Long live the great priest!
+	And long live Mada!
+~ There's no answer. ~
+~ It's just a stone statue. ~
+~ And yet, it's the spitting image of %a001230! ~
+*: 
+	I am Mada.
+*: 
+	I am governing this temple on behalf of the God-King, Korol.
+*: 
+	I cannot see %a000090 with you.
+*: 
+	Where is he? Hurry and bring him to me at once.
+*: 
+	I am Mada.
+*: 
+	I am governing this temple on behalf of the God-King, Korol.
+*: 
+	There you are, %a000090. You probably can see this clear as black and white, but I am your mother.
+*: 
+	Oh, %a000090... How much you have grown since we last met!
+*: 
+	And how much I have wanted to meet with you again over all these years.
+*: 
+	Your father, Pankraz, was always such a serious, tedious man. More of a pawn than a king.
+*: 
+	Which brings me to something I need to say to you.
+*: 
+	Would you care to listen?
+*: 
+	Excellent!
+*: 
+	Do you hereby vow to serve under the God-King, Korol, just as I, your mother, have vowed?
+*: 
+	I knew you would say yes, my boy! Korol will be very pleased, very pleased indeed.
+*: 
+	Then I will bestow a blessing upon you before you meet with the great ruler.
+~ %0%a000120 is cursed! ~
+~ %0%a000180 is cursed! ~
+~ %0%a000180 is cursed! ~
+~ %0%a000180 is cursed! ~
+*: 
+	Wa ha hah! You patzer! You are believing
+	my imposting! Your mother is long ago no
+	part of this world!
+*: 
+	I am great priest, Ferz, serving under the God-King, Korol.
+Ferz
+	I will remove from you the soul, and you will be like every other people here!
+*: 
+	You are right. There is no point in talking of such matters. However...
+*: 
+	What is it? You do not wish to hear such things?
+*: 
+	But you said before that you would listen. What a pity. In this way, you resemble your father.
+*: 
+	If you insist on going against the God-King, Korol...
+*: 
+	Then are you saying you are willing to stand against your own mother?
+*: 
+	If you feel that way, then am I correct in thinking you suspect I am not in fact your mother?
+*: 
+	Hurgh! Wa ha hah!
+	Waaah hah hah hah haaah!
+*: 
+	You see through my imposting very good!
+	You are correct! Your mother is long ago no
+	part of this world!
+Ferz
+	I cannot believe that for me
+	it is already the checkmate.
+Ferz
+	But even you are not enough strong
+	for to defeat God-King.
+Ferz
+	Long live Korol!
+	...Hurgh!
+*: 
+	What's going on!?
+	What's happened!?
+*: 
+	(chatter chatter)
+*: 
+	I s-saw it happen! I saw the great ruler Korol place a curse on that statue.
+*: 
+	And I heard him say something about the legendary hero not being born as long as the statue stayed where it was!
+Georgie
+	Oh! I have no idea what I've been doing all this time!
+Georgie
+	Hey! You look exactly like that lucky statue that was at my house all those years ago!
+Georgie
+	Dear me! I must go home to
+	Mother and Father at once!
+*: 
+	I know something you don't know!
+*: 
+	There's a hidden staircase on
+	the stage that leads down below.
+*: 
+	Thank you so much! You saved our lives. If you hadn't turned up, we would've all been sacrificed!
+*: 
+	Wh-What am I doing here!?
+*: 
+	What's going on!?
+*: 
+	I thought things were going so well when the great Korol took a liking to me and brought me here...
+*: 
+	Hm? You're ssslaves of the great ruler, Korol, aren't you?
+*: 
+	You don't need to anssswer! You have no
+	sssouls, after all, ssso you can't have anything ussseful to sssay!
+*: 
+	Your timing isss perfect, mind you. I'm feeling rather peckish, you sssee.
+*: 
+	You should be plenty to ssstave off the hunger pangsss, though!
+*: 
+	The great ruler, Korol, is currently meditating.
+*: 
+	I don't know who you are, but you'd better not dare to disturb him!
+~ There's a skeleton lying on the floor. ~
+~ %0%a000120 spots some writing next to ~
+~ the skeleton. ~
+~ ⓗTo my dear little sister Maria, ~
+~ I'm afraid my days are numbered. ~
+~ ⓗAll I can hope now...my only hope...is that you alone will be happy.ⓘ ~
+Korol
+	You are surprising me that you ⓚⓛ Snap! ⓚⓛ come
+	thisss far.
+Korol
+	This is meaning that you defeat the queen of my set, the great fighter, Ferz.
+Korol
+	And it seems the meddlesome legendary hero has to my disssmay been ⓚⓛ Snap! ⓚⓛ born.
+Korol
+	Perhaps this is as Grandmaster Nimzo is foretelling.
+Korol
+	But now ⓚⓛ Snap! ⓚⓛ it all comes to the end.
+Korol
+	I dictate the hissstory of the world onwards from this day.
+~ The party members from the wagon are summoned! ~
+Korol
+	So let the endgame begin! Now I will battle the legendary hero and hisss kin!
+Korol
+	Thisss I am not expecting...
+	Perhaps it is what is dubbed destiny.
+Korol
+	It isss just as our god, Grandmaster Nimzo,
+	is predicting!
+Korol
+	Your mother isss in underworld of Nadiria with Grandmaster Nimzo, %a000090.
+Korol
+	If you are wishing to aid her, you must to Nadiria!
+Korol
+	But there you and your kin will be ⓚⓛ Snap! ⓚⓛ destroyed!
+Korol
+	I will nonetheless open for you the
+	pathway to underworld.
+Korol
+	Grandmaster Nimzo!
+	Grant to me my final strength!
+~ Nothing happens! ~
+Korol
+	I am not understanding...
+	This isss incorrect...
+Ladja
+	Ooooh! Ha ha ha! Think you could be ⓗgreat rulerⓘ forever, did you!?
+Korol
+	Yoy! Ladja! For what you do speak to me in such manner!?
+Ladja
+	Ha ha! You still do not comprehend, comrade.
+Ladja
+	You are only ruler for showing, Korol. For to collect together the foolish humans.
+Ladja
+	Now your job is finish.
+Korol
+	Th-Thisss cannot be!
+	G-Grandmaster Nimzo, I implore...!
+Korol
+	Waaargh!
+Ladja
+	Huh. The useless are useless to the end, no?
+Ladja
+	%0%a000090 and friends. Now you should do as you are pleasing.
+Ladja
+	Then you will taste even more
+	strongly the pain in future!
+Ladja
+	Ha ha ha ha hah!
+~ It's the Circle of Life! ~
+~ %0%a000180 acquires the Circle of Life. ~
+~ The Circle of Life has the faint warmth of %a000090's mother! ~
+~ A mysterious voice is coming from the Circle of Life. ~
+*: 
+	%0%a000090...
+	%0%a000090...
+*: 
+	My name is Mada. %0%a000090...
+	Can you hear me?
+Mada
+	Oh! You can hear me! You can hear the voice of your mother at last!
+Mada
+	I can't tell you how much I would love to meet with you and see you all grown up, %a000090!
+Mada
+	But that is something I simply cannot wish for.
+Mada
+	You mustn't come to Nadiria, %a000090.
+Mada
+	Even the legendary hero would not be strong enough to take on Grandmaster Nimzo.
+Mada
+	You have a beautiful wife and children, %a000090. 
+Mada
+	You must forget about your mother now and get on with your own life.
+Mada
+	I won't allow the Grandmaster to enter your world, even if I have to give my life to stop him.
+Mada
+	Now, please go. Your dear wife is waiting for you right there.
+Mada
+	Goodbye, my %a000090...
+~ The statue is suddenly bathed in a gentle light. ~
+%0%a001230
+	Wh-Where am I!?
+%0%a001230
+	How did I end up here?
+%0%a001230
+	Oh! Look at you!
+~ The statue was %a001230 all along! ~
+~ After ten years, %a001230 is finally brought back to life! ~
+Bianca
+	Hah... Ten years as a statue...
+Bianca
+	Thanks ever so much for comin' to my rescue, %a000090.
+Bianca
+	And dear %a001240 and %a001250...
+Bianca
+	I'm so sorry for leavin' you all them years.
+%0%a001240 & %0%a001250
+	Mum!
+*: 
+	I'm sorry to trouble you, Your Majesty, but
+	Prince Albert requests your presence.
+Bianca
+	Don't worry about me, %a000090. Just do what you have to do.
+Bianca
+	We'll be together for good from now on, so a few minutes apart en't goin' to hurt.
+Bianca
+	I love you, %a000090.
+%0%a001240
+	Mum! I, I...
+%0%a001250
+	%O0967%XYou're so beautiful, Mum%YMum's so beautiful%Z!
+%0%a001250
+	I didn't realise %O0960%Xyou knew how to sweet talk such beautiful women, Dad%YDad knew how to sweet talk such beautiful women%Z.
+*: 
+	%0%a001240 and %a001250 have been waiting so long to meet their mother.
+*: 
+	It's so moving, I, I...
+	I think I'm going to cry...
+*: 
+	Everyone in Gotha's over the moon to see Queen %a001230 back safe and sound.
+*: 
+	Your Majesty, King %a000090!
+	Congratulations, sir!
+~ Prince Albert is waiting! Better find out what he wants to say. ~
+Nera
+	You mean I was a stone statue for ten years?
+Nera
+	And you never gave up on me.
+	Thank you, my love, for saving me.
+Nera
+	And my beloved children...
+Nera
+	I'm so sorry you've had to be without your mother all this time.
+%0%a001240 & %0%a001250
+	Mum!
+*: 
+	I'm sorry to trouble you, Your Majesty, but
+	Prince Albert requests your presence.
+Nera
+	Don't worry about me.
+Nera
+	There'll be plenty of time for us.
+	We'll never be apart from now on, I promise.
+Nera
+	I love you so much, %a000090.
+%0%a001240
+	Mum! I, I...
+%0%a001250
+	So %O0967%Xyou come%YMum comes%Z from a really wealthy and important family, then?
+%0%a001250
+	Didn't %O0967%Xyou%Yshe%Z mind leaving to go travelling with %O0960%Xyou, Dad%YDad then%Z?
+%0%a001250
+	I didn't realise %O0960%Xyou knew how to sweet talk such beautiful women, Dad%YDad knew how to sweet talk such beautiful women%Z.
+*: 
+	%0%a001240 and %a001250 have been waiting so long to meet their mother.
+*: 
+	It's so moving, I, I...
+	I think I'm going to cry...
+*: 
+	Everyone in Gotha's over the moon to see Queen %a001230 back safe and sound.
+*: 
+	Your Majesty, King %a000090!
+	Congratulations, sir!
+~ Prince Albert is waiting! Better find out what he wants to say. ~
+Prince Albert
+	Ah-ha! There you are, %a000090, old thing!
+Prince Albert
+	I know it's rotten of me calling you away while you're having a family moment and all that, but...
+Prince Albert
+	Well, there's something I really must ask you.
+Prince Albert
+	So I think I'll just come right out and say it, eh?
+	Straight to the point, if you will.
+Prince Albert
+	%0%a000090, are you planning on going to Nadiria?
+Prince Albert
+	But! No! I mean, you can't!
+Prince Albert
+	I've heard the stories about Queen Mada speaking to you through the Circle of Life, you know.
+Prince Albert
+	You should listen to your mother, and reconsider the whole idea.
+Prince Albert
+	Well, thank Gladys the Goddess for that!
+	Gotha will be safe, then. Tally ho and glory be!
+*: 
+	Your Majesty! Gotha is nothing without you.
+	You'll be staying here from now on, I hope.
+Sancho
+	Friend! No, I mean, señor Majesty...
+Sancho
+	Señor Albert, he ees a wise man.
+	What he esays to you, maybe ees right.
+Sancho
+	But for me, I no forget your father's dying weesh. He ask you to find your mother.
+Sancho
+	So eef you are going esomewhere now, your Uncle Sancho, he go weeth you.
+	Wherever eet ees.
+*: 
+	I've heard talk that the castle known as Zenithia has been resurrected.
+*: 
+	Peace isn't far away now!
+	I'm quite certain of it!
+*: 
+	Everyone in Gotha's over the moon to see Queen %a001230 back safe and sound.
+*: 
+	Your Majesty, King %a000090!
+	Congratulations, sir!
+*: 
+	%0%a001240 and %a001250 have been waiting so long to meet their mother.
+*: 
+	It's so moving, I, I...
+	I think I'm going to cry...
+%0%a001250
+	%O0960%XYour mum would be my grandma, wouldn't she, Dad?%YDad's mum would be my grandma, wouldn't she?%Z
+%0%a001250
+	I'd love to meet my grandma.
+%0%a001250
+	If you think it's for the best, Dad, I'll stay
+	behind here.
+%0%a001250
+	But I'd really like to go with you if you don't mind.
+%0%a001240
+	I'm the legendary hero, aren't I?
+%0%a001240
+	Let's go, then! Let's go and make mincemeat out of all the evil monsters and villains out there!
+%0%a001240
+	That's why I was born.
+	That's my destiny!
+%0%a001240
+	Hey, Dad! You can't just leave me behind!
+%0%a001240
+	Go and speak to that party planner lady, Patty, so I can come along with you.
+Bianca
+	I won't say a word.
+Bianca
+	You should do whatever you feel you have to.
+Bianca
+	There's just one thing I ask of you.
+Bianca
+	Whatever happens and wherever you go, you'll take me with you.
+Bianca
+	I love you, %a000090.
+Bianca
+	Travellin' around with you certainly takes me back, %a000090.
+Bianca
+	Remember that time we went ghost-bustin' as kids? And the time we went to Cataract Caves...
+Bianca
+	Truth is, I was terrified out of my mind most of
+	the time!
+Bianca
+	But it was all okay because you were by my side.
+Bianca
+	Take me with you again, %a000090.
+Nera
+	I wouldn't dream of saying anything.
+Nera
+	You must do what you want to do, my love.
+Nera
+	I trust you, and I'll go with you wherever you say we must go.
+Nera
+	And that goes for the children too.
+Nera
+	I love you so much, %a000090.
+Nera
+	I still can't believe I was a stone statue for all
+	that time.
+Nera
+	And you know what's strange?
+Nera
+	Ever since you saved me and turned me back to normal, I've had this feeling. Like I have some hidden power that I didn't notice before.
+Nera
+	It would make me so happy if I could help
+	you, darling. If I could do something useful
+	with this power.
+Nera
+	I mean, I've been nothing but trouble for you so far, haven't I?
+*: 
+	King %a000090! I've heard the news.
+	Take care, Your Majesty!
+*: 
+	That strange, dark cloud is spreading even further over the sky.
+*: 
+	People say it's the coming of the Grandmaster of the Underworld... I, I don't know if there's any truth in it, but I know I don't like the sound of it.
+*: 
+	Oh, Queen %a001230...
+	Every bit as beautiful as I remember...
+*: 
+	Oh! I, er... No!
+	I... What am I saying?
+*: 
+	Urgh! My head's killing me.
+	That was one glass too many last night.
+*: 
+	Ah, Your Majesty.
+	Please, go ahead.
+Gertrude
+	Father's been so busy looking for %O0960%Xyou%YKing %a000090%Z, he hasn't had any time at all for me, or anything else for that matter.
+Gertrude
+	At least it meant he wasn't nagging at me all
+	the time, though.
+*: 
+	Gotha's lost a lot of people since %O0960%Xyou went missing, Your Majesty%YKing %a000090 went missing%Z.
+*: 
+	My father's one of them. He left and never came back. He was a bit of a legend here in Gotha, you know. A famous craftsman.
+*: 
+	In all honesty, I'd like to go with %O0960%Xyou, Your Majesty%YKing %a000090%Z.
+*: 
+	But there are so few soldiers here at the castle now, we've got our work cut out just making sure the place is secure.
+*: 
+	Gotha's lost a lot of people since %O0960%Xyou went missing, Your Majesty%YKing %a000090 went missing%Z.
+*: 
+	My father's one of them. He left and never came back. He was a bit of a legend here in Gotha, you know. A famous craftsman.
+*: 
+	Actually, I hear %O0960%Xyou and your father%YKing %a000090 and the late King Pankraz%Z used to live in a place called Whealbrook.
+*: 
+	My father used to talk about Whealbrook. He said he wanted to visit the place because it was the home of a beautiful gemstone ore or something.
+*: 
+	What? You say you met a legendary jeweller who cut and polished a rough Whealbrook bluestone
+	you had?
+*: 
+	Then...my father is alive?
+*: 
+	But there's no point deluding myself.
+	I know he's not coming back.
+	He's far too stubborn for that.
+*: 
+	Well two can play at that game! I'm going to stay right here and prove to the old man that I can be better than him!
+*: 
+	Well, well! That's King Pankraz's locket you've got there, isn't it? Made to celebrate his marriage to Queen Mada.
+*: 
+	They say it was his intention to commission an artist from Lofty Peak to paint a portrait of her to put inside.
+*: 
+	Perhaps you should carry out your father's wishes if you can, Your Majesty. I'm sure it would make him very happy.
+*: 
+	Well, well! That's King Pankraz's locket you've got there, isn't it? Made to celebrate his marriage to Queen Mada.
+*: 
+	The portrait of her inside is fantastic.
+*: 
+	It was done by a famous artist who once lived in Lofty Peak, I believe.
+*: 
+	King Pankraz had a locket that was made to commemorate his marriage to Queen Mada,
+	you know. He absolutely treasured it.
+*: 
+	Of course, it had a picture of his beloved wife in it, but there was something else...
+*: 
+	It seemed to have some other special meaning to him.
+*: 
+	Do you really speak the truth?
+	Zenithia is restored to the skies?
+*: 
+	Then it must be that the Dragon God too
+	is resurrected...
+*: 
+	His almighty light shall already be penetrating the dark depths of Nadiria.
+*: 
+	The puissance of the Grandmaster of the Underworld shall already be enfeebled.
+*: 
+	Queen Mada was a Loftinian.
+	That means she came from Lofty Peak.
+*: 
+	I heard Loftinians have the power to slurppress the evil in monsters' hearts and make them goood.
+*: 
+	%O0960%XYou%YKing %a000090%Z can do that too, can't %O0960%Xyou, King %a000090%Yhe%Z?
+*: 
+	Hooray! Queen %a001230 has returned to Gotha!
+*: 
+	Woof! Woof, woof, woof!
+*: 
+	Queen %a001230! Back after ten long years!
+*: 
+	It's such good news, I couldⓚⓛ Hiccup!
+*: 
+	This Nadiria place sounds pretty terrifying if you ask me.
+*: 
+	I've no idea how you'd get there, even if you were mad enough to want to go!
+*: 
+	Hello. I'm Tuppence. It has been my dream to be a castle guard since I was a little boy, you know.
+Tuppence
+	Now it's my dream to accompany the King of Gotha on a mission somewhere! You know, to see a bit of swashbuckling action and all that!
+Tuppence
+	%O0960%XYou were magnificent in battle, Your Majesty!%YKing %a000090 was magnificent in battle!%Z
+	It was an honour to see such a fine example of military expertise.
+Tuppence
+	I hope I added something to the party.
+	Do remember, I'm always here at your
+	beck and call if you need me again.
+Tuppence
+	%O0960%XYou were magnificent in battle, Your Majesty!%YKing %a000090 was magnificent in battle!%Z
+	It was an honour to see such a fine example of military expertise.
+Tuppence
+	I hope I added something to the party.
+	Do remember, I'm always here at your
+	beck and call if you need me again.
+Tuppence
+	Oh, yes! I wanted to show you this. I found it
+	among my father's things. He was a castle
+	guard too, you know.
+Tuppence
+	It's a chess set. Apparently all the soldiers in the castle were completely hooked on it once.
+Tuppence
+	A former chancellor introduced it, I think.
+	The pieces were made by a castle craftsman.
+	He was a bit of a legend, I hear.
+Tuppence
+	But according to my father's last will and testament, the game's infectious. It makes people bone idle.
+	So I've been thinking...
+Tuppence
+	Perhaps you ought to take it so there's no danger of any slacking off again in the future.
+	What do you say?
+Tuppence
+	Excellent! Then it's yours, Your Majesty.
+	With my compliments.
+~ %0%a000120 receives a monster chess set! ~
+~ %0%a000180 takes the monster chess set. ~
+Tuppence
+	Please, Your Majesty!
+	I really think it would be wise if you had it.
+*: 
+	Well! Your Majesty, King %a000090!
+	Could it be that you're planning to grace one of my humble beds with your stately frame?
+*: 
+	What an honour! It's just a tiny little place,
+	really, but I hope you'll have a comfortable
+	night's sleep nonetheless.
+*: 
+	Good morning, Your Majesty!
+	Take care as you go.
+*: 
+	Oh, I see... Well, I shouldn't be surprised,
+	I suppose. My little inn's not really monarch material.
+*: 
+	I used to say I hope the world's a more peaceful place by the time my little boy grows up.
+*: 
+	But do you know what my little angel said to me?
+*: 
+	He said there's no point waiting for peace, because it might never come. We have to make
+	our own peace, he said.
+*: 
+	I just burst into tears, I did.
+Sister
+	Mr Sancho told me of your intentions.
+Sister
+	You're planning on travelling to Nadiria to rescue your mother, aren't you?
+Sister
+	I believe the people of Lofty Peak know the whereabouts of the entrance to the underworld.
+*: 
+	Ahem! Ahem, ahem...
+*: 
+	I don't know if I'll live to see the peace I've been hoping for all these years.
+	Ahem! Ahem, ahem, ahem...
+*: 
+	Ⓡ La la lah... The circles one, two, three, Ⓠ
+	Ⓠ Together they make a key, Ⓡ
+	Ⓡ When a strange door you see... Ⓠ
+*: 
+	That's a song Queen Mada often used to sing, or so I've been told. It's catchy, isn't it?
+*: 
+	Aaargh! The Grandmaster of Nadiria!
+	Come from the underworld to destroy uzzz...
+	Zzz... Zzz...
+*: 
+	Zzz... Zzz...
+*: 
+	Ah! King %a000090!
+	Nothing to report, Your Majesty!
+	Nothing untoward happening here.
+*: 
+	Hello. I'm Tuppence. It has been my dream to be a castle guard since I was a little boy, you know.
+Tuppence
+	Now it's my dream to accompany the King of Gotha on a mission somewhere! You know, to see a bit of swashbuckling action and all that!
+Tuppence
+	%O0960%XYou were magnificent in battle, Your Majesty!%YKing %a000090 was magnificent in battle!%Z
+	It was an honour to see such a fine example of military expertise.
+Tuppence
+	I hope I added something to the party.
+	Do remember, I'm always here at your
+	beck and call if you need me again.
+Tuppence
+	%O0960%XYou were magnificent in battle, Your Majesty!%YKing %a000090 was magnificent in battle!%Z
+	It was an honour to see such a fine example of military expertise.
+Tuppence
+	I hope I added something to the party.
+	Do remember, I'm always here at your
+	beck and call if you need me again.
+Tuppence
+	Oh, yes! I wanted to show you this. I found it
+	among my father's things. He was a castle
+	guard too, you know.
+Tuppence
+	It's a chess set. Apparently all the soldiers in the castle were completely hooked on it once.
+Tuppence
+	A former chancellor introduced it, I think.
+	The pieces were made by a castle craftsman.
+	He was a bit of a legend, I hear.
+Tuppence
+	But according to my father's last will and testament, the game's infectious. It makes people bone idle.
+	So I've been thinking...
+Tuppence
+	Perhaps you ought to take it so there's no danger of any slacking off again in the future.
+	What do you say?
+Tuppence
+	Excellent! Then it's yours, Your Majesty.
+	With my compliments.
+~ %0%a000120 receives a monster chess set! ~
+~ %0%a000180 takes the monster chess set. ~
+Tuppence
+	Please, Your Majesty!
+	I really think it would be wise if you had it.
+*: 
+	Well! Your Majesty, King %a000090!
+	Could it be that you're planning to grace one of my humble beds with your stately frame?
+*: 
+	What an honour! It's just a tiny little place,
+	really, but I hope you'll have a comfortable
+	night's sleep nonetheless.
+*: 
+	Good morning, Your Majesty!
+	Take care as you go.
+*: 
+	Oh, I see... Well, I shouldn't be surprised,
+	I suppose. My little inn's not really monarch material.
+*: 
+	I used to say I hope the world's a more peaceful place by the time my little boy grows up.
+*: 
+	But do you know what my little angel said to me?
+*: 
+	He said there's no point waiting for peace, because it might never come. We have to make
+	our own peace, he said.
+*: 
+	I just burst into tears, I did.
+*: 
+	Arf! Arf, arf!
+Sister
+	Mr Sancho told me of your intentions.
+Sister
+	You're planning on travelling to Nadiria to rescue your mother, aren't you?
+Sister
+	I believe the people of Lofty Peak know the whereabouts of the entrance to the underworld.
+*: 
+	Ah-phew... Ah-phew...
+	Ahem! Phew... Ahem, ahem! Phew...
+*: 
+	Queen %a001230 really is a fine specimen.
+*: 
+	It's hard to believe she's the mother of two kids, with a figure likeⓚⓛ
+*: 
+	Y-Your Majesty!
+	I, er... Ah ha ha hah!
+*: 
+	Ah-phew, ah-phew.
+*: 
+	It's late. Everyone in the castle is resting now.
+*: 
+	I hope you get some rest too, %O0960%XYour Majesty%Y%a000120%Z.
+*: 
+	Do you really speak the truth?
+	Zenithia is restored to the skies?
+*: 
+	Then it must be that the Dragon God too
+	is resurrected...
+*: 
+	His almighty light shall already be penetrating the dark depths of Nadiria.
+*: 
+	The puissance of the Grandmaster of the Underworld shall already be enfeebled.
+*: 
+	Ah-goo... Ah-goo...
+	Lady Mada... Zzz...
+*: 
+	Prince Albert has already retired for the night.
+*: 
+	I hope you get some rest too, %O0960%XYour Majesty%Y%a000120%Z.
+*: 
+	Zzz... Zzz...
+	Don't go... Pleazzze...
+	Zzz... Zzz...
+*: 
+	Ah-phew... Ah-phew...
+	Where could she be...?
+	Queen Mada...
+*: 
+	You're finally a family at last, now that your wife's back home safe and sound, eh, Your Majesty?
+*: 
+	I'll have to cook you all a nice meal to celebrate!
+*: 
+	Everyone in Gotha's over the moon to see Queen %a001230 back safe and sound.
+*: 
+	Your Majesty, King %a000090!
+	Congratulations, sir!
+%0%a001240
+	I'm the legendary hero, aren't I?
+%0%a001240
+	Let's go, then! Let's go and make mincemeat out of all the evil monsters and villains out there!
+%0%a001240
+	That's why I was born.
+	That's my destiny!
+%0%a001240
+	Hey, Dad! You can't just leave me behind!
+%0%a001240
+	Go and speak to that party planner lady, Patty, so I can come along with you.
+%0%a001250
+	%O0960%XYour mum would be my grandma, wouldn't she, Dad?%YDad's mum would be my grandma, wouldn't she?%Z
+%0%a001250
+	I'd love to meet my grandma.
+%0%a001250
+	If you think it's for the best, Dad, I'll stay
+	behind here.
+%0%a001250
+	But I'd really like to go with you if you don't mind.
+Bianca
+	I won't say a word.
+Bianca
+	You should do whatever you feel you have to.
+Bianca
+	There's just one thing I ask of you.
+Bianca
+	Whatever happens and wherever you go, you'll take me with you.
+Bianca
+	I love you, %a000090.
+Bianca
+	Travellin' around with you certainly takes me back, %a000090.
+Bianca
+	Remember that time we went ghost-bustin' as kids? And the time we went to Cataract Caves...
+Bianca
+	Truth is, I was terrified out of my mind most of
+	the time!
+Bianca
+	But it was all okay because you were by my side.
+Bianca
+	Take me with you again, %a000090.
+Nera
+	I wouldn't dream of saying anything.
+Nera
+	You must do what you want to do, my love.
+Nera
+	I trust you, and I'll go with you wherever you say we must go.
+Nera
+	And that goes for the children too.
+Nera
+	I love you so much, %a000090.
+Nera
+	I still can't believe I was a stone statue for all
+	that time.
+Nera
+	And you know what's strange?
+Nera
+	Ever since you saved me and turned me back to normal, I've had this feeling. Like I have some hidden power that I didn't notice before.
+Nera
+	It would make me so happy if I could help
+	you, darling. If I could do something useful
+	with this power.
+Nera
+	I mean, I've been nothing but trouble for you so far, haven't I?
+Sancho
+	Ah-phew... Ah-ph-phew...
+	Why!? Why you leave me, señor Pankraz?
+	Ah-ph-phew... Ah-ph-ph-phew...
+Sancho
+	Ees too esad...
+	Eezzz too zzz...
+	Zzz... Zzz...
+Sancho
+	When I travel weeth you friendⓚⓛ Perdón, My Majesty... I can no help but remember your father, señor Pankraz.
+Sancho
+	I weesh I can eshow to heem how estrong and
+	macho you have become.
+Debora
+	So I was a stone statue for ten years?
+Debora
+	I don't remember much about it.
+	Still, it's by the by now.
+Debora
+	I'm much more shocked at seeing you two again.
+Debora
+	You've grown so big all of a sudden.
+%0%a001240 & %0%a001250
+	Mum!
+*: 
+	I'm sorry to trouble you, Your Majesty, but
+	Prince Albert requests your presence.
+Debora
+	What are you messing around for, %a000090?
+	Hurry up and get going!
+%0%a001250
+	Is it really true that Mum spoke even more harshly in the past?
+%0%a001250
+	You must've been pretty brave to agree to marry her then, Dad.
+Debora
+	I know you're planning on going to Nadiria to rescue your mother, %a000090.
+Debora
+	And that's all well and good, but you've got some nerve making a decision like that without asking me first.
+Debora
+	Have those ten years apart made you forget how our relationship works?
+Debora
+	Looks like I'll just have to stay right by your side from now on and be sure I remind you.
+Debora
+	If you're determined to leave me behind, then I suppose I'll just do as you say.
+Debora
+	But you did promise me once that you'd devote yourself to me.
+Debora
+	And I just don't see how you can be devoted to someone if you're not by their side.
+Debora
+	Plus, there's lots of lost time to make up for, what with me being stuck here. Not to mention having been a statue all those years.
+Debora
+	Got it? Then sort it out so that I can come along with you, okay?
+*: 
+	Welcome to Lofty Peak.
+*: 
+	This is the home of the forgotten ones.
+	Those who the world no longer knows.
+*: 
+	It is you, the progeny of Madalena...
+*: 
+	So many moons it has been since last you
+	visited us.
+*: 
+	I'm travelling around in search of a legendary key that's said to open almost any door in the world!
+*: 
+	According to the legend, it was once owned by a master thief by the name of M. Bezzler.
+*: 
+	What? You've already got it!? Wow!
+*: 
+	So you know the name M. Bezzler, do you?
+*: 
+	I heard about the thief years ago now from someone in Lodestar Harbour.
+*: 
+	But you've heard about him too, eh?
+	Well, that's good to know.
+*: 
+	Let me guide you, %H0860%Xtraveller%Ytravellers%Z.
+*: 
+	You have come here perhaps in the hope of discovering truth and reason.
+*: 
+	Then it is the four Elders of Lofty Peak you seek. They will enlighten you.
+*: 
+	Madalena belonged to us. She was a Loftinian.
+	But the strong power of magic within her was a curse. It's because of this the monsters took her.
+*: 
+	Oh, Madalena! Where are you now?
+*: 
+	Above us is the council chamber of the Elders.
+*: 
+	We of Lofty Peak are the chosen ones.
+	Chosen by the Goddess.
+*: 
+	It's said that once we possessed a great power.
+	The power to transcend to and from the underworld, Nadiria.
+*: 
+	But the Elders are the only ones of us left with any vestige of that power now.
+*: 
+	There was one other among us, by the name of Madalena, in whom the power was still strong.
+	But alas, she is long gone.
+*: 
+	I was against it from the start. I didn't agree with one of our own being married to an outsider.
+*: 
+	How many moons ago must it be now, I wonder...
+*: 
+	There was another traveller who, like you, stumbled across our village. Lost, he was.
+*: 
+	He ended up falling in love with a young woman here, and the two of them left together.
+*: 
+	The young woman was called Madalena.
+	And if my memory serves me correctly, the
+	young man was called Pankraz.
+*: 
+	You wish to know how to enter Nadiria, the underworld? No, no. You must not do this.
+*: 
+	The gateway to Nadiria has been sealed shut for centuries now.
+*: 
+	I once worked as a craftsman in Gotha, you know. My skills were well-known.
+*: 
+	But I left Gotha to follow King Pankraz.
+	Alas, the hand of evil had already...
+*: 
+	No! I still cannot believe it!
+	I refuse to believe King Pankraz is gone!
+*: 
+	I cannot depart from this hope that if I wait here long enough, he will come back with Queen Madalena by his side.
+*: 
+	I once worked as a craftsman in Gotha, you know. My skills were well-known.
+*: 
+	But I left Gotha to follow King Pankraz.
+	Alas, the hand of evil had already...
+*: 
+	No! I still cannot believe it!
+	I refuse to believe King Pankraz is gone!
+*: 
+	I cannot depart from this hope that if I wait here long enough, he will come back with Queen Madalena by his side.
+*: 
+	Oh! Would that be a Whealbrook bluestone you have there?
+*: 
+	I see. Yes, King Pankraz stayed at Whealbrook for a period, did he not?
+*: 
+	Would you like me to cut that stone and polish it up for you?
+*: 
+	Well, I can hardly refuse a request from King Pankraz's own son now, can I?
+*: 
+	Leave it with me, and I shall transform it into something of true beauty.
+*: 
+	I should have it done within a day. Perhaps
+	you could stay at the inn and come back for it tomorrow?
+*: 
+	No? Alright. Well, talking to you has been a great pleasure nevertheless.
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Hm!? Ah! It's been many moons now since I burnt the midnight oil working. My tiredness overcame me.
+*: 
+	I'm sorry to have kept you waiting. Here, this Whealbrook sapphire is for you.
+*: 
+	It would be unrivalled as an exhibit in the
+	knick-knackatory, I have no doubt.
+~ %0%a000120 receives a dazzling jewel! ~
+~ %0%a000180 acquires a Whealbrook sapphire! ~
+*: 
+	King Pankraz was loved not only by his own men of Gotha, but by us craftsmen too.
+*: 
+	There was an artist among us ⓚⓛ now sadly deceased ⓚⓛ who pledged allegiance to King Pankraz and incurred the wrath of the Elders.
+*: 
+	We know of your intentions. We Elders of Lofty Peak know you wish to cross over into Nadiria.
+*: 
+	First you must open the gateway.
+	The gateway in the Estuary Sanctuary cave.
+*: 
+	For many, many moons, the gateway to Nadiria in the Estuary Sanctuary has remained shut.
+*: 
+	There are whisperings in the air about the resurrection of the Zenith Dragon.
+*: 
+	If this is the truth, it explains the serene glow which bathes the world of late.
+*: 
+	The Grandmaster of Nadiria will not be so quick to trespass in our domain now.
+*: 
+	The most ancient of legends tells of mounting the three great circles in the sanctuary...
+*: 
+	And opening the gateway to Nadiria itself!
+*: 
+	This room was Madalena's.
+*: 
+	Something she used to say has remained firmly in my memory...
+*: 
+	She used to say that if light was in your heart, you could never be consumed by darkness.
+*: 
+	Here. I do not know if this will be of any use to you, but I am sure she would have liked you to have this book.
+~ %0%a000120 receives an intricately embroidered book. ~
+~ %0%a000180 acquires ⓗLofty Liltsⓘ. ~
+*: 
+	It is a book of psalms. We of Lofty Peak read from it from an early age. Good luck. May the Goddess protect you.

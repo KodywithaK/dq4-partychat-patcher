@@ -1,0 +1,605 @@
+*: 
+	My doors are open to you, weary %H0860%Xtraveller%Ytravellers%Z.
+*: 
+	Won't you rest here for the night, and recover from your weariness?
+*: 
+	Welcome to Lofty Peak.
+*: 
+	This is the home of the forgotten ones.
+	Those who the world no longer knows.
+*: 
+	You have come to speak with the Elders?
+	But the hour is already late.
+*: 
+	Would you not rest at the inn and return to speak with them in the morning?
+*: 
+	Night-time scares me now.
+*: 
+	If the gates of Nadiria are opened fully...
+*: 
+	...the world will darken in perpetual night!
+~ It's locked from the inside. ~
+~ Maybe it's because of the late hour. ~
+~ %0%a000120 places %a020100 in the bag. ~
+~ The Goddess statue has both arms outstretched, as if waiting to be given something. ~
+~ The Goddess statue is holding %a020100 in its hands. Remove it? ~
+~ %0%a000120 removes %a020100 from the Goddess statue's hands. ~
+~ %0%a000180 acquires %a020100! ~
+~ %0%a000120 places %a020100 in the Goddess statue's hands. ~
+~ But the Goddess statue's hands are already full! ~
+~ Out of nowhere, %H0860%X%a000120 hears%Ythe party hear%Z a voice... ~
+Mada
+	%0%a000090... Already you have found your way to this dark and treacherous place.
+Mada
+	My dear %a000090... You have grown to be bigger and stronger than I ever imagined.
+Mada
+	I will no longer ask you to turn back.
+Mada
+	From now on, I will trust in the powers that
+	you so clearly possess.
+Mada
+	And I will do all I possibly can to be
+	of assistance to you.
+Mada
+	I would like you to accept this gift from me.
+Mada
+	I wish you all the luck in the world,
+	%a000090, my son.
+~ A glittering stone falls at %a000120's feet. ~
+~ It's a sage's stone! ~
+~ %0%a000180 acquires the sage's stone. ~
+*: 
+	Wahoo! Wahoo! I finally turned into a gooman!
+*: 
+	I hope my friend Rocket turns into a gooman
+	soon too.
+*: 
+	(shlurp)
+*: 
+	This is Precaria, the only town in the
+	whole of Nadiria.
+*: 
+	You look pretty young. Bet you were staggrrred to find a town in a place like this, eh?
+*: 
+	The water around here's holy water, you see. Brought here from the human world by the grrreatⓚⓛ Ahem! 'Scuse me. The great Madalena.
+*: 
+	If it wasn't for her, we wouldn't even be here.
+	She saved us from a precarious fate!
+*: 
+	Oooh! We don't often see the likes of yooou around here. Surely you're not from the huoooman world, are you?
+*: 
+	No, that can't be right.
+*: 
+	You're one of us, aren't you? Saved from your monstrous heart by Madalena's suoooper power.
+*: 
+	Yes, you'll make a fine huoooⓚⓛ
+	Ahem! I mean, a fine human.
+*: 
+	I bet you wouldn't believe it looking at me now,
+	but I used to be a wrecktor, you know.
+*: 
+	It was all hellfire and brimstone back then.
+*: 
+	But thanks to Madalena, I'm a balanced,
+	well-rounded individual now.
+*: 
+	A bit too well-rounded if the truth be told.
+	And to think, as a priest, I always thought
+	gluttony was a sin!
+*: 
+	Grandmaster Nimzo lives to the north of Precaria, at the summit of the great Mt Zugzwang.
+*: 
+	He is almighty!
+*: 
+	Even the so-called legendary hero would be powerless in His presence.
+*: 
+	I may be human now, but Grandmaster Nimzo remains my master. I will be loyal to the endgame!
+*: 
+	Strike a light! You went an' found me!
+*: 
+	But that don't mean you're gettin' the treasure
+	I nabbed!
+*: 
+	Oh, fie! Oh, fie!
+*: 
+	Be warned, Zenith Dragon!
+	Nimzo's might does wax daily.
+*: 
+	Forsooth, should it not abate, I fear he will break the seal and transcend the limits of Nadiria into the world above.
+*: 
+	Oh, fie! Oh, fie!
+*: 
+	I don't know how much longer Madalena can continue to keep Nimzo in check.
+*: 
+	The spark of life inside her is growing weaker all the time. That much I do know.
+*: 
+	Something must be done!
+	And quickly!
+*: 
+	What? No, I'm not drinking any booze!
+*: 
+	A sin like that'll turn me back into a monster again, and I'm not going back down that road!
+*: 
+	You want something to drink?
+	Maybe you'd better not.
+*: 
+	Or you'll end up regretting it like the man by the water mill.
+*: 
+	Eee-aw! Do you have any regrets about
+	your life?
+*: 
+	Then you moost have this.
+*: 
+	It's the Annalum Retentium.
+	A book of tales from Precaria!
+~ %0%a000120 receives the Annalum Retentium! ~
+~ %0%a000180 takes the Annalum Retentium. ~
+*: 
+	No? Eee-aw, that moost feel good.
+*: 
+	There was once a man who wanted to
+	become a god.
+*: 
+	But many, many years ago, his evil heart turned him into a monster.
+*: 
+	The holy people of Lofty Peak set out to drive
+	the evil from within him, but it had penetrated his very soul.
+*: 
+	In the end, they were powerless to help him, and he never returned to his human form.
+*: 
+	This place was once the great dungeon of Nadiria, the backbone of the underworld.
+*: 
+	And to the north of here, soaring high into the sky, is the mighty Mt Zugzwang.
+*: 
+	You would be wise to avoid both, unless you enjoy feeling chills run down your spine.
+*: 
+	Ah...welcome.
+	Welcome to the Nadiria T 'n' T board.
+	The reception is upstairs.
+~ No response. ~
+~ It's just a corpse. ~
+*: 
+	I tell thee, good %A0110%Xsir%Z%B0110%Xlady%Z, a great treasure lives on Mt Zugzwang. A treasure benamed the ghoulroarer.
+*: 
+	It is but the conjecture of a long-deceased knight, but I would wager such a ⓚⓛ Clank! ⓚⓛ treasure exists nowhere else in the world.
+*: 
+	GRandmAAaaaster NimzOooo is a greAAAAat god NNnnow, but HeeEEe was oNCE a huUUumaaAN. 
+*: 
+	But doOOn't TeLL anyONe, or yoOU'll be rOtting innn yoOUr GRaaaaaVe beFORE you can SAaay ⓗPUuutriddⓘ.
+*: 
+	............
+~ The rockbomb is surveying the situation... ~
+*: 
+	Baaah! Deeep beneath us, faaar underground, there sleeeps a mighty monster even Grandmaster Nimzo could not defeeeat.
+*: 
+	But now he waaaits in silent meditaaation.
+*: 
+	Unless something teeerrible happens, the gates to his realm will remaaain tightly shut.
+*: 
+	The greeeat Estark is no longer counting sheeep. He is awaaake.
+*: 
+	If you think you have what it taaakes to shear him, go to the swaaamp in the north.
+*: 
+	Who goes there?
+*: 
+	Madalena is offering up a prayer to our exalted Grandmaster Nimzo.
+*: 
+	He who dares disturb her will pay a hefty price!
+*: 
+	%0%a000090... %0%a000090...
+~ The party notice a warm light enveloping them. ~
+Mada
+	Aaah... %0%a000090...
+	You really are here.
+Mada
+	I cannot begin to tell you how much I've longed to see you again, son.
+Mada
+	Not a day has gone by since I was snatched away that I haven't thought about you.
+Mada
+	%0%a000090... You've grown up to be so big
+	and strong.
+Mada
+	Being able to meet with you at last is like a dream come true.
+Mada
+	Now I can die happy.
+Mada
+	%0%a000090... Grandmaster Nimzo's powers are stronger than you could possibly imagine.
+Mada
+	I must do all I can to seal his evil away, even if it means giving my life to do so.
+Mada
+	Almighty Goddess, please hear my prayer!
+Ladja
+	Wa ha ha! I am thinking not! Your duty is the opening of door for great Grandmaster Nimzo.
+Ladja
+	Never minding. It is always extremely touching to observe love of parent for child, after all.
+Ladja
+	So...the time is at last upon us.
+	%0%a000090 and your dear companions...
+Ladja
+	Not to forgetting the cheeky little legendary hero also in our midsts.
+Ladja
+	Here is where all of your sweet dreams are
+	being extinguished.
+Ladja
+	Grandmaster Nimzo is no longer requirementing powers of your mother.
+Ladja
+	So now I am sending parent and child together into eternal world of darkness. It is touching, nyet?
+Ladja
+	Ooh! You foolishly present yourself before me once more, %a000090.
+Ladja
+	Not to forgetting the cheeky little legendary hero also in our midsts.
+Ladja
+	Here is where all of your sweet dreams are
+	being extinguished.
+Ladja
+	Grandmaster Nimzo is no longer requirementing powers of your mother.
+Ladja
+	So now I am sending parent and child together into eternal world of darkness. Is that not sweet?
+Ladja
+	Yoy! It is so heatful!
+	What is meaning of such light?
+Ladja
+	Great bishop Ladja cannot be burning from such light. No! It is not possibly!
+Ladja
+	Waaargh!
+Mada
+	%0%a000090...
+	Hahh... Hahh...
+Mada
+	You really have grown up, haven't you?
+	I can hardly believe your strength.
+Mada
+	I've never been able to do anything for you as a mother until this day.
+Mada
+	Hahh... Hahh...
+	But I hope I will be able to assist you in
+	these final hours.
+Mada
+	Now, step away, my son.
+Mada
+	Almighty Goddess! I beseech you! Hear my prayer!
+Mada
+	I am a divine child of Lofty Peak.
+Mada
+	Dear Goddess! I beg you to take my life so that the evil of Grandmaster Nimzoⓚⓛ
+Mada
+	...So that the...evil...
+	...Nimzo...
+Mada
+	Hahh... Hahh...
+	It's too...much...
+Mada
+	I had no idea... Nimzo has become...so strong...
+	Hahh... Hahh...
+Mada
+	D-Dear Goddess...
+	Please lend me your strength...
+	For the sake of my dear son, %a000090...
+~ Out of nowhere, %H0860%X%a000120 hears%Ythe party hear%Z a voice... ~
+*: 
+	Mada...
+*: 
+	Mada, you may rest now.
+	You have done all you can.
+Mada
+	D-Darling!
+Pankraz
+	It seems our child has become more powerful
+	than us both.
+Pankraz
+	We must leave the future of our children in our children's hands.
+Pankraz
+	Come, Mada.
+	Come to me at last.
+Mada
+	Yes, darling...
+Pankraz & Mada
+	Dear %a000090. We will be watching over you, always.
+Pankraz & Mada
+	Fare thee well, %a000090, our beloved son...
+~ Out of nowhere, %H0860%X%a000120 hears%Ythe party hear%Z a voice... ~
+Mada
+	%0%a000090... Do you hear me?
+	Do you hear the voice of your mother?
+Mada
+	You mustn't set even a foot on the hot lava.
+	Use the aspersorium.
+Mada
+	Then you will be able to proceed to the altar of evil, where Grandmaster Nimzo lies in wait.
+Mada
+	I will no longer try to stop you, my son.
+	%0%a000090, now you must use the aspersorium.
+~ Out of nowhere, %H0860%X%a000120 hears%Ythe party hear%Z a voice... ~
+Mada
+	%0%a000090...
+	Now you must use the aspersorium.
+~ Sф чфц дяз яздcнiиg нзяз дt lдst, lзgзиdдяч нзяф диd дll шнф дccфмpдиiзs шitн чфц. ~
+~ I дм sцязlч kифшiиg tндt чфц дяз дшдяз фf ~
+~ мч idзиtitч. ~
+~ Чзs, I дм Gядиdмдstзя фf Идdiяiд, Kiиg фf Циdзяшфяld... Tнз дlмigнtч Иiмzф! ~
+~ Cфциtlзss чздяs дgф, мч зxistзиcз is bзcфмiиg мфяз pфшзяfцl tнди tнis фf чфця fззblз Gфddзss. ~
+~ Tнз шфяld is дlязadч bзlфиgiиg tф мз. ~
+~ Мч pдшиs ндvз дccфмplisнзd tнзiя dцtiзs. ~
+~ But ифиз фf tнзiя мфvзs дяз nфш iмpфяtдиt. ~
+~ Tнзч шзяз мзяз plдчзяs iи мч gдмз. ~
+~ Fфя I дм cнфsзи bч fдtз. I дм мфяз stяфиg tнди зvзи lзgзиdдяч нзяф фя Gфddзss нзяsзlf. ~
+~ Cфмз диd sзз tнis fфя чфцяsзlvзs. I шill dзмфиstядtз tф чфц pфшзя фf Gфd фf Dдяkизss! ~
+~ Чфц дяз tнз дdмiядblз figнtзяs, lзgзиdдяч нзяф диd дll шнф дccфмpдиiзs шitн чфц. ~
+~ Bцt fфя чфц I ндvз tнз bдd tidiиgs. ~
+~ Ифш it is tiмз fфя чфц tф фbsзяvз мч tяцз pфшзяs iи дll фf tнзiя glфяiзs. ~
+~ Cяч if чфц шill. Scяздм if чфц шill. Чфця sцffзяiиg is дs sдcяificз fфя I, дlмightч Иiмzф! ~
+~ Ифш, blффd фf lзgзиdдяч нзяф шill bз spillзd диd lфst fфязvзя! ~
+~ I дм Gядиdмдstзя фf Идdiяiд... Kiиg фf Циdзяшфяld... Дlмigнtч Иiмzф... ~
+~ H-Hфш it is...pфssiblз...? ~
+~ I cдиифt bз...dзfздtзd... ~
+Zenith Dragon
+	I am the Zenith Dragon, master and commander of all that comes to pass in the human realm.
+Zenith Dragon
+	Legendary hero, %a001240, and your father, %a000090...
+Zenith Dragon
+	It is through the great efforts of you and your family that the world once more enjoys peace.
+	I thank you from the bottom of my heart.
+Zenith Dragon
+	Gee gads! That's enough of all this formal
+	mumbly-jumbly!
+Zenith Dragon
+	Maybe it's because I was a human for such a
+	long time, but I'm tired of all that ceremonious
+	wiffle-waffle!
+Zenithian
+	Almighty One!
+Zenith Dragon
+	Ah ha ha ha diddly ha!
+	What? You don't like me like this?
+	Lighten up, my faithful friends!
+Zenith Dragon
+	Come on now, %a000090.
+Zenith Dragon
+	There's a whole bunch of people just dying to
+	meet up with you again back down on good old terraly-firmaly.
+Zenith Dragon
+	What d'you say I whisk you all down to the ground? I can take you there in a gee-whizz jiffy!
+Zenith Dragon
+	I wouldn't mind reacquainting myself with the old human element myself.
+Zenith Dragon
+	I'll be waiting for you outside.
+	Don't diddly-doodly dally too long!
+~ But the Zenith Dragon is waiting. ~
+*: 
+	No sooner is tranquility restored unto the world than the Zenith Dragon becomes derangⓚⓛ
+*: 
+	No, no. I am quite sure our master has a plan
+	in mind...
+*: 
+	Surely it is not our master's intent to return to his erstwhile human form of Dr Agon?
+*: 
+	Honey says hello to you.
+	She's my friend, you know.
+*: 
+	Sweet joy and candy kisses!
+	The world is at peace once more!
+*: 
+	By the Goddess, these are busy times! Your heroic deeds must be recorded in the annals of history with all haste.
+*: 
+	Behold how the people of the world do revel in their newfound peace!
+*: 
+	And all by dint of your merited fortitude.
+*: 
+	Thanks!
+*: 
+	Tales of all the things you've done will be passed down from generation to generation forever and ever and ever now.
+*: 
+	It's me! The old man from the room behind the fireplace.
+*: 
+	%H0860%XYou%YYou and your friends%Z really are something, eh? I'm seeing you in a completely new light now.
+*: 
+	Glory be to the Almighty One, who guides us in all that we do!
+*: 
+	(slurp)
+*: 
+	We are beholden to you for all you have done, and forever in your debt.
+*: 
+	The Zenith Dragon awaits you.
+	Go, now.
+Zenith Dragon
+	Well howdly-doodly, %H0860%Xfriend%Yfolks%Z! Ready to scootch along down to the ground?
+Zenith Dragon
+	Then climb aboard, %H0860%Xtraveller%Ytravellers%Z, and hold-diddly-old
+	on tight!
+Zenith Dragon
+	Still got some things to be getting on with up here?
+	Okay, just come see me when you're ready to make like a bee and buzz on down below!
+*: 
+	I see... You were able to meet with Madalena, though only once.
+*: 
+	I can well imagine the look of joy on her face at such a long-awaited and happy encounter.
+*: 
+	The people of Lofty Peak hold your mother in the highest regard, %a000090. We are proud to call her our own.
+*: 
+	Though her earthly time has passed, she will live on for evermore in your heart.
+*: 
+	I see... You were able to meet with Madalena, though only once.
+*: 
+	In days gone by, we held Madalena's magical powers in such awe that we confined her to the prayer room above us.
+*: 
+	It was your father, Pankraz, who caused a light to shine in that most revered of hearts.
+*: 
+	We salute your father, %a000090.
+	We thank him from the bottom of our hearts.
+*: 
+	So we were right, Madalena was a great and
+	wise woman.
+*: 
+	For her children and her children's children have saved the world from ruin.
+*: 
+	It is thanks to you that the world now slumbers in peaceful repose. We thank you. We thank you all.
+*: 
+	The blissful serenity at the dawn of peace!
+	How wonderful to feel it at last.
+*: 
+	Our thanks to you, %a000090.
+	And to your father, Pankraz.
+*: 
+	The offspring of two lovers who eloped long ago from Lofty Peak have saved the world...
+*: 
+	What a romantic tale!
+*: 
+	Now that Nimzo, Grandmaster of Nadiria, has been eliminated, the Crocodilopolis too will surely crumble to dust.
+*: 
+	For the slaves of the Order of Zugzwang not lucky enough to have escaped, it will be their final resting place. May they at last know peace.
+*: 
+	Lofty Peak is your home.
+*: 
+	You shall forever be welcome here.
+*: 
+	Welcome to the Lofty Peak armour shop!
+*: 
+	Although...I suppose people won't be needing armour any more, will they? I'll have to change
+	my stock!
+*: 
+	This is the Lofty Peak weapon shop.
+*: 
+	But the days of weapons and fighting are gone now! Peace reigns!
+*: 
+	Ah ha ha ha hah!
+	I knew you could do it.
+	I knew %H0860%Xyou and your friends%Yyou%Z were the ones.
+*: 
+	I see. So we're finally at peace, are we?
+	I never thought I'd see the day.
+	How wonderful!
+*: 
+	How many moons ago must it be now, I wonder...
+*: 
+	There was another traveller who, like you, stumbled across our village. Lost, he was.
+*: 
+	Looking back now, that was the start of all this.
+*: 
+	I swear I'll tell this tale to future generations for as long as the Goddess allows me to.
+~ Leave Lofty Peak and continue on your way? ~
+Harry
+	I never would've guessed it, %a000090!
+	Your son, the legendary hero!
+Harry
+	Talk about being right under your nose, eh?
+	And a chip off the old block he is too.
+Maria
+	Listen to yourself, Harry! You can't say things like that. What about %a001230?
+Harry
+	Oh, yes. Sorry. A chip off the young and beautiful block in your case, %a001230. You're far too good for %a000090. Always were.
+Harry
+	Well, anyway, everyone here in Coburg is delighted that peace has finally been restored.
+Harry
+	And I'm lapping it up, being your closest friend
+	and everything!
+Harry
+	We really do go back a long way, don't we, %a000090? I hope we'll be friends for a lot longer to come too.
+Kendrick
+	Hmph! So %O0968%Xyou're%Y%a001240's%Z the legendary hero, then. That's almost as good as being a prince.
+Kendrick
+	Maybe I should reconsider %O0968%Xyou%Yhim%Z as my lackey, seeing as %O0968%Xyou're%Yhe's%Z so important.
+Maria
+	I see. My brother wrote that on the wall of the Crocodilopolis, did he?
+Maria
+	I know that my brother's soul will be set at rest now that the world is at peace at last. And that's all thanks to you.
+Maria
+	Thank you, %a000090.
+	And thank you, %a001230.
+Maria
+	I haven't seen or heard from my brother since we said goodbye at the Crocodilopolis, but I know he's alive. Somewhere.
+Maria
+	That's what I want to believe, anyway.
+*: 
+	I always knew you were no ordinary fellow from the moment I laid eyes on you.
+*: 
+	Prince Harry has the most amazing friends!
+*: 
+	Meeeow!
+*: 
+	Just look at it!
+	Look at that serene sky!
+*: 
+	How many dozens of years has it been since I could gaze at such a beautiful sky?
+	It's marvellous. Truly marvellous!
+King Wilbur
+	What can I say? Thank you for saving the world!
+King Wilbur
+	On behalf of everyone here in Coburg, I offer my sincerest thanks.
+King Wilbur
+	%0%a000090ⓚⓛ
+	I mean, King %a000090...
+King Wilbur
+	I would dearly love to keep you here longer and hear all about your wonderful exploits.
+King Wilbur
+	But I couldn't deprive the good people of Gotha of their king any longer than necessary.
+	They must be eagerly awaiting your return.
+King Wilbur
+	Take care on your onward journey.
+*: 
+	Thank you, and take care.
+*: 
+	These are Darwin the Psarologist's quarters.
+Darwin
+	I hear the Grandmaster of Nadiria has been defeated, and Zenithia is once more at its zenith,
+	as it should be.
+Darwin
+	Wonderful news. Yes, wonderful news indeed!
+*: 
+	Oh! The legendary heroes!
+	I... Thank you! Thank all of you!
+*: 
+	I suppose it's pretty pointless saying it now, but I really wanted to help out with all that Nimzo-bashing and everything.
+*: 
+	Ah-phew... Ah-phew...
+	Huh? The world's at peace?
+*: 
+	Ah ha ha ha ha-phew...
+	What a wonderful dream!
+	Ah-phew... Ah-phew...
+*: 
+	Thank you, and take care.
+*: 
+	Now you've won peace for us all, we'll fight to the bitter end to keep it!
+*: 
+	It is all as the Goddess intended.
+*: 
+	May you and your family continue to live under Her divine protection.
+*: 
+	Well, well. The world's at peace at last, is it?
+*: 
+	That calls for a good slap-up meal then, I'd say, wouldn't you?
+*: 
+	Yay! We don't have to be afraid of monsters
+	any more.
+*: 
+	I can play outside without having to worry.
+	Even in the evening too. This is ace!
+*: 
+	Thank you, and take care.
+~ Leave Coburg and continue on your way? ~
+*: 
+	Welcome back to Whealbrook!
+*: 
+	Ah, %a000090. I remember the day you left our village with your good father, Pankraz.
+*: 
+	Seems like it was only yesterday.
+*: 
+	No one imagined that the two of you would ever be comin' home.
+*: 
+	But here you are, back with us again today.
+*: 
+	And what better gift could you be bringin' us than the peace you've brought to the world?
+*: 
+	I'm absolutely overjoyed. You're back! %0%a000090 is back! I'm so happy!
+	H-A-P-P-Y! Happy!
+*: 
+	People have finally started to set up home again here in Whealbrook, just like the old days.
+*: 
+	It wouldn't have been possible if the world wasn't at peace again. We can't thank you enough.
+*: 
+	Pankraz and I used to have our fair share of debates, y'know. I knocked him on the head a fair few times too!
+*: 
+	Turns out he was king of some kingdom or other. Now I'm thinkin' I should've been a bit more polite!
+*: 
+	Aah, there'll be a good harvest this year,
+	so there will!

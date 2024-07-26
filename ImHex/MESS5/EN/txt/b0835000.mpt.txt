@@ -1,0 +1,90 @@
+~ Restores at least 30 HP to a single ally. ~
+~ Restores at least 75 HP to a single ally. ~
+~ Restores all HP to a single ally. ~
+~ Restores at least 75 HP to the whole party. ~
+~ Cures a single ally of the effects of poison. ~
+~ Occasionally resurrects a fallen ally with half HP ~
+~ restored. ~
+~ Resurrects a fallen ally to full health. ~
+~ Return instantly to various previously-visited ~
+~ locations. ~
+~ Exit instantly from dungeons, caves, and towers. ~
+~ Generates a holy aura that keeps weaker monsters away. ~
+~ Reveals the nature of the treasure in a chest. ~
+~ Travel with impunity across terrain that would otherwise cause harm. ~
+~ Summons night during day, and day during night. ~
+~ Lifts a curse from a single ally. ~
+~ Reveals which level of a building or dungeon the user is currently on. ~
+~ Lowers the risk of being detected by monsters for a while. ~
+~ Reports the number of nearby treasures. ~
+~ Summons monsters with a whistle. ~
+~ Singes a single enemy with a small fireball. ~
+~ Burns a single enemy with a large fireball. ~
+~ Incinerates a single enemy with an enormous fireball. ~
+~ Singes a group of enemies with a blazing fire. ~
+~ Burns a group of enemies with a blazing wall of fire. ~
+~ Scorches a group of enemies with blazing hellfire. ~
+~ Damages all enemies with a small explosion. ~
+~ Engulfs all enemies in a large explosion. ~
+~ Blasts all enemies with an incredibly violent explosion. ~
+~ Pierces a single enemy with razor-sharp icicles. ~
+~ Rips into a group of enemies with sharp icicles. ~
+~ Lacerates all enemies with a raw volley of rasping ice. ~
+~ Slices through a group of enemies with a small whirlwind. ~
+~ Slices through a group of enemies with a powerful whirlwind. ~
+~ Slices through a group of enemies with a ferocious whirlwind. ~
+~ Calls down lightning on all enemies. ~
+~ Calls down powerful thunderbolts on a group of enemies. ~
+~ Draws on the party's combined power to zap a single enemy. ~
+~ A cursed incantation that sends an enemy to the hereafter. ~
+~ An incantation that sends a group of enemies to the hereafter. ~
+~ Go out with a bang...and have a blast doing it! ~
+~ Makes a group of enemies vanish in a flash of light. ~
+~ Puts a group of enemies to sleep. ~
+~ Puts a group of enemies to sleep...most of the time. ~
+~ Prevents the enemy from using magic. ~
+~ Envelops a group of enemies in illusions. ~
+~ Sends a group of enemies into a state of confusion. ~
+~ Steals MP from a single enemy. ~
+~ Absorbs the MP of an incoming spell. ~
+~ Forms a protective barrier that reflects all spells. ~
+~ Reduces the defence of a single enemy. ~
+~ Reduces the defence of a group of enemies. ~
+~ Raises the defence of a single party member. ~
+~ Raises the defence of all party members. ~
+~ Protects all party members from fire- or ice-based attacks. ~
+~ Doubles the attack power of a single party member. ~
+~ Transform into a fire-breathing dragon. ~
+~ Restores all HP to all party members. ~
+~ Cures all party members of the effects of paralysis. ~
+~ Sacrifice caster's life to resurrect all other party members. ~
+~ Take a chance with Lady Luck! Only she knows what will happen. ~
+~ A fiery breath attack. ~
+~ A fiercely fiery breath attack. ~
+~ A ferociously fiery breath attack. ~
+~ A scorching inferno of burning breath. ~
+~ A chilly breath attack. ~
+~ A chafingly chilly breath attack. ~
+~ A ch-chokingly ch-ch-chilly breath attack. ~
+~ Sacrifice the self to slam the enemy senseless. ~
+~ An attack laced with hidden poison. ~
+~ An attack that induces drowsiness. ~
+~ A debilitating attack that stops the enemy in their tracks. ~
+~ An indiscriminate attack against friend and foe alike. ~
+~ Calls down lightning to strike the enemy. ~
+~ An electrical deluge summoned from Nadiria that strikes all foes. ~
+~ Hurls an electrically charged blade at a group of enemies. ~
+~ Lulls the enemy to sleep with a honey-like exhalation. ~
+~ Poisons a group of enemies. ~
+~ Envenomates the enemy. ~
+~ Paralyses the enemy with a torrid sigh. ~
+~ Save up energy to bolster the next attack. ~
+~ Focus the fighting spirit to strike with redoubled force on the next attack. ~
+~ Lowers the enemy's MP. ~
+~ An infectious step that woos the enemy into tripping the light fantastic too. ~
+~ Blinds the enemy with a bright flash of light. ~
+~ Emits a mysterious glow that helps spells to find their targets more easily. ~
+~ A slobbery lick to make the enemy cower. ~
+~ A booming yell to make the enemy recoil in fear. ~
+~ Become at one with the self to regain strength. ~
+~ Eliminates all magical effects. ~

@@ -1,0 +1,1179 @@
+~ ⓗI can honestly say I've not been so deeply moved since the day I died.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗAaah... Will I ever remember what day it is, will I? ~
+~ ㈡ ~
+~ ⓗAnyway, I had a little chinwag with Sue after the museum closed today. ~
+~ ⓗShe's a grand talker, than wan. And fair as a spring daisy too.ⓘ ~
+*: 
+	Whoever would have thought there'd be a museum in a place like this?
+*: 
+	Mind you, it feels a bit creepy, don't you think?
+*: 
+	I just stumbled upon this place while I was on my travels, you know.
+*: 
+	It's a very grand building, isn't it? If they
+	just had some things on display, this place
+	would be sensational!
+*: 
+	'E's a proper fine buildin' 'e is, en't 'e?
+*: 
+	The place doesn't feel so creepy now there are actually a few exhibits on display, don't you think?
+*: 
+	Well, I wasn't expecting this. There are plenty of things on display, but they're all exactly the same!
+*: 
+	You can start to imagine what people's lives in different places are like when you look at these exhibits, can't you? It's really quite fascinating.
+*: 
+	Apparently all these articles were collected by
+	the curator himself. Personally! He must be quite
+	a man, eh?
+*: 
+	The rarer the exhibits in a museum, the more visitors it attracts. Ⓠ La-la, la-lah! And I say to myself, what a won-der-ful knackatoriiie! Ⓡ
+*: 
+	'E's a proper fine buildin' 'e is, en't 'e?
+*: 
+	Tee hee hee!
+	A museum in the middle of the forest.
+	This is fun!
+*: 
+	The place doesn't feel so creepy now there are actually a few exhibits on display, don't you think?
+*: 
+	You can start to imagine what people's lives in different places are like when you look at these exhibits, can't you? It's really quite fascinating.
+*: 
+	It's rather chic, this place, isn't it?
+	Most unusual for a museum.
+*: 
+	Apparently all these articles were collected by
+	the curator himself. Personally! He must be quite
+	a man, eh?
+*: 
+	Hmm... Yes...
+	Most interesting...
+*: 
+	Such exquisite decor needs to be set off with a truly stunning exhibit, don't you think?
+*: 
+	I don't much like goin' in posh places like what
+	this is. Makes me feel all nervous.
+*: 
+	Tee hee hee!
+	A museum in the middle of the forest.
+	This is fun!
+*: 
+	Can you believe it!? This is where he brings me on our honeymoon!
+*: 
+	These are dangerous times to go travelling.
+*: 
+	I thought if we came here to see the souvenirs from all over the world, it might feel a bit like a grand tour! Do you think the wife's impressed?
+*: 
+	The place doesn't feel so creepy now there are actually a few exhibits on display, don't you think?
+*: 
+	You can start to imagine what people's lives in different places are like when you look at these exhibits, can't you? It's really quite fascinating.
+*: 
+	It's rather chic, this place, isn't it?
+	Most unusual for a museum.
+*: 
+	See that exhibit there? I made that meself, y'know. Pretty impressive, eh?
+*: 
+	'Ang on... Where'd it go?
+*: 
+	That man says he made everything in here.
+	I don't know... Do you think he's telling the truth?
+*: 
+	Apparently all these articles were collected by
+	the curator himself. Personally! He must be quite
+	a man, eh?
+*: 
+	Where's my little boy got to now?
+*: 
+	I suppose he got bored of looking at all these displays and wandered off somewhere.
+*: 
+	Hmm... Yes...
+	Most interesting...
+*: 
+	I've been retired for many a long year now, but it's a comfort to know the work of us craftsmen will be preserved for the young ones to see.
+*: 
+	The articles on display here are simply fascinating. I can't stay away!
+*: 
+	I was trainin' to be a craftsman myself,
+	but I threw in the towel a while back.
+*: 
+	But comin' here and seein' how hard some folk work at stuff, I've decided to give it another bash!
+*: 
+	Upstairs is so packed with people, I can't relax.
+*: 
+	It's far better down here. And the articles they keep hidden away aren't bad, either!
+*: 
+	The way these exhibits have been arranged...
+	It's inspired!
+*: 
+	You get a real sense of conflict between the different pieces, don't you?
+*: 
+	I heard a rumour that %O0960%Xyou%Y%a000090%Z had been appointed curator of this museum, so I came hither to witness it for myself.
+*: 
+	What a thoughtful collection of rare items!
+*: 
+	I don't much like goin' in posh places like what
+	this is. Makes me feel all nervous.
+*: 
+	Tee hee hee!
+	A museum in the middle of the forest.
+	This is fun!
+*: 
+	Can you believe it!? This is where he brings me on our honeymoon!
+*: 
+	I'm sure all these pieces of junk are just wonderful, but where's the beach? And what
+	about the candle-lit dinners, hm?
+*: 
+	Looks like my wife's really enjoying the place, eh?
+*: 
+	I knew this would be a great place for a honeymoon. I can't think of a better start to
+	our life together!
+*: 
+	This really is a fine collection of articles from all walks of life. A tribute to man's potential, don't you think?
+*: 
+	Wow! The place is bustling, isn't it?
+	Everyone seems to love it.
+*: 
+	You can start to imagine what people's lives in different places are like when you look at these exhibits, can't you? It's really quite fascinating.
+*: 
+	My, what a lot of pretty little knick-knacks!
+	It makes you realise what a world we live in.
+*: 
+	Maybe I'll get one o' my prize dishes on display in 'ere if I get famous enough. Wot's that? I'll 'ave to master ⓗoat cuisineⓘ and ⓗcord on blueⓘ first?
+*: 
+	When I grow up, I'm going to make something too. Can I put it on display here?
+*: 
+	Cool! I'm going to be famous!
+*: 
+	Oh, why not? That's not fair!
+*: 
+	These knick-knacks are all so pretty, aren't they?
+*: 
+	I never expected to happen across such a marvellous place on an earthly journey.
+	The Goddess works in mysterious ways.
+*: 
+	For a civilisation to create such finely-crafted, beautiful works of art...
+	Hmm. Interesting, most interesting.
+*: 
+	I've been retired for many a long year now, but it's a comfort to know the work of us craftsmen will be preserved for the young ones to see.
+*: 
+	I really can't decide which artefact I should purchase for my little precious back home.
+	Maybe I'll just buy the lot!
+*: 
+	Look at all these beautiful items! I feel a poem coming on... There once was a curator called %a000090...
+*: 
+	Good, good! I'm glad to see my country's been properly represented.
+*: 
+	With our speciality on display here, we should see a few more tourists visiting!
+*: 
+	I wish someone would give me a pretty little
+	trinket sometime.
+*: 
+	'E's a proper posh place this, but them things on display is all right funny stuff.
+*: 
+	Tee hee hee!
+	A museum in the middle of the forest.
+	This is fun!
+*: 
+	It's not even a proper museum, you know! I mean, look at all these weird exhibits. This is the worst honeymoon I've ever had!
+*: 
+	Nothing makes me happier than seeing my new wife with a smile on her face!
+*: 
+	I knew this would be a great place for a honeymoon. I can't think of a better start to
+	our life together!
+*: 
+	Everything in here looks pretty weird if you ask me. What's that about, eh?
+*: 
+	I mean, who'd bother going to the effort of making funny stuff like this? And how'd it get to be famous anyway, eh?
+*: 
+	Wow! The place is bustling, isn't it?
+	Everyone seems to love it.
+*: 
+	You can start to imagine what people's lives in different places are like when you look at these exhibits, can't you? It's really quite fascinating.
+*: 
+	My, what a lot of peculiar little knick-knacks!
+	It makes you realise what a world we live in.
+*: 
+	Never seen that one before!
+*: 
+	I's always thought musli-eums woz stuck-up nonsenses. But 'e's got a fair ole dollop o' normal thingjiggamies in 'ere.
+*: 
+	These knick-knacks are all so interesting,
+	aren't they?
+*: 
+	A gent told me about this place as he was waiting for me to mix his dry Gigantini the other day.
+*: 
+	For a civilisation to create such unusual works of art... Hmm. Interesting, most interesting.
+*: 
+	I've been retired for many a long year now, but it's a comfort to know the work of us craftsmen will be preserved for the young ones to see.
+*: 
+	People don't 'alf make some funny stuff, eh?
+*: 
+	Look at all these odd items! I feel a poem coming on... There once was a curator called %a000090...
+*: 
+	Do you think I look funny coming to a museum dressed like this?
+*: 
+	Hmph!
+*: 
+	Hee hee! But I look cute too, don't I? Right?
+*: 
+	Hmm. This has been a bit of an eye-opener. I see now that there's room for improvement in my work. I need to hone my skills.
+*: 
+	I don't feel right goin' in a place as posh as this.
+*: 
+	Tee hee hee!
+	A museum in the middle of the forest.
+	This is fun!
+*: 
+	My husband brought me here on our honeymoon, can you believe?
+*: 
+	It's a bit scary, isn't it? But they say the curator fought monsters to get all these things, you know.
+	He sounds like a wonderful man!
+*: 
+	My wife won't stop asking questions about the curator. I'm starting to wonder if she wishes she'd married him!
+*: 
+	Maybe this wasn't such a good choice for a honeymoon destination after all...
+*: 
+	Well! I wasn't expecting a museum full of sinister, ill-omened exhibits.
+*: 
+	But it was worth seeing. I found a certain beauty amongst all the sinisterness, if the truth be known.
+*: 
+	Wow! The place is bustling, isn't it?
+	Everyone seems to love it.
+*: 
+	You can start to imagine what people's lives in different places are like when you look at these exhibits, can't you? It's really quite fascinating.
+*: 
+	Museums are just childish frivolity at times like these really, aren't they?
+*: 
+	See that exhibit there? I made that meself, y'know. Pretty impressive, eh?
+*: 
+	'Ang on... Where'd it go?
+*: 
+	You wouldn't believe how far I've come to visit this museum. Just look at my clothes. They haven't stood up to the journey very well, have they?
+*: 
+	These knick-knacks are all so frightening,
+	aren't they?
+*: 
+	Wot d'ya reckon? This place is full o' dodgy characters, eh? I wouldn't like to be the boss,
+	I can tell ya!
+*: 
+	For a civilisation to create such terrifying works of art... Hmm. Interesting, most interesting.
+*: 
+	I don't feel comfortable around that man over there. I'd steer clear of him if I were you. I know
+	I'm going to!
+*: 
+	Hwa ha ha ha hah! One fine day will see the whole world overrun with such objects of terror!
+*: 
+	This place is a treasure trove!
+	Look at this 'ere! And that!
+	Heh heh! It's all good stuff!
+*: 
+	Hmm... I almost feel as if there's a dark
+	aura emanating from these exhibits.
+	No, I... I must be imagining it.
+*: 
+	I, I didn't expect this to be on display here!
+	I d-don't know that I like it!
+*: 
+	Really! Wouldn't something else look better exhibited here?
+*: 
+	Hah hah! Amateurs often struggle a bit at the start, but a proper expert like me can instantly sort the diamonds from the crystals.
+*: 
+	If you need to know what anything's worth,
+	I don't mind giving you a few pointers.
+*: 
+	Just pop whatever you're curious about up on that pedestal, and I'll go over it for you.
+*: 
+	You've filled the whole place up with desert roses!
+*: 
+	You must have a lot of time on your hands. Mind you, that's not something I'd know about. We experts are always busy, you see.
+*: 
+	Have you put a chocolate medalliyum on every pedestal in the museum? It smells like a sweet shop
+	in here!
+*: 
+	Of course, they're pretty much worthless. But still, it's not a bad effort I suppose, for an amateur. Good for you.
+*: 
+	I see you've filled the whole place up with
+	ships in bottles.
+*: 
+	You must enjoy making fun of your visitors, eh, displaying the same item on every pedestal!
+*: 
+	Well, I don't mind. I'm quite partial to a good ship in a bottle. Er, as long as it's well-made, of course.
+*: 
+	Ah, a fine example of a Whealbrook sapphire, if I'm not mistaken!
+*: 
+	And people say you can't find good quality items these days. This is a fine gem. Large and shiny.
+	What more could you want?
+*: 
+	Well, that's what most people would tell you.
+	But I've got plenty of gems that outclass this one.
+	Back at the house, you know.
+*: 
+	A Zizzwizz Pillow from Roundbeck,
+	if I'm not mistaken.
+*: 
+	They're very famous, of course, but why people put any value on something you can get for free is beyond me!
+*: 
+	Hm. What's this?
+	What a grubby tea set!
+*: 
+	I suppose there's something to be said for the craftsmanship that's gone into it perhaps, but...
+	I don't know.
+*: 
+	Isn't anyone employed to polish
+	the exhibits around here?
+*: 
+	Ah! The famous tea set from Uptaten Towers.
+*: 
+	Yes, it's splendid. Of course, you have to insist on quality these days. The set I use at home is... Yes, I'd say it's even a little better than this one.
+*: 
+	Good Goddess! The Crown of Count Uptaten!
+*: 
+	You only find quality like this in the region of Uptaten. It's an absolutely wonderful piece.
+*: 
+	I'd say it's rather valuable too. I'll have to order a crown of similar stature for my collection. Don't like to be outdone, you know!
+*: 
+	What on earth's that? It's just a blooming branch, isn't it?
+*: 
+	There's certainly something rather enigmatic
+	about it, but still, a branch is a branch. It doesn't have any value.
+*: 
+	What? It's a sprig of blossom from a village full of faeries? Don't be absurd! There's no such thing as faeries. It's just a branch.
+*: 
+	Ah, the beautifully formed marital organ of Coburg. Yes, it was made by one of Coburg's
+	finest craftsmen.
+*: 
+	I know because he also made the exquisite timepiece I have in the hallway at home.
+*: 
+	Oh dear! Look at this empty setting. It looks like the money ran out before the jewel could be set in place. What a shame, it really rather spoils it.
+*: 
+	Oh, yes! A fine organ! And the gem set into it is absolutely stunning.
+*: 
+	It pains me to say that I can't compete. I don't have anything like this at home.
+*: 
+	I'll have to whip my craftsman into action and get him to knock up something better that'll knock your socks off!
+*: 
+	Oh yes, that's one of the rather crude images the sisters of Heaven's Above Abbey make as charms for travellers.
+*: 
+	I don't mean to be rude, of course. I'm sure they work very hard at them. They're just rather, well...shabby, aren't they?
+*: 
+	Oh good, I'm glad you agree. I don't believe in the Goddess and all that divine guidance mumbo-jumbo.
+*: 
+	Oh! What, you think it's got some value, do you?
+	Then you'd better keep it safe. The Goddess comes to help Her believers...or so I've heard.
+*: 
+	Isn't that the slime curio from the Old Curiosity Shop in Fortuna?
+*: 
+	Yes, I had someone make me a similar thing once, but it just didn't have the same ⓗje ne sais quoiⓘ...
+*: 
+	I'd pay three hundred thousand gold coins for that any day of the week. No, every day of the week! You're a lucky %A0110%Xfellow%Z%B0110%Xlady%Z.
+*: 
+	One of Lodestar Harbour's famous
+	ships in bottles, eh?
+*: 
+	Judging by the detail on the ship, it must have been made by a fairly skilled craftsman. It's probably worth a reasonable amount of gold.
+*: 
+	Dearie me! A terrorcrow!
+*: 
+	What were they thinking, making such a
+	terrifying scarecrow?
+*: 
+	The people of Hay must've had a frightful pest they needed to scare off to come up with that. It's worthless, I'm quite sure. Impressively worthless!
+*: 
+	Oh, that stuff's the best! Zoomshine's absolutely legendary, you know.
+*: 
+	It tastes so good, just looking at it gets your mouth watering.
+*: 
+	I'll have to send someone over to Zoomingale to order a case for the house.
+*: 
+	Oooh, honey buns! They're made by a famous pastry chef in the Mostroferrato region, I believe.
+*: 
+	They're absolutely delicious, but they are just sticky buns when all's said and done. They're not worth much.
+*: 
+	Ah, the so-called ⓗscintillating sinterⓘ bath crystals of Stockenbarrel.
+*: 
+	It's famous as a treatment for exhaustion.
+	It totally rejuvenates you. Yes, it's shot up in
+	price recently, you know.
+*: 
+	Mind you, that's because I bought up the entire stock. But it was worth it, I feel as fit as a fiddle every morning now.
+*: 
+	I believe that's a desert rose from the queendom of Helmunaptra, isn't it?
+*: 
+	Anyone can pick up one of them if they just wander around in the desert for a while.
+*: 
+	I admit it's rather mystifying how the sand forms the rose pattern like that, but they're all over the place. They're two to a gold coin.
+*: 
+	That must be one of those chocolate medalliyums that are on sale at King Dominicus's Dominion.
+*: 
+	They're just run-of-the-mill souvenirs really. Not worth anything more than what you pay for them.
+*: 
+	The story goes that a long time ago there was a king who decided to scatter these maxi medals around the world in a sort of treasure hunt game.
+*: 
+	But they were so big, they were an absolute doddle to find, so he decided to melt them all down and make them into mini medals instead.
+*: 
+	So you don't see many of these maxi medals any more, I can tell you. I certainly don't have one. It must be very valuable.
+*: 
+	Oh, yes. One of these is a must if you go hiking in the mountains. It's a Batten binnacle, you know.
+*: 
+	It's a tough trek up to Battenberg. I equip every single member of my staff with one of these, you know. Hang the expense, I say!
+*: 
+	This comes from the Gotha region, I believe.
+	It's a monster chess set, if I'm not mistaken.
+*: 
+	You come across all manner of boards, from the second-rate to the sublime, but this is one of the better examples.
+*: 
+	Yes, it's about on a par with my set at home, I should think. Well nearly, anyway. Hah hah hah.
+*: 
+	Oh, yes. The intricate, almost gaudy, decoration... This can only be the ⓗLofty Liltsⓘ from Lofty Peak.
+*: 
+	I can't say it appeals to me, but some people go mad about it.
+*: 
+	I'd say it's worth quite a bit.
+*: 
+	What's that? Surely a little sapling like that isn't worth anything, is it?
+*: 
+	Really? You'll have to enlighten me, then. I'm almost dying with curiosity.
+*: 
+	No, I didn't think so. It'd be a bit of a shock to learn that puny saplings could fetch good money.
+*: 
+	I'm sure I'm way off here, but is that a genuine Yggdrasil sapling?
+*: 
+	Well! I didn't expect that! You're full of surprises, aren't you?
+*: 
+	I thought maybe it was plastic or something.
+	You don't see such a valuable piece of greenery
+	on display in a museum like this every day!
+*: 
+	Ha ha ha! No, you wouldn't expect to see an Yggdrasil sapling in a dingy old museum like this, would you?
+*: 
+	I mean, even I don't own one of them.
+*: 
+	Oh, is that what they call a faerie quill?
+*: 
+	The plumage looks incredibly well-made. Almost real, even. Obviously it's manufactured though, isn't it?
+*: 
+	Impressive. Naturally, my craftsmen make things like this all the time, but it's still very impressive.
+*: 
+	You're trying to tell me it's real? I don't know about that. Perhaps you'd like to prove that to me sometime, hm?
+*: 
+	Who on earth would illustrate something
+	so creepily?
+*: 
+	What? It's from a town in Nadiria?
+	You mean, the underworld!?
+*: 
+	Ha ha ha! Very funny. But you'll have to try harder than that to fool me, I'm afraid.
+*: 
+	I didn't think so. Someone's just been having a bit of fun doodling, haven't they? It is creepy, though. Really creepy.
+*: 
+	Goodness! Isn't that a copy of the
+	Scuttlebutt Alledger?
+*: 
+	Hah hah hah! And you think that's something to put on display in the museum?
+*: 
+	My staff use that kind of thing as scrap paper! It's not good for anything more than that!
+*: 
+	No? Well anyway, it's utterly worthless.
+	You'll be laughed off the premises if you put something like that on display.
+*: 
+	That's the Forget-me-Knot flag you get for staying a certain number of nights in the Knot Welcome Inne, isn't it?
+*: 
+	It's interesting as a piece of craftsmanship, but it's completely worthless. I've got a mountain of
+	them at home.
+*: 
+	Is that a tusk-tusk tusk inkwell? And did I get
+	the right number of ⓗtusksⓘ? It's extremely valuable, you know.
+*: 
+	They say it has unusual powers too. On account of some ancient production method known only to
+	the people of Northminster.
+*: 
+	Of course, no one really knows if it really does or not. Have special powers, I mean.
+*: 
+	Is that some kind of musical instrument?
+	That may be what people call the ghoulroarer.
+*: 
+	What? If you whirl it around, it makes the sound of people screaming?
+*: 
+	How ridiculous!
+*: 
+	Ah, a locket. And judging by the design, I'd say it belonged to Princess Mada.
+*: 
+	Hah hah hah! Surprised? I attended her wedding, you see. That's how I know.
+*: 
+	But there should be a picture that goes in it, you know. I wonder what happened to it.
+*: 
+	Well! That's Queen Mada of Gotha's locket.
+*: 
+	A Gothan craftsman put his heart and soul into making this for King Pankraz and Queen Mada's wedding.
+*: 
+	And the picture's inside, as well.
+	Wonderful! An absolutely wonderful piece!
+*: 
+	Well, well. Where on earth did you come across this fine-looking trophy?
+*: 
+	Once you've set eyes on it, you just can't draw yourself away, can you?
+*: 
+	What? It's from Nadiria?
+	I had no idea they had such fine things. I wonder what you have to do to get residence there.
+*: 
+	There have been a lot of shady characters coming and going, but no incidents to report as yet.
+*: 
+	Nothing to report!
+Old Man Nick Knack
+	Oh, 'tis %H0860%Xyerself%Yyerselves%Z, is it? Thanks to %H0860%Xyou%Yyouse%Z, we've a load more visitors now.
+Old Man Nick Knack
+	Here's yer share o' the admission profits.
+~ %0%a000120 receives five hundred gold coins! ~
+Old Man Nick Knack
+	Don't be lazin' off now, though. There's always room fer more, y'understand?
+Old Man Nick Knack
+	What? Ye've not come complainin' that I didn't give ye a fair share o' the profits, have ye?
+Old Man Nick Knack
+	Well if ye're gonna be cnawvshawlin' at me, I'll have me gold back again!
+~ %0%a000120 has the five hundred gold coins snatched back! ~
+Old Man Nick Knack
+	Ye can complain once ye've earned the right to...
+	and not before!
+Old Man Nick Knack
+	The place is fair black with visitors now, ye know. The numbers are really startin' to go up.
+Old Man Nick Knack
+	Here. This is yer share o' the admission profits.
+~ %0%a000120 receives one thousand gold coins! ~
+Old Man Nick Knack
+	Ye'll attract different sorts o' folk if ye try arrangin' the displays in different ways,
+	ye know.
+Old Man Nick Knack
+	Maybe ye should have a think about that and start movin' a few things around, eh?
+Old Man Nick Knack
+	I don't know what to do. That peculiar fella on the top floor just won't go home.
+Old Man Nick Knack
+	Maybe he's thinkin' o' stayin' here the night,
+	d'ye think?
+Old Man Nick Knack
+	Zzziiizzz...
+	Zzzoozzz...
+*: 
+	Ah-phew... Ah-phew...
+	I've got...ten of thozzz...at my houzzz...
+	Ah-phew... Ah-phew...
+Sue Veneer
+	But surely y'already know everytin' about that, don't ye?
+Sue Veneer
+	It's a toff's tea seⓚⓛ
+	Oops! I mean, a posh tea set.
+Sue Veneer
+	Well, silverware's a bit pricey. It's the sort of thing ye'd find in a castle or the like, I should think.
+Sue Veneer
+	The tea set? Y'already have it, ye daft eejit.
+Sue Veneer
+	Although, is it just me, or does it look like it's been neglected a wee bit?
+Sue Veneer
+	A blooming branch!? I did hear sometin' about a special branch that was always in bloom or sometin' like that...
+Sue Veneer
+	I thought ye told me ye had one yerself once.
+	Have ye forgotten it somewhere, have ye?
+Sue Veneer
+	A crude image? Of the Goddess, ye mean?
+Sue Veneer
+	I did hear about an abbey somewhere where the nuns spend all day makin' images o' the Goddess
+	while they pray.
+Sue Veneer
+	A Zizzwizz Pillow?
+	They're mighty comfortable.
+	I'm a total convert.
+Sue Veneer
+	Now where in the world did I lay me hands on my one? Honest to the Goddess, I can't remember. It must've been an inn, I s'pose, bein' a pillow an' all.
+Sue Veneer
+	Oh, ye'd put the fear o' the Goddess in people with a terrorcrow like that! It's awful scary, so it is.
+Sue Veneer
+	Whoever made it must've been havin' a terrible time of it in the fields.
+Sue Veneer
+	ⓙTis the local brew of Zoomingale, that.
+	I've heard talk about it often enough, but I've never actually seen it meself.
+Sue Veneer
+	The good folk of Zoomingale treat it like gold dust, so they do. Ye can only lay yer hands on it if ye know someone from there, or so I hear.
+Sue Veneer
+	I don't know what in the world this is.
+	It's a strange-looking thing, isn't it? Probably sometin' to do with one of yer friends, I should think.
+Sue Veneer
+	Isn't that that nice marital organ?
+	I thought y'already had that, didn't ye?
+Sue Veneer
+	I don't know, though. 'Tis a wonderful knick-knack, but I just feel like there's sometin' missin'.
+Sue Veneer
+	That's from Fortuna, isn't it? I'm dead curious about it meself. I wonder if they wouldn't sell ye one there.
+Sue Veneer
+	The Scuttlebutt Alledger? Now allegedly, it's kept in an inn where folk like to get together fer a chinwag, but I don't know the truth of it.
+Sue Veneer
+	The red and white honey buns?
+	Surely ye don't need to ask me about them.
+Sue Veneer
+	They were a gift at yer weddin', %a000090, remember? When ye married %a001230? They're a speciality of Mostroferrato.
+Sue Veneer
+	I heard they started sellin' ships in bottles in some town by the sea recently. Where was it now?
+Sue Veneer
+	A desert rose? Phew! That's a bit romantic now,
+	isn't it?
+Sue Veneer
+	They're mighty hard to come by, so I hear.
+	Ye have to take lodgin's in some inn in the
+	middle o' the desert, apparently.
+Sue Veneer
+	Scintillating sinter? They used to sell it in a spa town up in the mountains, ye know.
+Sue Veneer
+	But it's murder to get hold of now. No one's sellin' it at all at all. I s'pose someone must still have some,
+	but I don't know who.
+Sue Veneer
+	A chocolate medalliyum? They look like mini medals,
+	so there's only one place ye'd go to buy them now, isn't there?
+Sue Veneer
+	A Forget-me-Knot flag?
+Sue Veneer
+	Knot? Isn't that the name o' the famous inn at the foot o' those tall mountains?
+Sue Veneer
+	A Batten binnacle? They were ever so famous before, ye know.
+Sue Veneer
+	But the fella who used to make them's no longer about, and they're pretty rare now.
+Sue Veneer
+	A monster chess set? I'm sorry, I don't know much about them meself.
+Sue Veneer
+	I don't know much about that meself.
+	But it looks mighty precious if y'ask me.
+Sue Veneer
+	It's some kind of locket, is it?
+	'Tis ever so beautifully made.
+Sue Veneer
+	But it's a wee bit sad, isn't it?
+	I mean, there's no picture in it or anytin'.
+Sue Veneer
+	A tusk-tusk tusk inkwell?
+	I'm not so familiar with them meself.
+Sue Veneer
+	I hear folk use the tusks of the tusk-tusk monster that lives in the north to make inkwells.
+	That's all I know about it.
+Sue Veneer
+	ⓗLofty Liltsⓘ? I expect it's a collection of prayer songs and poems and the like, isn't it?
+Sue Veneer
+	It must be an almighty holy place where they put sometin' like that together.
+Sue Veneer
+	A Whealbrook sapphire? 'Tis one of me favourite knick-knacks.
+Sue Veneer
+	I think ye have to find the rough stone first, an' then give it to a craftsman who can cut it and polish it an' all that stuff.
+Sue Veneer
+	The Crown of Uptaten? Uptaten's a sad place
+	from what I hear. 'Twas overrun by monsters,
+	so they say.
+Sue Veneer
+	It'd be a nice gesture to the Count and Countess to have the crown on display here in the museum.
+Sue Veneer
+	A faerie quill? Ye can imagine a scholar usin' sometin' like this in a faerie palace or some such place.
+Sue Veneer
+	An Yggdrasil sapling? That's one knick-knack I'd like fer meself. If they really exist, that is.
+Sue Veneer
+	It's not the sort o' thing ye'll find many folk with.
+Sue Veneer
+	An Yggdrasil sapling? Y'already have yerself one o' these, don't ye?
+Sue Veneer
+	But I don't know... Shouldn't ye be nurturin' it and helpin' it to grown an' that?
+Sue Veneer
+	The Annalum Retentium? I've never seen it meself,
+	so I can't tell ye much about it really.
+Sue Veneer
+	I think it was written as a kind o' warnin' or sometin'. 'Tisn't the kind o' souvenir ye'd expect to pick up in a normal town, if y'ask me.
+Sue Veneer
+	I'm sorry. I don't know the first thing about that. 'Tisn't like anytin' ye'd find in this world, if y'ask me.
+Sue Veneer
+	I can't tell ye much about that knick-knack,
+	other than that ye'd probably be mighty happy
+	if y'owned it.
+*: 
+	Haaa...
+~ A heavy sigh echoes through the room. ~
+*: 
+	Haaaaaaaaa...
+~ An extremely heavy sigh echoes through the room. ~
+*: 
+	Ha-haaaaaaaaaaaaaaaaaa...
+~ An almighty sigh sets the rafters shaking! ~
+~ ⓗWelcome to %0%a000090's Knick-knackatory, boasting the world's finest collection of arts and crafts from far and wide! ~
+~ ⓗPlease respect the other visitors, and speak quietly while on the premises.ⓘ ~
+~ The treasure chest must be full of Old Man Nick Knack's most precious things. ~
+~ Better leave it be. ~
+Old Man Nick Knack
+	Well 'tis fine to see all the pedestals with sometin' on them, so it is.
+Old Man Nick Knack
+	But variety's the spice o' life, so they say. The visitors'll be bored to death by this lot. I'm startin' to wonder if that isn't how I died meself.
+*: 
+	Hello there. I bet you've come to relax in the water, eh?
+*: 
+	Just mind you dun't go soakin' too much.
+*: 
+	Wouldn't want to pass out, eh?
+*: 
+	Ooh! It's the lovely Bianca!
+	Come for a bath, have you, darlin'?
+*: 
+	Hello there, Bianca. It be a pleasure to see you lookin' so happy, so it be.
+*: 
+	There's no need to worry about that old father of yours. You just stick by your husband and go where he goes.
+Bianca
+	Thanks for that. It reminds me of talkin' to Mum, talkin' to you. Ha ha!
+*: 
+	It's a relief that our Bianca found a nice fella like you to get wed to.
+*: 
+	I dun't have any kiddies of me own, so I think of her almost like me own daughter.
+*: 
+	That old dad of yours is lookin' much better just lately, Bianca.
+Bianca
+	That's a relief. It's good to know I can go off travellin' thanks to good folk like you back home lookin' after him.
+*: 
+	En't you that ole friend of Bianca's?
+*: 
+	You mustn't go puttin' her in too much danger, d'you hear?
+Whitey
+	Oh! You're back!
+Whitey
+	D'you know, it was such a relief when the pair of you got married that it was like some kind of miracle cure for me!
+Whitey
+	I hope you'll both be very happy together.
+Whitey
+	Hello there, %a000090.
+	Bianca not with you today?
+Whitey
+	I'm a bit anxious to see my little girl's face, y'know. Tell her to come and see me, eh?
+*: 
+	Well, well! If it en't the fella who married Bianca! %0%a000090, en't it?
+*: 
+	You lucky young devil. She's a real catch. A bit feisty, mind you, but a lovely lass.
+Bianca
+	Hey! Watch your mouth, old man! I'm right here, you know!
+*: 
+	There's a chap called Whitey livin' at the far end of the village. That daughter of his is a real beauty.
+*: 
+	What I'd give to be able to marry that one! My right arm at the very least!
+*: 
+	Eh!? Oh! B-Bianca! It's you! S-Sorry!
+Whitey
+	Ah-phew...
+*: 
+	Hello there. I bet you've come to relax in the water, eh?
+*: 
+	Just mind you dun't go soakin' too much.
+*: 
+	Wouldn't want to pass out, eh?
+Nera
+	Oh dear! I wouldn't want you to pass out, darling. Don't soak for too long, will you?
+Nera
+	...%0%a000090?
+%0%a000090
+	............
+*: 
+	Hello there, young lady. Come for a bath, have you? Right this way! Heh heh heh!
+*: 
+	You're a friend of Bianca's, en't you?
+*: 
+	She's not here at the moment, I'm afraid.
+	She's always out and about durin' the day.
+*: 
+	Come to see Bianca, have you?
+*: 
+	She's not here at the moment, though. You'll have to come back of an evenin'.
+*: 
+	Ooh! You're the lovely girl from Mostroferrato, en't you? Tell that husband of yours I said hello.
+Whitey
+	(cough cough)
+	Well! If it en't %a000090!
+Whitey
+	Seein' you standin' there really reminds me of your poor old dad, Pankraz.
+Whitey
+	If only we could turn back the clock, eh?
+Whitey
+	(cough cough)
+	Hello there. And who might you be?
+Whitey
+	If it's my Bianca you've come to see, maybe you could come back tonight, eh? She's at work durin'
+	the day, see.
+*: 
+	There's a chap called Whitey livin' at the far end of the village. That daughter of his is a real beauty.
+*: 
+	What I'd give to be able to marry that one! My right arm at the very least!
+Bianca
+	Hello, %a000090! Good to see you!
+Bianca
+	That weddin' of yours really was amazin', you know.
+Bianca
+	I'm sure Pankraz would've bin lookin' down from above with a smile.
+Bianca
+	Hello, Nera! Nice to see you!
+Bianca
+	It must be hard on you travellin' about all the time. I'm sure you're doin' fine, though.
+Whitey
+	(cough cough)
+	Well! If it en't %a000090!
+Whitey
+	Seein' you standin' there really reminds me of your poor old dad, Pankraz.
+Whitey
+	If only we could turn back the clock, eh?
+Whitey
+	(cough cough)
+	Hello there. And who might you be?
+Whitey
+	If it's my Bianca you've come to see,
+	she's just in the next room.
+*: 
+	Hey! That's a desert rose you've got there. Wow! I've been after one of those for ages!
+*: 
+	I don't suppose I could have yours?
+*: 
+	Blimey! Thanks a lot, mate! Here, I'll give you some of the world-renowned scintillating sinter in return.
+~ %0%a000120 receives some scintillating sinter! ~
+~ %0%a000180 acquires some ~
+~ scintillating sinter! ~
+*: 
+	Yep, there's nothing prettier than a desert rose.
+*: 
+	It's all the better now because it gives you a taste of the outside world, holding somethin' so exotic.
+*: 
+	Well, that's a disappointment. I was planning on giving you some scintillating sinter in return, as well...
+King Wilbur
+	Ah, hello there! What a pleasure to see you!
+	I've been hearing all about you from that brother of mine.
+King Wilbur
+	I've been having my people look into this matter of the legendary hero for you. Sort of as a means of repaying my debt, you know.
+King Wilbur
+	Now, they've managed to learn that the shield used by this legendary hero currently resides in a town called Mostroferrato.
+King Wilbur
+	Oh! You have it already! I might've known you'd be on the case, %a000090!
+King Wilbur
+	I'm sure you'll succeed in finding the legendary hero.
+Harry
+	Well, well, well! It's %a000090! How wonderful to see you, old friend! Married life going well, is it?
+Harry
+	Marvellous! Well, you did marry a beauty, after all! ...Er, just like my Maria, of course.
+Harry
+	So now you have your partner in life, and it's finally time for you to set about finding the legendary hero.
+Harry
+	I wish I could go with you, but I have Maria
+	to think about.
+Harry
+	Still, hopefully you'll drop in from time to time and keep us posted, eh? It can get a bit boring being stuck here in the castle all the while.
+Harry
+	By the way, I don't think you've had one of our souvenir marital organs yet, have you?
+Harry
+	Remember my old room?
+	Go and have a look inside the chest there.
+Harry
+	Ha ha! I know you're only saying that because you're embarrassed to admit you're loving it!
+~ %0%a000120 examines the treasure chest. ~
+~ It's empty! ~
+~ But there seem to be some letters carved on the bottom. %0%a000090 begins to read. ~
+~ ⓗI was too embarrassed to say this to your ~
+~ face, %a000090, so I thought I'd write it ~
+~ here instead. ~
+~ ⓗThere's not a day goes by even now when I don't spare a moment to remember your father. ~
+~ ⓗDuring our time as slaves, I always had an urge to make it up to you, the fact that I'd lived when he died. ~
+~ ⓗIt was that urge that took me through each day and helped me survive that awful time. ~
+~ ⓗI don't imagine there's anything in my power I can do to assist you in your quest for the legendary hero. ~
+~ ⓗBut it's my sincere hope that ruling this kingdom wisely and protecting my people will be of some help to you in some way or other. ~
+~ ⓗYou'll always be my lackey, %a000090... Ha ha ha! No, you'll always be my dear friend.ⓘ ~
+Harry
+	Hm? You couldn't find the wedding souvenir in the treasure chest?
+Harry
+	Ha ha ha! You're just as easy to trick as you
+	ever were!
+Harry
+	Very well. I'll give it to you properly this time.
+~ Harry proffers a beautifully crafted marital organ! ~
+~ %0%a000090 receives the marital organ! ~
+~ %0%a000180 acquires the marital organ! ~
+Harry
+	We actually intended to have a jewel set in the lid, but we couldn't find anyone able to do it.
+Harry
+	Anyway, it's great to see you. You should relax and stay a while now you've come all this way.
+Harry
+	So now you have your partner in life, and it's finally time for you to set about finding the legendary hero.
+Harry
+	I wish I could go with you, but I have Maria
+	to think about.
+Harry
+	Still, hopefully you'll drop in from time to time and keep us posted, eh? It can get a bit boring being stuck here in the castle all the while.
+Maria
+	It's lovely to see you again, %a000090.
+Maria
+	All Harry ever talks about just lately is the time he spent travelling with you.
+Maria
+	I don't mind hearing his tales, but it's funny to see how men love their adventures so much.
+*: 
+	What's a man to do, eh? I ran away from Coburg when things took a turn for the worse, you see.
+*: 
+	So now I'm stuck because I can't possibly go back to soldierin' after doin' a runner like that.
+*: 
+	Sounds like it's all back to normal over in Coburg.
+	I wonder what fixed everythin'.
+*: 
+	I'm an old friend of Whitey who used to run the inn. I came back after all these years to pay him a visit.
+*: 
+	But I'm told he had problems with his health so he sold up and moved to a village in the mountains far across the sea from here.
+*: 
+	I was hoping to see that daughter of his again. What a shame!
+Bianca
+	Hey! It's me! Bianca!
+*: 
+	Beggar me! So it is! What a surprise!
+	Haven't you grown, dear?
+Bianca
+	Dad's doin' just fine too. He's much better now since movin' to somewhere more peaceful.
+*: 
+	Well, that's good to hear. This place meant
+	a lot to him, didn't it?
+*: 
+	I was a bit worried that it might be too hard on him, havin' to give it up like that.
+*: 
+	But it's bin a relief seein' you and hearin' that all's well. Send him my regards next time you see him, eh?
+*: 
+	I'm an old friend of Whitey who used to run this place. I came by to pay him a long overdue visit.
+*: 
+	But I'm told he had problems with his health so he sold up and moved to a village in the mountains far across the sea from here.
+*: 
+	I was hoping to see that daughter of his again. What a shame!
+*: 
+	Eh? You're a friend of Bianca's, are you?
+*: 
+	And Bianca and Whitey are both keepin' well? That's good to hear!
+*: 
+	Now I can breathe a big sigh of relief. I'll have to pop over to that Stockenbarrel one of these days and pay them a visit.
+*: 
+	My old man and I bought this place from a man called Whitaker...ooh, seven years back now, it was.
+*: 
+	It was obvious it had been well-maintained,
+	so it was clearly a good buy.
+*: 
+	Why dun't you stay the night? We've got a special offer on at the moment where you get a souvenir if you stay two nights or more!
+*: 
+	Make sure you come and see me after two nights stayin' here, won't you?
+*: 
+	Hm? You've stayed two nights already?
+	What a good customer you are!
+*: 
+	Then I must give you one of our famous grape-scented Roundbeck Zizzwizz Pillows!
+~ %0%a000120 receives a Zizzwizz Pillow! ~
+~ %0%a000180 acquires a Zizzwizz Pillow! ~
+*: 
+	Make sure you come and see me after two nights stayin' here, won't you?
+	I'll give you a special memento.
+*: 
+	Hm? You've stayed two nights already?
+	What a good customer you are!
+*: 
+	Then I must give you one of our famous grape-scented Roundbeck Zizzwizz Pillows!
+~ %0%a000120 receives a Zizzwizz Pillow! ~
+~ %0%a000180 acquires a Zizzwizz Pillow! ~
+*: 
+	My old man and I bought this place from a man called Whitaker...ooh, seven years back now, it was.
+*: 
+	It was obvious it had been well-maintained,
+	so it was clearly a good buy.
+Bianca
+	Oh! Sorry, %a000090. Did I wake you?
+Bianca
+	It's just, I've bin thinkin' a lot
+	about things in the past.
+Bianca
+	It's not that I'm feelin' sad or nothin'. That's all done and dusted now, I know that.
+Bianca
+	Um, can I come over to you, %a000090?
+Bianca
+	I want you to know...
+	I love you.
+Bianca
+	Don't be mean! I'm comin' anyway.
+*: 
+	Sounds like all's well over in Coburg again.
+*: 
+	Now I can start up my tradin' there again with no worries. Mind you, the trip between here and there could be a bit hairy.
+*: 
+	I'm an old friend of Whitey who used to run this place. I came by to pay him a long overdue visit.
+*: 
+	But I'm told he had problems with his health so he sold up and moved to a village in the mountains far across the sea from here.
+*: 
+	I was hoping to see that daughter of his again. What a shame!
+Bianca
+	Hey! It's me! Bianca!
+*: 
+	Beggar me! So it is! What a surprise!
+	Haven't you grown, dear?
+Bianca
+	Dad's doin' just fine too. He's much better now since movin' to somewhere more peaceful.
+*: 
+	Well, that's good to hear. This place meant a lot to him, didn't it?
+*: 
+	I was a bit worried that it might be too hard on him, havin' to give it up like that.
+*: 
+	But it's bin a relief seein' you and hearin' that all's well. Send him my regards next time you see him, eh?
+*: 
+	I'm an old friend of Whitey who used to run this place. I came by to pay him a long overdue visit.
+*: 
+	But I'm told he had problems with his health so he sold up and moved to a village in the mountains far across the sea from here.
+*: 
+	I was hoping to see that daughter of his again. What a shame!
+*: 
+	Eh? You're a friend of Bianca's, are you?
+*: 
+	And Bianca and Whitey are both keepin' well? That's good to hear!
+*: 
+	Now I can breathe a big sigh of relief. I'll have to pop over to that Stockenbarrel one of these days and pay them a visit.
+*: 
+	Good heavens! You're goin' off in search of the legendary hero!? Are you sure that's wise?
+*: 
+	Actually, I seem to remember hearin' some talk about the legendary hero over in Roundbeck long ago.
+*: 
+	That's where that old friend of yours, Bianca, lived. I wonder how she's doin' now.
+*: 
+	Oh! Goodness me! The two of you were married, you say?
+*: 
+	Then this lovely thing with you
+	must be Bianca herself!
+Bianca
+	That's right, sister! Long time no see. %0%a000090 and I are travellin' the world together now.
+*: 
+	Lovely! How wonderful that you have someone to help fill the gap that Pankraz left, %a000090.
+*: 
+	I do hope you manage to find your mother soon too. I'll be prayin' for you.
+*: 
+	I knew you were jokin'. If he's part of legend already, then he's probably already dead, after all.
+*: 
+	This used to be a beautiful village back in the day.
+*: 
+	But then those soldiers came from Coburg and burnt the place to the ground.
+*: 
+	It's unforgivable! Unforgivable, I tell you! It's all Pankraz's fault, that poor prince goin' missin'!
+*: 
+	Er, forgive me. I seem to have got a bit carried away.
+*: 
+	You must be wonderin' what in the world I'm on about, not knowin' Pankraz and all.
+*: 
+	Good heavens! You're goin' off in search of the legendary hero!? Are you sure that's wise?
+*: 
+	Actually, I seem to remember hearin' some talk about the legendary hero over in Roundbeck long ago.
+*: 
+	That's where that old friend of yours, Bianca, lived. I wonder how she's doin' now.
+*: 
+	Oh! They sold up the inn and moved to the mountains, you say? Dear me. It must have been a trial for poor Bianca.
+*: 
+	Ah, and who's this lovely young
+	thing by your side?
+*: 
+	Ooh! You got married, %a000090!
+*: 
+	Lovely! How wonderful that you have someone to help fill the gap that Pankraz left, %a000090.
+*: 
+	I do hope you manage to find your mother soon too. I'll be prayin' for you.
+*: 
+	I knew you were jokin'. If he's part of legend already, then he's probably already dead, after all.
+Mystic Mridula
+	Kah ha ha ha hah!
+	I am mystic-mystic Mystic Mridula. And I don't like this person who is leading your party.
+Mystic Mridula
+	If you are giving to me a man of my liking, I will gladly look into a crystal ball, poke my finger in dirty tea leaves, whatever you are wanting...
+Mystic Mridula
+	Kah ha ha hah! Welcome to Mystic Mridula's super-duper fortune-telling mumbo-jumbo bonanza!
+	You wanna give it a go, no?
+Mystic Mridula
+	Okey-dokey! You're such a handsome cookie,
+	I'll do it for free!
+Mystic Mridula
+	Hmm... Yesss... It is for some good sir or madam that you are looking, no?
+Mystic Mridula
+	I am seeing such a very, very long-long road you must travel. You will be needing more nice peoples in your party.
+Mystic Mridula
+	Oh... You are saying that you want to find your own way? Kah ha ha hah! Be my guest! Ka ha ha ha hah!
+Mystic Mridula
+	Kah ha ha ha hah!
+	I am mystic-mystic Mystic Mridula. And I don't like this person who is leading your party.
+Mystic Mridula
+	If you are giving to me a man of my liking, I will gladly look into a crystal ball, poke my finger in dirty tea leaves, whatever you are wanting...
+Mystic Mridula
+	Kah ha ha hah! Welcome to Mystic Mridula's super-duper fortune-telling mumbo-jumbo bonanza!
+	You wanna give it a go, no?
+Mystic Mridula
+	Okey-dokey! You're such a handsome cookie,
+	I'll do it for free!
+Mystic Mridula
+	Hmm... Yesss... It is for some good sir or madam that you are looking, no?
+Mystic Mridula
+	I am seeing such a very, very long-long road you must travel. You will be needing more nice peoples in your party.
+Mystic Mridula
+	Oh... You are saying that you want to find your own way? Kah ha ha hah! Be my guest! Ka ha ha ha hah!
+*: 
+	Hello there. I bet you've come to relax in the water, eh?
+*: 
+	Just mind you dun't go soakin' too much.
+*: 
+	Wouldn't want to pass out, eh?
+Debora
+	Well, he certainly doesn't know who he's talking to, does he?
+Debora
+	As if you'd go passing out just because of some hot water, eh, %a000090? ...%0%a000090?
+%0%a000090
+	............
+Bianca
+	Hello, Debora! Good to see you.
+Bianca
+	It must be hard on you travellin' about all the time. I'm sure you're doin' fine, though.
+*: 
+	Hey, man. Peace, and welcome to the Knot Welcome Inne! We've got some kinda offer-type thing goin' on right now.
+*: 
+	Hey, man. Peace, and welcome to the Knot Welcome Inne!
+Granny Knot
+	Yo, man. I'm Granny Knot and I suppose you could say I own this place here.
+Granny Knot
+	Y'know, people live among nature and then they return to the ground.
+Granny Knot
+	Every one of us only gets one chance at life, so you may as well make sure it's a gas. Have a cool journey now.
+*: 
+	We're havin' some kinda offer thing right
+	now to encourage more folk to chill out and stay over.
+*: 
+	People who stay in groups of four get a special gift or somethin' hip like that.
+*: 
+	So if you're here as a group of four, lemme know, huh? Friendship rules!
+*: 
+	Huh? You already stayed here as a
+	group of four?
+*: 
+	That's chillin', man! Then I guess I'd better give you my very own hand-made Forget-me-Knot flag.
+~ %0%a000120 receives a Forget-me-Knot flag! ~
+~ %0%a000180 acquires a Forget-me-Knot flag! ~
+*: 
+	Easy, man! See ya next time.
+*: 
+	That special offer of ours was a blast. It's all done and dusted now.
+*: 
+	Peace. If you head on over north from here, I guess you'll come to Gotha eventually.
+*: 
+	You have to climb over some pretty high mountains on the way, though. Tough work, huh?
+*: 
+	If you're thinkin' of doin' it, you should try to take a rest here first. Just chill, man!
+*: 
+	It's kind of a shame that the last of
+	the Forget-me-Knot flags have just run
+	out with you.
+*: 
+	I was thinkin' of gettin' some pals together and stayin' at the inn to get one myself, y'know.
+*: 
+	I'm a travelling nun. May I ask if you're planning on travelling to Gotha from here?
+*: 
+	I was there not long ago, and I must say there was a rather sinister feeling in the air.
+*: 
+	Do be careful if you're heading that way.
+*: 
+	Granny Knot's son was gooing crazy with the old needle and thread until just recently.
+*: 
+	All you could hear from him was ⓗOuchⓘ and ⓗAarghⓘ. (slurp) He was really noisy.
+*: 
+	Hey, man. Peace, and welcome to the Knot Welcome Inne! We've got some kinda offer-type thing goin' on right now.
+*: 
+	Hey, man. Peace, and welcome to the Knot Welcome Inne!
+Granny Knot
+	Zzzz... Zzzz...

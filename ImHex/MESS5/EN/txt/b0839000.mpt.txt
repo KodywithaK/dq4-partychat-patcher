@@ -1,0 +1,21 @@
+~ There's a minigame that can be played with the stylus. Give it a goo? ~
+~ %0%a000120 doesn't appear to have a high score yet. It's, it's really very upsetting. %A0110%XHis%Z%B0110%XHer%Z b-bottom lip st-starts to w-w-w-wobble... ~
+~ %0%a000120 reads the explanation on the board: ~
+~ ⓗIt's time to Bruise the Ooze, and sock it to the slimes that poke their pointy heads out of the eight apertures! ~
+~ ⓗThree types of sloppy slimes will be taking cheeky peeks at you from their hidey-hole hoozes. ~
+~ ⓗThere are boring old blue slimes, run-of-the-mill red slimes and super-slick, lickgooty-split silver slimes! ~
+~ ⓗAt each level of the game you'll have to stretch yourself and whack the three types of wobblies in a different order. ~
+~ ⓗWatch the four panels above the holes and bop the blobs in turn as their pictures plop up. ~
+~ ⓗFail to jab the jelly jinxes in the right order, and the rockbomb will roll your way, so brace yourself for...ka-BOOM! ~
+~ ⓗOnce your time's up, you looze. Game over! ~
+~ ⓗIf you muddle through without missing a single slime, you get a goo at a bonus level too. So, try to top the high scores, and...bruise that ooze!ⓘ ~
+~ %0%a000120 achieved a score of %a001490. Gloopendous! That puts %A0110%Xhim%Z%B0110%Xher%Z in the high score table! ~
+~ And %A0110%Xhe%Z%B0110%Xshe%Z picks up a bonus to boot! ~
+~ %0%a000120 achieved a score of %a001490. Oh, blubber! That doesn't put %A0110%Xhim%Z%B0110%Xher%Z in the high score table. ~
+~ Wow! %0%a000120 picks up a bonus! ~
+~ There's a minigame that can be played with the stylus. Give it a goo? ~
+~ %0%a000120 wins %a000840 %a010100! ~
+~ %0%a000120 wins %a040100! ~
+~ %A0110%XHe%Z%B0110%XShe%Z proudly puts %A0110%Xhis%Z%B0110%Xher%Z winnings in the bag. ~
+~ This is no time to be playing games! There's some serious thinking to be getting on with. ~
+~ The Bruise the Ooze game seems to be out of action at the moment. ~

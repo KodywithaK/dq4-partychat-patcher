@@ -1,0 +1,1203 @@
+%0%a001250
+	I wonder what kind of potential she's talking about.
+	There are so many different kinds.
+	Hundreds and hundreds, potentially...
+Sancho
+	Een these displays, thees señora esees the potential of the mankind.
+Sancho
+	Sí, eshe ees a very eshrewd señora.
+Bianca
+	It is bustlin', that's for sure. Shame we en't chargin' an entrance fee, eh?
+Nera
+	It's a wonderful feeling seeing all these people who've made such an effort to come and see the exhibits we've put on display, isn't it?
+%0%a001240
+	It seems like ages ago now that this place was just a cobwebby old place with nothing in it.
+%0%a001250
+	It's such a great feeling to see all these people here.
+Sancho
+	Look at all these señores and señoras!
+	Eet, eet makes me eso happy!
+	Sí, ees a great knick-knackatory.
+Tuppence
+	I bet Old Man Nick's as chuffed as cheese!
+Bianca
+	We have got quite a collection goin' now, eh?
+	Just goes to show how many places we've bin to.
+Nera
+	It's travelling with you that made me realise how wonderful the world we live in is.
+%0%a001240
+	All of the rooms look different once you put a few knick-knacks in them, don't they?
+%0%a001250
+	I like pretty little knick-knacks too.
+	They're my favourite.
+Sancho
+	You have the eye for beauties, sí, friend?
+	Ees a good idea to make the displays like thees.
+Tuppence
+	Well everyone likes to gaze on something pretty,
+	don't they?
+Bianca
+	It could be fun havin' different foods on display.
+	Hmm, not sure they'd age very well, mind!
+Nera
+	Papa always says that good food needs more than a good flavour to become a haute cuisine speciality.
+Nera
+	It needs that little something more...
+%0%a001240
+	Those paellas Sancho makes should be on display here. They're amazing!
+%0%a001250
+	I'll be first in line to try some of whatever it is he cooks if it ever does end up being on display here. 
+Sancho
+	I no like to clack my own castanets, but my cooking ees esometheeng especial, no? You like my paella, sí?
+Tuppence
+	Do men who can cook attract the ladies?
+	Perhaps I ought to don an apron once in a while.
+Bianca
+	I seem to remember sayin' it was my dream to run an inn, back when I was her age.
+Nera
+	Perhaps that little girl will grow up to be an accomplished artisan.
+%0%a001240
+	Maybe I should try making something too.
+%0%a001250
+	I wonder what sort of thing she has in mind.
+	It'd be great if we could put something of hers on display for her, wouldn't it?
+Sancho
+	These dreams, they, they are eso important.
+	They eshape the man you become een the future.
+Sancho
+	You must hold your dreams close to
+	your heart.
+Tuppence
+	Sounds like the little girl's got quite a future ahead of her!
+Bianca
+	Everyone's welcome here, no matter what the purpose of their journey is.
+Nera
+	The knick-knackatory is a good place for people to have a rest, I suppose.
+%0%a001240
+	I hope more and more travellers come by here and look at all the things we've put on display.
+%0%a001250
+	It doesn't matter if people plan to come here or just stumble on the place. The more the merrier.
+Sancho
+	Ees good eef the travellers, they can have the siesta here too, no?
+Tuppence
+	Ah, yes. You can't beat finding a good place to catch forty winks.
+Bianca
+	I wonder if he was here researchin' somethin' or other. I hope the place can be of use to him.
+Nera
+	I heard that some people like to carry out research on the world's various regional souvenirs.
+%0%a001240
+	Studying from books is all well and good, but
+	it's better if you can actually get to see the real thing too.
+%0%a001250
+	Do you think he came here to study?
+Sancho
+	Sí, sí. Thees museum ees just right for estudying the cultures and the foreign places, no?
+Tuppence
+	I wouldn't be surprised if he bored a hole in the exhibits looking at them so intently like that!
+Bianca
+	It's nice to see things in a museum, but you can't beat havin' somethin' nice on display at home.
+Nera
+	Any souvenir is a wonderful gift, because it shows you were thinking of someone on your travels.
+Nera
+	I'm sure she'll be delighted with whatever he decides to buy in the end.
+%0%a001240
+	It's good not knowing what souvenir you're going to buy. You can have fun looking at all the different things on sale!
+%0%a001250
+	I'd be happy with anything that was given to me if it was given with love.
+Sancho
+	Maybe ees a good idea eef we choose for thees señor the good esouvenir, no?
+Tuppence
+	It's the thought that counts after all, isn't it?
+	Well, the present's got to be half-decent as well,
+	if you ask me.
+Bianca
+	Well, if someone artistic like him reckons they're beautiful, then they must be!
+Nera
+	What an accomplished performer, just making up
+	a poem about the knick-knackatory on the spot
+	like that!
+%0%a001240
+	...And all the wonderful displays,
+	that did the visitors amaze,
+	were collected by none other than %a001240!
+%0%a001240
+	Well, what do you think?
+	Could I be a poet too?
+%0%a001250
+	What a superb poem! I think it's even more entertaining than the exhibits!
+Sancho
+	Sí, I know ees full of the wonderful displays, but ees no good to make eso much noise.
+Sancho
+	Ees a museum. You no make a noise een the museum. Eet must be esilence all the time.
+Tuppence
+	Now everyone's looking at him rather than the exhibits! I bet he feels stupid!
+Bianca
+	I wonder whereabouts he's from.
+Nera
+	Which is the exhibit from his country, do you think?
+%0%a001240
+	If it's something that's on display here, it means we must've been to wherever he comes from, doesn't it?
+%0%a001250
+	I suppose it does kind of advertise places if we put exhibits from them on display here.
+Sancho
+	For the countries that we are displaying their esouvenirs, ees good eef muchos travellers
+	are visiting them, sí?
+Tuppence
+	Must be a bit of a strain having to worry about an entire country. I don't think I'd be cut out for it.
+Bianca
+	Prettiness is in the eye of the beholder, though, eh? Different things appeal to different folk.
+Nera
+	It sounds like that young woman saw something on display she rather liked.
+%0%a001240
+	If I had to choose one trinket from all the things in here, I'd take one of the really amazing inventions. Something really interesting.
+%0%a001250
+	Yeah. I'd quite like a pretty little trinket too.
+Sancho
+	Sí, sí. Everyone likes the pretty displays, but ees the inside that counts. We have the esaying where I come from: faces we esee, hearts we don't know.
+Tuppence
+	Pretty little trinket? Yes, she certainly is that!
+Bianca
+	Sounds like he was expectin' the exhibits to be a bit more on the grand side, eh?
+Nera
+	It's true, I suppose. This grand old building makes some of the exhibits look a bit out of place.
+%0%a001240
+	I like the funny novelty exhibits best!
+%0%a001250
+	I like the novelty exhibits too, but if I had to choose, there are lots of pretty, shiny exhibits I'd pick as my favourites first.
+Sancho
+	Ees good the clientes, they enjoy the funny exhibits too, no?
+Tuppence
+	The exhibits need to be ⓗfunnyⓘ. I mean, if they weren't a bit out of the ordinary, they wouldn't make good knick-knacks, would they?
+Bianca
+	I s'pose some of the stuff is a bit weird. But it's the thought that went into makin' it that counts.
+Nera
+	What's important is how much care and attention went into creating these souvenirs.
+Nera
+	I wish people wouldn't just focus on whether the displays look pretty or not.
+%0%a001240
+	Well, I like the weird exhibits.
+	They're the most fun to look at, after all.
+%0%a001250
+	I don't think they're weird. There's something quite charming about them if you ask me.
+Sancho
+	Different people, they like different theengs,
+	you know.
+Sancho
+	Esome people, they esee the interesting display, but for others, the esame display, eet ees just esometheeng loco.
+Tuppence
+	That chap's missing the point. Weird is wonderful, you see, just like big is beautiful.
+Bianca
+	We have got quite a collection goin' now, eh?
+	Just goes to show how many places we've bin to.
+Nera
+	It's travelling with you that made me realise how wonderful the world we live in is.
+%0%a001240
+	The whole room feels different when you put lots of weird and wonderful exhibits on display, doesn't it?
+%0%a001250
+	I like the weird exhibits too, but if I had to choose, there are lots of pretty, shiny exhibits I'd pick as my favourites first.
+Sancho
+	Sí. Ees eso many different esouvenirs from eso many different lands.
+Tuppence
+	I suppose it's hardly surprising really, but the more peculiar an exhibit is, the more it seems to stand out.
+Bianca
+	It's nice to hear folk say things like that.
+	Makes you feel all the effort we went to to
+	get the stuff was worth it.
+Nera
+	There are lots of people here who are seeing these regional crafts for the first time in their lives.
+%0%a001240
+	Since I've been travelling with you, Dad, I've seen loads of things for the first time too.
+%0%a001250
+	It's so exciting seeing some of these things for the first time, isn't it?
+Sancho
+	When you esee esometheeng for the first time, you never forget, sí? Eet makes the beeg impression, no?
+Tuppence
+	That's how I feel about lots of the exhibits in here.
+	I've never laid eyes on half of them before in my entire life.
+Bianca
+	I hope folk don't think the place is stuck-up. The best museums are the ones you can just enjoy without puttin' on any airs.
+Nera
+	It's good to see all sorts of people enjoying the place. A knick-knackatory should be accessible to everyone!
+%0%a001240
+	It'd be really boring in here if everyone was being serious and formal.
+%0%a001250
+	I wonder if lots of people think museums are
+	stuck-up places.
+Sancho
+	Thees señor, he ees the true macho bronco.
+	Eet must be very hard for heem to estep eenside thees place, no? But estill he comes een.
+Tuppence
+	No, a museum's no place for stuck-up, monocled old fuddy-duddies!
+Bianca
+	It's good if folk are chattin' about this place when they're down the pub. Pub rumours always spread far and wide.
+Nera
+	It's great that people are chatting about the
+	knick-knackatory in their free time.
+%0%a001240
+	I wonder what the man told him about the place.
+%0%a001250
+	So he's here on business, then? Poor thing!
+Sancho
+	Heh heh! Even een the pubs now, they are talking about thees knick-knackatory!
+Tuppence
+	Chatting about souvenirs to help the grog go down? That's a new one on me!
+Bianca
+	I reckon it's good if the exhibits are a bit funny, otherwise no one would bother comin' to see 'em.
+Nera
+	Well I think it's a good thing to have a variety of exhibits on display.
+%0%a001240
+	I like the funny exhibits. They're, er...funny!
+%0%a001250
+	If the exhibits are a bit funny, it means the craftsmen must've been fun, interesting people. That's good, isn't it?
+Sancho
+	Different people, they like different theengs,
+	you know.
+Sancho
+	Esome people, they esee the interesting display, but for others, the esame display, eet ees just esometheeng loco.
+Tuppence
+	That chap's missing the point. Weird is wonderful, you see, just like big is beautiful.
+Bianca
+	Fancy bein' the subject of a poem, eh, %a000090?
+Nera
+	What an accomplished performer, just making up
+	a poem about the knick-knackatory on the spot
+	like that!
+%0%a001240
+	That poet can make up a poem about anything!
+	It's amazing!
+%0%a001250
+	What a superb poem! I think it's even more entertaining than the exhibits!
+Sancho
+	Sí, I know ees full of the wonderful displays, but ees no good to make eso much noise.
+Sancho
+	Ees a museum. You no make a noise een the museum. Eet must be esilence all the time.
+Tuppence
+	Now everyone's looking at him rather than the exhibits! I bet he feels stupid!
+Bianca
+	She does look a bit out of place dressed like that
+	in a museum!
+Nera
+	She stands out more than the exhibits do!
+%0%a001240
+	Wow! She's wearing exactly the same outfit as
+	Patty the party planner!
+%0%a001250
+	Do you think she wore that all the way here?
+Sancho
+	For the young señorita to come to thees
+	knick-knackatory een esuch clothes,
+	ees, ees, ees...
+Tuppence
+	A bunny? Looking funny? Never! Bunnies are welcome any time, any place, if you ask me!
+Bianca
+	You en't got a bit of a thing for her by any chance, have you, %a000090?
+Nera
+	Don't you mind her wearing that in here, %a000090?
+Nera
+	No, of course you don't! You're so tolerant of people, aren't you?
+%0%a001240
+	Wow! She's wearing exactly the same outfit as
+	Patty the party planner!
+%0%a001250
+	Do you think she wore that all the way here?
+Sancho
+	For the young señorita to come to thees
+	knick-knackatory een esuch clothes,
+	ees, ees, ees...
+Tuppence
+	A bunny? Looking funny? Never! Bunnies are welcome any time, any place, if you ask me!
+Bianca
+	I reckon he's prob'ly some sort of craftsman too, eh?
+Nera
+	It sounds like he's a craftsman or something like
+	that too.
+%0%a001240
+	That man's cool!
+%0%a001250
+	I suppose craftsmen never stop studying, do they?
+Sancho
+	Thees señor, he eseems to be the master craftsman.
+Sancho
+	But estill he believes he can improve hees technique, you know? Ees thees I admire
+	eso much.
+Tuppence
+	Hmm... There's more to that man than meets the eye.
+Bianca
+	I s'pose you could say the place is a bit scary. Sounds like she's pretty impressed with you, mind!
+Nera
+	I don't think the woman dislikes the way you've set the place out, %a000090.
+Nera
+	It's just that it's not the kind of museum a young lady would like to walk around on her own at night, that's all.
+%0%a001240
+	A scary knick-knackatory? That makes it a bit like a haunted house, doesn't it?
+%0%a001250
+	You could change a few of the exhibits, Dad.
+	For something less scary, I mean.
+Sancho
+	Thees señorita, her face ees white like the uncooked tortilla, no? Maybe here ees no
+	the place for ladies now.
+Tuppence
+	Scary? This place? W-Well I'm not scared.
+Bianca
+	Oops. Sounds like he's regrettin' bringin' her here. Maybe we could try changin' things about a bit so she's not so scared.
+Nera
+	The poor man's really upset. At least we could change things around so the place isn't so scary
+	any more, couldn't we?
+%0%a001240
+	It's a great place for a honeymoon! I think he's just saying that because he's scared by the exhibits.
+%0%a001250
+	Lots of the other visitors seem to be scared by the exhibits at the moment, but he's scared his wife doesn't love him!
+Sancho
+	There are no eso many clientes now, eh, friend?
+	Maybe they are no coming because ees eso
+	escary here now.
+Tuppence
+	I bet Old Man Nick would like these displays, being a ghost and all.
+Bianca
+	He seems to have a bit of a different way of seein' things to other folk. I s'pose that's what bein' in battle all the time does to you.
+Nera
+	I suppose he's seen so much in all the battles he's fought. It must affect the way you look at things.
+%0%a001240
+	I don't know what that man said exactly, but it made him sound really cool!
+%0%a001250
+	I can't even peek at most of the exhibits that are on display at the moment.
+%0%a001250
+	But that man's been looking straight at them for ages, hasn't he? Wow! He must be so brave!
+Sancho
+	Sí! You esee? The right kind of
+	person, he can appreciate thees display.
+Tuppence
+	Do you think I might be able to toughen up enough to stare out one of these terrifying exhibits?
+Bianca
+	Well, you can't accuse him of mincin' his words, eh?
+Nera
+	Well it's important that people keep at least one or two places where they can go to relax in these troubled times.
+%0%a001240
+	Does he mean it's just for play?
+	Because we don't play most of the time.
+	Most of the time we're busy fighting monsters!
+%0%a001250
+	Why did he bother coming if that's what he thinks?
+Sancho
+	Ees always important to have the time for relaxing, you know. And for the paella. Sí, sí, sí.
+Tuppence
+	Sounds like that chap's a bit sore about something if you ask me. Maybe he had a bad experience recently.
+Bianca
+	He does look a bit of a state. I wonder where it is he's come from.
+Nera
+	The poor man! He must've had a terribly harsh time of it getting here.
+%0%a001240
+	I don't think his clothes would've got that messed up just from travelling.
+%0%a001240
+	Maybe he fought some amazing monster on the way here or something!
+%0%a001250
+	Do you think he's hurt? I hope he's okay...
+Sancho
+	Thees señor, he ees no a seasoned
+	traveller, eh?
+Tuppence
+	He's not being serious, is he?
+	I mean, he just got changed into those clothes before he came in or something, didn't he?
+Bianca
+	We have got quite a collection goin' now, eh?
+	Just goes to show how many places we've bin to.
+Nera
+	It's travelling with you that made me realise how wonderful the world we live in is.
+%0%a001240
+	If you put enough scary exhibits in a room, it makes the whole place feel darker, doesn't it?
+%0%a001250
+	I don't like scary exhibits. I'm sure I'd end up in tears if I came here at night.
+Sancho
+	Sí. Ees eso many different esouvenirs from eso many different lands.
+Tuppence
+	The scary exhibits certainly turn heads, don't they? Actually, you know what would be really scary? A turning head!
+Bianca
+	I s'pose havin' scary exhibits on display does attract a certain type of customer.
+Nera
+	Do you get the impression the scary displays are attracting the wrong sort of people?
+%0%a001240
+	Don't worry! If there's any trouble, you and me will sort it out, right, Dad?
+%0%a001250
+	I'm sure it's nothing to worry about, but...sometimes I see visitors with really scary eyes.
+Sancho
+	But thees place, eet ees a museum.
+Sancho
+	No one ees gonna make trouble een the museum. Ees too quiet, sí?
+Tuppence
+	Never fear, Tuppence is here! I'll make short work of any troublemakers, you'll see.
+Bianca
+	I s'pose havin' scary exhibits on display does attract a certain type of customer.
+Nera
+	Do you get the impression the scary displays are attracting the wrong sort of people?
+%0%a001240
+	Don't worry! If there's any trouble, you and me will sort it out, right, Dad?
+%0%a001250
+	I'm sure it's nothing to worry about, but...sometimes I see visitors with really scary eyes.
+Sancho
+	But thees place, eet ees a museum.
+Sancho
+	No one ees gonna make trouble een the museum. Ees too quiet, sí?
+Tuppence
+	I think I'll take the old man's advice and keep
+	my distance.
+Bianca
+	Hmm. I know a weirdo when I see one,
+	and he definitely qualifies!
+Nera
+	But he looks like such a decent, reliable man!
+	I certainly wouldn't trust him now, though.
+%0%a001240
+	That man's not a... He's not a monster...is he?
+%0%a001250
+	That man's eyes are really scary.
+Sancho
+	Ees because of these displays. Ees making esuch señores come to the knick-knackatory.
+Tuppence
+	You don't hear too many ⓗhwa ha haⓘs, eh?
+	I mean, most people try to cover up their
+	sinister laughs, don't they?
+Bianca
+	You don't think he's plannin' on nickin' somethin' from our knick-knackatory, do you?
+Nera
+	I can't help worrying about the exhibits a bit when I see people like that in here.
+%0%a001240
+	That man's not a... He's not a thief...is he?
+%0%a001250
+	Every now and then I see people like that man here. You know, people with a scary look in their eyes.
+Sancho
+	Ees because of these displays. Ees making esuch señores come to the knick-knackatory.
+Tuppence
+	Uh-oh! Why isn't there a guard on the top floor!?
+Bianca
+	I'm feelin' a kind of darkness too. You don't think there's really a dark aura here, do you?
+Nera
+	So I'm not the only one who's feeling it, then?
+%0%a001240
+	Maybe we'd better not leave these exhibits out for too long then, do you think?
+%0%a001250
+	That's exactly what I was feeling too!
+Sancho
+	Sí. Ees true. Ees like we no look at the exhibit.
+	The exhibit, ees looking at us!
+Tuppence
+	That all sounds a bit scary to me.
+	I think I'll just pretend I didn't hear it.
+Bianca
+	That's odd. I wonder how he knows about it.
+Nera
+	I wonder what he's so flustered about.
+%0%a001240
+	How come that old man knows about the Catas Trophy anyway? You, you don't think he's from the underworld, do you?
+%0%a001250
+	Maybe he knows how powerful Estark is.
+	Maybe that's why he seemed so worried.
+Sancho
+	Thees señor, eet eseems he knows the Catas Trophy. He ees no the ordinary cliente, no?
+Tuppence
+	Oh dear! Is, is something bad going to happen?
+	Is there a problem?
+Bianca
+	It's a bit tricky to know what to display in the best room of the house, eh?
+Nera
+	Maybe we should try putting different exhibits on display here until the old man seems happy...
+%0%a001240
+	Something else? But what? There are so many things to choose from.
+%0%a001250
+	I agree with whatever you choose to put on
+	display, Dad.
+Sancho
+	You know, when you theenk about only the exhibits that are grand enough for thees room, you can make the choices esmaller.
+Tuppence
+	Something else? I wonder what on earth the old man's hoping we'll put on display here.
+Bianca
+	What's his problem? Has he just come here to
+	annoy us?
+Nera
+	This must be the man we were told about.
+%0%a001240
+	He's a bit weird, isn't he? In all the places we've visited up to now, I don't remember meeting anyone quite like him before.
+%0%a001250
+	I don't like people like him. Will you talk to him, please, so that I don't have to?
+Sancho
+	Thees señor, he no espeak eso nice, eh?
+	But eef he tells us about the exhibits, maybe ees no eso bad.
+Tuppence
+	This chap's got a bit of a chip on his shoulder,
+	hasn't he?
+Tuppence
+	Who does he think he's talking to, eh?
+	Doesn't he know he's addressing King %a000090?
+Bianca
+	Don't listen to him, %a000090.
+	Just do things how you want.
+Nera
+	He doesn't look all that busy to me.
+	What do you think, darling?
+%0%a001240
+	We have not got a lot of time on our hands!
+	We're always busy fighting monsters and stuff!
+	Right, Dad?
+%0%a001250
+	I don't like people like him. Will you talk to him, please, so that I don't have to?
+Sancho
+	Ees no the time you need for thees. Ees the determination. You must be hungry like the barracuda for just thees one exhibit.
+Tuppence
+	If you ask me, he looks like he's got a lot more time on his hands than we do.
+Bianca
+	Don't listen to him, %a000090.
+	Just do things how you want.
+Nera
+	He can't say that! Cuisine is never worthless.
+	Papa would have a fit!
+%0%a001240
+	I don't care what he says. I like chocolate medalliyums, and that's that!
+%0%a001250
+	I bet he secretly wants us to give all our medalliyums to him. That's why he's saying that.
+Sancho
+	At least thees señor, he geeves us esome esmall words of encouragement, no?
+Tuppence
+	Worthless to him, maybe, but I bet chocolate lovers would have something to say about that.
+	They'd be furious!
+Bianca
+	That dun't sound all bad. In fact, I'd say he quite likes it.
+Nera
+	He certainly keeps a close eye on what's on display, doesn't he? He knows exactly what's on the other floors too.
+Nera
+	He really does love his souvenirs.
+%0%a001240
+	Ships in bottles are amazing!
+	I never get bored of looking at them.
+%0%a001250
+	There are ships in bottles everywhere.
+	How many did you put on display, Dad?
+Sancho
+	The more you look at these esheeps een bottles, the more you esee how much work eet must be to make them.
+Tuppence
+	We're not making fun of anyone!
+	There's a reason why you've done this, I'll bet, isn't there, %a000090? A cunning plan or something.
+Bianca
+	Nothin' he has could outclass that.
+	It's from your hometown, after all.
+Nera
+	We used to have some gemstones at home too.
+	Just normal ones, though.
+%0%a001240
+	He said it was a fine gem, but do you think he
+	was lying?
+%0%a001250
+	He can't bear to be outdone, can he?
+Sancho
+	Thees señor, he ees esaying a nice theeng about the Whealbrook esapphire, or he ees esaying esometheeng bad?
+Sancho
+	Eef ees one theeng, I hug heem.
+	Eef ees another, I hammer heem!
+Tuppence
+	Whealbrook's where you used to live, isn't it, %a000090?
+Bianca
+	What a blimmin' cheek!
+Nera
+	It sounds like he doesn't put any value on things unless they cost money, no matter how amazing
+	they are.
+%0%a001240
+	But Zizzwizz Pillows are amazing! They're so comfortable, they could send a monster to sleep.
+	That man doesn't know anything!
+%0%a001250
+	Why did that man even come to the knick-knackatory when he doesn't seem to like knick-knacks at all?
+Sancho
+	Ees no just about the garbanzos...
+Tuppence
+	I don't think I like the way this fat cat thinks.
+Bianca
+	I s'pose it is important to keep things in good nick. Maybe we should have a bit of a polish before long.
+Nera
+	He's right, isn't he? We should polish it up so there's
+	a beautiful, gleaming exhibit for him the next time
+	we speak.
+%0%a001240
+	The exhibits do look better when they're all clean
+	and shiny.
+%0%a001250
+	When you clean things, it makes you feel cleaner inside too.
+Sancho
+	You know, your Uncle Sancho, he ees good at thees kind of work.
+Tuppence
+	I don't like listening to anything that chap says now, even if it does make perfect sense!
+Bianca
+	Oh yeah. The toff's tea set! Reminds me of that time we went off ghost-bustin' when we was kids.
+Nera
+	He just can't help comparing everything here to something he owns at home, can he?
+%0%a001240
+	I like this tea set. It's really cool!
+%0%a001240
+	I don't like tea, though. It's really hot. And bitter too.
+%0%a001250
+	Oops! I wasn't listening! What did he just say?
+Sancho
+	Ees esometheeng, no? He no esay ees the best, but ees estill good, sí?
+Tuppence
+	He says it's a decent exhibit, but then he undermines it in his next breath. You just don't know what to believe, do you?
+Bianca
+	Hah! He'll never be able to get one of them for himself!
+Nera
+	It really troubles that man if he feels like he can't have something, doesn't it?
+%0%a001240
+	That man just wants expensive things, doesn't he?
+	He doesn't really care about souvenirs and
+	knick-knacks.
+%0%a001250
+	He really hates losing, doesn't he?
+Sancho
+	Ees no important eef the knick-knacks, they are expensive or they are cheap.
+Tuppence
+	I don't think I like the way this fat cat thinks.
+Bianca
+	Mmm... The blossom smells lovely. You're the one who made it bloom too, %a000090.
+Nera
+	Isn't it amazing? He doesn't feel anything, even
+	when presented with something as beautiful as
+	this blossom.
+%0%a001240
+	Isn't it wrong to make snap judgements like that?
+%0%a001250
+	Fine! We won't bother showing him any more beautiful branches of blossom then! See if we care!
+Sancho
+	Sí... Thees ees the branch you once breeng een the house when you were just a leettle boy. Sí. I remember...
+Tuppence
+	He's pretty sure of himself, isn't he?
+	I don't think we'll ever manage to convince him.
+	Poor, unenlightened fellow.
+Bianca
+	What's his problem? Is he just here to get on
+	our nerves?
+Nera
+	I don't feel like I want to show this man anything now. He's always so negative.
+%0%a001240
+	You could find some jewels to fit in there, couldn't you, Dad? Then it would look great!
+%0%a001250
+	The money didn't run out. It's just that they couldn't find a craftsman to do the work.
+Sancho
+	Ees only Coburg, but estill... I no like the way thees señor espeaks about the royalty.
+Tuppence
+	I'm afraid I'm rather offended by that remark!
+Bianca
+	That gem goes a treat in Harry's music box, eh?
+Nera
+	I don't even think Papa has a music box that could compete with this one. Isn't it magnificent?
+%0%a001240
+	I'd love to show it to Prince Harry and everyone now we've made it look so much better.
+%0%a001250
+	Oh, poor man. He seems a bit bitter. Ha ha ha!
+Sancho
+	The organ of Coburg, and the esapphire from Whealbrook...
+Sancho
+	Now these two treasures are together, maybe eet means the places, one day they join together too.
+Tuppence
+	I'd be interested to see what kind of craftsman would be employed by that man.
+Bianca
+	The Goddess won't be happy with him for sayin' that! Not that he'll care, mind.
+Nera
+	The abbey was my home! It's very upsetting when people say disparaging things about it.
+%0%a001240
+	Well whenever I hold one of those images, I get a warm feeling all over. That man just doesn't get it, does he?
+%0%a001250
+	Dear Goddess, are you listening to this?
+	There's a sinner here who needs to be punished!
+Sancho
+	Ees, ees eso esad for the esisters who make thees estatue. Eef they heard these harsh words, they, they would be eso hurt.
+Tuppence
+	The chap's more than a bit indiscreet, isn't he?
+Bianca
+	I think that's the first time I've heard him so thrilled. He must be really keen on that slime curio.
+Nera
+	I'm not surprised he hasn't got one. The Old Curiosity Shop owner in Fortuna is very picky about his customers. He wouldn't accept this man.
+%0%a001240
+	Yes! We've got something that he can't get!
+%0%a001250
+	What? He likes that weird slime curio?
+	That just shows how weird he is!
+	
+Sancho
+	Thees señor, he esay to us he can tell us about the knick-knacks, but eef you ask me, he just tells us about heemself.
+Tuppence
+	Yes, that slime curio's pretty valuable, isn't it?
+	Weren't we told there's only one of them in the
+	whole world or something?
+Bianca
+	You can get 'em easy as pie over in Lodestar Harbour, but they are pretty impressive.
+Nera
+	The fact that the person who made this managed to produce so many finely crafted souvenirs just goes to show how skilled he must have been.
+%0%a001240
+	Yeah, ships in bottles are really cool! I could just sit and look at them for hours and hours.
+%0%a001250
+	It looks exactly like your ship, Dad. It's amazing.
+Sancho
+	Ees no easy to make the galleon eenside the bottle, you know.
+Sancho
+	For me, ees no possible. You look at these fingers...
+	They are thick like the trunks of the tree, no?
+Tuppence
+	Made by a real expert, was it? Yes, I suppose
+	it was.
+Bianca
+	A frightful pest? Charmin'! %0%a001210 wouldn't be best pleased to be described like that!
+Nera
+	I don't really like that thing.
+	Don't make me go near it, will you?
+%0%a001240
+	It's supposed to scare off monsters.
+	If it didn't at least scare that man a bit too,
+	it wouldn't be much good, would it?
+%0%a001250
+	I bet the terrorcrow wouldn't be too happy being described as worthless. And you wouldn't want to upset the terrorcrow.
+Sancho
+	Thees escarecrow, he ees eso escary, ees no just the monsters who no go een the fields.
+	Ees the humans too.
+Tuppence
+	I'm sure that terrorcrow just gave me a
+	sideways glance.
+Tuppence
+	N-No... I, I must've imagined it...
+Bianca
+	So all he has to do is send someone over and he gets some? I thought it was s'posed to be exclusive stuff!
+Nera
+	Papa has different drinks delivered to his casino ship from all over the world.
+Nera
+	But I don't recall seeing any Zoomshine there before. Nothing from Zoomingale at all, as far as I remember.
+%0%a001240
+	Sancho says only adults are allowed to drink.
+%0%a001250
+	Oooh... Whenever I get a whiff of that Zoomshine,
+	it makes me feel all dizzy...
+Sancho
+	Sí, sí. Ees good for the cooking, thees kind of dreenk. Qué? Ees too valuable to put een the cooking? You theenk eso?
+Tuppence
+	If the stuff's as legendary as we've been led to believe, I can't imagine it'll be all that easy to get
+	hold of.
+Bianca
+	They might just be sticky buns to him, but they're special to us, eh?
+Nera
+	I can understand why he thinks that.
+Nera
+	I mean, he doesn't know they were made to celebrate our marriage to each other, does he?
+%0%a001240
+	But they are worth something. They're not just
+	any honey buns. They were made especially for
+	your wedding.
+%0%a001250
+	Just think how the poor chef would feel if he heard him say that!
+Sancho
+	Ees no a good idea to upset the one who makes the food, you know.
+Tuppence
+	Let me tell you, you don't see honey buns as finely formed as that pair every day, you know.
+Bianca
+	I'd heard there was a lot of demand for scintillatin' sinter just lately. How typical that he's the root of it!
+Nera
+	Papa always says that throwing money about without a thought for the people around you will destroy you in the end.
+Nera
+	Do you think that man's going to be alright?
+%0%a001240
+	It's wrong to keep everything for yourself.
+	You have to share.
+%0%a001250
+	How much must he have bought to make the price go up so much?
+Sancho
+	Sí. When I first esee thees señor's eskin, I theenk to myself, the colour, ees eso good.
+	Now I know the esecret.
+Tuppence
+	People with money are always rabbiting on about their health, aren't they?
+Bianca
+	Wander around in the desert? Pah! I'll bet he's never bin to the desert all his life!
+Nera
+	Surely being mystifying is a good enough reason for it to be a famous knick-knack, isn't it? I think it is.
+%0%a001240
+	You can't just wander about and find them.
+	It's quite hard, actually. I bet he's never found one.
+%0%a001250
+	He's never been into the desert himself, so he doesn't know how difficult it is.
+Sancho
+	The desert? Uf! Just hearing thees word, eet
+	makes me esweat.
+Tuppence
+	He doesn't seem to be interested in anything unless it's got monetary value, no matter how mysterious or unusual it is.
+Bianca
+	I s'pose he's right, but he dun't have to be quite so rude about 'em, eh?
+Nera
+	Anything you can eat is worth more than any amount of gold. That's what Papa always taught me.
+%0%a001240
+	I don't care what he says. I like chocolate medalliyums, and that's that!
+%0%a001250
+	I bet he secretly wants us to give all our medalliyums to him. That's why he's saying that.
+Sancho
+	One man, he likes hees food, but hees brother,
+	he no likes eet. You know what I mean?
+Tuppence
+	Worthless to him, maybe, but I bet chocolate lovers would have something to say about that.
+	They'd be furious!
+Bianca
+	I'd never seen a maxi medal before neither.
+	I doubt many folk know about 'em.
+Nera
+	Papa likes collecting rare treasures too, you know.
+	I know he'd want one of these. I'm sure of it.
+%0%a001240
+	This is what Old Man Nick Knack wanted too, isn't it? They must be really valuable.
+%0%a001250
+	They're definitely too big to play treasure hunting with. You'd see them sticking out behind anything!
+Sancho
+	Ees very beeg, eh? Maybe ees beeg enough eso you can use eet like a shield, no?
+Tuppence
+	I'm starting to understand why Old Man Nick Knack wanted one of these so badly now.
+Bianca
+	So every member of his staff gets one?
+	They have it pretty easy, eh?
+Nera
+	I wouldn't like to be a member of his staff.
+%0%a001240
+	You don't have to use it up a mountain though, do you? You can use it in other places too, can't you?
+%0%a001250
+	Does that mean the people who work for that man have to climb mountains a lot?
+%0%a001250
+	I suppose that's how he manages to collect rare knick-knacks from all over the world.
+Sancho
+	Thees señor, he geeves all the people who work for heem the compass? Eet esounds like he leeves esomewhere very remote, eh?
+Tuppence
+	I thought we were told you can't get hold of these Batten binnacles any more. How many do you think this man has got?
+Bianca
+	But our monster chess set was made by a
+	famous craftsman!
+Bianca
+	There's no way the one he has at home can be better!
+Nera
+	It sounds like his collection includes items from every corner of the world.
+%0%a001240
+	Yeah! Gotha's knick-knack's the best!
+	You can't beat monster chess!
+%0%a001250
+	The monster chess sets are really well-made, aren't they? The monsters all look so real.
+Sancho
+	You theenk thees señor, he went to Gotha to buy a monster chess eset for heemself?
+Sancho
+	Ees estrange. I believe thees artisan who made the chess esets, he made just enough for the castle and no more.
+Tuppence
+	Well at least the game my father was so crazy about is getting some recognition at last!
+Bianca
+	He's prob'ly only callin' it gaudy because he dun't have one of his own to boast about.
+Nera
+	Gaudy? If there's anything gaudy here, it's the way that man speaks!
+%0%a001240
+	That's Grandma's book! Of course it's worth a lot.
+	Although...I suppose that doesn't make it worth a
+	lot to him.
+%0%a001250
+	He shouldn't say mean things about Lofty Peak or about Grandma. It's not nice.
+Sancho
+	Maybe ees best eef we no eshow thees señor our knick-knacks, eh?
+Sancho
+	He ees just making our precious memories dirty.
+Tuppence
+	I bet that's got you a bit riled, hasn't it, %a000090?
+Tuppence
+	I don't blame you, the way he's talking about Queen Mada's treasured book like that.
+Bianca
+	He'd be eatin' his words if he knew it come from the Yggdrasil tree, eh?
+Nera
+	If you're the right kind of person, you can feel it. You can feel the strange power radiating from
+	the sapling.
+%0%a001240
+	I'd really like to see that man's face when he finds out exactly what this sapling is.
+%0%a001250
+	All he sees is a tiny shoot. He doesn't know it holds a powerful life force.
+Sancho
+	You know, your Uncle Sancho, he ees no eso esure, either.
+Sancho
+	Ees esupposed to be from the Yggdrasil tree een Zenithia, but I no believe eet.
+Tuppence
+	I bet if he knew it was a sapling of the Great World Tree, he'd change his tune. He'd pay a small fortune for it then.
+Bianca
+	It's havin' stuff like that on display that makes this place so amazin', eh?
+Nera
+	He's right about that. It is very rare.
+Nera
+	Old Man Nick Knack was right to pick you as curator, you see.
+%0%a001240
+	He'd know for sure if he tried using one of
+	the leaves.
+%0%a001250
+	It's my sapling! I looked after it and helped it grow.
+	I'm not showing it to him again!
+Sancho
+	You theenk ees okay to put esometheeng thees señor no have heemself on display here? Maybe he ees gonna be jealous, eh?
+Tuppence
+	He hasn't got an eye for knick-knacks at all, has he? Can't he feel that powerful aura it's giving out?
+Tuppence
+	Actually, to tell the truth, neither can I!
+Bianca
+	Sounds like he only believes in things he's seen for himself. That must make life a bit borin' for him.
+Nera
+	Poor man. Do you think he trusts anyone?
+%0%a001240
+	I'd love to see his face when he finds out it is real!
+%0%a001250
+	Is that all he can say? What about how beautiful
+	it is?
+Sancho
+	Esometimes I no esure eef thees señor ees
+	really the aficionado of the knick-knacks or
+	eef he ees just a cowboy.
+Tuppence
+	Remind me why we're listening to this chap again, would you? He doesn't seem to have anything useful to say at all.
+Bianca
+	There's no point explainin' it to him.
+	He wouldn't believe us.
+Nera
+	It certainly is creeⓚⓛ
+	Er... I mean, it certainly is unusual.
+Nera
+	He might not be the only person who finds it hard to believe it's a famous souvenir of anywhere.
+%0%a001240
+	If it wasn't from Precaria, I'd think it was creepy too. But that's the town Mum saved.
+%0%a001250
+	It just shows how Grandma helped the monsters turn into humans. There's nothing creepy about it.
+Sancho
+	But thees knick-knack, eet ees from the town señora Mada esaved.
+Sancho
+	When I try to theenk eef ees creepy or no, my mind, ees, ees just too full of emotions!
+Tuppence
+	I agree. It gives me the creeps too.
+	I can't look at it, personally.
+Bianca
+	He's so blimmin' rude! Didn't his mum teach him when to keep his mouth shut?
+Nera
+	I suppose it is a bit different to the other exhibits.
+Nera
+	But it's the result of hundreds of travellers' work. That gives it a certain value, doesn't it?
+%0%a001240
+	That's just nasty, what he said. I didn't think adults were supposed to talk like that.
+%0%a001250
+	As long as it's fun, what's wrong with it?
+	It's still a souvenir, isn't it? And that's what the knick-knackatory's here for. Souvenirs.
+Sancho
+	Esome people, they go to thees inn just to write een thees book.
+Sancho
+	Ees a good book, sí? Eso many different theengs, they are written eenside.
+Tuppence
+	I'd like to meet that chap's parents!
+	They've got a lot to answer for.
+Bianca
+	How mean of him, to take 'em and waste 'em like that!
+Nera
+	But the wiggly stitching is so cute!
+	It gives it such a warm, home-made feel.
+%0%a001240
+	If he's got a mountain of them, surely that means he really likes them, doesn't it?
+%0%a001250
+	Well I really like those flags. They give you a warm feeling inside.
+Sancho
+	You theenk thees señor, he puts all hees flags een the storeroom? Ees esuch a shame when esomeone has worked eso hard to make them.
+Tuppence
+	I think he secretly really likes them.
+	Why else would he know so much about them?
+Bianca
+	That ink is pretty special. Sometimes it looks black, but sometimes it looks all rainbow-coloured.
+Nera
+	I heard about that ink and how they make it at Northminster from a travelling priest who came
+	to the abbey when I was living there.
+Nera
+	He said the same thing. It's a special ink that never ever fades.
+%0%a001240
+	Ink usually smells funny, doesn't it?
+%0%a001240
+	But this ink doesn't. Why is that?
+%0%a001250
+	Well I believe it. I think it is special.
+%0%a001250
+	I don't know why, but it just seems special to
+	me somehow.
+Sancho
+	Sí, sí. Ees the eenk made from the tusk of
+	a monster.
+Sancho
+	Ees no esurprising eef eet has the especial
+	powers, eh?
+Tuppence
+	You don't think it can improve your handwriting,
+	do you?
+Tuppence
+	No, I... I suppose not. Oh, well.
+Bianca
+	I wonder when anyone'd want to play an instrument like that. I certainly don't want to hear it!
+Nera
+	The sound of people screaming?
+	Brrr... It sends shivers down your spine.
+%0%a001240
+	It doesn't sound like a very nice instrument, does it?
+%0%a001250
+	Tell me if you're going to use it, won't you, Dad?
+	So I can put my fingers in my ears.
+Sancho
+	Thees señor, he pretends he no escared, but your Uncle Sancho knows the truth. He can no hide the esweat on hees brow.
+Tuppence
+	But surely no one wants to listen to the sound of people screaming. I know I don't.
+Bianca
+	Seein' that locket makes me feel all choked up inside.
+Nera
+	It's a shame for such a beautiful locket not to have a picture in it. It seems so sad.
+%0%a001240
+	I wonder what kind of things Grandpa and Grandma could tell us about this locket.
+%0%a001250
+	I can feel Grandma's loving warmth in that locket.
+%0%a001250
+	I, I don't know why. I just can.
+Sancho
+	Eet, eet was esuch a happy time...
+	Señor Pankraz and señora Mada, they were eso een love... (sob)
+Tuppence
+	That man was at King Pankraz's wedding?
+	Now that's got to be a lie!
+Bianca
+	That's your mum, en't it, %a000090?
+	She's got such a kind-lookin' face.
+Bianca
+	It's easy to see how Pankraz fell in love with her at first sight.
+Nera
+	You can tell from the portrait what a kind and pure woman she was.
+%0%a001240
+	He's crying! He must've been really moved.
+%0%a001250
+	So that's what Grandma looked like when she
+	was young.
+Sancho
+	Ees eso good to have thees picture een the
+	locket at last. Señor Pankraz, he would be eso...eso happy.
+Tuppence
+	The chap's crying now. I can't keep up with him.
+	Just who is he exactly?
+Bianca
+	You'd have to be pretty keen on souvenirs to go to that extreme to get 'em, eh?
+Nera
+	Don't you think we should warn him about how scary it is in Nadiria?
+%0%a001240
+	You can't just get a trophy like that by living in Nadiria, though. You have to defeat Estark.
+%0%a001250
+	He's not serious, is he? No, he can't be...
+Sancho
+	Uf! He would no esay thees eef he goes there!
+Tuppence
+	Whatever the reasons, just entertaining the idea
+	of getting Nadirian citizenship is pretty terrifying really!
+Bianca
+	It must be quite reassurin' for the customers, seein' we've got the security of the place covered.
+Nera
+	Well that's reassuring, isn't it?
+%0%a001240
+	Nothing to report! Heh heh! That sounds cool!
+%0%a001250
+	He keeps an eye on the knick-knackatory even when we're not here, doesn't he?
+Sancho
+	I hope to the Goddess there are no problems here. But you know, esometimes the bad theengs, they come for us all.
+Tuppence
+	Is it okay just to have a guard on the entrance?
+	I'd be a bit worried about that, I think.
+Bianca
+	He dun't need to be frettin' about us. We're havin' fun with things just the way they are.
+Nera
+	That's nice, isn't it? I think he's starting to like us!
+%0%a001240
+	Cool! Is that your salary, Dad?
+	Because you're the curator, I mean.
+%0%a001250
+	He gave you that because you're trying so hard, didn't he, Dad? I think you're doing really well too.
+Sancho
+	Ees no normal to esee the museum at night, eh?
+Sancho
+	Ees because you are the curator now, friend.
+	Sí, ees thanks to you. Gracias, gracias.
+Tuppence
+	Five hundred gold coins? That's it!?
+	He's a slave-driver if you ask me, %a000090!
+	
+Bianca
+	I wasn't plannin' on complainin' though, were you?
+Nera
+	He's very strict, isn't he?
+	But it's probably for our own good, I expect.
+%0%a001240
+	Just when I thought he was getting a bit nicer,
+	he goes back to being Mr Grumpy.
+%0%a001250
+	Come on, Dad. Let's find loads more knick-knacks and really surprise the old man.
+Sancho
+	Ees no normal to esee the museum at night, eh?
+Sancho
+	Ees because you are the curator now, friend.
+	Sí, ees thanks to you. Gracias, gracias.
+Tuppence
+	But only five hundred? That's daylight robbery.
+	It's less than my salary, even.
+Bianca
+	He dun't need to be frettin' about us. We're havin' fun with things just the way they are.
+Nera
+	I'm sure the place will look amazing no matter how you arrange the exhibits. You're so good at it.
+%0%a001240
+	Cool! Is that your salary, Dad?
+	Because you're the curator, I mean.
+%0%a001250
+	Maybe we should try changing some of the exhibits around. There's quite a lot to running a knick-knackatory, isn't there?
+Sancho
+	Now the aficionados, the experts of the
+	knick-knacks, they gonna come to esee
+	your collection, friend.
+Tuppence
+	A thousand gold coins? That's it!?
+	He's a slave-driver if you ask me, %a000090!
+	
+Bianca
+	I s'pose we should just take it that he really likes
+	the place.
+Nera
+	Do you think he wants to see how the place is run? What's he going to do about dinner? And having a shower in the morning?
+%0%a001240
+	He spent the whole day looking at the exhibits?
+	I knew it. He's definitely a bit weird.
+%0%a001250
+	We can't throw him out, so what are we going to do?
+Sancho
+	But eef thees señor, he estays the night here, hees family, they gonna worry about heem, sí?
+Tuppence
+	Well, I can understand how he feels.
+	It's nice and quiet here, and the view's fantastic.
+Bianca
+	He sounds a bit tired. We should let him get
+	some sleep.
+Nera
+	I suppose Old Man Nick's been cleaning on his own when we're not here.
+Nera
+	Poor man. He must be exhausted.
+%0%a001240
+	So ghosts sleep too? That's funny.
+%0%a001250
+	I hope he isn't lonely, all on his own.
+Sancho
+	You no wake heem up, okay, friend?
+	He ees very tired.
+Tuppence
+	There, there are no other ghosts about other than Old Man Nick Knack, are there?
+Tuppence
+	I don't think it's a good idea to spend the night here, you know. No, definitely not a good idea.
+Bianca
+	I wonder what he's dreamin' about.
+Nera
+	He's still comparing, even when he's asleep!
+%0%a001240
+	Wow! He can really snore. The whole room's shaking!
+%0%a001250
+	Isn't he scared, sleeping in a place like this all on
+	his own?
+Sancho
+	He no estay the night here because he loves the knick-knacks, eh? No, no. Ees no because
+	of thees.
+Tuppence
+	It doesn't look like he's intending to leave any time soon, does it? Pity...
+Bianca
+	One single buildin' on one tiny island...
+	And yet it's a great big knick-knackatory!

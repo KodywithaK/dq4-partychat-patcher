@@ -1,0 +1,881 @@
+Harry
+	Phew! What a lively place! Just looking at everyone running around makes me dizzy.
+Harry
+	I know the state of Whealbrook's come as a bit of a shock to you. It has to me too, as it happens.
+Harry
+	But now we're here, we should make the most of it and have some fun, don't you think?
+Maria
+	What a vibrant town! Busy places can be so uplifting. But we mustn't let ourselves be distracted now.
+Harry
+	Absolutely! We must stay focused, %a000090.
+	No slipping off to have fun!
+Harry
+	ⓗLand of hope and gloryⓘ? I don't really have any particular hopes at the moment, as far as I know.
+Harry
+	Oh, come on! Don't look like that. There's nothing too pressing we need to do right now. Loosen up!
+Harry
+	Well, what I'm hoping for right now is to restore Coburg to its former glory.
+Harry
+	He lost? At what? I wonder what kind of things go on in this town.
+Harry
+	I wouldn't mind having some fun at the
+	casino myself.
+Harry
+	But no! We can't, can we? We have things to do.
+	The casino's going to have to wait until next time.
+Harry
+	It's as big as a castle town.
+	I bet it's pretty lively of a night.
+Harry
+	It's a fine thing for a person to have dreams
+	and ambitions. Mind you, I don't need to tell
+	you that, do I?
+Harry
+	Yes, I think I need a dream. Perhaps I'll come across something with all this travelling I'm doing now.
+Maria
+	That young girl was so full of spirit and energy.
+	I think I might be a bit jealous.
+Harry
+	A shop selling unusual items that's only open at night?
+Harry
+	They must have some interesting things in stock. We should definitely pay it a visit this evening!
+Harry
+	What kind of things do you think they might have for sale?
+Harry
+	We'd better go and find out this evening, %a000090!
+Harry
+	Ha ha hah! Just look at the envy in his eyes!
+Harry
+	There's nothing better than having something no one else can have, is there?
+Maria
+	His wife must love him very much to be so worried about him going out at night.
+Harry
+	What!? ⓗMisterⓘ? I'm not a ⓗmisterⓘ yet, am I?
+	I'm not that old, surely!
+Maria
+	He's just a little boy. In his eyes, you probably are. But you shouldn't let a little boy's ideas worry you.
+Harry
+	ⓗMisterⓘ...?
+	ⓗMisterⓘ!?
+	ⓗMisterⓘ?
+Maria
+	Oh, Harry. Don't let it upset you.
+Harry
+	ⓗNo passage without purchaseⓘ? It does look like a great short cut, though, doesn't it?
+Harry
+	Hmm... ⓗCuriosity Shopⓘ? It does sound a bit fishy, doesn't it? Do you think we're really going to want to know what it sells?
+Harry
+	What on earth could it be?
+	ⓗThe only one of its kindⓘ...?
+Maria
+	I've heard a rumour about this. People say it's some kind of decoration, something really extraordinary.
+Harry
+	If the residents of Fortuna themselves think it's a weird shop, it must be really weird.
+Harry
+	Well, if there's a place as lively as this, there must be somewhere else that's the opposite extreme.
+Harry
+	I wonder what's happened to Coburg while I've been away. Mind you, I suppose it's nothing to do with me any more, is it?
+Harry
+	............
+~ Harry bites his lip and hangs his head. ~
+Maria
+	Oh, Harry, don't feel bad.
+Harry
+	There are certainly some really useful spells to be learnt, aren't there?
+Harry
+	A castle town in the north-east? Well, it can't be Coburg. Coburg's a respectable place. There's certainly nothing scary about Coburg.
+Harry
+	I'm afraid she's right. They'd be very wise to stay away from Coburg at the moment.
+Harry
+	Right... I suppose we are old enough to drink now, aren't we?
+Harry
+	I'll tell you something, I don't mind not being able
+	to go back to that Zugzwang shrine. Talk about a living hell!
+Maria
+	Family is a wonderful thing. You know, having people around you who'll always care for you.
+	I, I wonder if I'll ever see Joshua again...
+Harry
+	Don't worry, Maria, I'm sure your brother's fine.
+Harry
+	What sort of lazy cowboy sleeps like that in the middle of the day?
+Harry
+	Ah, it's the owner of the Old Curiosity Shop!
+	I thought he was a rich businessman running the place for a bit of fun, but now I'm not so sure...
+Harry
+	Time marches on? It certainly didn't feel like it during all those years of slavery.
+Harry
+	But it's rather strange, you know. When I look
+	back on it now, it does almost seem like it was
+	over in a flash.
+Harry
+	Well, anyone could have told you that, couldn't they? Fortune-teller or no fortune-teller.
+Harry
+	D-Do you really think it's possible to
+	befriend monsters?
+Harry
+	It'd be absolutely incredible if it was.
+	We need to try this out at once!
+Harry
+	A bunny girl? Do you think Monty makes her
+	wear that? As a uniform, I mean. Uurgh...
+	I shudder to think!
+Harry
+	It's hard to turn a blind eye when you see people confined in such tiny cells.
+Harry
+	I mean, it's a bit of a shame, isn't it?
+Harry
+	He used to kidnap people!? Y-You don't think he's
+	one of the thugs who took me from the castle all those years ago, do you?
+Harry
+	Unbelievable! And to think I almost felt sorry for the people in these cells! He can stay in here for life as far as I'm concerned.
+Harry
+	Wow! So this is what a casino looks like!
+	And look at that! There's even a stage where they put on acts.
+Harry
+	All the lights are so dazzling, they're making my eyes go funny.
+Harry
+	Do you get the feeling we stick out like a couple of sore thumbs here, %a000090?
+Harry
+	Yes, so do I. I mean, it's a far cry from a life of slavery, isn't it?
+Harry
+	No? I suppose you're right. We're not slaves any more. It's our right to enjoy the casino if we want to!
+Harry
+	Ready to have some fun?
+Harry
+	Exactly! Ex-slaves like us have got nothing to lose, have we? Let's go nuts!
+Harry
+	What? A lackey never disagrees with his
+	master, understand?
+Harry
+	Don't get the wrong idea, Maria.
+	I'm not the one who brought you here.
+	It was %a000090.
+Maria
+	It looks like a lot of fun.
+	Why don't we enjoy ourselves for a while?
+	Just don't lose track of time!
+Harry
+	Leftover gold, he says? That sounds like a useful piece of advice from an old hand, if you ask me.
+Harry
+	Lose! Lose! Go on, lose!
+Maria
+	Oh, I hope he wins!
+Harry
+	Phew! That's a bit scary, isn't it?
+	Better not let anything like that happen to us.
+Harry
+	It's the first time I've ever seen theatre performed. It's pretty good, isn't it?
+Harry
+	Did you hear that, %a000090?
+	We've got to go for it, he said!
+Harry
+	Only, we're a bit tied up with more important things at the moment. We'd better push on.
+Harry
+	He could be right, but I can well imagine us running out of tokens before that happens!
+Harry
+	I suppose that's one way of looking at things, but I don't intend on being laid out in the family crypt until I've done everything I possibly can.
+Harry
+	It sounds like he enjoys watching people
+	getting fired up over their bets. Not the most admirable of occupations.
+Harry
+	Legends are legends, if you ask me. I sincerely doubt there's any such person as the legendary hero.
+Harry
+	Then I'll put down a thousand G that says he doesn't! H-Hey! I was only joking! Don't look at me like that. You're scaring me.
+Harry
+	Wow! Being so close to the performers gives the whole show an electric feel.
+Maria
+	It's such a romantic play! Do... Do you think we're allowed up on the stage?
+Harry
+	These people are fantastic! Maybe this could be my dream: to become an actor!
+Harry
+	O Maria! ⓚⓛ How did it go again? ⓚⓛ Though you are blind, and cannot see, I will wear my heart to show how much I do love thee!
+Maria
+	Stop it, Harry! You're embarrassing me!
+Harry
+	I wouldn't dream of peeking, but I can't make any promises about %a000090 here, ladies!
+	He's the one to watch out for!
+Harry
+	So those actors travel around, do they?
+	I don't imagine that makes for an easy life in these troubled times.
+Harry
+	Ch-Changing!? I can't look! I'd never be able to forgive myself!
+Harry
+	Behave yourself now, %a000090!
+	Remember that Maria's with us.
+Harry
+	The slurpodrome's a great idea. It's fantastic if you just want to forget everything and relax.
+Harry
+	It's true. Slimes don't think like us, that's why. In fact, they don't think at all. It's all just mush behind those big eyes of theirs, you know.
+Maria
+	This little slime's so cute.
+	There's not a nasty bone in its body.
+	I mean... Well, you know what I mean.
+Maria
+	It's a miracle! I don't think I've ever met a slime that could talk before.
+Harry
+	This town never ceases to amaze, does it? There's Treasures and Trapdoors here as well as a casino!
+Harry
+	We're in danger of forgetting what we're travelling for. And how long we've spent here.
+Harry
+	Wouldn't it be great if you could roll the exact number you wanted every time?
+Harry
+	Argh! I hate being laughed at! Come on, %a000090. We've got to have another bash.
+Harry
+	I wouldn't mind having as much time on my hands as he seems to have.
+Harry
+	Phew! What a lively place! Just looking at everyone running around makes me dizzy.
+Harry
+	I know the state of Whealbrook's come as a bit of a shock to you. It has to me too, as it happens.
+Harry
+	But now we're here, we should make the most of it and have some fun, don't you think?
+Maria
+	What a vibrant town! Busy places can be so uplifting. But we mustn't let ourselves be distracted now.
+Harry
+	Absolutely! We must stay focused, %a000090.
+	No slipping off to have fun!
+Harry
+	This place is almost as bright at night as it is during the day! I love all this glitz!
+Harry
+	Did you hear that? He won big! Come on!
+	There's more where that came from!
+	It's our turn to hit the casino now!
+Harry
+	But no! We can't, can we? We have things to do.
+	The casino's going to have to wait until next time.
+Harry
+	Do you think he's talking about the
+	Order of Zugzwang?
+Harry
+	I'm afraid to say I think the fellow's going to
+	be disappointed.
+Maria
+	My brother heard the rumours too. And believed them. That's why he joined the order.
+	If only he hadn't, maybe he'd be...
+Harry
+	Don't worry, Maria, I'm sure your brother's fine.
+Harry
+	ⓗA woman who is very close to youⓘ...?
+	Do you think she means your mother?
+Harry
+	I'm not a big fan of fortune-telling, to be honest.
+	But I hope she's right, anyway.
+Harry
+	My stepmother really believed in fortune-telling.
+	I tell you, it was a bit scary.
+Harry
+	So that's why I never listen to all that rubbish,
+	you see.
+Harry
+	So if we did away with the smug brat, we'd acquire twenty mini medals, then?
+Harry
+	I'm only joking! But don't tell me the thought didn't cross your mind too.
+Harry
+	He seems like a bit of a bruiser, but he's just a softie at heart, worrying about his wife like that.
+Harry
+	He's right. There's nothing like a hot bath after a hard day's work.
+Harry
+	She scared the life out of me, screaming like that! I mean, er... It was um...very loud. I wasn't scared. Ha!
+Maria
+	............
+Harry
+	She's right to be worried, I think. There are more monsters about between towns these days, and they seem a lot stronger now too.
+Maria
+	It's awful. We shouldn't have to live in a world where children can't even play safely.
+Harry
+	What are you smiling about?
+	She was talking to me, you know.
+Harry
+	He's not far wrong there, is he?
+Harry
+	But it's not us he should be feeling sorry for. What about all the poor slaves still being made to work at the shrine?
+Maria
+	I think all food's delicious, no matter what it is.
+Maria
+	You can taste the loving care of whoever grew the crops or reared the livestock, and of the chef who prepared it all too.
+Harry
+	It sounds like he really doesn't dare argue with his wife about it, doesn't it?
+Harry
+	I couldn't stand that. I just hope I don't end up like that if I get married one day.
+Maria
+	He should realise that his wife's just worried about him because she loves him.
+Maria
+	It's only natural to worry about the people you love.
+Harry
+	I'm sure it is. But I don't even remember what my mother looked like. She died when I was so young.
+Harry
+	And my father was so busy he didn't have any time for me. It didn't really feel much like a family to me.
+Harry
+	Maybe if I were to get married, I could change all that and build my own family.
+Maria
+	Yes, I don't know how I would have managed without my brother. And even though we're apart now, he's still always in my heart.
+Harry
+	The people here have a great time of it, don't they?
+Harry
+	So this is Mystic Mridula's house?
+Harry
+	I was expecting more dodgy-looking herbs and weird animals, to be honest.
+Harry
+	Isn't she amazing? She knows her little speech so well, she can say it in her sleep!
+Harry
+	Sounds like he's in trouble there!
+Harry
+	Are you off your rocker, %a000090?
+	It's a wagon! Where else are we going to be able to pick one of them up? And when?
+Harry
+	Wow! I never even dreamed of being able to buy a wagon for that kind of money. It's unbelievable!
+Harry
+	This is awful! That's the most unbelievable price
+	for a wagon I've ever heard, and we still can't afford it!
+Harry
+	Who's been wasting all our gold, hm?
+	It, it wasn't me.
+Harry
+	That was dead lucky, wasn't it, buying a wagon so cheaply? A gift from the Goddess for everything we've had to suffer up to now.
+Harry
+	He must just be a rich businessman having a bit of fun selling odd items, don't you think?
+Harry
+	Wow! So this is what a casino looks like!
+	And look at that! There's even a stage where they put on acts.
+Harry
+	All the lights are so dazzling, they're making my eyes go funny.
+Harry
+	Do you get the feeling we stick out like a couple of sore thumbs here, %a000090?
+Harry
+	Yes, so do I. I mean, it's a far cry from a life of slavery, isn't it?
+Harry
+	No? I suppose you're right. We're not slaves any more. It's our right to enjoy the casino if we want to!
+Harry
+	Ready to have some fun?
+Harry
+	Exactly! Ex-slaves like us have got nothing to lose, have we? Let's go nuts!
+Harry
+	What? A lackey never disagrees with his
+	master, understand?
+Harry
+	Don't get the wrong idea, Maria.
+	I'm not the one who brought you here.
+	It was %a000090.
+Maria
+	It looks like a lot of fun.
+	Why don't we enjoy ourselves for a while?
+	Just don't lose track of time!
+Harry
+	Right then, what shall we do? The slots, the slurpodrome, the monster arena...
+	Let's try everything!
+Harry
+	I know, I know. We're on a quest and all that.
+	There's no time for having fun at the casino.
+Harry
+	Leftover gold, he says? That sounds like a useful piece of advice from an old hand, if you ask me.
+Harry
+	Lose, lose, lose!
+Harry
+	Oops! I'd better not look like I want him to
+	lose, actually. Maria might see me and think
+	I'm really nasty.
+Maria
+	I hope he wins. Then he'll be happy, and it's always nice when people are happy.
+Harry
+	Hmm... That's a valuable lesson to learn. You can win big on the hundred-token machine, but you can lose big too.
+Harry
+	It sounds like it isn't all glitz and glamour for actors, then. They have to work hard to realise their dreams too.
+Harry
+	It sounds like he enjoys watching people
+	getting fired up over their bets. Not the most admirable of occupations.
+Harry
+	Legends are legends, if you ask me. I sincerely doubt there's any such person as the legendary hero.
+Harry
+	Then I'll put down a thousand G that says he doesn't! H-Hey! I was only joking! Don't look at me like that. You're scaring me.
+Harry
+	They put dancers on stage at night, look.
+	They really go the whole hog here, don't they?
+Maria
+	I don't know what it is about that song, but I really like it. It's so catchy.
+Harry
+	Classy isn't the word! Just look at the way she moves! She's amazing!
+Maria
+	Harry!
+Maria
+	I... Oh no. I can't dance. Come on, %a000090.
+	Let's get off the stage before I make a fool
+	of myself!
+Harry
+	Dance if you feel like dancing, %a000090.
+	I think I'll just sit it out if you don't mind.
+Harry
+	Ha ha ha hah! Not bad, %a000090.
+	You're not bad!
+Maria
+	Actually, you know...this is really good fun!
+Harry
+	I had no idea there was a castle like that around here. The world's really not a safe place any more,
+	is it?
+Harry
+	What a run-down-looking village!
+Harry
+	No! This is where you used to live!?
+	But it's so different to how you said.
+Harry
+	Being in this place makes me feel more than a smidgen uneasy.
+Harry
+	It reminds me what a thoughtless fool I was back in my younger years.
+Harry
+	............
+~ Harry seems to be deep in thought. ~
+Maria
+	Oh dear! This village is in a terrible way!
+	...Oh! This is your village, %a000090?
+Maria
+	I see. So that's why Harry looks so down in the dumps.
+Maria
+	But there's no need for you to feel bad, Harry. You're not the one who did this.
+Harry
+	Oh, Maria...
+Harry
+	I'll look for it too! I'll do whatever I can to help you, %a000090!
+Harry
+	What pretty blossoms!
+Harry
+	So the soldiers of Coburg burnt this place to the ground?
+Harry
+	And people think it's your father's fault I went missing?
+Harry
+	I'm so sorry, %a000090. I had no idea that it would come to this.
+Harry
+	What in the world has happened to Coburg!?
+	How could they ever do something so cruel!?
+Harry
+	............
+~ Harry is hanging his head low and chewing his lip. ~
+Harry
+	So the soldiers of Coburg burnt this place to the ground?
+Harry
+	And people think it's your father's fault I went missing?
+Harry
+	I'm so sorry, %a000090. I had no idea that it would come to this.
+Harry
+	I have the image of your father burnt in my mind's eye.
+Harry
+	You absolutely have to find your mother, %a000090!
+Harry
+	The soldiers who came here were funny-looking? I wonder what he meant by that.
+Harry
+	I'm going to do something about Coburg, you mark my words!
+Harry
+	Everywhere seems comfortable after that awful place we had to sleep in back at the temple.
+Harry
+	............
+~ Harry looks like he's feeling ashamed. ~
+Harry
+	What a run-down-looking village!
+Harry
+	No! This is where you used to live!?
+	But it's so different to how you said.
+Harry
+	Oh! I'm terrible with stories like this! Huh!
+	I feel all tearful now!
+Harry
+	You don't think it was the soldiers from Coburg, do you? That poor child's parents...
+Maria
+	Oh, Harry, don't feel bad.
+~ Harry looks like he's struggling not to cry. ~
+Harry
+	It's strange that even someone as strong as your father couldn't equip that sword.
+Harry
+	I suppose this legendary hero must have some special quality that enables him to use it like no other can.
+Maria
+	My brother and I could sense that you and Harry had some kind of special destiny, %a000090.
+Maria
+	And now here I am travelling around with you both! It's quite a strange feeling.
+Harry
+	Bianca's that friend of yours you had when you were little, isn't she? I hope she's well.
+Harry
+	Even if the hero is dead, it's possible he might have had a grandchild. We should start by looking for this legendary equipment first.
+Harry
+	So you used to come here when you were young, did you, %a000090?
+Harry
+	I suppose it's not a bad sort of place to practise your adventuring, what with the monsters around here not being all that strong.
+Harry
+	I can't help feeling that it's my fault your village is in such a sorry state. Don't you agree?
+Harry
+	Well, if there's anything at all I can do to make amends, you must say so, %a000090.
+Harry
+	I know you're just saying that to make me feel better, but thank you.
+Harry
+	We don't really have any reason to be here, do we, %a000090? Perhaps we should try to focus a bit more on the task at hand.
+Maria
+	I'm afraid I'm not very good in caves. For some reason, I can't help being reminded of that awful temple.
+Harry
+	This is an interesting-looking sword. You should check that treasure chest while we're here too, %a000090.
+Harry
+	So this is the Zenithian Sword. It's incredible how shiny the blade is even though it's so ancient. It must have amazing powers.
+Harry
+	It's a shame that only the legendary hero can use the Zenithian Sword.
+Harry
+	You know, I did wonder for a while if you might be him, but it looks like I was wrong.
+Harry
+	A dark world called Nadiria, the Zenithian Sword, the legendary hero... It's all a bit far-fetched, don't you think?
+Harry
+	Still, now that we've read it, I suppose we've no choice but to search for the rest of the Zenithian Equipment and the hero to boot!
+Harry
+	We should at least take the Zenithian Sword with us, don't you think?
+Harry
+	It's funny how your father left that letter here, isn't it?
+Harry
+	Maybe he somehow knew that something bad was going to happen to him.
+Harry
+	And yet he still carried on with his travels regardless.
+Harry
+	We've found what we were looking for, anyway. We should head back to the village.
+Maria
+	Don't think I don't appreciate you showing me around all these different places and everything.
+Maria
+	It's just... I think we should prioritise trying to help all those poor people who are suffering.
+Harry
+	Absolutely! We must stay focused, %a000090.
+	No slipping off to have fun!
+Harry
+	So this is where that childhood friend of yours is from. At least this place hasn't been burnt to the ground.
+Harry
+	I wonder how that friend of yours, Bianca, is getting along. Let's go and find her.
+Harry
+	............
+~ Harry seems to be deep in thought. ~
+Harry
+	Now I've heard what I've heard, I don't really have any choice but to go back to the castle and find out what's going on.
+Harry
+	............
+~ Harry is hanging his head low in silence. ~
+Harry
+	No matter where we go, we never hear a good word said about Coburg.
+Harry
+	Make sure you keep that Zenithian Sword hidden, won't you, %a000090? That probably counts as a legendary weapon.
+Harry
+	I hadn't realised the full extent of things up to now.
+Harry
+	But I'm starting to see that our world's in quite a perilous state.
+Harry
+	Oh, that's a shame, %a000090.
+Harry
+	I was looking forward to seeing your face when you met her again after all these years.
+Harry
+	I suppose it is quite romantic, the idea of searching for someone. It just doesn't feel that way when you're the one doing it.
+Harry
+	I wonder if all mothers feel like that.
+Harry
+	Don't know why I'm asking you, mind. Neither of us would have a clue when it comes to answering that question.
+Harry
+	So this is Bianca's house?
+	It's not a bad-looking place.
+Harry
+	I wonder where she is.
+Harry
+	Oh. So Bianca's not here any more.
+Harry
+	Ha! So this is the famous Zizzwizz Pillow!
+	It smells fantastic.
+Harry
+	Seven years ago? That's quite a while back now.
+Harry
+	Don't be too disappointed, %a000090!
+	I'm sure you'll run into her again somewhere.
+Harry
+	Ha! So this is the famous Zizzwizz Pillow!
+	It smells fantastic.
+Harry
+	That bunny girl's certainly, um...a bit old,
+	isn't she?
+Harry
+	No! She looked the same all that time ago?
+	...That's ten years!
+Harry
+	What are you playing at? We don't have time to mess around. We need to ask about the legendary hero.
+Harry
+	First there was all the talk about the legendary hero, and now we have this ⓗEsⓘ something or other to think about too.
+Harry
+	It's too much!
+Maria
+	Don't think I don't appreciate you showing me around all these different places and everything.
+Maria
+	It's just... I think we should prioritise trying to help all those poor people who are suffering.
+Harry
+	Absolutely! We must stay focused, %a000090.
+	No slipping off to have fun!
+Harry
+	So this is where that childhood friend of yours is from. At least this place hasn't been burnt to the ground.
+Harry
+	I wonder how that friend of yours, Bianca, is getting along. Let's go and find her.
+Harry
+	Wilbur was always much cleverer than me.
+	I thought he'd make a good king.
+Harry
+	If anyone has a way of communicating with monsters, I'd say it's you, %a000090.
+Harry
+	And Monty the monster monitor is another one who seems to get on with the things.
+Harry
+	Hey! Maybe the old man is part of the clan who guard the seal! ...Actually, no. He hardly looks the part.
+Harry
+	We don't have anyone who'd say that kind of thing about us.
+Harry
+	When I get married and have children of my own, I'm going to spoil them something rotten!
+Harry
+	We should stay here the night too.
+Harry
+	I have a few things I need to think about.
+Harry
+	Um, %a000090. Like I said last night, I'm quite concerned about the situation over in Coburg.
+Harry
+	I know it'll be a bit of a detour for us, but do you mind if we go and see what's going on?
+Harry
+	That bunny girl's certainly, um...a bit old,
+	isn't she?
+Harry
+	No! She looked the same all that time ago?
+	...That's ten years!
+Harry
+	What are you playing at? We don't have time to mess around. We need to ask about the legendary hero.
+Harry
+	First there was all the talk about the legendary hero, and now we have this ⓗEsⓘ something or other to think about too.
+Harry
+	It's too much!
+Harry
+	Just because you have a legendary weapon, it doesn't mean you can equip it. More's the pity.
+Harry
+	He's not the only one who's disappointed. I wonder where they are now and what they're doing.
+Harry
+	So this is the castle you came to all those years ago on your big ghost-hunt?
+Harry
+	You must've been quite a brave young thing, coming here in the middle of the night when you were just a child!
+Maria
+	I had no idea there was a castle all the way out here.
+Harry
+	(cough cough)
+	It looks smart enough from the outside, but it's a real dust trap on the inside!
+Harry
+	Why have we come here, %a000090?
+	I certainly can't think of any good reason.
+Harry
+	Unless! Are you taking us on a trip down memory lane with you, by any chance?
+Harry
+	Hey! Did you see that!? I wonder if it was a ghost. Let's go and see!
+Harry
+	There was I hoping I'd seen a ghost, when it was nothing more than a runaway couple!
+	I didn't expect to find them here.
+Maria
+	Aaah, forbidden love across the class boundaries... At least they were lucky enough to find this place to live in together.
+Harry
+	It's good that the two of them didn't go through with the dying idea. Once you're dead, you're dead. There's no changing your mind then.
+Maria
+	They both seem so happy. Seeing people like that makes me feel happy too.
+Harry
+	What a strange count he must've been to have put his graveyard up on the castle roof!
+Harry
+	The people in these graves asked you to defeat the ghosts? That all sounds a bit far-fetched!
+Harry
+	That man doesn't seem to have much of a shadow.
+	M-Maybe I'm just imagining it, though. Ha ha!
+Harry
+	The only way to reach any of the other continents from here is by boat.
+Maria
+	I feel so unsettled when I look at the ocean. On the other side of it is my brother and all those poor people trapped as slaves.
+Harry
+	Don't worry, Maria, I'm sure your brother's fine.
+Harry
+	............
+~ Harry appears to be deep in thought. ~
+Harry
+	I find it hard to imagine Wilbur giving out
+	such strict orders. He was never the most
+	strong-minded of chaps.
+Harry
+	All of this will change when we oust that impostor.
+Harry
+	............
+~ Harry is hanging his head low in silence. ~
+Harry
+	Permission!? I didn't need anything of the sort when I was a child!
+Harry
+	I know you want to go, %a000090. But I'm afraid Coburg holds no attraction for me whatsoever any more.
+Harry
+	That's Frank. He used to just be a lowly servant. And yet look at him now, a soldier and everything!
+Harry
+	His one weakness is large frogs. He's so scared of them! I used to have a lot of fun planting them about the place to give him a fright!
+Harry
+	That's Coburg just across the river. The wind smells just the same as it used to in the old days.
+Harry
+	Heavy-handed laws? I wonder what he means.
+	We'll have to find out what's going on.
+Harry
+	I didn't imagine I'd be setting foot in this place again. And yet here I am!
+Harry
+	Things seem to have changed an awful lot. The place looks really run-down.
+Maria
+	To think that you were prince of such a grand-looking castle, Harry!
+Maria
+	Now I feel all ashamed. Have I been disrespectful, speaking to you in such a familiar way?
+Harry
+	Don't be ridiculous! It makes me feel sad hearing you say things like that.
+Harry
+	Surely we can't be in danger just for coming near the castle!? Whatever has become of this place?
+Harry
+	There were plenty of times when we went without food for three days back when we were slaves, eh, %a000090?
+Maria
+	I heard a few nasty rumours about Coburg back at the abbey, but I had no idea things were this bad.
+Harry
+	That was a bit mean, %a000090. Surely you could afford to give her a few coins?
+Maria
+	If I had any money, I'd give as much as I could to these poor folk here.
+Harry
+	............
+~ Harry is biting his lip in thought. ~
+Maria
+	Goddess, please have mercy on these poor suffering souls.
+Harry
+	I cried with hunger in those first awful days of becoming a slave. There's nothing worse than being without food.
+Maria
+	That poor boy. He looks so weak and thin...
+Harry
+	A monster in the castle courtyard of all places! I thought it was a dog, and it took me totally off-guard!
+Maria
+	Are you alright?
+Maria
+	There's no need to worry about me. Luckily, you were there to protect me.
+Harry
+	Why are my people having to suffer just so soldiers from foreign lands can be enlisted?
+Harry
+	It doesn't make sense! Whoever's responsible for this will have me to answer to!
+Maria
+	It's just like in the Order of Zugzwang. Why is it always those that are weak who are made to suffer?
+Harry
+	We should still keep my true identity a secret, okay, %a000090?
+Harry
+	I didn't often use that passage, so I can't remember exactly where it is.
+Harry
+	I can't help feeling that it was always quite tricky to see in the daytime.
+Harry
+	A castle fell from the sky!? I didn't even know there was a castle up there in the first place. It's all a bit odd if you ask me.
+Maria
+	I've heard something like that before myself.
+Maria
+	Maybe the Goddess did it. Maybe she made the castle fall and the monsters attack humans again as a way of testing us.
+Harry
+	What's all this about the Queen Dowager? Shouldn't it be Wilbur who has the authority around here!?
+Harry
+	ⓗRules the worldⓘ!? Whatever does the old bag think she's up to?
+Harry
+	Ugh. This place has really gone to the dogs with people like him around.
+Harry
+	What's a monster like him doing inside the castle!? Am I seeing things!? Why doesn't anyone else seem surprised!?
+Maria
+	Dearie me. What scary-looking folk they are. I wonder how this castle ended up in such a state.
+Harry
+	He's right about those soldiers being an unsavoury-looking bunch.
+Harry
+	I was starting to worry that all the soldiers here had gone mad. It's nice to see one with his head still screwed on.
+Harry
+	It's been bad here for a long time, ever since the soldiers were sent to destroy Whealbrook.
+Harry
+	Curse it all!
+Harry
+	Darwin? I've never heard of him before. I wonder who asked him to come to the castle...and why.
+Harry
+	That all sounds rather complicated. I'm not very good when it comes to that kind of thing.
+Maria
+	A secret unlocking the mysteries of evolution? It all sounds a bit scary for my liking.
+Maria
+	I'd say it's more likely to be the hand of evil than the hand of the Goddess.
+Harry
+	I think it was around here somewhere.
+Harry
+	Ah! A switch! Nice work, %a000090!
+Harry
+	This passage was made so that it could be used as a means of escape in case of some kind of emergency.
+Harry
+	I never imagined I'd be using it to sneak inside my own castle! Of all the ironies!
+Harry
+	I only caught a quick glimpse, but there seemed to be a rather well-to-do lady in one of the cells. Surely not...
+Harry
+	Now I'm starting to remember. I think you can get to the jail cells from here.
+Harry
+	So she's the one behind all this? I didn't want to believe it because she is Wilbur's mother, after all. But now...
+Harry
+	The Goddess won't need to punish her, because I'm going to see to it that she pays for what she's done right now!
+Harry
+	Was that the real dowager, do you suppose, or the fake one? Now I'm really confused!
+Maria
+	What a terrible place to die...
+Maria
+	May all these poor souls find their way from these dark depths to the eternal comfort of the Goddess on high!
+Harry
+	I don't understand! That's definitely the Dowager...my stepmother. No question about it.
+Harry
+	So whatever is she doing stuck in a jail cell when she should be luxuriating away upstairs in the castle proper?
+Harry
+	So there are two dowagers!? Who is the other one? And is she planning on taking over my kingdom?
+Harry
+	At least this means Wilbur isn't the one at fault. That's something of a relief.
+Harry
+	Pah! I won't allow that fake dowager to send Coburg further into ruin!
+Harry
+	Just as we thought. That dowager must be fake. That would explain everything the old lady said.
+Harry
+	The problem is, how do we prove it?
+Harry
+	I'm going to do everything in my power to put this kingdom right, %a000090! Everything in my power!
+Maria
+	I can't believe a person could be executed just for not paying their taxes. Oh, Goddess have mercy!
+Harry
+	Hmph. That chancellor fellow is here. Not that we need to take any notice of that worthless creature, I suppose.
+Harry
+	A story about a mysterious mirror? Yes, I seem to remember something like that. But how does that help us?
+Harry
+	The castle vault... That's not far from the place I was snatched all those years ago. Brrr! The thought of it sends shivers down my spine!
+Harry
+	I've never heard anything so ridiculous. Can you imagine what it would be like if a selfish man like me were king?
+Harry
+	If anyone around here is cut out for the monarchy, I'd say it's you, %a000090. Don't let that go to your head though, eh.
+Maria
+	He's right, Harry. You really are brave.
+Maria
+	I'll never forget that day you stood up to the guard even though he had a whip in his hand. You were incredible.
+Harry
+	What a tiresome little man. I don't blame Wilbur for feeling so uninspired with a man like that as chancellor.
+Harry
+	Curses! I was hoping we'd be able to expose that fake dowager once and for all!
+Harry
+	But meeting with her alone isn't enough.
+	We need some way of proving it.
+Harry
+	Curses! I was hoping we'd be able to expose that fake dowager once and for all!
+Harry
+	But meeting with her alone isn't enough.
+	We need some way of proving it.
+Harry
+	This must be the book Wilbur was talking about.
+Harry
+	A mirror ⓗwith the power to show the truthⓘ... Interesting. We'd better go and have a look at that tower, then!
+Harry
+	It's funny to think of a teleportal inside the castle somewhere. I wonder who made it.
+Harry
+	Shouldn't we be heading over to that tower with the mysterious mirror, %a000090?
+Maria
+	Erm, it's not really my business, but what are we doing here? Weren't we supposed to be going to the tower?
+Harry
+	We'll have to come back during the daytime if we want to get inside the castle. We should rest for now.
+Harry
+	This place feels even more desolate at night.
+	It's like walking through a graveyard.
+Harry
+	I'm going to sort this mess out, you mark my words!
+Maria
+	Shouldn't the rulers of a kingdom be there to make their people happy? That's what I always thought.
+Harry
+	I didn't realise that my father was trying to pass the crown on to me before he died.
+Harry
+	I do remember there being a strained atmosphere in the castle at the time. I suppose that was why.
+Maria
+	If only you'd become king, Harry. Then none of this would have happened.
+Harry
+	There are certainly plenty of books here, so it's quite possible he'll find what he's looking for.
+Harry
+	I wonder what the curiosity he's heard about might be. I never heard of anything like that.

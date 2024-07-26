@@ -1,0 +1,58 @@
+*: 
+	Welcome to the Monster Arena, where monsters from all over the world gather together to pit their skills against each other!
+*: 
+	Can you predict who'll win?
+	Put your money where your mouth is, and you could be in for some monstrously big winnings!
+*: 
+	Here's the line-up for the next fight.
+	Which monster do you want to back?
+*: 
+	Yikes! You don't seem to have any tokens at all! Why don't you come back when you've bought a few?
+*: 
+	You want to bet on %a020030, right?
+*: 
+	It's one token per ticket, and you can buy up to fifty of them. How many do you want?
+*: 
+	You want to buy %a000710 ticket%H0710%X%Ys%Z for %a020030? Alrighty! Enjoy the show!
+~ %0%a020030 comes out on top!  ~
+*: 
+	Congratulations! You won a monstrous %a000720 casino token%H0720%X%Ys%Z!
+*: 
+	Looks like you already have the maximum number of tokens there. Sure you still want to play?
+*: 
+	The next fight's about to start.
+	Care to place another bet?
+*: 
+	Sorry, %a000120! %0%a020030 you bet on was knocked out.
+*: 
+	Oh well! You win some, you lose some.
+*: 
+	You'll lose your bet if you leave now.
+	You're not really going so soon, are you?
+*: 
+	Then we'll call an end to the fight here.
+*: 
+	Hope to see you back again soon.
+*: 
+	Great! Hope you enjoy the rest of the show!
+*: 
+	Oh! So you're leaving already.
+*: 
+	Hope to see you back again soon.
+*: 
+	I have an announcement.
+*: 
+	Seeing as the battle's been going on for so long now, we've decided to call it a draw.
+*: 
+	We'll return the tickets you bet so you can use them on the next match.
+*: 
+	So you've had enough for today?
+	As you wish! Come again soon.
+~ %0%a020030 loses the match.  ~
+*: 
+	You can't pull out of this one.
+	Which monster are you going to back?
+*: 
+	You've racked up more than 10000 tokens, so I'm afraid we're going to have to call an end to it here.
+*: 
+	You can bet the tokens you just received straight on the next fight. Are you game?

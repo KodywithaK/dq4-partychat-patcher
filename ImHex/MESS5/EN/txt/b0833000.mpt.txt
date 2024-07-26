@@ -1,0 +1,28 @@
+~ Create a new adventure log? ~
+~ Delete this adventure log and create a new one ~
+~ in its place? ~
+~ Sorry, but you can't have that name. ~
+~ Creating adventure log. ~
+~ Do not turn the power OFF ~
+~ or remove the DS Game Card! ~
+~ The adventure log could not be ~
+~ created. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ Delete ⓗ%a000660: %0%a000090 ⑭%a000940 %a000950 %a000240ⓘ? ~
+~ Delete ⓗ%a000660: %0%a000090 Ⓓ⑭%a000940 %a000950 %a000240ⓘ? ~
+~ Deleting adventure log. ~
+~ Do not turn the power OFF ~
+~ or remove the DS Game Card! ~
+~ Adventure log deleted. ~
+~ The adventure log could not be ~
+~ deleted. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ The adventure log could not be ~
+~ accessed. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ A corrupted adventure log was found, and has ~
+~ been deleted. ~
+~ Are you sure you want to delete ~
+~ ⓗ%a000660: %0%a000090 %a000240ⓘ? ~
+~ ⓗ%a000660: %0%a000090 ⑭%a000940 %a000950 %a000240ⓘ ~
+~ ⓗ%a000660: %0%a000090 Ⓓ⑭%a000940 %a000950 %a000240ⓘ ~

@@ -1,0 +1,69 @@
+Bianca
+	Is this Nadiria? I think it must be, there's a horrible feelin' in the air.
+Nera
+	So we're finally here. You can tell this is the beginnings of the underworld from the sinister
+	feeling in the air.
+%0%a001240
+	Dad... This place has got a really scary feel to it.
+%0%a001250
+	Um... I'm feeling a little bit s-scared here.
+%0%a001240
+	Don't worry, sis. I'll look after you.
+%0%a001250
+	I know, %a001240...
+Sancho
+	Now we have come thees far, your Uncle Sancho, he ees ready! Sí, he ees ready like the
+	beeg plate of paella!
+Tuppence
+	I say! I never imagined I'd f-find myself in a p-place like this.
+Tuppence
+	Dear me. I'm afraid I'm rather on edge. So much so that I can't even muster a joke.
+Bianca
+	That voice... Do you think it could've bin your mum's?
+Bianca
+	I know it's hard to believe, but she sounded
+	so gentle...
+Nera
+	Did you hear that, darling? Your mother isn't far away now. Let's move on.
+Nera
+	Your mother must have some amazing powers to be able to send us a gift out of nowhere like that.
+%0%a001240
+	Can you hear me, Grandma? I'm your grandson, %a001240! We're coming to rescue you!
+%0%a001240
+	That's a relief, isn't it, Dad? She doesn't seem to be angry that we're here.
+%0%a001240
+	I'll bet she's glad to see us, really. All grannies like to see their grandchildren!
+%0%a001250
+	Grandma...
+%0%a001250
+	So this is a sage's stone. I saw a picture of one
+	in an old book once, but I've never seen one for
+	real before.
+Sancho
+	Señora Mada! I, I, I... (sob)
+	I no hear thees voice for eso long!
+Sancho
+	Ees no far now, friend!
+	Your madre, eshe ees thees way.
+Tuppence
+	Good heavens! What an exquisite stone! I can sense a very mysterious power within it too.
+Bianca
+	Come on, %a000090. We dun't want to hang around here any longer than we have to.
+Nera
+	Now we're here in Nadiria, there's just one thing for us to do. We should hurry.
+%0%a001240
+	I'm going to try really hard, Dad. We'll defeat the Grandmaster of the Underworld, you'll see!
+%0%a001250
+	Everything's alright, isn't it, Dad? We're all here, so everything's going to be fine, right?
+Debora
+	Urgh. This place has a horrible feel to it.
+	It's certainly not normal.
+Debora
+	That voice... Was that your mother, %a000090?
+	It won't be long now before you meet her.
+Debora
+	Your mother certainly has some impressive powers up her sleeve.
+Debora
+	To be able to speak with us even when she's in the clutches of the monsters... I can understand why Nimzo sees her as a threat.
+Debora
+	Now we've come this far, there's only one thing left for us to do. Let's go, everyone!

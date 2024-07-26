@@ -1,0 +1,122 @@
+%0%a001240
+	If only I'd been bigger when Mum was snatched away, then I could've done something.
+%0%a001250
+	I came here before with Sancho and %a001240. We wanted to see the places you'd been through yourself.
+%0%a001240
+	You came here before with some talaria,
+	didn't you, Dad?
+%0%a001240
+	I wonder who would make flying shoes like that. What a funny idea!
+Sancho
+	I no eso happy to be here again.
+Sancho
+	When I theenk about all the pain and the esuffering you have been through, friend, eet, eet makes me eso miserable... (sob)
+Tuppence
+	When I think about the Chancellor, it strikes
+	me how odd people can be, being taken in
+	by monsters like that.
+Bianca
+	I think I came by here when the monsters snatched me, but I can't be sure.
+Nera
+	I wasn't all that scared when the monsters snatched me away.
+Nera
+	I was much more worried about you getting hurt if you tried to come and rescue me.
+%0%a001240
+	I know all about this! Normal ink goes all faint and hard to read if it's left for a long time.
+%0%a001240
+	So people have to rewrite everything before it ends up impossible to read. I remember the nun in Gotha doing it.
+Nera
+	I remember being shown the manuscript during my time at the abbey. It's a wonderful piece of work.
+Nera
+	Imagine being written in its own special ink!
+	That shows how grand it must be.
+%0%a001240
+	It's weird to find an inn with a church upstairs.
+	But maybe it means the Goddess watches over
+	people who sleep here.
+%0%a001240
+	Is this the amazing ink people talk about so much?
+	I'd love to try using it sometime!
+%0%a001250
+	Do you think this ink really stays put for, say, a hundred or even a thousand years?
+%0%a001250
+	That means you can't write anything too weird, otherwise people in the future will be laughing
+	at you.
+Sancho
+	Anda! Ees cooking for eseveral years!?
+	You must look after eet well, friend.
+Tuppence
+	Do you think it's really alright for us to accept this ink if it took so much effort to make it? I should imagine it would cost a fortune to buy.
+%0%a001240
+	I've seen that man here before. He's been working on that ink for ages.
+Tuppence
+	I say! If you don't want any, %a000090, then I'd beⓚⓛ No, never mind. I'm sure you're right.
+%0%a001250
+	He seems so happy that he's succeeded that he can't manage to think of anything else!
+%0%a001240
+	If I were him, I'd tell everyone how it's done and have them all making ink for me.
+%0%a001250
+	These local specialities can bring in so much
+	money to places. I suppose that's why they're
+	so important to people.
+Sancho
+	I remember thees eenk, we order eet once when I was leeving een Gotha.
+Sancho
+	Eet was used at the wedding of señor Pankraz and señora Mada for esigning the marriage certificate. Eet, eet was esuch a happy time!
+%0%a001240
+	I wonder what the statues here are of. Do you think Mum looks something like this?
+Bianca
+	You really had everyone worried when you went off lookin' for me, %a000090.
+Bianca
+	In an ideal world, it would be nice not to have to worry them again, but still...
+Nera
+	Who would have thought back then that it would
+	be so many years before we returned home safe and sound?
+Nera
+	It's such a shame that we caused so much trouble and worry for everyone.
+%0%a001240
+	Ever since we were tiny, I remember that people were always trying their hardest to find you again.
+%0%a001240
+	And in the end, %a001250 and I grew big enough to be able to come looking for you ourselves.
+%0%a001250
+	Don't go disappearing again, will you, Dad.
+	It was really hard work trying to find you.
+Sancho
+	I remember when you were missing, friend. Prince Albert, he would no esleep unteel you were found.
+Sancho
+	You are eso lucky, friend... I mean, My Majesty.
+	You are loved by eso many peoples...
+Tuppence
+	This place isn't all that far from Gotha, but you
+	can't get here on foot. It must've been quite tricky for them.
+Sancho
+	Qué? Who ees the estronger man, you or señor Pankraz?
+Sancho
+	No, no, friend. You are estill just a child. You can no compare yourself to your father.
+Bianca
+	Never a truer word has bin spoken. Pankraz really was an incredible man.
+Bianca
+	Don't look at me like that, %a000090!
+	You're Pankraz's son, after all. So you en't
+	that bad neither!
+Nera
+	In all my years in this world, I don't think I've ever met a more solid character than you! He he he!
+Tuppence
+	I see! That means looks are probably a factor in all this too. Maybe I should spend more time working on my eyebrows...
+%0%a001250
+	If Grandpa was such a good man, then that means you must be pretty amazing too, Dad.
+Debora
+	I remember this place. When I was kidnapped by those monsters, I put up quite a fight!
+Debora
+	I can't think of a job more boring than transcribing text to make copies of a manuscript.
+Debora
+	The idea alone almost sends me to sleep.
+Debora
+	I know I caused people a lot of worry when I went missing, but I can't help it if they hold me in such high regard.
+Debora
+	By the way, it wasn't just you who was out looking for me all that time, was it? There were other soldiers too, right?
+Debora
+	There's a solid character standing right in front of him. Don't you agree, %a000090?
+Debora
+	Oh, don't just stand there looking gormless!
+	Snap to attention now, there's a good servant!

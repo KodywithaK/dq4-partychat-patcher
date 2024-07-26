@@ -1,0 +1,864 @@
+Bianca
+	Come on, let's go and explore! I can show you around so you don't go gettin' yourself lost, %a000090.
+Bianca
+	Mum still treats me like I'm just a little baby.
+Bianca
+	I hope Dad gets better again soon.
+Bianca
+	Your father looks so strong and powerful.
+Bianca
+	You're a bit weedy compared to him. Maybe you'll get more like him as you grow up, though, eh?
+Bianca
+	Ha ha! Did that little story give you a fright, %a000090?
+Bianca
+	It dun't scare me one bit. I've heard it so many times now that I just take it with a pinch of salt.
+Bianca
+	Our place is an inn, so we've got quite a lot of crockery and the like. I dun't remember seein' anythin' silver, though.
+Bianca
+	There's quite a few shops here in Roundbeck, y'know. Our inn's the biggest, though.
+Bianca
+	He's got a blimmin' cheek, thinkin' we're out to cause trouble!
+Bianca
+	Ha! What he dun't realise is that I know he falls asleep of a night. I've seen him!
+Bianca
+	Those kids are always up to no good.
+Bianca
+	You wun't believe what they did to me the othⓚⓛ Never mind. It's nothin'!
+Bianca
+	Now I dun't have any choice but to go off ghostbustin'. Will you give me a hand, %a000090?
+Bianca
+	Really!? You're braver than you look!
+	I never expected you to say yes.
+Bianca
+	Oh, go on! I'll be with you, so you wun't come to any harm or nothin'. Let's go!
+Bianca
+	I wonder if there really are ghosts there.
+Bianca
+	We can't let those nasty brats get away with bullyin' that poor little cat!
+Bianca
+	Hang in there just a bit longer, puss. We'll rescue you, dun't you worry.
+Bianca
+	That's a funny old purr you've got goin' there, though!
+Bianca
+	It's hard to imagine that old man was ever young, eh!?
+Bianca
+	Kids aren't supposed to come in here, %a000090! I suppose you couldn't have known that, though.
+Bianca
+	I bet my mum would be just the same if I said I wanted a cat. Mums, eh!?
+Bianca
+	It's a lot livelier than little old Whealbrook, eh? You look a bit surprised.
+Bianca
+	You used to come 'round my house to play quite a lot when you were little. Don't you remember?
+Bianca
+	This is the best room in the house.
+	The view from here's amazin'.
+Bianca
+	Mum planted a grapevine last year.
+Bianca
+	When we get some grapes off it, I'll let you have a taste.
+Bianca
+	You still a bit sleepy, %a000090?
+Bianca
+	You'd better get with it if we're off to Uptaten Towers on our ghostbustin' mission.
+Bianca
+	I'm not sure I believe you. Unless you're sayin' you always look that dopey.
+Bianca
+	This time we'll manage it. We'll sort them ghosts out and set that poor kitten free.
+Bianca
+	Watch out, %a000090! We'll be in trouble if you wake him up.
+Bianca
+	I dun't think I'd be scared of a ghost if it was just standin' there cryin'.
+Bianca
+	I hope Mum dun't catch Dad's cold, sleepin' that close and all.
+Bianca
+	We've had cold weather for ages now.
+	It's no surprise Dad got ill with it.
+Bianca
+	Fancy thinkin' we're ghosts! Charmin'!
+Bianca
+	I knew he'd be asleep. Looks like we can leave.
+	I'm a little bit nervous now, though.
+Bianca
+	It's hard to imagine that old man was ever young, eh!?
+Bianca
+	Oops. Looks like we're in trouble. But it's not like we were up to no good or nothin'.
+Bianca
+	Looks like it's not a good idea for kids to go in a pub of a night after all.
+Bianca
+	I know! We should come back here again one day when we're all grown up, %a000090!
+Bianca
+	We'll do it! And that's a promise.
+Bianca
+	I understand what he's gettin' at. The glass you drink from can be just as important as the drink itself.
+Bianca
+	I wonder why grown-ups act so funny when they've bin drinkin'. I dun't get it.
+Bianca
+	Are you okay, %a000090? Maybe we should've bin a bit more careful, eh?
+Bianca
+	We'd better try and take it a bit more slowly this time.
+Bianca
+	I've never snuck out of town like this before.
+	It's well excitin'!
+Bianca
+	We saved the cat and we helped those nice people at the castle, so it was worth all the effort.
+Bianca
+	Ha! So he dun't think I'm a wimp any more.
+Bianca
+	I wun't too sure if I'd manage it either! I doubt I could've done it without you, %a000090.
+Bianca
+	%0%a001210 seems pretty happy. I hope he likes his new name.
+Bianca
+	That guard always falls asleep of a night, so he can't stop us goin' out. You've seen it for yourself now, eh, %a000090?
+Bianca
+	I'm startin' to feel a bit weird havin' all this praise lumped on me.
+Bianca
+	She must have blimmin' good ears to be able to hear cries from the castle at this distance!
+Bianca
+	I thought I'd really be for it, but Mum dun't seem all that angry.
+Bianca
+	I bet it's because you were there with me, %a000090.
+Bianca
+	You're pretty brave considerin' you're two years younger than me and all that.
+Bianca
+	I reckon havin' you along helped me to be that bit braver as well.
+Bianca
+	Looks like you'll be goin' back to Whealbrook once you've said your goodbyes, eh?
+Bianca
+	Um... Never mind. You'd better get around and tell everyone you're off.
+Bianca
+	You should take %a001210 along with you, %a000090. Make sure you give him a stroke from me every now and then.
+Bianca
+	That's all that old bloke ever says. We must really remind him of how he used to be.
+Bianca
+	All we were tryin' to do was save %a001210. You wouldn't have thought it'd cause such a fuss.
+Bianca
+	It's good that your dad's got over his cold already.
+Bianca
+	But I wish it didn't mean you have to go home today. We've bin havin' a good laugh together, you and me.
+Bianca
+	It's a little bit odd-lookin', but it's still quite cute as cats go.
+Bianca
+	I wonder why there are so many gravestones here at the entrance to the castle.
+Bianca
+	I dun't much like the look of this.
+Bianca
+	That's weird! Last thing I knew, we were stayin' at the inn inside the castle.
+Bianca
+	So how did we end up outside?
+	I dun't like this one bit!
+Bianca
+	It dun't look like we're goin' to get that door open. This castle's fallin' to bits.
+	I s'pose no one comes here no more.
+Bianca
+	I've got a horrible cold feelin' up and down my spine. You be careful, okay, %a000090?
+Bianca
+	Keep your eyes peeled, okay, %a000090?
+	I've got a nasty feelin' about this place.
+Bianca
+	.........!
+Bianca
+	I was a bit scared for a while back there, but it's all just show, I reckon.
+Bianca
+	Nothin' can frighten me now!
+Bianca
+	I wonder if she used to be the head of the castle.
+	Shall we try goin' down those stairs?
+Bianca
+	That poor woman. Fancy still havin' to suffer even after you're dead!
+Bianca
+	Come on, %a000090! Let's get to work. We came here to get rid of ghosts, after all.
+Bianca
+	Yikes! That was a bit of a shock! The lightning's so strong all of a sudden.
+Bianca
+	I wonder if that fella who just disappeared was the king or suchlike of this place.
+Bianca
+	Why do the both of them keep disappearin' rather than just comin' out with whatever it is they want to say?
+Bianca
+	Those must be the folk who are made to keep dancin'. The poor things. They look exhausted.
+Bianca
+	Where's this king fella off to!?
+Bianca
+	He's a bit of a pushy one, eh? Still, we can agree to what he wants because that's the reason we're here anyway.
+Bianca
+	I s'pose the Count's tryin' to help us out as much as he can. That's good.
+Bianca
+	Shall we head on down to the kitchen and get that torch then, %a000090?
+Bianca
+	I s'pose it's time then. It's a bit scary, but I'm sure we can do it, %a000090.
+Bianca
+	I was a bit frightened at first, but when I saw the Count and Countess, it wasn't all that scary.
+Bianca
+	And this room's so full of people that it sort of feels nice and lively, not spooky at all!
+Bianca
+	Still, it is a bit weird when you think we're the only ones here who are actually alive. Hm, maybe it is a bit scary, after all!
+Bianca
+	What's so scary about these spirits of Nadiria?
+	I don't really get what he's on about.
+Bianca
+	I wonder why there are some human ghosts and some non-human ghosts too.
+Bianca
+	Maybe they lost their bodies somehow, so they can't go back to how they used to look.
+Bianca
+	What nasty creatures!
+Bianca
+	I never imagined skeletons could get hungry.
+	I wonder what happens to the stuff they eat.
+Bianca
+	What d'you suppose skeletons like to eat, anyway? Nah! Maybe it's best not to know.
+Bianca
+	They don't seem to be able to see us.
+	I suppose skeletons must be blind.
+Bianca
+	That poor girl. They've probably bin makin' her dance like that for years now.
+Bianca
+	I wonder if this %a000100 is part of the tea set.
+Bianca
+	It's as dirty as anything, though. The Count and Countess would be really sad if they saw it in this state.
+Bianca
+	It must be horrible wantin' to sleep but not bein' able to.
+Bianca
+	I want to sort these ghosts out and then get off to bed myself, to be honest. Best get crackin'!
+Bianca
+	The door's open! I didn't much like the feel of that warm breeze just then, mind.
+Bianca
+	There's somethin' too weird about this. I dun't like the idea of stayin' the night with a dead spirit!
+Bianca
+	I heard somethin' about there bein' treasure here too. Looks like it was just a rumour. Oh well.
+Bianca
+	Crikey! What a smell! Come on, %a000090. 
+	Let's get out of here!
+Bianca
+	I feel a bit sorry for the special ingredient, havin' to be smothered in that stinky sauce!
+Bianca
+	Now we'll be able to find our way in the dark. Thanks, Count Uptaten!
+Bianca
+	Make sure you dun't burn yourself, %a000090.
+Bianca
+	It's a million times easier to walk about the place now. Ouch! That's hot! Have a care, %a000090!
+Bianca
+	Phew! That was a close one. That smelly sauce has made me stink, mind you!
+Bianca
+	I didn't expect that hole to be there, did you?
+Bianca
+	Looks like we put that cook's mind at ease, anyway.
+Bianca
+	Now we just have to sort out the boss man.
+	Come on, %a000090!
+Bianca
+	That really is a pretty ball.
+	It's like a huge jewel or somethin'!
+Bianca
+	I wonder if the ghosts came here and ransacked the place because they were tryin' to find it.
+Bianca
+	That's weird! Our clothes are all nice and clean again!
+Bianca
+	The Count and Countess must've got rid of the nasty sauce stains for us somehow.
+	That's handy!
+Bianca
+	I dun't like it here. It's dark and creepy. I reckon there are ghosts about.
+Bianca
+	But we have to stick it out for the sake of that poor cat. Come on, %a000090. Let's keep goin'.
+Bianca
+	The creepy feelin' about this place has suddenly gone now the ghosts are defeated.
+Bianca
+	It's like everythin' about the place has changed, even the air!
+Bianca
+	Looks like it'll be mornin' soon.
+	We'd best get back to Roundbeck.
+Bianca
+	We can't seem to get out of here now. B-But I'm sure we'll be okay if we keep goin' forwards!
+Bianca
+	I thought it'd be too dark to get anywhere, but we should be fine now. On we go, %a000090.
+Bianca
+	I wonder what made the ghosts come and live here in the first place.
+Bianca
+	What is it about this castle that attracted them, d'you suppose?
+Bianca
+	Now everyone's bin able to get off to sleep nice and peacefully. It's great to have done a good deed like that.
+Bianca
+	This room's enormous. Just look at the height of the ceilin'!
+Bianca
+	I'll bet they had some amazin' balls and parties here in the past.
+Bianca
+	You've bin a bit quiet, %a000090.
+	Are you wishin' you hadn't come?
+Bianca
+	I know how you feel. But try not to worry. I won't let anythin' bad happen, I promise.
+Bianca
+	You're probably a bit nervous, eh? But try not to worry. We'll be fine. Come on!
+Bianca
+	It's so dark in here! Make sure you dun't bang into the walls, eh, %a000090?
+Bianca
+	I think there's somethin' there, %a000090. But I doubt it'll hurt us. We can probably just ignore it, right?
+Bianca
+	It's finally time for our ghost-bustin', eh?
+	Are you ready for this?
+Bianca
+	Then let's go! We can do this!
+Bianca
+	Why en't you ready? D'you need to go to the toilet or somethin'!?
+Bianca
+	Honestly! Just go over there and hurry up
+	with it!
+Bianca
+	Let's go get the boss man! He'll pay for all this!
+Bianca
+	Those were weird ghosts, eh? I wonder if they were the spirits of Nadiria.
+Bianca
+	This castle's enormous! I dun't know how anyone could find their way around.
+Bianca
+	I can't really tell the difference between ghosts and monsters and spirits. They're all the same
+	to me.
+Bianca
+	This must be the kitchen. Let's find that torch.
+Bianca
+	Let's go. I know you're probably wonderin' about the food, but we need to get that ghost before we do anythin'.
+Bianca
+	I dun't think I've ever seen so much dust. I wonder how long it's bin since this place had a good clean.
+Bianca
+	What's wrong, %a000090?
+	Are you scared?
+Bianca
+	Just keep thinkin' about that cat.
+	You want to help it, right?
+Bianca
+	Ha ha! You're braver than you look, %a000090. I'm impressed!
+Bianca
+	Looks like the monsters have all gone now.
+	That's good news.
+Bianca
+	It'll be mornin' soon.
+	We'd better get back to Roundbeck.
+Bianca
+	The Whealbrook guard has a snooze at night-time, dun't he?
+Bianca
+	Still, he's there blockin' the village entrance even so. I'd say that puts him above the fella at Roundbeck.
+Bianca
+	En't we supposed to be gettin' over to Uptaten Towers for a spot of ghostbustin', %a000090?
+Bianca
+	Then what are we doin' here in Whealbrook? You don't have much sense of direction, eh?
+Bianca
+	We're done with the ghostbustin' now, and it'll be mornin' soon. We should hurry up and get back to Roundbeck.
+Bianca
+	Dun't you think we'd better get a move on with our ghostbustin'?
+Bianca
+	We'll be in trouble if the grown-ups wake up and spot us here.
+Bianca
+	What are you doin', %a000090!? What's the point in speakin' to folk when they're asleep, eh?
+Bianca
+	No way! I can't believe we made it this far all on our own!
+Bianca
+	What am I sayin'!? We shouldn't be standin' 'round here pattin' ourselves on the back. We need to get over to Uptaten Towers!
+Bianca
+	I've come over all sleepy all of a sudden. Can we go back to Roundbeck now?
+Bianca
+	This fella's doin' a good job of standin' guard, eh? He's not sleepin' on the job even though it's night-time.
+Bianca
+	It's great fun bein' able to wander about outside the village like this, eh?
+Bianca
+	I'm well impressed that we've made it this far, though. We've come a long way, you and me.
+Bianca
+	Aren't you feelin' tired, %a000090? I'm ready to go back to Roundbeck myself.
+Bianca
+	What are you up to, %a000090? We've done our ghostbustin', so it's time we got off home.
+Bianca
+	People say you run into monsters if you wander about outside of town, dun't they? 
+Bianca
+	Still, we got to go and sort out those ghosts at Uptaten Towers, so it's no good worryin' ourselves about that.
+Bianca
+	You and your old man Pankraz have bin travellin' about together for a good long while now, haven't you, %a000090?
+Bianca
+	You're so lucky. The only place I've ever bin is borin' old Whealbrook.
+Bianca
+	This ghostbustin' trip will be the furthest I've travelled, y'know.
+Bianca
+	Let's hurry up and sort them ghosts out so we can save that poor cat!
+Bianca
+	Maybe we've gone and agreed to somethin' a bit too tricky. I hope we'll be able to save that poor little cat.
+Bianca
+	We did it! We're the bee's knees, you and me!
+Bianca
+	I won't get a wink of sleep tonight now!
+Bianca
+	I can hardly wait for mornin' to roll around.
+	It'll be wonderful to get that poor cat away from them horrible boys.
+Honey
+	It wasn't a dream, you know. Faeries are real!
+	And so is Faerie Lea, and everything else in the Realm of the Faeries.
+Honey
+	I mean, you're talking to me now, aren't you?
+	So it couldn't have been a dream, could it?
+Honey
+	Your dad looks really tough. Yes, he's the kind of human I was hoping to find to help us.
+Honey
+	Oops-a-daisy! I didn't mean I'm not happy with you. I am. Honest! Tee hee hee!
+Honey
+	I bet you'll grow up to be a great man too, %a000090. Just like your father.
+Honey
+	I mean, you got the Herald of Spring back for us. That's amazing!
+Honey
+	No one else would understand, even if you told them all about me and the other faeries.
+Honey
+	It'd better be our little secret. Just between you and me. Tee hee! It'll be fun, won't it?
+Honey
+	It is a little bit chilly here, I suppose.
+	But compared to where I come from, it's like an oven.
+Honey
+	I'm sorry. I've put you in danger, and you're just a boy too.
+Honey
+	If only grown-up humans could see me as well. Then I wouldn't have had to ask you to help us.
+Honey
+	All the grown-ups just see you as a normal little boy, don't they? Well never judge a book by its cover! That's what we faeries say.
+Honey
+	If winter never ends, everything'll be frozen by the ice, and no one will have anything to eat.
+Honey
+	We have to get the flute back! We need the Herald of Spring to bring an end to the freezing winter.
+Honey
+	Now you can grow your vegetables again. Those sweet potatoes you humans eat are yummy. I'll sneak back and have some more sometime!
+Honey
+	Your village has such a warm atmosphere, %a000090. Not the temperature, silly! I mean all the nice people.
+Honey
+	It's true. If you were a bit older, things wouldn't be so difficult for me, either.
+Honey
+	Oops! I, I didn't mean that.
+	I mean... Tee hee hee hee!
+Honey
+	That old man's a silly billy! What does he know?
+Honey
+	You'd be a great help to your father, if only he'd let you.
+Honey
+	That young man looked like...
+	No, it can't be...
+Honey
+	He had a strange look in his eyes, didn't he?
+	Just like you...
+Honey
+	I didn't want to ask you to help us. I don't like putting you in danger. But I had no choice.
+Honey
+	The danger's passed now. Come on, let's go and tell Treacle the good news!
+Honey
+	You've been moving from place to place your whole life, haven't you? That's why you're so used to travelling.
+Honey
+	It wasn't me! Not this time.
+Honey
+	Tee hee hee! He's worse than me, that old man with his tricks!
+Honey
+	Hee hee! He's really puzzled!
+	Well I wrote it, so I get to rub it out. That's fair, isn't it?
+Honey
+	You see, I'm really quite a good little faerie.
+	That's why Treacle chose me.
+Honey
+	Someone's after your father?
+	Oh no! I suppose we faeries aren't the only ones with problems.
+Honey
+	You'll help protect your father. I know you will. And I'll be looking out for you both too.
+Honey
+	The legendary hero? But...he's not real, is he?
+	I mean, a legend's a legend, isn't it?
+Honey
+	If your father really was a king, that would make you a prince!
+Honey
+	So, Prince %a000090! I, Honey the faerie, humbly request your assistance to save my homeland. ...Tee hee hee!
+Honey
+	If your father really was a king, that would make you a prince!
+Honey
+	Well, Prince %a000090! One is most honoured to have been assisted by Your Royal Highliness! ...Tee hee hee!
+Honey
+	That's exactly what I think too! When you look at me, I feel all fuzzy and warm inside!
+Honey
+	And you can see me. You've definitely got better eyes than all the other humans!
+Honey
+	There's a lovely warm atmosphere in this little town.
+Honey
+	You're ready to go back to the Realm of the Faeries now? Alright then, better prepare for battle!
+Honey
+	Let's go back to Faerie Lea, then.
+	Treacle will be over the moon!
+Honey
+	Actually, this is where I first met you, isn't it, %a000090?
+Honey
+	I was at such a loss because no one could see me that I started to sing at the top of my voice.
+Honey
+	And then you spoke to me. I was so happy, I could have burst!
+Honey
+	So some of you humans live in little caves like this? I thought only the dwarfs did that. You're a funny lot.
+Honey
+	Tee hee! Maybe we overdid it a bit.
+Honey
+	You're only young. I shouldn't push you so hard...
+Honey
+	No one would believe we beat the Winter Queen before, getting wiped out like that! Must've been a lapse of concentration, I suppose.
+Honey
+	Anyway, Treacle's expecting us. I can't wait to see her face when we take her the Herald of Spring!
+Honey
+	I hope we'll make a good team, %a000090!
+Honey
+	I knew it. Treacle's not sure about you because you're so young.
+Honey
+	That's why she wants me to go along with you:
+	to make sure nothing happens to you.
+Honey
+	It's true that we faeries aren't very strong, but we're amazing at magic. You can leave all the healing and support spells to me!
+Honey
+	Maybe the world really will freeze over completely if we can't get the Herald of Spring back...
+Honey
+	None of us faeries knows what's going on inside the Winter Palace, you see.
+Honey
+	What's wrong with everyone!? You'll make a great warrior, they'll see. Come on! We need to head out into the cold...
+Honey
+	Oh, yes! The spring in Faerie Lea is wonderful!
+	Blossom covers everything. Even the air takes on a sweet, pink tinge.
+Honey
+	Well I think Treacle's right. Why shouldn't we all live together? That faerie's called Butterscotch, but we call her Bitterscotch! Tee hee hee!
+Honey
+	I'm sure faeries and humans and monsters can all live together if we all try really hard!
+Honey
+	That slime always used to say, ⓗI'm not a bad slime, you know!ⓘ And it's true. It left all its bad monster instincts behind.
+Honey
+	It was just wandering about on its own when Treacle invited it to live in Faerie Lea.
+Honey
+	What!? That little kitten's a great sabrecat!?
+Honey
+	Heⓚⓛ Hee hee! O-Of course it is! I knew that. That's how I knew you were special just as soon as I met you.
+Honey
+	Ⓠ When you're cold and blue, Ⓠ
+	You need a bath 'n' shampoo Ⓡ
+	Tee hee hee! I wish I could get in too!
+Honey
+	The last village elder was really strict. You could get in trouble for anything. Even if you upset the peace just a teeny-weeny bit.
+Honey
+	He only passed away recently. So Treacle's only been village elder for a little while, you see.
+Honey
+	There are quite a few dwarfs living here in Faerie Lea, you know. They're merchants, mostly. And artisans too.
+Honey
+	It still feels good to come home, even though things aren't quite right here.
+Honey
+	That's unforgivable, thinking so sourly about Treacle! Dwight's mean!
+	...Er, who is this Dwight dwarf anyway?
+Honey
+	Unforgivable, thinking so sourly about Treacle!
+Honey
+	That old dwarf's been living here all this time because he was thrown out of Faerie Lea.
+Honey
+	What Dwight's done is unforgivable, but I do feel sorry for the old dwarf. So I suppose I can understand why Dwight did what he did.
+Honey
+	I don't trust that slime. It came out with ⓗI'm not a bad slimeⓘ before we'd even said anything.
+	And who is this Dwight, anyway?
+Honey
+	That man talks funny. I don't trust him. If you ask me, I think he's looking for ⓗLots about Locksⓘ to help him steal things.
+Honey
+	Come on! We've got to find it first!
+Honey
+	We never used to have people like him in our world.
+Honey
+	Maybe it's a sign of bad things to come. I suppose that's why the old village elder was so strict.
+Honey
+	Tee hee hee! ⓗLots about Locksⓘ for me! Ⓡ
+	I can't believe you told him you'd already found it!
+Honey
+	He looked so scary. You're really brave, %a000090.
+Honey
+	Yippee! Now we can open locked doors all over the place!
+Honey
+	But no peeking behind doors you shouldn't be peeking behind! Tee hee! Tee hee hee!
+Honey
+	Wowee! It really works!
+	You really can open locked doors now!
+Honey
+	Tee hee hee! It makes you think of all sorts of cheeky tricks and naughty things we could get up to! No wonder the village elder was worried.
+Honey
+	I never knew there was a cave here before.
+Honey
+	I wonder how far it goes down...
+Honey
+	This is my first time in a cave. In fact, I've hardly been outside Faerie Lea at all until now...
+Honey
+	If I'd come here on my own, I don't know if I'd have found my way out again.
+Honey
+	It's a bit embarrassing actually, but...well...
+	Hee hee hee! My sense of direction is abysmal.
+	It's lucky I came with you.
+Honey
+	This place is yucky. It's dark and wet and infested with monsters and yuck, yuck, yuck, yuck, yucky!
+Honey
+	And that old dwarf's had to live in here all this time. Tee hee heⓚⓛ
+	Oops! I mean, poor thing!
+Honey
+	I'd never been in a cave until now. I thought it'd be really exciting and fun, but I'm bored.
+Honey
+	I'm so bored I could die! I don't know how you put up with it, %a000090.
+Honey
+	Do you think that Dwight boy is really sorry for what he did? I'm not so sure...
+Honey
+	That slime said it was Dwight right from the start, didn't it?
+Honey
+	I knew it was telling the truth all along.
+	Tee hee hee!
+Honey
+	You see!? That Dwight boy's not sorry at all!
+Honey
+	He's just a troublemaker if you ask me.
+Honey
+	Er...%a000090...
+	Treacle wants the Herald of Spring back as soon as possible.
+Honey
+	Hello? Can you hear me?
+	No more side trips, okay?
+Honey
+	You're teasing me, aren't you? You know I hate caves.
+	Tee hee hee! You're worse than me, %a000090!
+Honey
+	It's locked, just like everyone said.
+	Weren't you listening, %a000090?
+Honey
+	Hey! Didn't someone tell us about a dwarf who was thrown out of Faerie Lea for writing a book called ⓗLots about Locksⓘ or something...?
+Honey
+	Sweet! We're in!
+	But now it gets scary!
+Honey
+	We've no idea what's waiting in here.
+	Better tread gingerbreadly... Tee hee hee!
+Honey
+	Unbelievable! The White Dwarⓚⓛ I mean, Dwight, just left without so much as a sorry!
+Honey
+	Come on! Time to get the Herald of Spring at last!
+Honey
+	This p-palace is so b-beautiful, but so c-c-cold!
+	Brrr...
+Honey
+	If it was summer, a cool place like this would be yummy. But in winter it's yucky!
+Honey
+	You can't underestimate anyone, you see. Even a child. But we'll beat that Dwight dwarf next time!
+Honey
+	Tee hee hee! You are a warrior, see. I was right!
+	I knew it all along!
+Honey
+	We better not let Treacle down. She's probably watching us even now...
+Honey
+	Hey, wait a minute! We can't leave without the Herald of Spring.
+Honey
+	Yippee! Now we can summon springtime at last!
+Honey
+	But we can't relax just yet. This adventure's not over till we make it home!
+Honey
+	Ow, ow, ow, ouch! Ouch!
+	I hate this place! Who puts holes in the middle of such a slippery floor anyway!?
+Honey
+	Hee hee! You can't stop where you think, can you?
+	We need to think about this a bit...
+Honey
+	Erm... First we move to there... Then to there... And then...erm...to...err...
+	Tee hee! Got you! I haven't got a clue, silly!
+Honey
+	I, I'm a bit amazed too. I wasn't really sure you'd be able to get it back either, %a000090. Sorry. Hee hee hee!
+Honey
+	I wonder too... A bit! But who cares now!?
+	Ⓠ We beat the Winter Queen,
+	ner-nee ner-nee ner ner! Ⓡ
+Honey
+	If it got really, really cold, do you think a slime might stop wobbling about and go all hard like a stone?
+Honey
+	Tee hee hee! That'd be fun!
+	I wish we could try it.
+Honey
+	ⓗEven bigger problemsⓘ? What a cheek! We should all be yahooing now, not boohooing!
+Honey
+	You are brave, it's true. And strong. And clever. And nice. And, and, and... Are all humans like you?
+Honey
+	This is our world, where all the faeries live.
+	You come from the human world. And then there's the underworld, where the monsters live.
+Honey
+	What? Where is the underworld?
+	Well, er......it's, er......I...
+	It's...underneath us! Yes, that's where it is!
+Honey
+	(gulp) I knew it. Treacle's been watching us the whole time.
+Honey
+	I didn't do anything silly, did I?
+	Or say anything bad?
+	Oh, no. I bet I'm in trouble...
+Honey
+	I'm sorry, %a000090. Some faeries don't like humans very much.
+Honey
+	But I'm sure they'll all feel differently now that you've saved the day!
+Honey
+	I can't wait for spring!
+	I want to watch all the pretty blossoms dancing around me in the warm breeze!
+Honey
+	Only Treacle can summon spring. She has to blow the Herald of Spring herself.
+Honey
+	At the first sweet sound of the flute, spring will burst into life!
+Honey
+	We can't keep the Herald of Spring forever, silly! We've got to give it to Treacle.
+Honey
+	The snow goes on and on forever, you know.
+	But really, it should be spring by now. All the pretty flowers should be bursting into life...
+Honey
+	You're very quiet, aren't you?
+	Do you miss your home already?
+Honey
+	I wonder if we'll manage to get the Herald of Spring back. I mean, you're only small, aren't you? Tee hee hee!
+Honey
+	I wonder why Treacle asked me to accompany you... I suppose she wants me to keep an eye on you.
+Honey
+	You're just a boy after all. You need someone a bit older to make sure you don't get into trouble. ...That's me!
+Honey
+	There's something special about you. I'm sure of it. We faeries are never wrong about things like that, you know. Never.
+Honey
+	It's always cold in winter, but never this cold. Something's not right...
+Honey
+	This is the first time I've ever been exploring like this, so I'm feeling a little bit nervous.
+Honey
+	I know it's still freezing cold, but inside I feel like spring already! Yippee!
+Honey
+	You really are amazing! I bet that inside you're just full to the brim of special magic bits and bobs!
+Honey
+	Treacle will be waiting for us.
+	We must get back to Faerie Lea.
+Pankraz
+	I'm sorry I left you behind at the castle before.
+	I was just so worried about Prince Harry.
+Pankraz
+	I'll take the rear this time, so you don't need to worry about keeping up with me.
+Pankraz
+	Why would they kidnap the Prince? If it was just for ransom money, I'd be less concerned, but I'm not so sure...
+Pankraz
+	I fear for Prince Harry's life. We can't afford to waste any time!
+Pankraz
+	I'm sorry, %a000090. I was so focused on finding Prince Harry, I wasn't paying enough attention to you.
+Pankraz
+	But in times of crisis like this, I need you to look after yourself. You can do that for me, can't you, %a000090?
+Pankraz
+	A monster too? Hm, I don't like the sound of this.
+	We must find the Prince at once.
+Pankraz
+	Argh! The barefacedness of these thugs!
+	If we had more time, I'd teach them a lesson right now.
+Pankraz
+	But we must find Prince Harry first.
+	Come on, %a000090, you lead the way!
+Pankraz
+	I knew it! The Queen Consort was involved!
+Pankraz
+	The King was right to be worried. But what a way for his fears to be realised!
+Pankraz
+	Oh, yes. I've been meaning to ask you about that young man you were talking to in Whealbrook before we left for Coburg.
+Pankraz
+	When I spoke to him, he asked how our travels were going. I felt like I recognised him, but
+	I just can't put a name to his face.
+Pankraz
+	I'm worried about Prince Harry. There's no time to talk. Just keep moving.
+Prince Harry
+	I... I don't like this place...
+Prince Harry
+	I wonder if... I wonder if your father will be alright?
+Prince Harry
+	Your father was right. I suppose I ought to speak with Father when I get back to Coburg.
+Harry
+	I forgot to tell you, but I found this T 'n' T ticket during the time I was a slave.
+Harry
+	I would've thrown it away in the blink of an eye back in the old days!
+Harry
+	But you hang on to any little scrap of anything you come by when you have so little.
+Harry
+	I'm right behind you too, %a000090! We'll do this together!
+Harry
+	It looks like Maria really is going to stay on here.
+Harry
+	What!? Why are you looking at me like that, %a000090? You must feel a little sad about it too, right?
+Harry
+	We'll just have to hope we'll have the chance to meet up with her again one day.
+Harry
+	How can you be so cold? Oh well, it's no skin off my nose.
+Harry
+	Fortuna? I don't think I've ever heard of such a town before.
+Harry
+	Just walking back through the gate of this place makes me feel more relaxed.
+Harry
+	I wonder how Maria's getting along.
+	Shall we pop inside and see her?
+Harry
+	Did you bring me here to make me feel better, %a000090?
+Harry
+	You didn't have to, really you didn't.
+	But thank you.
+Harry
+	That's quite an impressive statue!
+Harry
+	We should keep it with us all the time.
+	It probably has divine powers.
+Harry
+	It's hard to imagine either of us as good husbands when you think we were both slaves until just recently!
+Harry
+	But we know what it feels like to be miserable because of someone else's violence, so at least we'll never be like her brute of a husband.
+Harry
+	We know more about suffering than most, that's for sure. It's been a rocky ride for us so far.
+Harry
+	Huh... Now we have even more worry and sadness to be burdened with.
+Harry
+	I wonder why Maria seems so lonely.
+	Maybe it's because I'm not around.
+Harry
+	Er, no, I'm sure that's not it.
+	If only it was, though...
+Harry
+	I hope Joshua didn't get into trouble for helping us to escape.
+Harry
+	I just wish there was something we could do. Argh! I feel so helpless!
+Harry
+	As long as I have a bed to sleep in, I'm happy. We've got another long day ahead of us, %a000090!
+Harry
+	I feel much better after that rest.
+	Thanks, %a000090.
+Harry
+	To tell you the truth, I'm still not quite used to sleeping in a bed again. I suppose it's because I was a slave for such a long time.
+Harry
+	You don't need to worry about me, %a000090. Let's move on.
+Harry
+	The Order of Zugzwang was so odd, kidnapping rich and high-class children like that.
+Harry
+	Children are too weak to be of any use, so what's the point? Maybe it's because they're easier to influence.
+Harry
+	I didn't realise rich girls came here to do domestic goddess training of all things!
+	It sounds like a terrible bind.
+Harry
+	Did you bring me here to make me feel better, %a000090?
+Harry
+	You didn't have to, really you didn't.
+	But thank you.
+Harry
+	I wish I was a cat. Then Maria and I could beⓚⓛ Er! Never mind!
+Harry
+	How wonderful it must be to be a cat.
+	They never have anything to worry about.
+Harry
+	After all we've been through, being able to sleep in a comfortable bed is pure bliss. Here's to another fruitful day, %a000090!
+Harry
+	I feel much better after that rest.
+	Thanks, %a000090.
+Harry
+	Why don't we stay here for the night? It's late now, and this is where Maria is. Let's stay!
+Harry
+	You don't need to worry about me, %a000090. Let's move on.
+Harry
+	You know... Maria is the first woman I've ever met who I can truly say is both beautiful and kind-hearted.
+Harry
+	She's so warm and friendly. She reminds me of my mother, who died when I was just a small boy.
+Harry
+	Hm? You have a childhood friend like that?
+Harry
+	You lucky thing! You'll have to introduce me to her one day. Don't forget now, will you?
+Harry
+	You know... Maria is the first woman I've ever met who I can truly say is both beautiful and kind-hearted.
+Harry
+	She's so warm and friendly. She reminds me of my mother, who died when I was just a small boy.
+Harry
+	You've got a childhood friend like her, you said.
+	Bianca, wasn't it?
+Harry
+	I hope you get to see her again one day.
+Harry
+	Maria's face is red?
+Harry
+	Maybe she's gone and caught a cold from staying up too late. Oh dear! I do hope she's alright!

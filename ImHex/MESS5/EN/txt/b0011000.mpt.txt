@@ -1,0 +1,1066 @@
+Bianca
+	This place is pretty impressive, en't it?
+	I had no idea there was a cave like this up through the lock.
+Bianca
+	I can't help feelin' a little bit nervous, though.
+Bianca
+	Reminds me of that time you and me went off ghost-huntin' when we was little kids.
+Bianca
+	It's so pretty!
+Bianca
+	It's bin a fair few years since I got to enjoy any scenery this amazin'.
+Bianca
+	There en't bin time for things like that since Mum died.
+*: 
+	Folk say there's some kind of special ring 'idden 'ere in this cave.
+*: 
+	You don't stand a chance of findin' it, though. I ain't 'ad no luck, so a fancy man with a bird in tow definitely ain't got what it takes!
+Bianca
+	What a horrible creature he was!
+Bianca
+	I wonder what he's doing all the way out here.
+Bianca
+	Wow! It all feels so mystical and strange. I never knew there were caves like this about.
+Bianca
+	But the spray from all that water could have us lookin' like drowned rats if we en't careful. Look out, eh, %a000090?
+Bianca
+	That's weird. I was sure we'd find the Circle of Water in there.
+Bianca
+	With a name like that, I thought it stands to reason it'd be hidden in a place like this.
+Bianca
+	That's weird. I was sure we'd find the Circle of Water in there.
+Bianca
+	I wonder if there's a room of treasures somewhere along the way that we've not come across yet.
+~ The Circle of Water glows blue with holy water. ~
+~ %0%a000120 finds the Circle of Water! ~
+~ %0%a000180 acquires the Circle of Water! ~
+Bianca
+	We did it, %a000090!
+Bianca
+	Now you'll be able to marry Nera.
+Bianca
+	Um, %a000090...
+Bianca
+	...No, never mind.
+	It doesn't matter.
+Bianca
+	If you marry Nera, you'll be able to get the Zenithian Shield, after all.
+Bianca
+	That'll bring you another step closer to what you've always bin searchin' for.
+	Come on. Let's go!
+Bianca
+	Wait a minute, %a000090!
+	You're not plannin' on leavin' me behind in the wagon, are you?
+Bianca
+	I want to go with you.
+	Come on, dun't be a spoilsport!
+Bianca
+	Thanks!
+	Let's get goin'!
+Bianca
+	Fine, go without me. See if I care!
+	...Just be careful, okay?
+*: 
+	Welcome to Mostroferrato, ancient stronghold of the Briscoletti family.
+*: 
+	Unbelievable! You got the Circle of Water too!
+*: 
+	So, does this mean...? You've won. You're going to marry Nera! Wow, am I jealous!
+*: 
+	Apparently, Briscoletti's ordered the bride's veil from a big-shot item trader.
+*: 
+	A man called Crispin just crawled into town with really bad burns all over him!
+Bingo
+	Arf! Bau bau!
+*: 
+	You got the Circle of Water!?
+	That's incredible!
+*: 
+	That explains why Mr Briscoletti's already started preparing for the wedding ceremony, then.
+*: 
+	You'd be quite a catch, wouldn't you?
+*: 
+	I bet Nera's having a hard time making up her mind which boy to choose! Hee hee hee!
+*: 
+	Welcome! We've got a drink to
+	suit every taste in here!
+*: 
+	Crispin suffered some very serious injuries in that cave of molten lava.
+*: 
+	He's caused everyone a lot of worry, including Nera. Honestly, what was he thinking?
+*: 
+	Young Nera's been tending to Crispin
+	night and day since the accident.
+*: 
+	But she tired herself out, the poor girl. She finally went home today, and not before time!
+Crispin
+	Urgh... Nera... My heart...burns for you...
+*: 
+	Stop lazing about and put some tea on,
+	you old waster!
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	The wife's taking care of business again today.
+	I'm in charge of making dinner.
+*: 
+	I don't know how things ended up like this.
+	It all depends on what kind of a start you get off to, I think.
+*: 
+	Marriage is a blessed union of two souls in the presence of the Goddess.
+*: 
+	She will bestow happiness upon any couple who truly love one another.
+*: 
+	I've been asked by Mr Briscoletti to help
+	plan the wedding.
+*: 
+	The same wedding at which I was very nearly the groom! Ha ha ha.
+*: 
+	This is Mr Briscoletti's villa. He doesn't get
+	out here much, though. It's just that little bit
+	too far away.
+*: 
+	Welcome to the Briscoletti residence.
+*: 
+	Really!? You've managed to get the
+	Circle of Water?
+*: 
+	Don't waste any time, then. Bring it here as soon as you can.
+*: 
+	Mr Briscoletti isn't known for his patience!
+Rodrigo Briscoletti
+	Ah, there you are, %a000090.
+	You say you've managed to obtain
+	the Circle of Water?
+Rodrigo Briscoletti
+	Splendissimo! That makes you the maestro, then!
+	It would seem you, %a000090, are worthy of my bambina, Nera!
+Rodrigo Briscoletti
+	As promised, I grant you her hand in marriage.
+Rodrigo Briscoletti
+	To be honest, I couldn't resist getting the preparations underway already. I'm a soft old romantic at heart, you know! Ha ha hah!
+Rodrigo Briscoletti
+	Oh, yes. I must have that Circle of Water
+	off you for now.
+~ Mr Briscoletti takes the Circle of Water from %a000090. ~
+Rodrigo Briscoletti
+	The priest will give both rings back to you during the ceremony, of course.
+Rodrigo Briscoletti
+	Nera! I trust you have no objection to %a000090? He's a fine gentleman, after all.
+Nera
+	Well no, Papa...
+Nera
+	But...what about that young lady?
+Bianca
+	Eh? Me? Oh, no! I'm just an old childhood friend, is all. My name's Bianca.
+Bianca
+	Anyway. It's bin lovely meetin' you all.
+	But I think I'll just be headin' off noⓚⓛ
+Nera
+	No, wait!
+Nera
+	Do you... Do you have feelings for
+	%a000090, Bianca?
+Nera
+	And %a000090. Do you have feelings for Bianca?
+Nera
+	It wouldn't be right for us to get married if you do. You'd only live to regret it.
+Bianca
+	No, no, Nera. Really, it en't like that.
+Rodrigo Briscoletti
+	Nera! Calm yourself!
+Rodrigo Briscoletti
+	Tonight, %a000090 will take some time to think carefully about his choice. Nera or Bianca, that's the decision.
+Rodrigo Briscoletti
+	Now, how shall we do this?
+Rodrigo Briscoletti
+	Yes. %0%a000090, I will arrange for you to stay in the Mostroferrato inn tonight. I own it, so it won't be a problem.
+Rodrigo Briscoletti
+	Bianca, you will take my villa.
+Rodrigo Briscoletti
+	Do you understand, %a000090?
+Rodrigo Briscoletti
+	Fine. Think about it carefully, then. This isn't a decision you should make lightly.
+~ %3That night, while staying in the Mostroferrato inn, %a000090 suddenly wakes up...%4 ~
+Rodrigo Briscoletti
+	You'll need to be quicker than that to marry my daughter, lad! Listen carefully this time.
+Rodrigo Briscoletti
+	I'll give you some time tonight to think carefully about your choice. Nera or Bianca, that's the decision.
+Rodrigo Briscoletti
+	I'll put you all up in town for the night.
+Rodrigo Briscoletti
+	%0%a000090, I will arrange for you to stay in the inn, as I said.
+Rodrigo Briscoletti
+	Bianca, you will take my villa.
+~ There are more pressing concerns at the moment. ~
+~ Like choosing a bride! ~
+*: 
+	Well! I heard all about your little dilemma.
+	That's a tough one, eh?
+*: 
+	If you want my advice, I say pick both of them! But I suppose that's against the rules, eh? Ha ha!
+*: 
+	Zzz... Zzz...
+	Thankzzz... You're really kind, Nera...
+	Zzz... Zzz...
+*: 
+	Here's the man! Couldn't sleep, eh, %a000090?
+*: 
+	I don't blame you. It's a biggie, that's for sure. That marriage lark's a lifetime commitment.
+*: 
+	Go for a walk and clear your head.
+	That'll help you get things straight.
+*: 
+	Come back if you get tired. The room's still yours.
+*: 
+	Things any clearer now?
+	Think you can get back to sleep?
+*: 
+	Okay, then. Get some rest before the big announcement tomorrow, eh?
+~ %3The following morning...%4 ~
+~ %3%0%a000090 is summoned to the Briscoletti mansion.%4 ~
+*: 
+	Oh, you're %a000090, aren't you?
+	You're the talk of the town now, you know.
+*: 
+	What to do, what to do...
+*: 
+	Bianca seems a bit strong-willed, but she's cheerful, and an absolute stunner to go with it.
+*: 
+	But you won't find a kinder, more honest girl than Nera. There's no doubt she'd make a fine wife.
+*: 
+	Apparently, Briscoletti's ordered the bride's veil from a big-shot item trader.
+*: 
+	Who are you going to pick?
+*: 
+	You can't go back on it once you've decided. I'd go to church and confess first, so you've got nothing else on your mind.
+Bingo
+	Aaarf, aaarf...
+*: 
+	Why do men only ever think about themselves?
+*: 
+	Don't our feelings count for anything?
+	I bet Nera and Bianca can't sleep, either.
+*: 
+	Mind you, you're the quiet, sensitive type, aren't you? I suppose you've already thought of that.
+*: 
+	That Bianca girl you brought with you here,
+	she's a fine specimen, she is.
+*: 
+	If you don't pick her, point her in my direction, would you? She can have a job here any day.
+*: 
+	If it was me, I'd pick Nera.
+*: 
+	You pick her, and you automatically get yourself that amazing family shield as well.
+*: 
+	What's there to think about!?
+*: 
+	Marriage is a blessed union of two souls in the presence of the Goddess.
+*: 
+	She will bestow happiness upon any couple who truly love one another.
+*: 
+	Is it true that Mr Briscoletti's given you permission to marry Nera?
+*: 
+	Well, I suppose you did work for it.
+	Crispin will be crushed, of course,
+	but still... I wish you every happiness.
+*: 
+	Ah-phew...
+Crispin
+	Urgh... Nera... My heart...burns for you...
+*: 
+	Zzz... Zzz...
+*: 
+	Stop sitting on the fence and give me an answer, you old waster! Who do you think he's going to pick?
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	Zzz... Zzz...
+*: 
+	Zzzz...
+Rodrigo Briscoletti
+	You've impressed me, %a000090, managing to get both the Circle of Fire and the Circle of Water.
+Rodrigo Briscoletti
+	I like you! Even if you decide not to marry my daughter, I'll still arrange your wedding for you.
+	I insist!
+Rodrigo Briscoletti
+	No expense will be spared! I've already written the invitations to your friends.
+Rodrigo Briscoletti
+	Prince Harry and Lady Maria of Coburg, wasn't it?
+Rodrigo Briscoletti
+	So, that's settled. Now I must get some sleep too.
+*: 
+	Ah-phew...
+Nera
+	Zzz... Zzz...
+~ Nera seems to be sleeping soundly. ~
+Bianca
+	Oh, it's you, %a000090.
+	Things have gone a bit squiffy, en't they?
+Bianca
+	But dun't you worry. Anyone can see you'd be crazy not to marry Nera.
+Bianca
+	I'll be fine. It's not like I haven't bin on me own
+	up to now, is it?
+Bianca
+	Now you better get some sleep.
+	You must be tired.
+Bianca
+	I'm goin' to stay here a little while longer and enjoy the evenin' breeze. I just can't sleep meself...
+*: 
+	Good morning, %a000090!
+*: 
+	Everyone's fit to burst, you know.
+	Come along, this way.
+Rodrigo Briscoletti
+	So, %a000090, have you given careful consideration to which girl you'd like to marry?
+Rodrigo Briscoletti
+	I can see it's been a very difficult decision for you. But it would be greedy to marry both! Ha ha hah!
+Rodrigo Briscoletti
+	So! The time has come for you to make your choice, %a000090.
+Rodrigo Briscoletti
+	You will now propose to your bride-to-be: my daughter Nera, or your childhood friend, Bianca.
+~ Leaving without proposing to the bride-to-be would really disappoint everyone! ~
+Rodrigo Briscoletti
+	What!? You little scaramouch! This isn't a decision to be made lightly, you know!
+Rodrigo Briscoletti
+	Still, I realise some people find it hard to
+	interpret their own emotions. Nevertheless,
+	a decision must be made.
+Rodrigo Briscoletti
+	Hot panini! You have feelings for me, %a000090!?
+Rodrigo Briscoletti
+	I, I like you too, but... No! No, no! That's not an option. You will reconsider.
+*: 
+	Don't be cheeky, %a000090! I might accept, and then you'd be in all kinds of trouble!
+*: 
+	All this reminds me of my courting days.
+*: 
+	Rodrigo was quite the Romeo himself, you know.
+	He had to put himself in great danger to win my hand in marriage.
+*: 
+	He injured himself too. And I spent days and days looking after him at his bedside.
+Bianca
+	What!? You're pickin' me, %a000090?
+	I'm not a lady like Nera is, you know.
+Bianca
+	Yes!? So you dun't think I'm a lady, then!?
+Bianca
+	But you still want to marry me instead of her?
+	Are you sure about that?
+Bianca
+	I, I dun't know what to say, %a000090.
+Rodrigo Briscoletti
+	Then it's settled! I can't say I'm surprised.
+	That's amore, after all!
+Rodrigo Briscoletti
+	Well, there's no time to sit around. We must get on with the preparations.
+Rodrigo Briscoletti
+	The bride will get ready in my villa.
+Nera
+	Wait! I'll help!
+Bianca
+	No... You're right. Nera'll be much better for you than I could ever be.
+Nera
+	You know all I can be for you is a wife who relies on you for protection and shelter, %a000090?
+Nera
+	But you still want to marry me, despite that?
+Nera
+	Really? You really want me?
+Nera
+	That's wonderful! I'm so happy! Thank you, %a000090! I'll be the best wife you could ever imagine!
+Rodrigo Briscoletti
+	Then it's settled! I'm delighted that you've chosen to become a Briscoletti, %a000090!
+Rodrigo Briscoletti
+	Well, there's no time to sit around. We must get on with the preparations.
+Rodrigo Briscoletti
+	The bride will get ready in my villa.
+Bianca
+	Wait! I'll come along an' help.
+Nera
+	How could you play games with my heart like that?
+Nera
+	I understand. Bianca will be able to do so much more for you than I ever could.
+Rodrigo Briscoletti
+	So it's time for the big event at last!
+Rodrigo Briscoletti
+	I heard of a real maestro item dealer who
+	trades out of a cave in a spa town up in the mountains near here.
+Rodrigo Briscoletti
+	I've already ordered the wedding veil from him.
+	No expense spared!
+Rodrigo Briscoletti
+	I'd like you to go and fetch it for your bride, %a000090.
+Rodrigo Briscoletti
+	By the time you return, the preparations will be done, and we'll be ready for action!
+Rodrigo Briscoletti
+	What? Am I going to arrange the ceremony for you even though you chose Bianca?
+Rodrigo Briscoletti
+	As sure as pasta's pasta, I am!
+	Like I said, I like you!
+Rodrigo Briscoletti
+	Don't worry about Nera. She won't be
+	short of offers!
+Rodrigo Briscoletti
+	I'd save the worry for yourself if I were you.
+	In case you suddenly realise what a terrible
+	mistake you've made! Ha ha ha ha hah!
+*: 
+	Oh, dear, oh, dear! Chased out of my own
+	church! I was told I was getting in the way,
+	would you believe?
+*: 
+	It's been crazy around here since morning, what with all the preparations for the wedding.
+*: 
+	You better hurry up and get that wedding veil sorted out as quickly as possible!
+*: 
+	Off limits, I'm afraid. Because of the wedding preparations, you see.
+Bingo
+	Aaarf! Bau bau bau!
+*: 
+	Bianca's still getting ready.
+*: 
+	Come back once you've picked up the veil,
+	would you?
+*: 
+	Oh, hello! I bet it's going to be a fab wedding!
+	Mr Briscoletti doesn't do things by halves!
+*: 
+	So you decided to pick Bianca in the end, did you?
+*: 
+	She's a real stunner, that one.
+	You're a lucky man!
+*: 
+	So you decided not to marry Nera in the end,
+	did you?
+*: 
+	Crispin's on the mend now too. I'd say things are looking up, wouldn't you?
+*: 
+	A wedding, eh? That takes me back.
+	A long, long way back!
+Crispin
+	Zzz... Zzz...
+*: 
+	Well! Thanks to the wedding, I can put my feet up for a while.
+*: 
+	Briscoletti's going to pull out all the stops for this one, I'll bet. I mean, it's his precious little girl getting married!
+*: 
+	It's been crazy around here since morning, what with all the preparations for the wedding.
+*: 
+	You better hurry up and get that wedding veil sorted out as quickly as possible!
+Bingo
+	Aaarf! Bau bau bau!
+*: 
+	Ms Nera is still busy getting ready.
+*: 
+	You're needed to fetch the wedding veil, %a000090.
+*: 
+	Oh, hello! I bet it's going to be a fab wedding!
+	Mr Briscoletti doesn't do things by halves!
+*: 
+	So you picked Nera in the end, did you?
+	I hope you'll be very happy.
+*: 
+	Is it true that Mr Briscoletti's given you permission to marry Nera?
+*: 
+	Well, I suppose you did work for it.
+	Crispin will be crushed, of course,
+	but still... I wish you every happiness.
+*: 
+	A wedding, eh? That takes me back.
+	A long, long way back!
+Crispin
+	Zzz... Zzz...
+*: 
+	Well! Thanks to the wedding, I can put my feet up for a while.
+*: 
+	I'm just discussing a few things with the priest at the moment.
+*: 
+	Mr Briscoletti's not sure if he wants the ceremony here in the church or somewhere else.
+*: 
+	If we go elsewhere, the priest will have to come with us, so he needs some time to get ready.
+*: 
+	Ms Nera is the apple of Mr Briscoletti's eye.
+*: 
+	I don't know where he'll decide to have
+	the ceremony in the end, but I'll do whatever
+	I can to help.
+*: 
+	Huh? Y-You're not thinking of Debora!?
+	My Goddess, you must beⓚⓛ
+	Well, let's just say rather you than me!
+*: 
+	Of course, Debora's a stunner too. But if I were to put her behind the bar, the punters would be so stunned, they'd all go home!
+Debora
+	Who do you think you are?
+	Is there a sign on the door saying
+	ⓗscruffbags welcomeⓘ?
+Debora
+	Oh? You heard I was the older sister out of Nera and I, did you?
+Debora
+	So? What of it? If you think that means I'm looking to get married first, you can think again.
+Debora
+	What is it now? Do you want something, or not?
+Debora
+	Hmph. I've heard what's been going on, you know, but I don't want anything to do with it.
+Debora
+	Don't get any ideas, okay? I step on men like you all the time. But you do look pretty strong... What am I saying? You'd be no match for me.
+*: 
+	Wait!
+Debora
+	You're %a000090, aren't you? Yes, quite the mystery boy. Nobody seems to know anything about you at all.
+Debora
+	Well, well... I never imagined anyone would actually manage to retrieve the Circle of Fire and the Circle of Water. Very impressive...
+Debora
+	I suppose that means I'll have to let you marry me.
+Rodrigo Briscoletti
+	Wh-What on earth is all this bologna, Debora?
+	You're hardly a suitable match for %a000090.
+Debora
+	Oh, poor Papa. You're really not in touch with the way young men think any more, are you?
+Debora
+	Why don't we see what %a000090 has to say about it?
+Debora
+	Well, %a000090? Hurry up and pick me. I've no intention of marrying a dim-witted layabout.
+Rodrigo Briscoletti
+	Ahem! Well! I, I must apologise for this, er...sudden little fiasco, %a000090.
+Rodrigo Briscoletti
+	But take your time, compose yourself, and then let your heart decide. Will you marry my Nera, or young Bianca?
+Debora
+	What are you waiting for?
+	Just get on with it and pick me!
+Debora
+	It's so obvious it's me you've wanted to marry from the beginning. Go on, admit it.
+Debora
+	I know you're a bit...lacking, but don't worry, I'll compensate for that. I'll keep you on the straight and narrow.
+Rodrigo Briscoletti
+	A-Are you sure you know what you're letting yourselfⓚⓛ I mean, are you certain?
+Rodrigo Briscoletti
+	B-By the Goddess, you are a lion-hearted man, %a000090.
+Rodrigo Briscoletti
+	I can't tell you what a worry Debora has been to us. I am most grateful to you.
+Rodrigo Briscoletti
+	Well, let's get the preparations underway pronto before you have a change of heart!
+Rodrigo Briscoletti
+	The bride will get ready in my villa.
+Bianca
+	Wait! I'll come along an' help.
+Nera
+	And me. I'd like to help too.
+Rodrigo Briscoletti
+	N-No. For your sake, %a000090, I think that's a wise decision. So, who will you choose?
+Debora
+	Oh, how cute! You're too proud to admit it.
+Debora
+	Suit yourself. But don't imagine the offer will stay open forever.
+Debora
+	Chuh! I always knew you were a puny little morsel. You just can't handle the thought of a woman like me, can you?
+Debora
+	Is there anyone out there man enough to marry me?
+Debora
+	What? It's too late to change your mind now. The offer has been withdrawn.
+Debora
+	I told you I wouldn't marry a slow-witted layabout.
+*: 
+	It's been crazy around here since morning, what with all the preparations for the wedding.
+*: 
+	You better hurry up and get that wedding veil sorted out as quickly as possible!
+*: 
+	I still can't quite believe it, you know. Choosing to marry Debora!
+*: 
+	That'll make for some interesting adventures, I'm quite sure!
+Bingo
+	Aaarf! Bau bau bau!
+*: 
+	Ms Debora is inside getting ready.
+*: 
+	You're needed to fetch the wedding veil, %a000090.
+*: 
+	Did I hear it right? You're going to take Debora for a wife? You'll be needing a stiff drink to go through with that decision!
+*: 
+	Mr Briscoletti cried when you said you wanted to marry Debora, you know.
+*: 
+	You really have done a most selfless thing.
+*: 
+	You haven't got much of a clue about women, have you? That Debora's trouble, you mark my words.
+*: 
+	Debora's future has been a constant weight on Mr Briscoletti's mind.
+*: 
+	I don't know where he'll decide to have
+	the ceremony in the end, but I'll do whatever
+	I can to help.
+Rodrigo Briscoletti
+	You don't need to explain. I understand, my boy.
+Rodrigo Briscoletti
+	After all, if you'd chosen Nera, Debora would have been mortified.
+Rodrigo Briscoletti
+	It's plain to see that you're a very thoughtful and caring young man, %a000090.
+	One after my own heart, you might say!
+Bianca
+	We'll be able to go off travellin' together again, eh?
+	I can't think of anythin' that'd make me happier.
+*: 
+	Welcome to Stockenbarrel!
+*: 
+	The baths are a-cookin', so the place be a bit full of folk just now.
+*: 
+	Purrr!
+*: 
+	That son of mine's only sayin' he wants to be a priest now, of all things!
+*: 
+	I dun't know what he gets up to, shut up indoors all the time.
+*: 
+	Well, well, well! 
+*: 
+	You be lookin' mighty pleased wi' yourself!
+*: 
+	Meow.
+*: 
+	Hello there. I bet you've come to relax in the water, eh?
+*: 
+	Just mind you dun't go soakin' too much.
+*: 
+	Wouldn't want to pass out, eh?
+*: 
+	Please, leave me alone. I'm trying to relax.
+*: 
+	I'll bet you're another one of those uptight fellas here to soak away your cares, en't you?
+*: 
+	Well enjoy it then, the water's lovely and warm!
+*: 
+	Oh well. Maybe next time, eh.
+*: 
+	If you're back for the weddin' veil, you'll be pleased to hear she's good and ready!
+*: 
+	There she is! All yours!
+~ %0%a000120 receives the wedding veil! ~
+~ %0%a000180 acquires the wedding veil! ~
+*: 
+	I'm busy studyin' to be a priest, you know.
+*: 
+	There's apparently some kind of religious order out there at the moment collectin' money to build a White King's Paradise or suchlike.
+*: 
+	They say they'll keep you safe even if the end of the world comes and all that.
+*: 
+	That daughter of Whitey's, Bianca, is a real hard worker.
+*: 
+	He's a bit weak now because of some illness or other, so she goes off all over the place takin' care of things for the both of 'em.
+*: 
+	She really has got her head screwed on,
+	that one.
+*: 
+	Sorry, mate.
+	Pub en't open durin' the day.
+*: 
+	You as well, eh? I don't blame you.
+	The baths here turn up some real beauties.
+*: 
+	I'm talking about bath crystals, of course!
+	The famous Stockenbarrel scintillating sinter!
+*: 
+	I'm afraid no good things in life come for free, though. What I'd really like is a desert rose.
+*: 
+	You sometimes come across them in the desert. If you could find me one, I'd be more than happy to give you some sinter in exchange.
+*: 
+	Wait a minute! Don't go telling any of the villagers about this, okay? This is just between you and me.
+*: 
+	En't you that ole friend of Bianca's?
+*: 
+	Dun't you go puttin' her into any danger, d'you hear? Else you'll have me to answer to.
+*: 
+	En't you that ole friend of Bianca's?
+*: 
+	I hear you're plannin' on gettin' wed.
+*: 
+	I thought I'd give you this by way of congratulations, like. It's nothin' much, mind.
+~ %0%a000120 receives a seed of magic! ~
+~ %0%a000180 acquires a seed of magic! ~
+*: 
+	Well done an' all that!
+	Here's to the happy ever after, eh?
+*: 
+	En't you that ole friend of Bianca's?
+*: 
+	I hear you're plannin' on gettin' wed.
+*: 
+	Well done an' all that!
+	Here's to the happy ever after, eh?
+Whitey
+	Hello there, %a000090.
+	Bianca not with you today?
+Whitey
+	Getting ready for the weddin'!?
+Whitey
+	Well, I never! So you're takin' my Bianca off my hands then, eh?
+Whitey
+	Thanks ever so much! Now I dun't have to worry about her no more, like.
+Whitey
+	I hope you'll both be very happy together.
+Whitey
+	Hello there, %a000090.
+	Bianca not with you today?
+Whitey
+	Getting ready for the weddin'!?
+Whitey
+	Well, well. So you're gettin' wed to this
+	Nera then?
+Whitey
+	I'm a bit disappointed, to be honest, but it can't be helped.
+Whitey
+	Bianca's a lovely lookin' girl, anyway.
+Whitey
+	She'll probably be beatin' 'em off with a stick before long. Ha ha ha!
+*: 
+	Meow.
+*: 
+	Well, well, well! 
+*: 
+	You be lookin' mighty pleased wi' yourself!
+*: 
+	(splish splash)
+*: 
+	Aaah! You can't beat havin' the baths pretty much to yourself.
+*: 
+	If you're back for the weddin' veil, you'll be pleased to hear she's good and ready!
+*: 
+	There she is! All yours!
+~ %0%a000120 receives the wedding veil! ~
+~ %0%a000180 acquires the wedding veil! ~
+*: 
+	There en't no veils out there better than them ones I make!
+*: 
+	I even made one by special order for a certain king once upon a time, I'll have you know.
+*: 
+	King Pankraz of Gotha it was.
+	Not that I'm one to name-drop or anythin'!
+*: 
+	I'm busy studyin' to be a priest, you know.
+*: 
+	Goo! Goo!
+*: 
+	That husband of mine! He may as well up sticks and move to the pub, the amount of time he spends there!
+*: 
+	Zzzz...
+*: 
+	Ah-phew...
+*: 
+	Ah-phew...
+	Bianca... Zzzz...
+*: 
+	There's apparently some kind of religious order out there at the moment collectin' money to build a White King's Paradise or suchlike.
+*: 
+	They say they'll keep you safe even if the end of the world comes and all that.
+*: 
+	I dunno, though. I've bin around a bit meself so I'm not so naive as some. The whole thing sounds a bit fishy to me.
+*: 
+	There's a chap called Whitey livin' at the far end of the village. That daughter of his is a real beauty.
+*: 
+	What I'd give to be able to marry that one! My right arm at the very least!
+*: 
+	No!? Marryin' 'er? Well I never! You lucky devil!
+*: 
+	Well, at least I get to keep me arm, eh...
+*: 
+	There's a chap called Whitey livin' at the far end of the village. That daughter of his is a real beauty.
+*: 
+	What I'd give to be able to marry that one! My right arm at the very least!
+*: 
+	He's gone an' fallen asleep over his drink again.
+*: 
+	The carpentry business has bin boomin' since Whitey and Bianca moved here.
+*: 
+	It used to take a good two years to build a house, but Bianca's place was up in no time
+	at all.
+*: 
+	Dear, oh dear. The fella from the weapon shop's on his tenth already. His wife'll have his guts for garters when he gets home.
+*: 
+	Purrr...purrr...purrr...
+Whitey
+	Hello there, %a000090.
+	Bianca not with you today?
+Whitey
+	Getting ready for the weddin'!?
+Whitey
+	Well, well. So you're gettin' wed to this
+	Debora then?
+Whitey
+	I'm a bit disappointed, to be honest, but it can't be helped.
+Whitey
+	Bianca's a lovely lookin' girl, anyway.
+Whitey
+	She'll probably be beatin' 'em off with a stick before long. Ha ha ha!
+*: 
+	You mustn't keep the bride waiting!
+*: 
+	There can't be a wedding without the wedding veil.
+*: 
+	And Mr Briscoletti explicitly asked for %O0960%Xyou to bring it, %a000090%Y%a000090 to bring it%Z. It won't do if someone else in your party has it, or if it's in your bag.
+*: 
+	Thank you for bringing the veil, %a000090.
+*: 
+	Your timing couldn't be better. The bride's just finished getting into her wedding dress.
+*: 
+	Here's everything Ms Whitaker was carrying. I'll just pop it into your bag for you, shall I?
+*: 
+	There. Well, you'd better go in!
+*: 
+	Come along, then, %a000090. It's time to pop that beautiful wedding veil on your beautiful young bride's head.
+Bianca
+	%0%a000090...
+~ %0%a000090 puts the wedding veil over Bianca's head. ~
+Bianca
+	Thanks, %a000090.
+Bianca
+	Looks like it's time for you to take me to
+	the church, then.
+*: 
+	Oh, my! Doesn't the bride look a treat?
+	Come along, then. It's time to go to the church.
+Bianca
+	Oops! What are you tryin' to do, %a000090?
+	You should be takin' me to the church.
+*: 
+	You're all ready, are you? Wonderful. I'll lead the way to the church, then. Follow me.
+*: 
+	Hey! %0%a000090!
+Harry
+	It's been ages, hasn't it? We rushed over here as soon as we received the invitation from Mr Briscoletti.
+Maria
+	Congratulations, %a000090!
+	It looks like the wedding is going to be
+	absolutely beautiful.
+Harry
+	Just don't cock up the proceedings by trying to look all dapper or anything, %a000090!
+Harry
+	So, see you later then, I suppose.
+*: 
+	So, this is it! Time for the big entrance of the bride and groom! It's so exciting!
+Priest
+	We are gathered here today, in the presence of the almighty Goddess, to celebrate the happy union of %a000090 and Bianca.
+Priest
+	We will start with your wedding vows.
+Priest
+	Do you, %a000090, take Bianca to be your wife?
+Priest
+	To love and to cherish, in sickness and in health, for as long as you both shall be resurrected from death in the church?
+Priest
+	And do you, Bianca, take %a000090 to be
+	your husband?
+Priest
+	To love and to cherish, in sickness and in health, for as long as you both shall be resurrected from death in the church?
+Bianca
+	Yeah. I do.
+Priest
+	Then we shall now move on to the exchange of the wedding rings...
+~ %0%a000090 and Bianca place their wedding rings on each other's fingers. ~
+Priest
+	So, in the presence of the Goddess, you will
+	now demonstrate to everyone here that your
+	union is complete.
+Priest
+	You may kiss the bride!
+Harry
+	Come along, %a000090! Don't be shy!
+	Give her a sloppy one!
+Bianca
+	%0%a000090...
+~ %0%a000090 kisses Bianca! ~
+Priest
+	Dear Goddess, behold this new union of two of your devoted flock!
+Priest
+	Bless them with your everlasting love and watch over them with your eternal compassion.
+Harry
+	Congrats, %a000090!
+	You two make a great couple.
+Nera
+	%0%a000090 and Bianca, I hope you'll enjoy every happiness together.
+*: 
+	(wolf whistle)
+	That's one hot bride you've got there, %a000090! You treat her right!
+~ %3And so %a000090 and Bianca are wed.%4 ~
+~ %3The celebrations continue long into the night.%4 ~
+~ %3And then, day breaks...%4 ~
+Bianca
+	Mornin', %a000090. Did you sleep alright?
+	It's nearly noon already, eh?
+Bianca
+	It all feels a bit like a dream, really. I can hardly believe I'm married now!
+Bianca
+	%0%a000090...
+Bianca
+	I know I'm a bit rough and ready sometimes, but I hope I'll be able to make you happy.
+Bianca
+	Ha ha! I feel embarrassed even sayin' somethin'
+	like that!
+Bianca
+	%0%a000090...
+	Here's to a lifetime of bein' happy together!
+~ Bianca joins %a000090! ~
+Bianca
+	Come on, then!
+Bianca
+	I s'pose we should go and pay Briscoletti a visit before we make a move.
+~ The bag feels unusually heavy. ~
+~ %0%a000090 has a look inside... ~
+~ Wow! There's a pair of sticky honey buns in there. ~
+~ Mr Briscoletti gave them out to everyone in Mostroferrato to mark the special occasion. ~
+*: 
+	Welcome to Mostroferrato, ancient stronghold of the Briscoletti family.
+*: 
+	That was some wedding, eh?
+	Phew! What an occasion!
+*: 
+	I'm going to marry a really beautiful woman when I grow up too.
+*: 
+	Nice wedding, %a000090!
+	Briscoletti does it again, eh?
+*: 
+	You do realise you could've inherited
+	Mr Briscoletti's fortune if you'd married
+	Nera, don't you?
+*: 
+	I still can't believe you chose Ms Whitaker.
+Bingo
+	Aaarf! Bau bau bau!
+*: 
+	Urgh. I drank far too much last night.
+	Hair of the dog's the only answer!
+	Glug, glug, glug, glug...
+*: 
+	Urgh! (burp)
+*: 
+	It's about time I got married too, I think.
+*: 
+	Always nice to see a customer marry such a fine young specimen. Well done!
+*: 
+	So you decided not to marry Nera in the end,
+	did you?
+*: 
+	Crispin's on the mend now too. I'd say things are looking up, wouldn't you?
+*: 
+	A wedding, eh? That takes me back.
+	A long, long way back!
+Crispin
+	No doubt Nera thinks I'm an utter dunce, now.
+Crispin
+	All I managed to do was make a complete fool of myself and cause her to worry, getting so badly burnt like that.
+Crispin
+	But I'll make a man of myself yet!
+	I'll prove I'm worthy of her love!
+Crispin
+	Maybe then. Maybe one day, my love will
+	love me back...
+*: 
+	Two people from different upbringings, joining as man and wife, setting off on a new journey together as a family...
+*: 
+	When I think about it, marriage is another example of the many wonders the Goddess has bestowed upon us all.
+*: 
+	Stop lazing about and put some tea on,
+	you old waster!
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	The wife's taking care of business again today.
+	I'm in charge of making dinner.
+*: 
+	I don't know how things ended up like this.
+	It all depends on what kind of a start you get off to, I think.
+*: 
+	Welcome to the Briscoletti residence.
+Rodrigo Briscoletti
+	Ah-ha! The happy duo! You look fine together.
+	Yes, very fine!
+Rodrigo Briscoletti
+	Prince Harry and his wife left early this morning.
+Rodrigo Briscoletti
+	He had some very interesting things to say about %O0960%Xyou, you know, %a000090%Y%a000090, you know%Z.
+Rodrigo Briscoletti
+	I hear you're travelling in search of a
+	legendary hero.
+Rodrigo Briscoletti
+	Well, I believe I have just the thing for you.
+Rodrigo Briscoletti
+	You'll find some gifts from me in the two chests behind me here. They're both unlocked. The contents are yours.
+Rodrigo Briscoletti
+	I've also arranged for you to have the use of one of my ships. It's moored at Lodestar Harbour for you whenever you want.
+Rodrigo Briscoletti
+	It's to sea-faring vessels what tiramisu is to desserts ⓚⓛ the best there is! Ready for any voyage you care to embark on. So make use of it soon!
+Rodrigo Briscoletti
+	I like you%O0960%X, %a000090%Y%Z. You're solid.
+	As solid as a stale panini!
+Rodrigo Briscoletti
+	So! I wish you all the best on your
+	adventures together.
+Rodrigo Briscoletti
+	Steer a course south from Lodestar Harbour and you should eventually come to what's known as
+	the desert queendom of Helmunaptra.
+Rodrigo Briscoletti
+	Mind you, you're newly-weds, aren't you? You must stop off on the way for a little honeymoon.
+Rodrigo Briscoletti
+	If you head east from Lodestar Harbour instead, you'll come to my casino ship, the Ventuno, and
+	the little town of Pontoon.
+Rodrigo Briscoletti
+	Mention my name, and my staff will see you're given the best suite on the vessel!
+Rodrigo Briscoletti
+	And you should go and visit some of your old
+	haunts too.
+Rodrigo Briscoletti
+	There must be plenty of places from your youth that you haven't visited for a while, hm?
+Rodrigo Briscoletti
+	So! I wish you all the best on your
+	adventures together.
+Romana
+	If you're worried about Nera, there's really no need.
+Romana
+	I know she'll find a wonderful husband before long. Call it women's intuition.
+Nera
+	I was green with envy seeing the two of you so happy as you walked up the aisle!
+Nera
+	I hope you'll come and visit us again sometime.
+	You're always welcome.
+Nera
+	Maybe I might even be married the next time you come! You never know!
+*: 
+	Travelling's better with two than one.
+	And better with three than two, if you see
+	what I mean.
+*: 
+	The more the merrier!
+Bingo
+	Aaarf! Bau bau bau!
+*: 
+	I lost my wife some time ago. She was killed by monsters while I was away travelling once.
+*: 
+	So make sure you look after your wife,
+	won't you?
+*: 
+	Zzz... Zzz...
+	Why don't I have a mum?
+	Where'zzz she gone...? Zzz...
+*: 
+	Always nice to see a customer marry such a fine young specimen. Well done!
+*: 
+	It's about time I got married too, I think.
+*: 
+	Phew! You're travelling with a stunner there,
+	my friend! Hic!
+*: 
+	What? You're mirⓚⓛ You're merriⓚⓛ You're married!? You luckyⓚⓛ Hiccup!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Argh! I want a wife too!
+*: 
+	Aaaah... A few glasses of the good stuff helps you forget all the bad stuff.
+*: 
+	What? What bad stuff? Well, there's the evil darkness that's ⓚⓛ Hic! ⓚⓛ going to swallow up the whole world for starters...
+*: 
+	Blast! You've made me remember it again, now!
+	Quick! More good stuff! Glug, glug, glug...
+*: 
+	Zzz... Zzz...
+*: 
+	Ah-phew...

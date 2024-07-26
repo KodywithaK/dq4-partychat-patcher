@@ -1,0 +1,76 @@
+%0%a001240
+	Wow! So this is the Realm of the Faeries! It's really different to our world.
+%0%a001240
+	There are monsters here too, right? We should mind where we go.
+%0%a001250
+	Look, Dad! The sky's white! Why do you think that is? It's really odd!
+%0%a001250
+	Is that pretty pink flower over there a cherry blossom? You can smell it from here.
+Sancho
+	I no know esuch places like thees are een the world. Qué? Ees no the world? Ees a different world? Heh heh. You like to trick me, sí?
+%0%a001240
+	Where do you suppose the Faerie Palace is? I can't see any lake surrounded by mountains around here.
+%0%a001240
+	You came here when you were little, right, Dad?
+	Did you see the Faerie Palace then?
+%0%a001250
+	La la la la... Being here makes me feel all happy.
+	I want to skip about the place!
+%0%a001250
+	Can we stay here a bit longer, Dad? Not many people get the chance to come to the Realm of the Faeries.
+Sancho
+	I no believe eet. These tiny peoples, the faeries, they are real!
+Sancho
+	Eh! Why you have eso many esecrets from your Uncle Sancho, friend? You no trust me?
+	Thees makes me eso esad.
+Tuppence
+	How odd. I've just realised that we've been
+	walking around for quite a while now, and yet
+	it's still daytime.
+Tuppence
+	Faeries are rather sweet. I wonder if I could persuade one to come and live with me as my bride.
+%0%a001240
+	What do you suppose it means to change the flow of time? I don't really get it.
+%0%a001240
+	Treacle and the other faeries can't know about the gold bauble, right?
+%0%a001240
+	Okay. I didn't want to let you down by not keeping it a secret.
+%0%a001250
+	I don't think we're on the right track here, Dad.
+	We should go back to the Faerie Palace.
+%0%a001250
+	I think I understand what the leader of the faeries was saying. You can do it, right, Dad?
+%0%a001240
+	Here we are again! You really like T 'n' T,
+	don't you, Dad?
+%0%a001240
+	There's just one island here, right? There aren't any others floating about the place?
+%0%a001250
+	There's a white mist just above the water.
+	I thought the sea itself was white at first!
+%0%a001250
+	I seem to become a real chatterbox whenever we come here.
+%0%a001250
+	Ooh, a little bird! Hello there, birdie!
+Sancho
+	Qué? We estill have the theengs to do here?
+	Okay. Then we do them rápido, sí?
+Sancho
+	You no forget esometheeng, friend?
+	You must check to make esure.
+	Ees better to be esafe than esorry, no?
+Tuppence
+	I always feel terribly agitated when we come here. Maybe it's just the magic effect the Realm of the Faeries has on me.
+Tuppence
+	I could be walking along when a faerie jumps out from behind a tree and bumps right into me.
+Tuppence
+	It could be love at first sight! These things have been known to happen, you know!
+Bianca
+	It's lovely and warm here. And it smells so good too.
+Bianca
+	You came here to try and get Zenithia afloat again, didn't you? Sorry I couldn't be of any help.
+Nera
+	It feels like time has an unhurried pace all of its
+	own here.
+Nera
+	It's a shame we don't have time to relax, but we have to get on.

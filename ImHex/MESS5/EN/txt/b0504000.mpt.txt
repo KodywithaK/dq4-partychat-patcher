@@ -1,0 +1,80 @@
+Bianca
+	We stayed here one night when we were
+	movin' to Stockenbarrel.
+Bianca
+	It's a bit simple, but they gave us such a warm welcome. It was just what Dad needed to cheer
+	him up after givin' up the inn.
+Bianca
+	Folk goin' to Mostroferrato for trade and the like usually spend a night here on the way.
+Nera
+	We stayed here one night on the way home to Mostroferrato from the abbey.
+Nera
+	I knew that I'd be forced into marrying someone who wasn't of my choosing when I got home.
+Nera
+	And yet, I didn't feel uneasy at all. It's as if I was being guided by a bright light, and I had no fear
+	of what was in store.
+Bianca
+	Timin' might be important, but it en't everythin'.
+	You need lots of energy too.
+Nera
+	He he he! What a funny little ditty! Just what you need to put a smile on your face.
+Bianca
+	%0%a001210 was a sabrecat and not just a regular cat, eh?
+Bianca
+	You dun't think the sabrecat that bloke was just on about could be...?
+Nera
+	Someone's pet!? Surely you're the only one brave enough to keep a monster as a pet, %a000090!
+Bianca
+	I wonder what kind of gossip it is.
+	We should have a look!
+Nera
+	Gossip isn't usually a good thing. But... I wouldn't mind having a look to see what it's about.
+Bianca
+	It's probably all just much of a muchness, but it can't hurt to take it with.
+Nera
+	I looked all the way through, but I couldn't see anything in there about us. Shame, really.
+Bianca
+	I remember Dad sayin' somethin' along the same lines. Family's ever so important to him.
+Nera
+	Darling... Um, never mind. I was just thinking how happy I am, that's all.
+Bianca
+	En't those sons of hers the priest and the bloke from the inn?
+Bianca
+	I wonder when she had them! She dun't look old enough to have kids that big!
+Nera
+	Would you prefer to have a boy or a girl? No doubt you want a boy to follow in your footsteps?
+Nera
+	Yes, they're so rough and tumble. It's fun to watch them play. I'll pray that we have a boy.
+Nera
+	But girls can be so delicate. Wouldn't you just be worried about her all the time?
+Nera
+	He he he! Very well, I'll do my best to give you a girl!
+Bianca
+	Crikey! That took me by surprise! I remember the cat at our place bein' like that at first.
+Nera
+	Oh dear! That cat seems to be in rather a bad mood. I suppose we all have days like that.
+Debora
+	I stayed here once before on the way home from collecting Nera from the abbey.
+Debora
+	There was a nun travelling with us too. We sang some lovely songs and even danced a bit.
+Debora
+	But that nun just sat there in the corner, silent as a lamb. Some people just have no sense of fun.
+Debora
+	Given your good timing with marrying me, that must mean you're not bad when it comes to wielding an axe.
+Debora
+	Taming a husband is one thing, but taming a monster is quite another.
+Debora
+	You'd probably be able to do it, though, wouldn't you? I don't know how we're supposed to remind it of its old owner, mind you.
+Debora
+	Gossip is a stupid waste of time. The silly rumours about me back home just meant no one really knew the truth.
+Debora
+	Hey! Why is there nothing about me in here?
+Debora
+	When we have children, I want to just let them do as they please. I only need one servant, and that's you, %a000090.
+Debora
+	For goodness' sake, %a000090!
+	You can tame monsters, but you can't pet a cat without getting into a fight!?
+Debora
+	That innkeeper could tell we were a happily married couple, even though he doesn't know us.
+Debora
+	It's great that you seem nice and happy being my slave. It means you'll stay devoted to me for evermore.

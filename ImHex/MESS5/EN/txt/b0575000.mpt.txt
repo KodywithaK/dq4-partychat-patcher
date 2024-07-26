@@ -1,0 +1,637 @@
+Nera
+	I really love the baths here. I wish I could have
+	a nice, relaxing soak now, but there's just not
+	enough time.
+%0%a001240
+	These baths are basically just lakes full of hot water. I know my stuff, see!
+%0%a001250
+	Stockenbarrel. What a sweet little name for a sweet little village.
+Bianca
+	I can hardly tell him I en't bin by because I spent all them years as a statue, eh?
+Bianca
+	The really good baths dun't just heal your body. They heal your mind too.
+Bianca
+	Not that we've got time for either at the minute, mind.
+%0%a001240
+	These baths are basically just lakes full of hot water. I know my stuff, see!
+%0%a001240
+	Bianca! It's funny to hear Mum being called by her name like that. She's always just ⓗMumⓘ to me.
+%0%a001250
+	Stockenbarrel. What a sweet little name for a sweet little village.
+Tuppence
+	Mmm, this village is definitely to my liking. I can almost smell the beautiful girls in the air!
+%0%a001250
+	It's nice to be able to laze about in the sun. That cat certainly seems to be enjoying it, anyway.
+Bianca
+	That bloke may moan, but what his son's doin' is probably a big help.
+Nera
+	Ooh! A priest. I probably would've become a
+	nun myself, if I hadn't had Rodrigo Briscoletti
+	for a father.
+%0%a001240
+	I thought all kids were supposed to end up doing the same job as their fathers!
+%0%a001240
+	Does this mean I don't have to become king, and
+	that I could be a trader or a priest or something totally different?
+Sancho
+	For the travellers like you and me, ees good
+	to have more churches, sí? But ees esad for
+	thees señor.
+Tuppence
+	Children do tend to surpass their parents in their endeavours. I'm a prime example, obviously!
+Bianca
+	That cat's not exactly a pet of ours, but it seems to like hangin' around our place all the time.
+Bianca
+	Come to think of it, I wonder how %a001210's
+	gettin' along.
+Nera
+	I wonder if this cat belongs to Bianca.
+	It really is very sweet.
+%0%a001250
+	I really like this place.
+	There are lots of cute little cats.
+Bianca
+	He dun't change, eh? Not that I'm complainin'
+	or nothin'.
+Nera
+	Dear me, darling! I thought we were supposed to be in a hurry, and yet there you go taking a bath!
+Nera
+	But I suppose, now we're here...
+Nera
+	Aaah! That does feel good.
+%0%a001240
+	Wow! Look at all that steam! It's totally white!
+%0%a001250
+	We're outside...and yet people are having a bath!
+	Is it really a bath? What fun!
+Sancho
+	Anda! Maybe we are een the way of esometheeng, no? Ees too esteamy een here for you!
+%0%a001240
+	Is the old man really young? He seems a bit wrinkly to me, but is he not actually old?
+Bianca
+	Fancy a character like him bein' in a place like this! The world's in a sorry old state, eh?
+%0%a001240
+	He's a quick one at getting away.
+%0%a001240
+	We'll make him pay when we catch up with him, though. No one causes trouble in my mum's village!
+%0%a001250
+	That was a bit of a shock! What was someone like him doing here?
+Sancho
+	We no know who or where thees señor, he estole thees from. You must keep eet unteel we find out who ees the owner.
+Tuppence
+	Are you alright, %a000090?
+	You're not injured, I hope?
+Bianca
+	What are we doing here at a time like this, %a000090?
+Bianca
+	Comin' back to this place makes me feel all nostalgic for the past, y'know.
+Bianca
+	I didn't much care for this place when we first moved here.
+Bianca
+	I dun't know when my feelins changed, but I really love it here now.
+Nera
+	Don't worry about me. I don't mind at all if you'd like to go and see how Bianca is doing.
+Nera
+	You were childhood friends after all, so I know she means a lot to you.
+Nera
+	This village is so lovely and quiet. Blissful!
+%0%a001240
+	I love climbing trees! Can I climb up, Dad?
+%0%a001240
+	Mmm...
+%0%a001240
+	The air here smells amazing!
+%0%a001240
+	This place feels all familiar for some reason.
+%0%a001250
+	The forest is talking, you know. The trees are saying hello. They're all so friendly!
+%0%a001250
+	Ooh! Did you see that squirrel jump out on the branch of that tree just then?
+Sancho
+	Ees eso high een the mountains. Sí, señor Whitaker, he must have a very hard life.
+Sancho
+	I no know anytheeng about thees place unteel you tell me about eet, friend.
+Tuppence
+	The view's not so great, but I suppose that's to be expected, considering we're in the middle of all these mountains.
+Bianca
+	The bloke here's the one who made the veil for the weddin', eh?
+Bianca
+	It wasn't half pretty. I had no idea he could make somethin' so lovely.
+Nera
+	That wonderful veil I wore at our wedding was made here, wasn't it?
+Nera
+	It's funny. He doesn't seem like the kind of fellow to take on work like that, and yet he made such a lovely job of it.
+%0%a001240
+	Wow! A shop and a house inside a cave! That's cool!
+%0%a001250
+	Look, Dad. Look at all those flowers.
+%0%a001250
+	Do you think the man put them all on display?
+	What a nice thing to do.
+Bianca
+	Y-You didn't, did you, %a000090?
+Bianca
+	Nah, I'm sure it weren't you, really. Ha... Ha ha ha!
+Nera
+	Dear me! What a terrible thing for someone to do!
+%0%a001240
+	I wouldn't mind a nice, long soak myself.
+Tuppence
+	What despicable creature would steal clothes from a poor vulnerable young woman like that?
+Tuppence
+	If only I'd arrived here sooner. Why, I'd take that scoundrel and beat him to a pulp!
+Bianca
+	It's a bit of a pain havin' to traipse past the inn to get to the baths.
+Bianca
+	But they're the ones takin' care of them, so I s'pose it's fair enough.
+Nera
+	What a lovely inn this is, with the baths nearby and everything. It's certainly nice and relaxing.
+%0%a001240
+	I always get really excited when we come to an inn. I suppose that means I'm cut out for travelling, doesn't it?
+Bianca
+	That old woman's bin like a mother to me ever since Mum died.
+%0%a001240
+	Are you alright, Dad? You got quite a whacking on your back there.
+Sancho
+	You know thees señora, friend?
+Sancho
+	Why you no tell me before we came here?
+	Then I could prepare esome nice geeft for her. Maybe a paella, eh?
+Nera
+	She's right, darling. There were all those years you couldn't go anywhere, after all.
+Nera
+	I feel so guilty for making Bianca and our children and other people so worried about us.
+%0%a001250
+	Um, have you got a few secrets, Dad?
+	...It's okay. Never mind.
+Sancho
+	You know thees señora, friend?
+Sancho
+	Why you no tell me before we came here?
+	Then I could prepare esome nice geeft for her. Maybe a paella, eh?
+Bianca
+	There's somethin' about goin' into a pub durin' the day. It always seems quieter than everywhere else, dun't you think?
+Nera
+	I'm surprised to find a pub in a small village like
+	this. I suppose it's a good place for people to relax after work.
+%0%a001240
+	Why are pubs always so dark?
+	Is it no fun if they're bright?
+%0%a001250
+	Pubs smell of drink even during the daytime,
+	don't they?
+Sancho
+	Heh heh heh! You esee all thees dreenks?
+	Ees a collection for the lovers of the alcohol.
+	Sí, sí. Ees a fine collection.
+Bianca
+	Hopefully there won't be any more folk gettin' taken in like that now we've seen off Korol, eh?
+Nera
+	I can still hear the followers' voices ringing in
+	my ears as they prayed. What a terrifying place that was.
+%0%a001240
+	What did it say? The handwriting was a bit messy, so I couldn't figure it out.
+%0%a001250
+	It's naughty to graffiti things like that!
+Bianca
+	That scintillating sinter he was on about is the crystal deposits left behind in the bath water. It's all natural stuff, and there's not a lot of it.
+Bianca
+	It's the most famous thing about Stockenbarrel by far.
+%0%a001240
+	I get the feeling that man isn't a very nice character.
+%0%a001240
+	Why did he panic like that when he saw Mum?
+%0%a001250
+	What could he be doing down a dark well like this?
+	Do you think he's trying to hide?
+Nera
+	Oh yes. Stockenbarrel is famous for its
+	scintillating sinter.
+Nera
+	I think it's quite a valuable thing, in fact. I wonder if that man's from around these parts. It doesn't seem like he is.
+%0%a001240
+	I get the feeling that man isn't a very nice character.
+%0%a001250
+	What could he be doing down a dark well like this?
+	Do you think he's trying to hide?
+Bianca
+	Huh! No wonder it's bin so tricky findin' any scintillatin' sinter lately. That bloke's got it all!
+Nera
+	Scintillating sinter has a lovely distinct smell to it.
+%0%a001250
+	So this is scintillating sinter? Are you supposed to put it in the bath or something?
+Tuppence
+	Those desert roses were two a penny.
+	Who'd have thought you could exchange
+	them for scintillating sinter?
+Tuppence
+	I wonder what we could exchange the
+	scintillating sinter for. Or should we just
+	quit while we're ahead?
+Bianca
+	If he's that fussed about the outside world,
+	then why dun't he get out of this well?
+Bianca
+	Maybe that's why he was after the scintillatin' sinter all the while.
+Nera
+	I could be wrong, but is that fellow stuck down here, do you think?
+%0%a001240
+	Um, Dad... What's that man got to do with Mum?
+%0%a001250
+	You and Mum were childhood friends, weren't
+	you, Dad?
+%0%a001250
+	I hope she's okay. I wish we could find her soon.
+Tuppence
+	You're not just old friends, you're her husband!
+Tuppence
+	Hmm. I think he might have a bit of a thing for Bianca, you know. That's probably why he's burying his head in the sand.
+Bianca
+	I didn't imagine so many folk would be worried about me. I hope nothin' like that ever happens again.
+%0%a001250
+	Don't leave us again, will you, Mum?
+Bianca
+	Of course I won't, %a001250.
+	Dun't you worry.
+Bianca
+	Runnin' an inn is a tough old job.
+Bianca
+	Tryin' to keep all the customers happy is a
+	never-endin' task.
+%0%a001240
+	It sounds like Grandpa's having a few problems.
+	Do you think we should try and do something to
+	help out?
+Nera
+	How nice of him to give us a wedding present!
+%0%a001240
+	What did you get? A seed of magic? Nice!
+Nera
+	If he's training to run an inn, it must be jolly
+	hard work.
+%0%a001240
+	I'm not very good at learning things either. %0%a001250 always picks things up faster than I do.
+Tuppence
+	I know that feeling! Oh, I know that feeling so well.
+Tuppence
+	He and I could probably bend each other's ears all night long if we had the chance. Yes, I certainly know how he feels.
+Bianca
+	Dad seems to have aged a bit while I've bin away.
+Bianca
+	Hopefully we'll be able to finish everythin' off before long so that I can take better care of him.
+%0%a001240
+	He's Mum's dad. That makes him my grandad, right?
+%0%a001240
+	Grandpa Whitey... He's got a nice smiley face. 
+%0%a001250
+	Grandpa must be all lonely when we're off on our travels. We should pay him a visit more often.
+Sancho
+	Señor Whitaker, he ees eso much older than I remember. Sí, your Uncle Sancho, he gonna have the wrinkly eskin of the alligator too, you know.
+Nera
+	Everybody seems to love Bianca, don't they?
+Nera
+	He he. You look a bit worried, darling. Bianca really plays on your mind, doesn't she?
+%0%a001240
+	So he's learning how to run the place? There must be loads of things he has to remember for that!
+Nera
+	So that's Bianca's father. He seems rather
+	run-down.
+Nera
+	Hopefully we'll bring peace to the world before long, and then he'll be able to relax more.
+Sancho
+	Señor Whitaker, he ees eso much older than I remember. Sí, your Uncle Sancho, he gonna have the wrinkly eskin of the alligator too, you know.
+Nera
+	So that's Bianca's father. He seems rather
+	run-down.
+Nera
+	Hopefully we'll bring peace to the world before long, and then he'll be able to relax more.
+%0%a001240
+	It's weird meeting people who know you from
+	before, Dad.
+%0%a001250
+	He seems like a nice old man.
+Sancho
+	Señor Whitaker, he ees eso much older than I remember. Sí, your Uncle Sancho, he gonna have the wrinkly eskin of the alligator too, you know.
+Nera
+	Bianca's as pretty as ever.
+Nera
+	It doesn't seem like she's married yet, though.
+%0%a001240
+	She's really pretty. You were friends with her when you were little, weren't you, Dad?
+%0%a001240
+	I wonder what my mum's like.
+	I hope I get to meet her soon.
+%0%a001250
+	Um, Dad... That girl and you...
+	Er, never mind.
+Sancho
+	Uf! Ees, ees señorita Bianca!
+	She ees eso, eso beautiful now.
+	Heh heh. Ees, ees no a bit hot een here?
+Tuppence
+	Whatever is a beautiful girl like her doing all alone? Maybe I should take her on.
+Tuppence
+	Yikes! Now there's a look that could kill, %a000090! I was only joking. There's no need to get your knickers in a twist.
+%0%a001250
+	The cat seems happy enough.
+	I'm pretty sleepy, though.
+Bianca
+	Charmin'! He dun't seem to have noticed we're here
+	at all!
+Nera
+	There are actually quite a few people about, and yet he doesn't seem to feel at all self-conscious about washing his back like that.
+Nera
+	I could wash your back if only we had the place to ourselves. It's so nice and muscular!
+%0%a001240
+	Can I have a splash about too?
+	(splish splash)
+%0%a001250
+	I like having a bath, but I'm sleepy now, so I'm afraid I might drown! Glug...glug... Ha!
+Sancho
+	Ees a nice bath. But maybe ees nicer eef ees no eso noisy, eh?
+Bianca
+	We can't hang about too much, but it is dark now, after all. Maybe we should stay here the night?
+Bianca
+	I didn't much care for this place when we first moved here.
+Bianca
+	I dun't know when my feelins changed, but I really love it here now.
+Nera
+	Don't worry about me. I don't mind at all if you'd like to go and see how Bianca is doing.
+Nera
+	You were childhood friends after all, so I know she means a lot to you.
+Nera
+	This village is so lovely and quiet. Blissful!
+%0%a001240
+	Wow! Look at all those stars!
+%0%a001240
+	There's loads more than you ever see in Gotha.
+	Look, Dad! They're amazing!
+%0%a001240
+	Mmm...
+%0%a001240
+	The air here smells amazing!
+%0%a001240
+	This place feels all familiar for some reason.
+%0%a001250
+	The forest is talking, you know. The trees are saying hello. They're all so friendly!
+%0%a001250
+	It's so...quiet here...
+	It's making me...(yawn)...feel all...sleepy.
+Sancho
+	Ees eso high een the mountains. Sí, señor Whitaker, he must have a very hard life.
+Sancho
+	I no esure eef ees the monsters or being up een the mountains, but I no feel esafe.
+	Ees time we rest for today.
+Tuppence
+	Aaah, I must admit that I'm rather tired. Perhaps we could find ourselves a bed for the night before too long, %a000090?
+Bianca
+	Looks like the Order of Zugzwang got their dirty mitts on this place too, eh?
+Nera
+	I'm starting to feel rather agitated now.
+	We should hurry to Nadiria, darling.
+%0%a001250
+	What does he mean by the hard sell?
+Sancho
+	The Order of Zugzwang!? Here?
+	I no believe eet!
+Bianca
+	The bloke here's the one who made the veil for the weddin', eh?
+Bianca
+	It wasn't half pretty. I had no idea he could make somethin' so lovely.
+Nera
+	That wonderful veil I wore at our wedding was made here, wasn't it?
+Nera
+	It's funny. He doesn't seem like the kind of fellow to take on work like that, and yet he made such a lovely job of it.
+%0%a001240
+	Wow! A house inside a cave! That's so cool!
+%0%a001250
+	Look, Dad. Look at all those flowers.
+%0%a001250
+	Do you think the man put them all on display?
+	What a nice thing to do.
+Bianca
+	Ha ha! There you go again, tryin' to speak to folk when they're sleepin'! You're a funny one sometimes, %a000090.
+Nera
+	He really is fast asleep. It must be tiring work trying to grow things day in day out.
+%0%a001240
+	Why's he on the edge like that? It's good that
+	there's a church and everything, but I can't help feeling a bit bad.
+Sancho
+	No! You no wake heem up!
+	He needs to have a siesta esometime, no?
+Bianca
+	Looks like she's come to have a bath. It's nice that she can relax like that.
+Nera
+	Don't you think it's rather strange to be watching an old woman sleep? You could pick a more normal hobby, you know!
+%0%a001240
+	She didn't seem to be snoring too much.
+%0%a001250
+	I wouldn't mind a sleep now either.
+Bianca
+	Thanks for always takin' care of things about
+	the place.
+Bianca
+	Hm? Oh, nothin'. I was just sayin' a few words of thanks to that man there, that's all.
+Nera
+	I do hope Bianca will live happily ever after too.
+Bianca
+	Why are you lookin' at me like that, %a000090?
+Bianca
+	There's nothin' I can do about it. It's up to him to figure out how he feels, not me!
+Nera
+	You look a bit troubled, darling. I think we're probably experiencing the same emotion...
+%0%a001240
+	Why do you have to make people forget about other people? I don't get it!
+%0%a001250
+	She sounds very determined, doesn't she?
+Tuppence
+	You can have me if he doesn't want you, dear!
+Tuppence
+	Hmph! She's not listening.
+Bianca
+	It's hard to tell whether he was bein' serious or whether he was jokin', eh?
+Nera
+	But his face is all wrinkly too!
+%0%a001240
+	I get like that if I stay in the bath too long too.
+%0%a001250
+	He smells of drink. Can we get away from
+	him, please?
+Bianca
+	The cheek of it! She's waitin' up worryin' about him, and he's talkin' about her like that!
+Nera
+	Do you think his wife is really all that scary?
+%0%a001250
+	Yuck! Drunk people are horrible!
+Sancho
+	No, no, no. Thees ees no good.
+	You must no dreenk for courage.
+Sancho
+	Your Uncle Sancho, he no have a wife.
+	I no know about the life weeth another.
+Sancho
+	But I know about the housework and I know how to turn a boy eento a macho man, sí?
+Bianca
+	I dun't blame her. Look at the state of him!
+Nera
+	I do hope I never have to shout at you like she's going to shout at her hubbie when he gets home.
+Nera
+	I suppose that means you'll just have to make sure you never do anything that warrants any shouting. He he he!
+%0%a001240
+	Is that man's wife going to tell him off? How funny!
+Bianca
+	That little one's always asleep here of a night. I wonder what it is about our house that it likes so much.
+%0%a001250
+	Look at him all curled up in a ball! How cute!
+Debora
+	There's hardly anything here apart from the baths, is there?
+Debora
+	Don't they have the brains to figure out they
+	could use them to sell the place as a tourist attraction?
+Debora
+	I've never been able to get on with the atmosphere in churches and the like.
+Debora
+	Nera did well to stay at the abbey all those years. There's no way I could've managed it.
+Debora
+	Oh, that cat's so charming and friendly!
+	Two of my own qualities, I might add.
+Debora
+	The cheek of it! I know it's steamy and hard to see, but I still look nothing like an ⓗold girlⓘ!
+Debora
+	You wouldn't have thought you'd have to put up with his sort in a quiet little place like this. What is the world coming to?
+Debora
+	I wonder who he stole that from.
+	You'd better hang onto it, %a000090.
+Debora
+	This is where that childhood friend of yours lives, isn't it, %a000090?
+Debora
+	You can drop in on her briefly if you want.
+	I won't be angry, don't worry.
+Debora
+	Now we've come all this way, I may as well try out the baths. It's good to relax from time to time.
+Debora
+	Really? He made the veil for my wedding dress?
+Debora
+	Come to think of it, I do remember being told something along those lines. I was too busy to think about it at the time.
+Debora
+	Don't worry. I know it wasn't your doing, so you don't have to look so panicky.
+Debora
+	If you stay at this inn, you can go in the baths whenever you want, can't you?
+	We'll stay here tonight.
+Debora
+	We couldn't have come even if we'd wanted to.
+	It's a bit tricky to travel when you've been turned
+	to stone.
+Debora
+	I'm a bit surprised to see a pub in such a small village. I suppose it's for the bath-goers.
+Debora
+	If the world stays in chaos for too long, then another silly cult might spring up in Zugzwang's place.
+Debora
+	Scintillating sinter is a famous local speciality,
+	if I remember rightly.
+Debora
+	It doesn't sound like he's from around here, though. He's a bit of a dodgy character, I'd say.
+Debora
+	There is a lovely smell coming off the baths, actually. I wonder if that's the scintillating sinter.
+Debora
+	Why doesn't he just get out of the well then?
+	Or is he stuck? Too weak to climb out on his own?
+Debora
+	I suppose he can't ask anyone for help if he is, though, what with being here picking scintillating sinter on the sly.
+Debora
+	He's right about it being late.
+	This is why I alwaysⓚⓛ
+Debora
+	Never mind, %a000090. Forget it.
+	Just pretend I didn't say anything.
+Debora
+	So, are you happy to meet up with your old friend again, %a000090?
+Debora
+	I see... Well, that's good. And it's good that she
+	seems well.
+Debora
+	Just tell me the truth! I won't be angry. I can see you're happy, it's written all over your face.
+Debora
+	Bianca's father seems to have let his exhaustion get the better of him.
+Debora
+	I suppose he's worried about her.
+	I can understand that.
+Debora
+	Bianca's father seems to have let his exhaustion get the better of him.
+Debora
+	I suppose he's worried about her.
+	I can understand that.
+Debora
+	Bianca hasn't changed a bit.
+Debora
+	I wonder if it's the baths that have kept her looking so young.
+Debora
+	You've got more wounds, haven't you?
+Debora
+	It doesn't look good for me if you're the only one injured, you know. Do you want people to think I'm bullying you?
+Debora
+	Hm? What was that?
+	I couldn't quite hear you.
+Debora
+	Hmm, you really are incredibly clumsy.
+Debora
+	You'll have to be a bit more careful when you fight
+	in future.
+Debora
+	We may as well stay the night now we're here.
+	I think I'll have a bath before bed.
+Debora
+	The stars are beautiful, aren't they?
+	Almost as beautiful as me.
+Debora
+	So that no-good cult even managed to extend its influence here.
+Debora
+	Looks like we don't have time to relax here.
+	We need to hurry to Nadiria.
+Debora
+	Really? He made the veil for my wedding dress?
+Debora
+	Come to think of it, I do remember being told something along those lines. I was too busy to think about it at the time.
+Debora
+	He's fast asleep. We won't be very popular if we wake him, so let's get out of here.
+Debora
+	You'll wake her up if you get too close!
+	Come away!
+Debora
+	I wonder how long this man will carry on messing about. He needs to take the bull by the horns!
+Debora
+	How interesting. You probably sympathise with people who have those kind of feelings towards Bianca, don't you, %a000090?
+Debora
+	............
+~ Debora is trying to stifle a laugh. ~
+~ It seems to have worked! ~
+Debora
+	He must be the dominant one if he's here drinking while his wife's waiting at home. Not like you.
+Debora
+	I wouldn't get angry like that if you ever had too much to drink. I'd just forbid you from ever
+	drinking again!
+Debora
+	I doubt I'll ever need to, though.
+Tuppence
+	Mmm, this village is definitely to my liking. I can almost smell the beautiful girls in the air!
+Debora
+	Are you implying that there are girls here more beautiful than my good self, Tuppence?
+Tuppence
+	Er, I, er, no! Absolutely not!
+	You're the fairest of them all, without a doubt!
+Tuppence
+	I know that feeling! Oh, I know that feeling so well.
+Tuppence
+	But I must admit I'm rather envious. It can't be such a hardship doing your training with a beautiful lady close by.
+Debora
+	Envious, are you, Tuppence?
+	Am I no longer beautiful enough for you?
+Tuppence
+	I, er, I mean... Of course you are! I'm thrilled to be accompanying you.
+Tuppence
+	Mmm, this village is definitely to my liking. I can almost smell the beautiful girls in the air!
+Debora
+	Are you implying that there are girls here more beautiful than my good self, Tuppence?
+Tuppence
+	Er, I, er, no! Absolutely not!
+	You're the fairest of them all, without a doubt!

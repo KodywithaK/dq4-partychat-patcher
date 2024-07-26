@@ -1,0 +1,18 @@
+*: 
+	Welcome to our inn, weary %H0860%Xtraveller%Ytravellers%Z!
+*: 
+	Welcome to our inn, weary %H0860%Xtraveller%Ytravellers%Z!
+	You must be exhausted at this late hour.
+*: 
+	Our rate is %a000510 gold coins per night.
+	Will you be staying?
+*: 
+	Please enjoy your stay!
+*: 
+	Good morning!
+	I trust you had a restful sleep?
+	Do come again!
+*: 
+	I'm terribly sorry, but you don't appear to have enough money.
+*: 
+	Farewell, intrepid %H0860%Xtraveller%Ytravellers%Z. May your onward journey be safe and prosperous.

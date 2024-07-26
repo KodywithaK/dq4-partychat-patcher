@@ -1,0 +1,505 @@
+%0%a001240
+	You named me, didn't you, Dad?
+%0%a001240
+	I love the name %a001240.
+	It's so cool. Thanks!
+%0%a001240
+	Wow! Where did you get that map, Dad?
+	It's the most amazing map I've ever seen!
+%0%a001240
+	If we'd had that, we probably could've saved you a bit sooner.
+%0%a001240
+	Sancho says I look just like you when you were younger. Do you think so too?
+%0%a001250
+	I always wanted to go on an adventure with you, Dad. This is like a dream come true!
+%0%a001250
+	What do you think of my outfit, Dad?
+	Cousin Gertie picked it out for me.
+Sancho
+	I, I estill no believe ees really you, friend!
+	And travelling together again like thees...
+	I, I eso happy!
+Sancho
+	You no worry about your leettle ones.
+Sancho
+	When you are growing up, friend, I learn muchos about raising the bebés.
+Sancho
+	I, I thank you for taking me weeth you on your quest thees time. Your Uncle Sancho, he gonna earn hees garbanzos.
+Sancho
+	Ees eso easy travelling now you are
+	weeth us, friend.
+Sancho
+	When your eson ees more esmall, he and hees esister, always they are getting away from me.
+Tuppence
+	Y-Yes!? Wh-What can I do for you, Your Majesty?
+Tuppence
+	Sorry... I-I'm a bit nervous!
+	I mean, I'm travelling with the King!
+Tuppence
+	You're quite a bit younger than I expected, Your Majesty. In fact, you look about the same age as me.
+Tuppence
+	I'm probably not really up to the task, but I'd lay my life on the line to protect you, Your Majesty.
+	Have no fear!
+%0%a001240
+	Can we use the flying carpet more, Dad?
+	Please! I love that floating feeling you get on it.
+%0%a001240
+	I was just thinking about Lofty Peak. I'd like to go back there sometime. I mean, that's where Grandma was born, isn't it?
+%0%a001240
+	Travelling with you is great, Dad. If Mum was with us now too, it'd be the best trip ever!
+%0%a001250
+	You walk really fast, Dad.
+	Is it because you've got long legs?
+%0%a001250
+	Being on the flying carpet's a bit like being a bird.
+	It's a funny feeling.
+%0%a001250
+	I love monsters. I really hate having to fight them
+	all the time.
+Sancho
+	You have become estrong, like the true
+	macho man, eh, friend? You have
+	gone through eso much...
+Sancho
+	We have been esearching for the clues to find señora %a001230 too. But we find notheeng. Nada!
+Sancho
+	Hahh...hahh... Maybe ees my years, but ⓚⓛ hahh ⓚⓛ
+	I ees tired eso quickly these days.
+	You no wanna use the flying carpet?
+Tuppence
+	All I ever knew of the world was Gotha and places nearby. I never thought I'd get the chance to travel the world!
+Tuppence
+	I thought carpets that flew only existed in faerie tales. It's incredible!
+%0%a001240
+	I'm going to become big and strong so that no one can ever hurt you or %a001250 again, Dad!
+%0%a001240
+	Travelling so much makes places that seemed far away feel much closer.
+%0%a001240
+	I mean, using the flying carpet or Zoom, nowhere's very far away, is it?
+%0%a001250
+	Can I walk next to you again today, Dad?
+%0%a001250
+	Cousin Gertie said that if you walk too much, you get fat ankles.
+%0%a001250
+	Are my ankles fat?
+	Or are they normal?
+Sancho
+	When I esee you from behind, friend, you look
+	just like your father. You are estrong like heem now.
+Sancho
+	Thees magma estaff, I hear eet has the esame power like the eruption of the volcano!
+Sancho
+	Eef you know how you are using eet, you can destroy entire mountains even.
+	Ees escary, no?
+Tuppence
+	All this travelling and battle experience surely means promotion for me when I get back to Gotha.
+Tuppence
+	Ah ha ha!
+	It's a tough old life!
+Tuppence
+	I bet you've got a few girlfriends hidden away in some of these towns and villages, eh?
+	Er! I mean... Sorry, Your Majesty!
+Tuppence
+	Travelling's all about helping each other out, and encouraging each other really, isn't it?
+	I think of you as a true friend now, %a000090.
+%0%a001240
+	Huh? Where did Dr Agon go?
+	He just disappeared.
+%0%a001240
+	I thought everyone from Zenithia was supposed to be really cool. Looks like there are always exceptions, though.
+%0%a001240
+	I've been thinking about this Zenithia castle thing... Castles are really big and heavy, aren't they?
+%0%a001240
+	So isn't it obvious that it would fall out of the sky?
+%0%a001240
+	Shouldn't we look for Dr Agon, Dad?
+	Maybe he's lost.
+%0%a001250
+	There's something a bit scary about Dr Agon.
+	Don't you think so, Dad?
+%0%a001250
+	Maybe Dr Agon's waiting for us in that Diggery Pokery place with all the mine carts...
+Sancho
+	Ees fun travelling weeth eso many people, eh, friend? Qué? Where ees señor Agon?
+Sancho
+	Ees become complicated, sí, friend?
+	Zenithia, thees estairway, thees castle...
+	Ees eso much to theenk about.
+Sancho
+	Thees poor señor Agon, he ees all alone for
+	twenty years!
+Sancho
+	Eet, eet must be eso hard for heem!
+	(sob)
+Tuppence
+	He's a bit of a mystery, that Dr Agon fellow, isn't he? He just disappeared once we got out of the cave.
+Tuppence
+	Zenithia, eh? Sounds like the sort of place that would be full of beautiful young maidens!
+%0%a001240
+	I wonder what sort of place the faeries live in.
+	Do you know, Dad?
+%0%a001240
+	What? In the cellar in your house before?
+	No way! I'm not falling for that!
+%0%a001240
+	Faeries in story books have wings. And they always like playing tricks on people too.
+%0%a001240
+	I wonder if they're really like that...
+%0%a001250
+	Gotha Castle's not going to sink to the bottom of a lake too, is it?
+%0%a001250
+	Are we going to meet faeries?
+	I'd love it if we really did!
+%0%a001250
+	Actually, wasn't there a nun at the abbey who was talking about faeries?
+Sancho
+	Your Uncle Sancho, he no believe een thees
+	Realm of the Faeries. Ees a joke, sí?
+	Ees no eserious.
+Sancho
+	I no theenk ees gonna happen, but we try to find thees Fearie Lea place, sí?
+Tuppence
+	Faeries, eh? I bet they're pretty little things.
+Tuppence
+	My mother always used to say that faeries live
+	in places where the air is clear and there aren't many people.
+%0%a001240
+	Dad! Will you let me blow the faerie horn later?
+%0%a001240
+	You made friends with a faerie once, didn't you, Dad? I wonder if I'll make any faerie friends...
+%0%a001240
+	Can we go and play in Faerie Lea as often as we want? Can we, Dad? Can we?
+%0%a001250
+	The faerie horn's so pretty. Do you think if I became a faerie, I could make things like that too?
+%0%a001250
+	We're looking for the Faerie Palace, aren't we?
+	Where's a lake that's surrounded by mountains,
+	I wonder.
+Sancho
+	I no believe eet, but these faeries,
+	they are real!
+Sancho
+	Now when I am theenking back, I remember you are eso often playing een the cellar. And I theenk you are on your own!
+Sancho
+	Eef only you esay to me then, friend, your Uncle Sancho, he come weeth you!
+Tuppence
+	Aren't faeries just wonderful?
+	I think they're amazing.
+Tuppence
+	It's rather lazy just settling for a mate from the place you grew up in.
+Tuppence
+	No, you've got to travel the world and find a beautiful, young ⓚⓛ and kind, of course ⓚⓛ woman to fall in love with. That's the romantic way.
+Tuppence
+	How do I look from this angle?
+	I strike a pose like this...and smile like this...
+	Well? I think I look irresistible!
+%0%a001240
+	Why isn't this gold bauble any good?
+	It's really shiny!
+%0%a001240
+	Oh, no. The Faerie Queen can't make a
+	gold orb for us.
+%0%a001240
+	Dr Agon will be really upset.
+	What are we going to do, Dad?
+%0%a001240
+	Changing the course of time?
+	What does that mean?
+%0%a001240
+	You can't change what's already
+	happened...can you?
+%0%a001250
+	I know you'll find a way out of this, Dad. Just when it looks impossible, you'll think of something.
+	You always do.
+%0%a001250
+	If only we could just turn this gold bauble into a gold orb... But I suppose that's impossible, isn't it?
+%0%a001250
+	Okay... I'm thinking...
+	There's got to be a way somehow...
+Sancho
+	You know how many times your Uncle Sancho, he weeshes he can change the past?
+	Sí... Many, many times...
+Sancho
+	Ees looking the esame, but thees gold bauble, ees no use, eh?
+Tuppence
+	Maybe we should try asking Queen Caramel again?
+Tuppence
+	I mean, there are plenty of people who make a big song and dance about things and say they can't do something at first when really they can.
+Tuppence
+	If you need some time to mull things over, %a000090, at least let's mull them over in the presence of the pretty little faeries of Faerie Lea.
+%0%a001240
+	Dad... Where did this gold orb suddenly appear from? I don't get it.
+%0%a001240
+	Do you think this will really make Zenithia fly back up to the sky?
+%0%a001250
+	You look a bit sad, Dad.
+%0%a001250
+	Here. I'll let you hold my hand.
+Sancho
+	Thees esmall orb, you believe eet really has the power to make the castle fly?
+Sancho
+	Friend... Are you alright?
+Sancho
+	No. I esorry. You no have to esay notheeng to me eef you no want to.
+Sancho
+	Ees good, sí?
+	Señor Agon, he be eso happy!
+Tuppence
+	Is something on your mind, %a000090,
+	Your Majesty?
+Tuppence
+	I'm only asking in case it was distracting you from looking where you were going. I wouldn't want you to trip up.
+Tuppence
+	It's back to Zenithia then, I suppose?
+	Let's go!
+%0%a001240
+	Why are we still walking around?
+	We could fly anywhere now in the Zenithian castle!
+%0%a001240
+	Come on, Dad! Let's go!
+	I'll be the pilot!
+%0%a001240
+	Dr Agon's a really weird man, isn't he?
+%0%a001240
+	Where do we go now, Dad?
+%0%a001250
+	I'm not scared of flying in the Zenithian castle.
+	You can't see outside, so it's fine.
+%0%a001250
+	And it means there's no need to use the flying carpet any more, doesn't it?
+%0%a001250
+	Will you tell me a story about Mum before I go to sleep tonight, Dad?
+%0%a001250
+	Oh, Mum...
+	Where are you?
+Sancho
+	Qué? We estill walking even when we have thees castle to ride eenside?
+Sancho
+	Ha ha ha! Ees a joke, sí?
+	Very funny, friend!
+Sancho
+	Ees no Zenithia unless eet ees up een the esky, no?
+Sancho
+	Ees like the paella weeth no eseafood.
+Tuppence
+	Those Zenithians must be a hardy lot living underwater for so many years, eh?
+Tuppence
+	I bet they could teach me a trick or two.
+Tuppence
+	Well, %a000090? Where to next?
+	Just lead the way, and I'll follow.
+%0%a001240
+	Where can Mum be? Is there anywhere we haven't looked yet?
+%0%a001240
+	Who are we supposed to give this dragon orb to, though? Shall we take it to Zenithia?
+%0%a001250
+	There's something really funny about that dragon orb. If you look at it for too long, you feel like it's going to swallow you up.
+%0%a001250
+	Do you think the power of the Zenith Dragon is inside the dragon orb?
+%0%a001250
+	I wonder where the Zenith Dragon is...
+Sancho
+	We are close now, no?
+	Esoon, we have the chance to avenge señor Pankraz's death.
+Sancho
+	Sí...
+	The bad guys, they are close...
+Sancho
+	Ees no eso far away now. Your Uncle Sancho, he feels you gonna meet %a001230 again esoon, friend.
+Tuppence
+	How long's it been now since we went back to Gotha? It feels like ages.
+Tuppence
+	What? It's not? Oh, sorry. I hope I didn't sound like a little sissy who wants to go home!
+Tuppence
+	That tower of stairs isn't the only way to get to Zenithia. We should look for another route.
+Tuppence
+	Travelling can be a bit scary at times, can't it?
+	I mean, you don't even know if you're going the right way sometimes.
+%0%a001240
+	I still can't believe it.
+	I don't know what to say!
+%0%a001240
+	Dr Agon was the Zenith Dragon all along, and we had no idea!
+%0%a001240
+	So all we have to do is ring the Zenithian Tintinnabulum, and Dr Agon will come?
+%0%a001240
+	I half expect him to come in a mine cart!
+	That'd make everyone laugh.
+%0%a001240
+	I bet the Zenith Dragon doesn't think anything about being high up. I mean, he flies right up above the clouds, doesn't he?
+%0%a001250
+	I've been having this dream recently. I see Mum.
+	She's up really high, and she looks really sad.
+%0%a001250
+	Are we going somewhere high up next, then?
+	I'll try not to get too scared.
+%0%a001250
+	I hope we find you soon, Mum...
+Sancho
+	Now the Zenith Dragon, he ees our amigo, we have the estrength of one hundred burros!
+Sancho
+	Come, friend. We no need to be escared of
+	anytheeng now!
+Sancho
+	I feel eso proud to be by your eside, friend!
+Sancho
+	Gracias, frⓚⓛ
+	No, I mean gracias, My Majesty.
+	I no let you down.
+Tuppence
+	Just when you think you know someone!
+	I can't believe Dr Agon's really the Zenith Dragon.
+Tuppence
+	I mean, I'd have tried to butter him up a bit more if I'd known.
+Tuppence
+	So then... Where to next?
+Tuppence
+	Wherever it is, we should get the Zenith Dragon to take us there. It's not every day you get to be given a lift by a dragon, is it?
+Bianca
+	It's funny bein' back together again like this, eh?
+Bianca
+	I always believed the day would come sooner or later, though.
+Bianca
+	Come on, %a000090.
+	Your mum's waitin' for us in Nadiria.
+Bianca
+	The problem is knowin' how to get to Nadiria in the first place, eh?
+Bianca
+	You got any ideas up your sleeve, %a000090?
+Nera
+	Our children have grown up so much...
+	I'm so glad to be with them now, but so sad about all the time I've missed.
+Nera
+	I was out of their lives for such a long time...
+Nera
+	Let's get the job done now, darling.
+	Let's go to Nadiria and get this Grandmaster of the Underworld out of the way, shall we?
+Nera
+	I want to sit down with Sancho and hear all about our children and how they were as they were growing up.
+Nera
+	It's so wonderful to be able to walk side by side like this again.
+Nera
+	But I know there are things to be done before we can relax and enjoy our time together.
+%0%a001240
+	Mum's... She seems much kinder than I'd imagined.
+%0%a001240
+	I'm really lucky to have parents like you.
+%0%a001240
+	What's this Nadiria place like, Dad?
+%0%a001240
+	What? No! I'm not scared!
+	I just want to know what kind of monsters I'm going to have to protect you from, that's all.
+%0%a001240
+	So we're finally going to Nadiria, after all
+	this travelling. We'll finally get to meet this Grandmaster Nimzo.
+%0%a001250
+	I'm tougher than I used to be, aren't I?
+	I don't get in your way any more, do I?
+	...Do I?
+%0%a001250
+	Look! Mum put this ribbon in my hair for me.
+%0%a001250
+	My head's so happy, it can't stop smiling!
+	Hee hee hee!
+%0%a001250
+	Now that we've found Mum, it makes me want to find Grandma even more.
+%0%a001250
+	You don't think I'm being greedy, do you, Dad?
+	You want to find Grandma too, don't you?
+Sancho
+	Eef we find your mother, friend, and we breeng her back to Gotha esafely...
+Sancho
+	Then your dear father, señor Pankraz, he be eso happy at last!
+Sancho
+	I know you are no a bebé no more, friend, but anyway I esay eet...
+Sancho
+	Have you prepared properly for your
+	journey? You have the medicinal herbs
+	and the chimaera wings?
+Sancho
+	You are a great man, friend. Even now you are the king, you no change, eh?
+Sancho
+	Eef I am you, friend, I know I am wanting to go and find señora Mada.
+Tuppence
+	I know it's probably not my place to say anything, but I think I speak for all Gothans about this.
+Tuppence
+	We support you, Your Majesty, in your quest to storm Nadiria!
+Tuppence
+	I, I don't know what to say...
+	I'm delighted that you'd choose me to accompany you on this daring mission to save Queen Mada!
+Tuppence
+	You're planning on setting off for Nadiria right now? Ah ha ha ha! Wouldn't that be a bit odd?
+Bianca
+	The entrance to Nadiria is open now. Looks like it's time to go through.
+Bianca
+	Who'd have thought that one of the keys to enterin' Nadiria would be my weddin' ring?
+Bianca
+	I feel like it must be fate or somethin'.
+Bianca
+	If we're ready to go, then we'd better get a move on. There's no time to lose.
+Nera
+	Are you ready to go to Nadiria then, darling?
+Nera
+	Everything looks more or less the same as before I was turned to stone, but the situation's much more serious now, isn't it?
+Nera
+	Isn't it amazing? Two of the rings we need to
+	open the gateway to Nadiria are our very own wedding rings!
+Nera
+	You see, it was destiny that we should be together, right from the start.
+%0%a001240
+	I think I prefer our world to the underworld.
+%0%a001240
+	But you're going back to Nadiria, aren't you, Dad?
+	And I'm coming with you!
+%0%a001240
+	Putting the three rings on the statue really worked, just like the people in Lofty Peak said.
+%0%a001250
+	I'm not scared as long as I'm with you and Mum and %a001240.
+%0%a001250
+	Do you think all the good monsters will vanish if we manage to defeat the Grandmaster of Nadiria?
+%0%a001250
+	Uh-hu-hurgh... It's scary thinking that the Grandmaster of Nadiria's power is seeping
+	into our world too.
+Sancho
+	You no leave your Uncle Sancho behind at thees, the last hour!
+Sancho
+	I must esee the end of thees now, or I no die
+	happy.
+Sancho
+	I never feel the power like thees before, even when I am travelling weeth señor Pankraz.
+Sancho
+	My Majesty! Your Uncle Sancho, he ees ready to fight! I feel like I am the young man again!
+Sancho
+	To Nadiria!
+	We must beat the hot iron now!
+Tuppence
+	Back to Nadiria, is it, %a000090?
+Tuppence
+	You've made a wise choice picking me to come with you, Your Majesty!
+Tuppence
+	I'm the only regular Gothan who gets to go to the underworld, aren't I? What a lucky chap I am!
+Debora
+	I always had faith that you'd come and rescue me, %a000090.
+Debora
+	I trained you well as my servant, so I had faith. Teaching people is one of my many fortes, you know. I'm something of a mentor.
+Debora
+	I couldn't believe it when I saw how big the babies have grown. It makes me feel so sad.
+Debora
+	I wish I could've been there to see them grow up.
+	The only saving grace of the situation is that I'm still as young as I was all those years ago.
+Debora
+	We have to do all we can to go to Nadiria and rescue your mother, %a000090.
+Debora
+	Then I'll be able to make those fiends pay for what they did to me.
+Debora
+	The entrance to Nadiria is open.
+	It's time to go, %a000090.
+Debora
+	I never believed in luck until now.
+Debora
+	But two of the rings that open the path to Nadiria are our wedding rings!
+Debora
+	It seems a little too much of a coincidence to me.
+	You were obviously destined to become my servant.
+Debora
+	If the preparations are done, then we should get going. Time waits for no man.

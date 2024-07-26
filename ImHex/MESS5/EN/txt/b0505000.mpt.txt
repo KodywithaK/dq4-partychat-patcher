@@ -1,0 +1,554 @@
+Bianca
+	I know there's an important reason behind your journey and all that, %a000090.
+Bianca
+	But it is quite nice travellin' around different towns together. It feels like bein' on honeymoon!
+Nera
+	I feel like I've been given a whole new lease of life now that I'm with you, %a000090.
+Nera
+	I hope we'll have lots and lots of
+	adventures together!
+Bianca
+	This place really has the feel of a port town, eh?
+Nera
+	Smell that sea air! You can definitely tell it's a port town.
+Bianca
+	Any idea what that bloke was on about?
+	It all went right over my head!
+Nera
+	Did you understand what that man was talking about? I'm afraid I had no idea!
+Bianca
+	There do seem to be a lot of special souvenirs in a lot of the places we visit. Maybe it'd be fun to try collectin' them.
+Nera
+	It would be nice to buy the occasional souvenir, but I suppose we can't afford to add to our luggage too much.
+Nera
+	Oh, you don't mind? I suppose you are very strong. Well, if you don't mind carrying them...
+Bianca
+	Mt Azimuth is the highest mountain in the world. People certainly do some crazy things, eh?
+Nera
+	It's incredible to think that people are capable of such feats. I just hope they manage to avoid being attacked by monsters there.
+Bianca
+	That poor old man. I hope that dun't mean he's all on his own now.
+Nera
+	People say there's nothing worse for a parent than outliving a child.
+Nera
+	It's hard to find the right words to console
+	that poor old man.
+Bianca
+	The cheek of it! It dun't matter that we dun't have money, anyhow. We got love and that's what counts! Wish I'd said that to him...
+Nera
+	He he. No one's ever said anything like that to me before!
+Nera
+	I feel as if I've started a new life since I married you, %a000090.
+Bianca
+	When I look at the monsters you've managed to befriend, %a000090, I find it hard to believe that all of them can be bad.
+Nera
+	I suppose even gods and goddesses need a break from time to time. We just have to hope the break doesn't last forever, that's all.
+Bianca
+	It looks like they get their fair share of church donations here, eh?
+Nera
+	I wouldn't be surprised if lots of people don't even realise there's a bank here.
+Bianca
+	I wonder what he means. We should go and see what we can find!
+Nera
+	How strange that that sailor knows there's something there and yet doesn't go and get it himself. I wonder what it is.
+Bianca
+	I know him! He used to study under the man who made us some medicine for my father back when I was little!
+Nera
+	To think that man once dreamt of being a pharmacist and yet he's ended up a sailor!
+	You never can tell where life will take you.
+Nera
+	Isn't Whealbrook the village you come from?
+Nera
+	I would've liked to have visited it all those years ago.
+Bianca
+	It's a bit damp down here, en't it? Maybe the monsters prefer it that way.
+Nera
+	The monsters here are very well-looked-after. They certainly seem happy and healthy enough.
+Bianca
+	There's all sorts of treasure around the world, but I'm your prized one, right, %a000090?
+Bianca
+	Ha ha ha! Thanks!
+Bianca
+	Hey! I was about to say you were mine!
+Nera
+	It's really sweet how children have such big dreams like that.
+Bianca
+	The desert sounds pretty excitin'. Can we go and have a look, %a000090?
+Nera
+	I don't tend to be very good in the heat I'm afraid, but if you want to visit that desert, then of course I'm happy to go with you.
+Bianca
+	A shrine to the legendary hero? Maybe that
+	means there are ancestors of his there.
+	You can only hope!
+Nera
+	If there's a shrine there to the legendary hero, then maybe some of his belongings will still be there too.
+Bianca
+	He didn't really sound like he was takin' you seriously, eh?
+Nera
+	Maybe there's a lot of talk here about the legendary hero. That man behind the bar didn't seem overly interested.
+Bianca
+	Looks like we're not the only ones tryin' to track down the legendary hero.
+Nera
+	It would be a difficult journey for a scholarly type who's not used to fighting. That poor wife of his can't be enjoying it much either.
+Bianca
+	The Grandmaster of the Underworld, eh? I wonder if he really exists. I hope not!
+Nera
+	When you look at how wild things are out in the countryside nowadays, it's not hard to believe that this Grandmaster might be at work.
+Bianca
+	Dad and I stayed at this inn on our way to Stockenbarrel all those years ago.
+Bianca
+	I remember him moanin' and sayin' he couldn't relax properly in a place like this!
+Bianca
+	So the show's only on of a night? I don't remember it bein' that way when I was here before.
+Nera
+	Those dancing girls are wearing rather skimpy outfits! I hardly know where to look!
+Bianca
+	Since when have you bin so good with
+	the ladies, eh?
+Bianca
+	Huh! Oh well. I suppose I have to put up with things like that now I'm married.
+Nera
+	How could you!? (sob) I'll go crying back to Papa if you say things like that!
+Nera
+	...He he he! Only joking!
+	You should see the look on your face!
+Nera
+	I'm so pleased that you answered her like that.
+	It really makes me feel like you only have eyes for me!
+Bianca
+	It looks like a tough old job bein' a dancin' girl. I'd hate to have to wear make-up like that.
+Nera
+	Make-up? Well, I must admit, I, er, do use the tiniest amount every now and then.
+Bianca
+	Haah, haah...
+	Spiral staircases are pretty hard work, eh?
+Nera
+	This staircase is rather frightening.
+	You won't let me fall, will you?
+Bianca
+	Fancy bein' here on your own for forty years tendin' to a flame! What a job!
+Nera
+	He certainly seems dependable. People setting out to sea shouldn't have anything to worry about with him in charge.
+Bianca
+	The chosen ones can climb up there easy as pie? What d'you suppose he meant by that?
+Nera
+	I wonder what you have to do to be chosen. Maybe you just have to be pure and good. Or maybe it's not that simple.
+Bianca
+	Wow! The view from here's blimmin' incredible!
+Nera
+	Don't walk too close to the edge, will you?
+	I know the view's nice, but it's a bit too
+	scary for me.
+Bianca
+	Dark already, eh?
+	Shall we stay the night here?
+Nera
+	I can't believe it's night already! Time flies so quickly when I'm with you. Shall we stay here at the inn until morning?
+Bianca
+	Pretty impressive. He's still keepin' up the chatter even though he's sloshed.
+Nera
+	Oh dear! Do you think that man's alright?
+	He seems to have drunk rather a bit too much.
+Bianca
+	So it's not just on land. The monsters in the sea are gettin' more vicious too. Things are goin' from bad to worse.
+Nera
+	I'd better try to make myself a bit stronger so that I don't end up being a hindrance to you.
+Bianca
+	That poor old man. I feel really sorry for him.
+Nera
+	I know the poor man must be feeling terribly desperate, but he really shouldn't be sleeping in a place like this. He'll catch his death of cold.
+Bianca
+	A casino? I'm always worried I'd get hooked if I went somewhere like that, and I'd end up losin' all my money!
+Nera
+	Papa took me to visit the Ventuno more times than I can remember.
+Nera
+	It's his favourite casino of all, you see.
+	That's why he had us get married there.
+Bianca
+	Maybe the reason she doesn't complain is because she's lost interest. Oh dear...
+Nera
+	I'm going to make sure I keep you happy so that you feel glad you chose me, just like he's glad he chose his wife.
+Bianca
+	What!? What do you expect me to say to that!?
+Nera
+	Goodness! She certainly seems to be having quite a dream!
+Bianca
+	It must be difficult being a mother. Non-stop worry, by the sounds of it!
+Nera
+	I can really sympathise with how that lady feels.
+Nera
+	I hope the world's more peaceful by the time we have children of our own.
+Bianca
+	Looks like someone fancies a treasure hunt! I was always dreamin' of adventures and treasure when I was his age.
+Bianca
+	It looks like that soldier's travellin' around with his son. It reminds me of you and Pankraz, %a000090.
+Nera
+	I suppose it's to be expected that people will assume we're on our honeymoon.
+Bianca
+	Someone's havin' sweet dreams! It's amazin'
+	he can get to sleep at all with so much goin'
+	on around him.
+Nera
+	The face of a sleeping child is like the face of an angel. Oh! I want a baby!
+Bianca
+	That bloke's really creepy. I dun't much like seein' men act like that.
+Nera
+	I could never dance or dress like that.
+	I'd be too embarrassed!
+Bianca
+	Do you reckon the girl in the middle's pretty too, %a000090?
+Bianca
+	Hmph!
+Bianca
+	Good!
+Nera
+	The girl in the middle certainly is the most striking. I can see why she's so popular.
+Bianca
+	The desert sounds pretty excitin'. Can we go and have a look, %a000090?
+Nera
+	I don't tend to be very good in the heat I'm afraid, but if you want to visit that desert, then of course I'm happy to go with you.
+Bianca
+	I didn't expect to hear talk of Pankraz in a place like this.
+Nera
+	Your father sounds like he was a great man.
+	I wish I could have met him.
+Bianca
+	Looks like that fella behind the bar's bin
+	tryin' to help us out by bringin' a bit of
+	info our way, eh?
+Nera
+	Pubs seem to attract customers from all walks of life. I suppose it's logical then that it's a good place to get new information.
+Bianca
+	Searching for a knight in shinin' armour sounds like fun! If I hadn't married you, I'd probably have a bash at that myself!
+Nera
+	You're my knight in shining armour, %a000090!
+Bianca
+	So that fella makes ships in bottles? He dun't seem the type somehow.
+Nera
+	He wouldn't be able to sell so many of them
+	if they weren't of a decent quality. He must
+	be very skilled.
+Bianca
+	Let's go over there. We don't want to hang around here too long otherwise people'll start to think we're with him.
+Bianca
+	The Grandmaster of the Underworld, eh? I wonder if he really exists. I hope not!
+Nera
+	When you look at how wild things are out in the countryside nowadays, it's not hard to believe that this Grandmaster might be at work.
+Nera
+	How bizarre! Men can be ever so funny sometimes.
+Bianca
+	Urgh. That man looks like a really dirty piece
+	of work.
+Nera
+	I don't think I've ever seen anyone with quite that expression on their face before.
+Bianca
+	She's makin' a go of things for herself,
+	though, eh? Even though she is far from home. Good for her!
+Nera
+	It sounds like there might be a bit more to
+	the story of what brought her here than meets the eye.
+Bianca
+	She en't wrong! That's a lot of sweat!
+	Looks like it's hard work bein' a dancin' girl.
+Nera
+	It's probably quite good for you to sweat like that. People say it gets rid of all the impurities.
+Bianca
+	Hey! What d'you think you're doin'? You think it's alright to go bargin' in on people like that, do you?
+Bianca
+	Pah! Pankraz must be cryin' tears of disappointment if he's lookin' down on you
+	now from heaven!
+Bianca
+	Right answer.
+	So let's go.
+Nera
+	You wouldn't like it if someone burst in on you like that, would you?
+Nera
+	Well, maybe you should think how others feel sometimes.
+Bianca
+	It's pretty here at night with the moonlight shinin' in.
+Nera
+	What a lovely light the moon gives off in here.
+Bianca
+	En't this bloke supposed to be the one takin'
+	care of the lighthouse? I wonder if the flame's still goin'.
+Nera
+	Surely night-time is when the lighthouse flame is most needed. Maybe we should wake him up.
+Bianca
+	Hey! Maybe it's the cat who's keepin' watch over the lighthouse! Ha ha ha!
+Nera
+	Perhaps it's the cat's turn to tend to the flame at night. Cats can be quite clever, you know.
+Bianca
+	This is amazin'! I feel like I could reach out and touch the stars!
+Nera
+	Don't walk too close to the edge, will you?
+	I know the view's lovely at night, but it's
+	a bit too scary for me.
+Bianca
+	That bloke must really be a big fan of telescopes to be sleepin' here!
+Nera
+	He he he! He looks just like a little boy!
+Bianca
+	Blimey! This place is bigger than it looks!
+Nera
+	I've been here lots of times before with Papa.
+Bianca
+	This ship in a bottle is really well-made.
+Nera
+	The ship inside this bottle looks just like
+	Papa's ship.
+Bianca
+	Oh! What a shame we can't afford it!
+Nera
+	We can't afford it? Oh well. We are only
+	just married, after all. Most people aren't
+	that well-off at the beginning.
+Bianca
+	Uh-oh! Looks like that's on its way out to sea!
+Nera
+	I do feel sorry for the man, but he probably should've been a bit more careful with it if it means that much to him.
+Bianca
+	Maybe we should go and pay a visit to Briscoletti.
+Bianca
+	He did put on a great weddin' for us, after all.
+Bianca
+	What a huge ship! This is so excitin'!
+	Let's hurry up and get on board, %a000090!
+Nera
+	This was Papa's boat originally, but now it's your boat too. Why don't we go aboard?
+Bianca
+	I en't scared of nothin' as long as I'm with you, %a000090.
+Nera
+	The sea monsters are scarier than ever lately. We should be careful.
+Bianca
+	Have you bin on this boat before, %a000090? Oh, right. You were on it once with your dad, eh?
+Nera
+	I remember being on this ship a long time ago. I'd only just been taken in by the Briscolettis and I was so nervous.
+Nera
+	We met a father and son who were travelling together. The boy was so young. It sort of gave me courage seeing him.
+Nera
+	He had an expression in his eyes that I somehow haven't been able to clear from my mind even after all these years.
+Nera
+	I don't suppose...
+	Were you that little boy, %a000090?
+Nera
+	I knew it! That means the man who helped me aboard must've been your father...my father-in-law!
+Nera
+	Oh dear! I hope you're not jealous now, then!
+Nera
+	This boat's been in use for as long as I can remember. Papa certainly takes good care of his possessions.
+Debora
+	I do enjoy being able to travel like this. Not to mention having three square meals a day and my own personal slave into the bargain.
+Debora
+	Marriage isn't at all bad.
+Debora
+	I don't mind port towns per se, but I hate the damage the sea air does to my poor hair. So you'd better find us an inn for the night pronto.
+Debora
+	You've obviously met him before then, have you?
+Debora
+	You must've done, because you cut him off before he explained himself, so you've clearly heard it all before.
+Debora
+	A souvenir... I suppose we could start picking up the odd souvenir here and there. You'll obviously be the one who has to carry them, though.
+Debora
+	How do they expect anyone to be able to visit if they're building it in such an awkward place?
+Debora
+	Honestly! I don't know what goes on in people's heads sometimes.
+Debora
+	I wonder how he'd react if we told him we held our wedding there. That'd wipe the smirk off his face!
+Debora
+	I can't say I blame the Dragon God for wanting to take a break. It happens to the best of us.
+Debora
+	I've no interest in saving money.
+	If I ever need any, I just ask Papa.
+Debora
+	How annoying! Couldn't he just go and get it for us rather than sending us off on a wild goose chase?
+Debora
+	So he planned to be a pharmacist and now he's a sailor... Life certainly takes some unexpected turns.
+Debora
+	I never imagined I'd be standing here with you now for one thing.
+Debora
+	Can you get a move on and wrap things up here? Places like this make me feel claustrophobic.
+Debora
+	You're not interested in hunting for treasure any more, are you, %a000090? After all, you've found the greatest treasure there is...me!
+Debora
+	If we're going to the desert, we'll need water.
+	And suntan lotion and parasols and...
+Debora
+	You'll have to get it all ready, okay? Not me.
+	Just to be totally clear.
+Debora
+	If there's a shrine to the legendary hero, I suppose there could still be some descendants of his around. Makes sense.
+Debora
+	He didn't seem that interested in talk of the legendary hero.
+Debora
+	Mind you, I doubt I would've taken much notice if I wasn't married to you.
+Debora
+	I thought the legendary hero was just that: a thing of legend. But it seems that you're not the only one looking for him and believing he's real.
+Debora
+	The Grandmaster... If he really exists, then there's probably a legendary hero out there somewhere too.
+Nera
+	I stayed here with Papa and Debora when I was little.
+Nera
+	I think we came here by boat that time too.
+Debora
+	Nera and I stayed here with Papa when we were kids.
+Debora
+	I tried to sneak out at night, but Papa was right outside the door. I'll say this for him: he's always been pretty on the ball in that respect.
+Debora
+	Looks like they put on a show in the evenings.
+	If you want to see it, I'll come with you.
+Debora
+	You must be either brave or stupid, saying that when I'm right by your side.
+Debora
+	I won't let you forget this in a hurry.
+Debora
+	As if you'd dare say otherwise when you have me to answer to! It's good to see you know your place, %a000090.
+Debora
+	I never have problems with my make-up.
+Debora
+	By the way, I've decided to have an early night tonight. All these new experiences have worn me out.
+Debora
+	How much longer do these stairs go on?
+	My feet are killing me!
+Debora
+	Working here wouldn't be too bad. Not with three meals a day, a siesta, plenty of breaks and my own servant to take over every once in a while.
+Debora
+	I don't need to worry about whether I'm a chosen one or not. It stands to reason that I would be.
+Debora
+	I still don't feel inclined to climb all the way up to the top of that mountain, though.
+Debora
+	The view's not bad. It would be a lot better if we hadn't had to climb all those stairs to get to it.
+Debora
+	It's getting late so you'd better hurry up and find us somewhere to stay. Nothing irritates me more than a man who's slow off the mark.
+Debora
+	Ugh! He reeks of drink! You won't know what's hit you if you ever come home to me in that state, %a000090.
+Debora
+	You'd better toughen up a bit then, %a000090.
+	I wouldn't want you dragging me down.
+Debora
+	Can't he do his crying in private? Besides anything else, he's old and he could catch his death out here.
+Debora
+	I went to casinos with Papa more times than I can remember, but he hardly ever let me play on anything.
+Debora
+	I'll make up for that the next time I go, though.
+	You'll have to stump up all the money for the tokens, %a000090.
+Debora
+	You picked a ⓗgood'unⓘ too, %a000090.
+	So you'd better make sure you keep working hard to deserve me.
+Debora
+	Sounds like quite a dream she's having there!
+	I wonder if she often has awful dreams.
+Debora
+	Mama's just like that, always worrying far too much about her babies.
+Debora
+	But maybe I'll end up just the same when I'm a mother. Do you think I will, %a000090?
+Debora
+	Hm. So that's how you see me, is it?
+Debora
+	You're right. Any child of mine will be special like me, so I won't have anything to worry about.
+Debora
+	That reminds me of how Nera used to bury her things and draw treasure maps when she was little.
+Debora
+	Did I do the same? No, but I had a whale of a time digging up her stash! Ha!
+Debora
+	Oh yes. I suppose we're proper newlyweds.
+	I'd completely forgotten already.
+Debora
+	He's doing well to stay asleep in a busy spot like this. That's a skill that'll stand him in good stead in the future.
+Debora
+	Stupid buffoon! He was so fixated on that dancing girl that he didn't notice he had a real beauty standing right next to him.
+Debora
+	I suppose the one in the middle is the prettiest.
+	She's still not a patch on me, though.
+Debora
+	If we're going to the desert, we'll need water.
+	And suntan lotion and parasols and...
+Debora
+	You'll have to get it all ready, okay? Not me.
+	Just to be totally clear.
+Debora
+	The old man was talking about your father, wasn't he? It's a shame I never got to meet him.
+Debora
+	He doesn't look like he's paying much attention to what people say, but he obviously takes it all in.
+	He could be a useful person to know.
+Debora
+	A knight in shining armour? I'd rather have a personal slave who's at my constant beck and call.
+Debora
+	Don't let that go to your head, though.
+	It wasn't intended as a compliment.
+Debora
+	If he can make ships in bottles, he's obviously a lot cleverer than he looks.
+Debora
+	The Grandmaster... If he really exists, then there's probably a legendary hero out there somewhere too.
+Debora
+	Let's be on our way, %a000090.
+	We don't want to be associated with the likes of him.
+Debora
+	Men like him really are a waste of space.
+Debora
+	Sounds like there was a reason she couldn't stay at home. It's a long way for a young girl to come travelling on her own.
+Debora
+	I never do yucky things like sweating.
+	I leave all that to you, %a000090.
+Debora
+	You're an oaf, %a000090. If you ever come barging in on me like that, you'll be sorry!
+Debora
+	It's lovely in the moonlight. And it means people can enjoy my good looks at night as well as during the day.
+Debora
+	Er, he's not much of a lighthouse keeper if he sleeps at night. This is when the flame needs to be alight!
+Debora
+	Surely he's not left it up to the cat to look after the flame. No cat's that clever!
+Debora
+	The stars are lovely, aren't they? I'm very drawn to pretty things. I suppose like attracts like.
+Debora
+	He can't part with his beloved telescope even when he's asleep. You men never grow up, do you?
+Debora
+	Papa brought me here lots of times.
+Debora
+	Do you know how they make ships in bottles, %a000090?
+Debora
+	You're surprisingly good when it comes to trivia.
+	Not that I'd accept anything less from my personal servant, of course.
+Debora
+	They feed each piece in one by one and assemble them inside the bottle. You're lucky I'm so knowledgeable.
+Debora
+	I've never been so poor that I couldn't afford one measly souvenir. You'd better not make me feel this wretched ever again, %a000090.
+Debora
+	What a klutz! I find people like that so irritating.
+Nera
+	Oh dear. We should probably have asked for Papa's permission before trying to take the boat.
+Debora
+	What an oaf! Fancy not recognising me!
+Debora
+	Looks like we'll have to go home and ask for Papa's permission to use the boat. What a pain!
+Debora
+	This is Papa's boat, which means it's also mine.
+	You can use it if you want.
+Debora
+	This is Papa's boat, which means it's also mine.
+	You can use it if you want.
+Debora
+	This boat's certainly starting to show its age.
+	I suppose it's had a lot of use over the years.
+Debora
+	You don't need to worry, though. Papa always takes good care of things, so I'm sure it's seaworthy. Probably.
+Nera
+	I used to draw treasure maps when I was his age. I'd even go so far as to bury the treasure myself. He he!
+Nera
+	But it was really very strange. I'd always end up finding the treasure mysteriously back inside my cupboard.
+Nera
+	I was completely baffled by it. Debora said it was probably some faeries up to their tricks.
+Debora
+	When I was little, I once sailed on this boat from Littlehaven with Papa and Nera.
+Debora
+	It was my first time on a boat, so I was desperate to get on. I was running and I bumped into a tough-looking warrior.
+Debora
+	It was his fault, though. He was standing stock-still, dazzled by my beauty. No matter that I was less than half his age!
+Debora
+	I was reminded of that the first time we ever met.
+	I just had a feeling of déjà vu.
+Debora
+	We should leave him to his thoughts.
+	That's about all we can do for him.
+Debora
+	What's wrong?
+	Why are you looking so troubled?

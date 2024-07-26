@@ -1,0 +1,207 @@
+%0%a001240
+	You know Dwight and that slime, don't you, Dad? Sometimes it feels like you know everyone in the whole world!
+%0%a001250
+	I wouldn't mind living in a cave if I had a slime to keep me company. ...But maybe it's not such a 
+	good idea.
+Tuppence
+	So the poor old man worried himself to death?
+	What a fiend this Dwight character must be!
+Bianca
+	I s'pose too much worry could kill you if you weren't careful. Dun't you go gettin' too stressed out, will you, %a000090?
+%0%a001240
+	Well, it's fun travelling around with lots of different characters, right, Dad?
+%0%a001250
+	Dwight never says very much, though.
+	It's a bit of a shame, really.
+%0%a001250
+	His grandad is definitely happy for him.
+	He's really very fond of Dwight.
+Sancho
+	Thees señor Dwight, he ees esharp like the machete. I believe he ees a valuable comrade
+	and a fine matador.
+Tuppence
+	Ha! Only because he'll more than likely come to some harm on his travels!
+Tuppence
+	The old man couldn't stand Dwight, could he?
+	No? Barking up the wrong tree, am I?
+Bianca
+	He's got a nerve, callin' us funny! Still, it's refreshin' to hear someone speak their mind, eh?
+Nera
+	There's nothing wrong with a young man having a bit of spirit like that. %0%a001240's so well-behaved.
+%0%a001240
+	Hey! Are you saying you'd rather have a kid who's more like Dwight?
+Nera
+	Don't be silly, dear! You know you and %a001250 are my favourite people in all the world. Along with your father, of course.
+%0%a001240
+	It'll be fun to see how Dwight behaves on the battlefield, won't it, Dad? Ha ha!
+%0%a001250
+	Did you beat Dwight in a fight once, Dad?
+%0%a001250
+	Phew! Then I don't have to worry about him being around as long as you're here too.
+Sancho
+	Anda! I was no expecting thees!
+Tuppence
+	He's just going to be lumped in with the other monsters though, correct? He won't be part
+	of your select elite like I am.
+%0%a001240
+	That's weird. How come Dwight couldn't join us? Have we got too many monsters already?
+%0%a001250
+	To be honest, I'm quite relieved. Dwight gives me the creeps for some reason.
+%0%a001240
+	You should always say please when you ask someone a favour, right, Dad?
+%0%a001250
+	You're not cold! You're just doing what's best for us, aren't you, Dad?
+Sancho
+	Thees señor, he ees full of garbanzos, sí?
+	You no want heem to join us? Ees good to have esuch a fiery fighter. Sí, fiery like a jalapeño.
+Tuppence
+	The cheek of it! How dare he address the King of Gotha with such insolence!
+%0%a001240
+	Dwight's pretty wild, isn't he? The way he fights has to be seen to be believed!
+%0%a001250
+	Do you think Dwight had fun travelling about with us? I don't find him as scary as I used to.
+Sancho
+	Ees good for us to have esomeone eso young weeth us, no? Your Uncle Sancho, he no the young espring pollo he was before, you know.
+Tuppence
+	Hmph! I won't allow that Dwight character to outshine me!
+Bianca
+	Well, we've got quite a fighter back on the team, eh?
+Nera
+	I'll have to stay on my toes now if I don't want Dwight to make fun of me.
+%0%a001240
+	Oh! Isn't Dwight going to be able to tag along?
+	That's a shame.
+%0%a001250
+	I really like all the monsters you've had join the party so far, Dad.
+%0%a001250
+	So it'd be tricky to decide on someone to leave behind just so Dwight could take their place.
+Tuppence
+	You have plenty of good hardy fighters on side already, %a000090. There's no need to stoop to the likes of that Dwight character.
+Bianca
+	Huh? How come he couldn't join us?
+Nera
+	Oh dear. Dwight's certainly rather quick to throw in the towel, isn't he?
+%0%a001240
+	So Dwight moved back here! We should come back sometime and invite him to join us again.
+Sancho
+	Friend! You no learn these bad habits from me, you know! Ees no good to esay ⓗnoⓘ all the time.
+	No, no, no.
+Sancho
+	You must have the faith and answer ⓗsíⓘ.
+	But ees no my fault eef you esometimes find yourself een trouble because of thees, okay?
+Tuppence
+	I thought we parted with Dwight back over
+	at Monty's.
+Tuppence
+	And yet here he is back in his cave. I suppose
+	you have to admire him for making that journey
+	all by himself.
+Bianca
+	You shouldn't tease him like that, %a000090! Surely he can come along?
+Nera
+	If the wagon was full, he'd end up having to go to Monty's, though.
+Nera
+	Do you think he'd really be alright with that?
+Bianca
+	What is it about caves? They're always so cold and damp, the whole world over.
+Bianca
+	You en't never spent a long stretch of time livin' in one place, right, %a000090?
+Bianca
+	Nope, you've bin on the road for pretty much all your life so far.
+Bianca
+	Eh? You lived at the Crocodilopolis? Ha! You can hardly call that livin'! ...Sorry. I didn't mean to bring back bad memories.
+Bianca
+	We should get a wriggle on to Nadiria if we're done and dusted here.
+Bianca
+	We're the sort of guardians of the legendary
+	hero, after all. It wouldn't do for us to distract
+	him too much.
+Nera
+	It's good to be able to walk around without fear in such a dank, cold place, isn't it?
+Nera
+	Waah!
+Nera
+	Sorry! There was some kind of furry insect by my foot. It took me by surprise, that's all.
+Nera
+	We should really try to move on if you're ready to, darling. We don't have much time.
+%0%a001240
+	You came here when you were little, right, Dad?
+	With that faerie friend of yours.
+%0%a001240
+	You're so lucky! It'd be so much fun to go off adventuring with a faerie.
+%0%a001240
+	Now we're here, we should explore every nook and cranny. I want to see everything you saw when you were here last.
+%0%a001240
+	So this is where you came to find ⓗLots about Locksⓘ...
+%0%a001240
+	If only you still had the book with you now.
+	I'd love to know what was in it.
+%0%a001250
+	I thought this cave would be so much nicer, what with it being in the Faerie Realm and everything.
+%0%a001250
+	I imagined flowers all over the walls, and lots of shiny things everywhere. Hmph.
+%0%a001250
+	I've never got lost in a cave before.
+%0%a001250
+	But %a001240 gets lost all the time. He just wanders on in without giving any thought to how to get back out again.
+%0%a001250
+	Whenever I walk through a cave, I always wonder what would happen if the sun suddenly shone right into the middle of it.
+%0%a001250
+	It would certainly give everyone a shock,
+	wouldn't it?
+Sancho
+	Ah, ees another cave. Sí, sí...
+	When I travelled weeth señor Pankraz, we explored een many, many caves.
+Sancho
+	You know, ees no eso easy to take a young bebé weeth you when you are travelling.
+	Sí, señor Pankraz, he was eso tough. Eso macho.
+Sancho
+	Esometimes now, friend, you look just like your father, señor Pankraz.
+Sancho
+	Sí. You have grown eento a fine man now, My Majesty.
+Sancho
+	Ees no good to be een a cave like thees where ees no action, you know. I estart to chatter like the castanets.
+Tuppence
+	The monsters around here are rather puny.
+	I could fight these fellows off with one hand
+	tied behind my back!
+Tuppence
+	I wouldn't turn down a bit of assistance if things took a dangerous turn, mind you.
+Tuppence
+	There don't appear to be any faeries here.
+	Shall we be heading off, then?
+Nera
+	I'm afraid I'm probably causing Mama and Papa no end of worry.
+Nera
+	Darling, I don't suppose it would be possible to take the occasional detour to Mostroferrato to put their minds at ease, would it?
+Debora
+	Knowing Papa, he'd worry himself so much that he'd be too tense to die! I am a bit concerned about Mama, though.
+Debora
+	We should stop by in Mostroferrato every once in a while, %a000090.
+Debora
+	It's good news as far as I'm concerned.
+	Characters like him make perfect servants if you train them right.
+Debora
+	How annoying! I was looking forward to putting him into shape. You'll have to sort something out, %a000090.
+Debora
+	So that's one more servant along for the ride.
+	I'm quite looking forward to seeing what he can do.
+Debora
+	How annoying! I was looking forward to having another servant on board. You'll have to sort something out, %a000090.
+Debora
+	He's obviously not a graduate of the charm school, is he? He's got potential, though. Let him join us, %a000090.
+Debora
+	I think he could be a good learner. It would've been a shame not to take him on.
+Debora
+	We still haven't finished training him up as a decent servant, so we'd better take him along.
+Debora
+	There's no reason for us to be here, is there?
+Debora
+	I'd say there isn't, so let's head back outside.
+	I've never liked caves much.
+Debora
+	Waah!
+Debora
+	Wh-What are you thinking, %a000090?
+	Don't just start talking at me like that!
+	You made me jump.

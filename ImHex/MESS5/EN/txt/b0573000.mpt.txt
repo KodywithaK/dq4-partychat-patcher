@@ -1,0 +1,61 @@
+Bianca
+	Blimey! I dun't think I've ever seen a T 'n' T board
+	so big.
+Bianca
+	I think we'd better pass on this one. Imagine how long it'd take to reach the goal!
+Nera
+	I didn't expect to find such a splendid T 'n' T
+	board here.
+Nera
+	Goodness! It would take days to reach the goal in this place.
+%0%a001240
+	What a ginormous T 'n' T Board! I'm so excited!
+%0%a001240
+	I wonder how many times you'd have to roll the dice to get to the goal here. Fifty? A hundred?
+%0%a001250
+	Hmm... I'm trying to plot a good route through it all, but it's just too complicated!
+%0%a001250
+	I think I'd rather sit this one out and watch you play, Dad.
+Sancho
+	Ees a fine T 'n' T board, sí?
+Sancho
+	Ees no the place for your Uncle Sancho, though.
+	You no need me here.
+Tuppence
+	My lucky fingers are just itching to get hold of the dice here, %a000090!
+Tuppence
+	Just leave everything to me! ...No, I wish I could be that confident, but confidence always seems to be something I'm rather short on.
+Bianca
+	Oh! He looks so sad. Still, if you've made up
+	your mind...
+Nera
+	Poor thing! He looks so disappointed. I didn't think he'd be so hurt.
+%0%a001250
+	I don't mind him coming along. I'll look after him.
+	Can he really not come, Dad?
+Sancho
+	Sí, he ees a monster, but he ees estill just a bebé.
+	Ees eso esad to esee heem looking upset like that. I, I... (sob)
+Bianca
+	Another funny friend to add to our numbers, eh?
+%0%a001240
+	If Starkers is Estark's son, then he'll probably end up being really strong.
+Tuppence
+	Hmph. Another monster. This is becoming quite embarrassing.
+Nera
+	Oh dear! Have we got too many monsters with us, do you think?
+%0%a001250
+	Maybe we need to wave goodbye to one of the monsters we already have before we can let Starkers join us.
+%0%a001250
+	Hmm... That's a tricky one.
+Debora
+	This is certainly a fair-sized T 'n' T board.
+	You'll have to have a go.
+Debora
+	Maybe I'll speak to Papa next time we see him and get him to build me an even bigger T 'n' T board than this!
+Debora
+	I don't recall turning you into such a cold character. Invite him to join us!
+Debora
+	He's really quite sweet. I feel like I want to mother him. ...Ha! Only joking!
+Debora
+	That's a shame. I was looking forward to taking care of that little thing.

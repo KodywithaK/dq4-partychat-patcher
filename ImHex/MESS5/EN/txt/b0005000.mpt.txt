@@ -1,0 +1,472 @@
+*: 
+	The monster I backed's about to win!
+*: 
+	Go on! That's the way!
+*: 
+	There are three types of slot machine. There are single-token, ten-token and hundred-token machines.
+*: 
+	Always best to start off with the single-token machines, if you want my advice.
+*: 
+	This is the casino's one hundred token
+	mega-attraction!
+*: 
+	And just when I was doing so well! I won loads of tokens, but then I decided to play the hundred-token machine...
+*: 
+	I can't wait to be among the performers who get a changing room to use.
+*: 
+	The light...of darkness... Ⓠ
+	Spewing forth... La la la lah! Ⓡ
+*: 
+	My voice is playing up a bit for some reason.
+	Better have another drink.
+	Glug, glug, glug...
+*: 
+	There's people from all walks o' life in this here town. The good, the bad and the ugly.
+*: 
+	When ya get to my age, them's the kinda things that keep y'alive. Ha ha ha ha.
+*: 
+	Have ya heard about the legendary hero?
+	Everyone's speculatin' about whether he's
+	gonna show or not.
+*: 
+	I've got a thousand G down that says he does!
+*: 
+	These dancers aren't bad.
+*: 
+	Don't disturb me now, pal!
+	This is a really good bit!
+*: 
+	La la la Ⓠ,
+	No more sweet nothings,
+	But ooh... Ⓡ
+*: 
+	La la la Ⓠ,
+	Please, baby, ooh,
+	I need you.
+*: 
+	Well? Do you think the way I dance is classy too, honey?
+*: 
+	You wanna join in the dance, sweetie pie?
+	Sure! Just swing those hips!
+	Da-da-daa, Da-da-da-daaa Ⓠ
+*: 
+	You look like you've got rhythm.
+	Come on, sugar, let's dance!
+*: 
+	Oh, yeah! You sure can move!
+Julian
+	Oh, you're a fan, are you?
+	Sorry, I don't do autographs.
+	
+Rometta
+	You saw the performance, did you?
+	Thanks. I hope you liked it.
+Tylbert
+	Maybe it's because we travel around so much,
+	but I get the feeling things are getting more and
+	more unstable.
+Tylbert
+	Take that castle up north of here. It's been completely ravaged by monsters.
+	You should be careful, you know.
+Carla
+	Wow! What a hero, getting, like, sooo many monsters to join you. You're way cool!
+Carla
+	But with that many monsters already part of your team, you're gonna find it hard to recruit any others.
+Carla
+	If you wanna, like, get some other monsters to join the party, you better say bye to some of these guys, huh?
+Carla
+	Zzz... Zzz...
+	Like, zzz...
+~ Wow! What a hero, getting, like, sooo many monsters to join you. You're way cool! ~
+Carla
+	But with that many monsters already part of your team, you're gonna find it hard to recruit any others.
+Carla
+	If you wanna, like, get some other monsters to join the party, you better say bye to some of these guys, huh?
+*: 
+	This is Whealbrook. If you head west from here, you end up in Roundbeck.
+*: 
+	Hello there. Do I know you?
+*: 
+	Hello there. Do I know you?
+*: 
+	Of course! You're Pankraz's son, %a000090!
+*: 
+	Well, well! You've certainly grown into a fine young lad.
+*: 
+	So, tell me. How's your father doin'?
+~ %0%a000090 explains everything that's happened. ~
+*: 
+	Oh no. Of all the things! What a terrible time of it you've had.
+*: 
+	You can see for yourself that the times have been cruel for our little village too.
+*: 
+	But all that pales into insignificance when I think of poor old Pankraz.
+*: 
+	Come to think of it, I seem to remember him hidin' somethin' precious in the cave all those years ago.
+*: 
+	Who knows what's become of it now?
+*: 
+	Maybe it's still in there after all these years! You should go and have a look. Be careful, mind.
+*: 
+	This used to be a beautiful village back in the day.
+*: 
+	But then those soldiers came from Coburg and burnt the place to the ground.
+*: 
+	It's unforgivable! Unforgivable, I tell you! It's all Pankraz's fault, that poor prince goin' missin'!
+*: 
+	Er, forgive me. I seem to have got a bit carried away.
+*: 
+	You must be wonderin' what in the world I'm on about, not knowin' Pankraz and all.
+*: 
+	Oh! You do know him, you say? He's your father!? Goodness gracious me!
+*: 
+	I'm just tryin' to think what the name of that young boy was... %0%a000090! That's it.
+	Are you really %a000090?
+*: 
+	Who'd have thought it!? Good heavens! Goddess, give me strength!
+*: 
+	You young rascal! Fancy lyin' to a lady of the church!
+*: 
+	I can't help feelin' like I've met you somewhere before, mind. Maybe I'm just imaginin' it.
+*: 
+	Oh dear. What an awful thing to happen.
+	Poor Pankraz...
+*: 
+	So now you're plannin' on takin' his place and searchin' for your mother, are you, %a000090?
+*: 
+	Dear Goddess! Please guide this child with your protective light!
+*: 
+	Don't be mean to me! I've boing living in Whealbrook a long time. I used to live in the cave.
+*: 
+	I know about those goons setting the village on fire. They were funny-looking soldiers. (Slurp)
+*: 
+	And I know about Pankraz having a place of gooreat importance to him in the cave.
+*: 
+	You just have to ride a raft deep inside and you'll come to it eventually. It's very hard to ooze your way!
+*: 
+	This inn of ours used to be a lot nicer back in the day, until those soldiers wrecked the place.
+*: 
+	It's a bit humble I'm afraid, but I hope you'll at least find it comfortable enough to rest your weary head for the night.
+*: 
+	Ah-phew, ah-phew.
+*: 
+	Zzzz... Who are you? ...Honey? That's a weird name. Zzzz...
+*: 
+	Hello there. Do I know you?
+*: 
+	Hello there. Do I know you?
+*: 
+	Of course! You're Pankraz's son, %a000090!
+*: 
+	Well, well! You've certainly grown into a fine young lad.
+*: 
+	So, tell me. How's your father doin'?
+~ %0%a000090 explains everything that's happened. ~
+*: 
+	Oh no. Of all the things! What a terrible time of it you've had.
+*: 
+	You can see for yourself that the times have been cruel for our little village too.
+*: 
+	But all that pales into insignificance when I think of poor old Pankraz.
+*: 
+	Come to think of it, I seem to remember him hidin' somethin' precious in the cave all those years ago.
+*: 
+	Who knows what's become of it now?
+*: 
+	Maybe it's still in there after all these years! You should go and have a look. Be careful, mind.
+*: 
+	This poor lad lost his parents and was all alone, so I decided to take him in.
+*: 
+	You were about his age when you lived here all those years ago.
+*: 
+	I'm just makin' the beds at the moment.
+	You have a good rest, won't you?
+*: 
+	This inn of ours used to be a lot nicer back in the day, until those soldiers wrecked the place.
+*: 
+	It's a bit humble I'm afraid, but I hope you'll at least find it comfortable enough to rest your weary head for the night.
+*: 
+	There's nothin' of any value here any more, but we used to have people comin' in search of the famous Whealbrook bluestones.
+*: 
+	Maybe you can still find them somewhere, hidden in big rocks in the cave or somethin'.
+*: 
+	Anythin's possible. There are rocks in there big enough to trap people underneath them, y'know.
+	㈡
+	*: Somethin' that big could easily be hidin' a gem.
+~ %0%a000120 examines the floor. ~
+~ There's a blooming branch there! ~
+~ %0%a000180 acquires a blooming branch. ~
+*: 
+	I hear somethin' called the Zenithian Sword was found right here in our cave!
+*: 
+	Apparently, it can only be used by some kind of legendary hero. It's all very mysterious!
+*: 
+	That must've been the sword Pankraz was scratchin' his head about all those years back, wonderin' why he couldn't fight with it.
+*: 
+	I'd never seen him look that troubled before.
+*: 
+	Good heavens! You're goin' off in search of the legendary hero!? Are you sure that's wise?
+*: 
+	Actually, I seem to remember hearin' some talk about the legendary hero over in Roundbeck long ago.
+*: 
+	That's where that old friend of yours, Bianca, lived. I wonder how she's doin' now.
+*: 
+	I knew you were jokin'. If he's part of legend already, then he's probably already dead, after all.
+~ %0%a000120 examines the sword stuck in the ground. ~
+~ But it's as heavy as lead, and %a000120 can't pull it out. ~
+~ %0%a000090 examines the sword stuck in the ground. ~
+~ It's as heavy as lead! But it might move with enough encouragement. ~
+~ %0%a000090 gives an almighty heave and pulls the Zenithian Sword from the ground! ~
+~ %0%a000090 acquires the Zenithian Sword! ~
+~ But the hand he holds it with is drained of strength, and his body feels as heavy as lead. ~
+~ It doesn't look like %a000090 is able to equip himself with the Zenithian Sword. ~
+~ %0%a000120 opens the treasure chest. ~
+~ Pankraz's letter is inside! ~
+~ But %a000120 can't read it. ~
+~ %0%a000120 places Pankraz's letter carefully back inside the treasure chest. ~
+~ %0%a000120 opens the treasure chest. ~
+~ Pankraz's letter is inside! ~
+~ %0%a000140 takes the letter and begins to read. ~
+~ ⓗDear %a000090, ~
+~ If you're reading this letter, it must mean I'm no longer by your side. ~
+~ ⓗYou probably know already, but the reason I've been travelling is to search for my beloved wife, Mada, who fell into the hands of evil. ~
+~ ⓗMy wife, your mother, had some mysterious powers. ~
+~ ⓗI don't really understand it, but it seems these powers are coveted by those in the dark world of Nadiria. ~
+~ ⓗIt's my belief that she was carried off there because of her powers. ~
+~ ⓗDear %a000090! You must continue my search for the legendary hero! ~
+~ ⓗIt seems that the only one who can enter Nadiria and rescue Mada from the clutches of evil... ~
+~ ⓗ...is he who can make use of the Zenithian Equipment: the legendary hero. ~
+~ ⓗI travelled all the world and managed to locate the Zenithian Sword. ~
+~ ⓗBut still I've been unable to locate the legendary hero. ~
+~ ⓗ%0%a000090, my son. You must gather the remaining pieces of the Zenithian Equipment, find the legendary hero, and save dear Mada! ~
+~ ⓗI have faith in you, son. I know you can do this.ⓘ ~
+Harry
+	What a story! The legendary hero, eh...?
+~ But %a000010 can't read it. ~
+~ %0%a000010 looks disappointed and returns the letter to the treasure chest. ~
+~ It says something like, ⓗDANGER! NO ENTRY!ⓘ. But it's an old sign, and it's hard to read the words properly. ~
+~ %0%a000120 examines the rock closely. ~
+~ There's a strange stone glowing in one of the cracks. ~
+~ It's a Whealbrook bluestone! ~
+~ %0%a000180 acquires a Whealbrook bluestone! ~
+~ %0%a000120 investigates the large rock. ~
+~ There doesn't seem to be anything of note. ~
+~ %0%a000180 acquires Pankraz's letter! ~
+*: 
+	Welcome to Roundbeck!
+*: 
+	A traveller, are you? I used to do a bit of travellin' myself in the past, goin' over Coburg way an' sellin' weapons.
+*: 
+	You wouldn't catch me over there again for love nor money, though. Nope, never again!
+Prince Harry
+	............
+*: 
+	What a sorry old state of affairs!
+*: 
+	I heard about that brat of a prince disappearin' and his brother becomin' king, so I went over to Coburg to sign up.
+*: 
+	But it's actually the kid's mother, the Queen Dowager, who's pullin' all the strings! That place is on the road to ruin, you mark my words!
+Prince Harry
+	............
+*: 
+	This fella run away from Coburg, y'know.
+*: 
+	I'd heard a few rumours, but I had no idea the place had got so bad.
+*: 
+	I'm travelling the world in search of legendary weapons.
+*: 
+	I came to Roundbeck because I heard there was a man living here who knows a thing or two about legends.
+*: 
+	I'm a travelling nun. I can sense certain things, you know.
+*: 
+	And right now I'm sensing that the seal placed by the Goddess to close off the dark world is gradually weakening.
+*: 
+	If that seal were to break, the world would once again be plunged into utter darkness. Brrr!
+*: 
+	I'm an old friend of Whitey who used to run the inn. I came back after all these years to pay him a visit.
+*: 
+	But I'm told he had problems with his health so he sold up and moved to a village in the mountains far across the sea from here.
+*: 
+	I was hoping to see that daughter of his again. What a shame!
+*: 
+	You're on a journey in search of someone,
+	you say?
+*: 
+	That reminds me of a king who was travellin' the world lookin' for his queen long, long ago.
+*: 
+	I never did hear of him findin' her, so maybe he's still searchin' to this day.
+	Aah, how romantic!
+*: 
+	My son went off to work in Coburg, but he's back home again now.
+*: 
+	He was full of all sorts of big ideas about makin' his fortune and the like. So much for that!
+*: 
+	Still, I must admit it's a relief to have him back. That's the thing with bein' a parent.
+*: 
+	Bianca, you say? No, I'm afraid I dun't know anyone of that name.
+*: 
+	My old man and I bought this place from a man called Whitaker...ooh, seven years back now, it was.
+*: 
+	Why dun't you stay the night? We've got a special offer on at the moment where you get a souvenir if you stay two nights or more!
+*: 
+	Make sure you come and see me after two nights stayin' here, won't you?
+*: 
+	Hm? You've stayed two nights already?
+	What a good customer you are!
+*: 
+	Then I must give you one of our famous grape-scented Roundbeck Zizzwizz Pillows!
+~ %0%a000120 receives a Zizzwizz Pillow! ~
+~ %0%a000180 acquires a Zizzwizz Pillow! ~
+*: 
+	My old man and I bought this place from a man called Whitaker...ooh, seven years back now, it was.
+*: 
+	Make sure you come and see me after two nights stayin' here, won't you?
+	I'll give you a special memento.
+*: 
+	Hm? You've stayed two nights already?
+	What a good customer you are!
+*: 
+	Then I must give you one of our famous grape-scented Roundbeck Zizzwizz Pillows!
+~ %0%a000120 receives a Zizzwizz Pillow! ~
+~ %0%a000180 acquires a Zizzwizz Pillow! ~
+*: 
+	My old man and I bought this place from a man called Whitaker...ooh, seven years back now, it was.
+*: 
+	I'm afraid I don't know anyone by the name of Bianca.
+*: 
+	Ooh! Hello there, young man!
+	Would you like a drink?
+*: 
+	Here you are. Enjoy!
+*: 
+	Then what can I do for you?
+	The legendary hero, eh? Just a sec!
+*: 
+	It's my dad who knows all about that.
+	Why don't you go on in and pick his brains?
+*: 
+	My dad knows a thing or two about the legendary hero. Ask him as much as you like.
+*: 
+	You want to know about the legendary hero, do you? Then you've come to the right place!
+*: 
+	Long, long ago, the Lord of the Underworld, Es...something or other, was resurrected, and set about destroying the world.
+*: 
+	But then the legendary hero, with the Zenithian Equipment on his side, defeated him and saved us all.
+*: 
+	He had four items altogether: the Zenithian Sword, the Zenithian Armour, the Zenithian Shield and the Zenithian Helm.
+*: 
+	Hm? What happened to him after that?
+*: 
+	Some say he returned to Zenithia up in the sky, but I don't know if that's what really happened or not.
+*: 
+	It was all a long time ago, anyway, so I very much doubt he'd still be alive now.
+*: 
+	I s'pose you might be able to find one of his descendants somewhere if you were lucky.
+*: 
+	Evening! Welcome to Roundbeck!
+*: 
+	Coburg used to be a nice place back in old King James's day.
+*: 
+	But it all got turned on its head when he died and Prince Wilbur took the throne.
+*: 
+	I heard a tale once about a clan of people who guard the seal to the dark world, Nadiria.
+*: 
+	It's said that these people have some means of communicatin' with the monster folk.
+*: 
+	I was still thinkin' of him as my little boy, but he's suddenly got so big!
+*: 
+	Still, he'll always be my baby!
+*: 
+	Goo! Goo!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Right, well, I'm all washed now so it's time for beddy-byes!
+*: 
+	Who knows what joyous things tomorrow may bring?
+~ %0%a000090 stirs suddenly. ~
+~ Harry seems to be deep in thought. ~
+Harry
+	Are you awake, %a000090?
+	I was just thinking about home.
+Harry
+	It was quite a shock to hear from the townsfolk about Father passing away.
+Harry
+	It sounds like Wilbur has taken over the throne, but people don't seem all that impressed with him.
+Harry
+	I'm wondering if maybe I should go back for a quick visit.
+Harry
+	You know, just to see what's what. Coburg isn't too far from here, just off to the east.
+Harry
+	Still, we can talk about that in the morning.
+	Time for some shut-eye, eh?
+*: 
+	Ooh! Hello there, young man!
+	Would you like a drink?
+*: 
+	Here you are. Enjoy!
+*: 
+	Then what can I do for you?
+	The legendary hero, eh? Just a sec!
+*: 
+	It's my dad who knows all about that.
+	Why don't you go on in and pick his brains?
+*: 
+	My dad knows a thing or two about the legendary hero. Ask him as much as you like.
+*: 
+	You want to know about the legendary hero, do you? Then you've come to the right place!
+*: 
+	Long, long ago, the Lord of the Underworld, Es...something or other, was resurrected, and set about destroying the world.
+*: 
+	But then the legendary hero, with the Zenithian Equipment on his side, defeated him and saved us all.
+*: 
+	He had four items altogether: the Zenithian Sword, the Zenithian Armour, the Zenithian Shield and the Zenithian Helm.
+*: 
+	Hm? What happened to him after that?
+*: 
+	Some say he returned to Zenithia up in the sky, but I don't know if that's what really happened or not.
+*: 
+	It was all a long time ago, anyway, so I very much doubt he'd still be alive now.
+*: 
+	I s'pose you might be able to find one of his descendants somewhere if you were lucky.
+*: 
+	It's my dream to get hold of a legendary weapon and become the strongest warrior in the world!
+*: 
+	I wonder where it is old Whitey and his family moved on to.
+*: 
+	I was hoping to see that daughter of his again. What a shame!
+*: 
+	Do us a favour!
+	Just pretend you ain't seen us, will ya?
+*: 
+	Eh? You ain't here to come after us?
+	Well, thank the Goddess for that then, eh!
+*: 
+	I'm Dave and this is Vicky. The fing is, we're in love. But our families don't agree wiv it. Say we're not of the same class or somefin'.
+Vicky
+	Yes. And yet we couldn't bear to part ways,
+	so we ran away togever.
+Dave
+	We even thought about doin' ourselves in, like. But then we found this place and thought it wouldn't be a bad pad. We're 'appy as Larry now!
+Vicky
+	It's really quite bizarre, you know.
+Vicky
+	When we first arrived here, it was almost like the castle wanted us to stay. Like it was welcoming us somehow.
+Vicky
+	I can't believe we ever thought about ending it all. We couldn't be happier now.
+~ The inscription on the gravestone reads, ~
+~ ⓗHere lies Count Uptaten, whose number is now sadly upⓘ. ~
+~ The inscription on the gravestone reads, ~
+~ ⓗHere lies Miss Count, now sadly out for the countⓘ. ~
+*: 
+	This place is so quiet and relaxing. Aah!
+	Anyhow...
+*: 
+	This is Littlehaven. Come here to catch a boat, have ya? I'm afraid you're in for a long wait.
+*: 
+	Orders from the King of Coburg, see. The harbour's only allowed to be used by royal command from now on.
+*: 
+	So we ain't got no boats comin' in to dock here no more.
+*: 
+	Honestly! What is the world coming to?
+	The situation in Coburg is a disgrace.

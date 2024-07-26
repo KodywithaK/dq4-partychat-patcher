@@ -1,0 +1,160 @@
+Bianca
+	Did you know there was a cave all the way up here, %a000090?
+Nera
+	I had no idea there was a cave here.
+%0%a001240
+	I'm pretty curious to see what lies beyond this cave, aren't you?
+%0%a001250
+	There's a really funny atmosphere to this place.
+Sancho
+	Careful where you are treading,
+	My Majesty.
+Tuppence
+	Oh! There are no monsters here! Ha ha! I was rather dreading the fact that there would be.
+Bianca
+	You're not the only one who becomes all the more determined to do somethin' when you're told not to, %a000090!
+Nera
+	No doubt you're planning on moving it regardless? You have that defiant look on your face again.
+%0%a001240
+	ⓗThis stone must not be movedⓘ? I wonder who would write something like that.
+%0%a001250
+	If it says not to move it, then we shouldn't move it. ...Right?
+Sancho
+	Who would put esometheeng like thees een here?
+	Ees loco! I no like the feeling of thees.
+Tuppence
+	When you see instructions not to do something, you tend to do it anyway, right, %a000090?
+Bianca
+	Do you sense a kind of heavy feeling in the air all of a sudden? We should be careful, %a000090.
+Nera
+	Be careful, darling. There are monsters about!
+%0%a001240
+	That strange stone slab...
+	I wonder what it actually does.
+%0%a001250
+	Why did you go and move it when it said not to!?
+Tuppence
+	Dear me. Whyever did you move that stone slab, Your Majesty? Did you have too much time on your hands or something?
+Bianca
+	Hey! The monsters have disappeared!
+Nera
+	It seems to be something to do with that stone slab.
+	What a strange cave this is!
+%0%a001240
+	Am I just imagining it, or have all the monsters disappeared? Why would that be?
+%0%a001250
+	Where have all the monsters gone?
+Sancho
+	Eet eseems as eef the air, ees cleared.
+	Are you feeling eet too, friend?
+Bianca
+	Weird. It's like any sign of monsters is just drifitin' away. Still, I suppose we shouldn't complain!
+Bianca
+	There's somethin' a bit funny about this cave.
+	I wonder what the story is.
+Nera
+	It feels so odd being able to take our time walking through a cave like this without always looking over our shoulders.
+Nera
+	I wonder where all the monsters are lurking.
+%0%a001240
+	Am I just imagining it, or have all the monsters disappeared? Why would that be?
+%0%a001240
+	You can see monster footprints all over the place, but there's no sign of the monsters themselves.
+%0%a001240
+	If it gets much quieter, I'm going to start having trouble staying awake!
+%0%a001250
+	That's odd. All the monsters are gone.
+	I don't see a single one of them.
+%0%a001250
+	Ready or not...here we come!
+%0%a001250
+	I think the monsters must be playing hide and seek!
+%0%a001250
+	Right, right, left... Um, left...right, right... Ⓠ
+%0%a001250
+	It's just a little ditty that %a001240 taught me. It's to help me remember how to skip nicely.
+%0%a001250
+	Yoohoo! Monsters!
+	...Why don't you answer me?
+Sancho
+	You know what eet ees, My Majesty? The monsters, they are escared of you now. Because you fight like the matador!
+Sancho
+	Sí, ees good the monsters no bother us.
+	But I... I estill worried.
+Tuppence
+	I say! There's something a bit odd here. There's no sign of any monsters whatsoever.
+Tuppence
+	I'm not very comfortable with this. I don't much like surprises. Still, at least this is a good one.
+Tuppence
+	Ah... (mumble mumble)...
+	Oh dear! This won't do!
+Tuppence
+	Sorry, %a000090. Things are so quiet in here that I was almost falling asleep on the spot.
+Tuppence
+	Did you use holy water while I wasn't looking or something, %a000090?
+Bianca
+	What do you suppose is goin' on with this place?
+	Why are the monsters here such pesky, persistent little things?
+Bianca
+	If there are this many monsters about, there must be somethin' pretty special in here that they're tryin' to stop us gettin' at.
+Nera
+	It's all or nothing with this cave when it comes to the number of monsters around. Rather too extreme for my liking.
+Nera
+	It would be nice to get ahead more quickly, but it looks like they're doing their hardest to stop us.
+%0%a001240
+	Be careful, Dad. The monsters in here
+	are pretty scary.
+%0%a001240
+	This cave isn't far from Roundbeck, is it?
+%0%a001240
+	We'll have to tell all the townspeople to steer well clear of this place. It's far too dangerous!
+%0%a001250
+	Ouch! ...It's alright. I just tripped a bit, that's all.
+%0%a001250
+	The monsters here are really mean. It's like they're being controlled by something.
+Sancho
+	A brave conquistador, he knows when ees the good time to make a fresh estart.
+Sancho
+	You have become esuch a fine man, %a000090. I, I am eso proud! Esometimes when I am walking behind you, I forget you are no your father.
+Sancho
+	Today, ees been a very exhausting day. I gonna prepare for you a nice, hot bath and esometheeng esalty for dinner.
+Tuppence
+	Don't worry, %a000090. If the worst happens, I'll take good care of your beloved wife and children.
+Tuppence
+	Hmm. If only I'd brought a painter along with me.
+Tuppence
+	How nice it would be if I could show people at home a picture of me in a mighty fighting pose!
+Tuppence
+	I just can't keep up with this place. One minute there are no monsters at all, and then the whole place is overrun with them!
+Bianca
+	Hey! What d'you s'pose that is?
+%0%a001240
+	Are we done yet? Those stone slabs are really heavy. I'm tired!
+%0%a001250
+	Is that your robe over there, Dad?
+Sancho
+	Uf! Pushing these estones around these narrow passages, ees like dancing the salsa, no? Ees hard work.
+Debora
+	Here we are in yet another cave. You certainly know how to hunt these places out, don't you, %a000090?
+Debora
+	Just move it if you want to move it.
+	I'm not bothered either way.
+Debora
+	Ah... I thought this might be the case.
+	Maybe I should've said.
+Debora
+	That stone obviously seals away the monsters in this cave. You probably already figured that out.
+Debora
+	It's certainly a lot easier without monsters to worry about, but it's still a cave, and I really hate caves.
+Debora
+	A cave's a cave, monsters or no monsters.
+	Yuck! Being in here makes me feel all clammy.
+Debora
+	Monsters everywhere, monsters nowhere to be seen... Are they just trying to wind me up?
+Debora
+	If we're done here, we're leaving right away. Got it? I'm not taking no for an answer.
+Nera
+	Ooh, do you see that robe over there?
+	You'd look lovely in that, darling.
+Debora
+	Is that a robe over there? If that's why we're here, just take it and let's get out of here.

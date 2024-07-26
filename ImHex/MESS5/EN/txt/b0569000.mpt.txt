@@ -1,0 +1,152 @@
+Bianca
+	What a weird place!
+	Is this...the underworld?
+Nera
+	So this is Nadiria. I had no idea it was such a
+	wild-looking place.
+%0%a001240
+	What a lonely looking place. It's totally different to our world, don't you think?
+%0%a001250
+	Look, Dad. The map's changed.
+Sancho
+	Eso thees ees Nadiria. Thees ees the place señor
+	Pankraz ees always wanting to find.
+Tuppence
+	So this is N-N-Nadiria...! Dear me, it's set me right on edge, I can tell you. I'm not sure if I'm up to this.
+Bianca
+	It can't be far now before we reach your mum.
+Bianca
+	I always expected it to be a nasty kind of place, but I didn't imagine it would be this bad.
+Bianca
+	It dun't look like this place ever gets much sun.
+Bianca
+	I wonder if this is what would happen to our world too, if Grandmaster Nimzo took over.
+Nera
+	We must push on. It can't be long now until we find your mother.
+Nera
+	It's hard to imagine that your mother's spent more than twenty years in such a desolate, lonely place.
+Nera
+	I don't sense anything living around here.
+	Apart from monsters, that is.
+%0%a001240
+	We've had our tough times up to now, so this place isn't anything we can't handle!
+%0%a001240
+	Hang on in there, Grandma! We're coming to rescue you soon!
+%0%a001240
+	What do you think it's like down below?
+%0%a001240
+	It's impossible to see, what with that creepy mist all over the place.
+%0%a001250
+	Urh... My head hurts. There's a really sinister air coming up from deep down underground.
+%0%a001250
+	It's okay. I'll keep battling on.
+	It's for Grandma's sake, after all.
+Sancho
+	Qué? You no escared, are you?
+Sancho
+	No, no, no. Ees no need to be escared.
+	You have eso many amigos een your party now.
+Sancho
+	And all of the amigos who no weeth us right now, they cheer for us from the wagon.
+Sancho
+	Perdón. I esorry. Your Uncle Sancho, he ask esometheeng estupid. Ees notheeng to make you escared now, sí?
+Sancho
+	Señora Mada, eshe ees esuch a kind and
+	gentle señora.
+Sancho
+	I esure the monsters, they understand her
+	kind and gentle heart too, no?
+Tuppence
+	Mother often spoke fondly of Queen Madalena.
+Tuppence
+	She said she'd never known a woman more
+	beautiful or kind. I'm rather looking forward to making her acquaintance.
+Tuppence
+	Brr... It's rather chilly here. This place feels just like the Land of Death I once read about in a book.
+Bianca
+	I hope your mum's okay. There's no time to lose, %a000090!
+Nera
+	I'm rather concerned about your mother's well-being. We must hurry.
+%0%a001240
+	We need to pay that nasty Ladja back for what he did to Grandpa too, so we can't let him win next time!
+%0%a001250
+	Ladja... First he kills Grandpa and now he's threatening Grandma too. We can't let him
+	get away with this!
+Sancho
+	Muchas gracias, My Majesty, for letting your Uncle Sancho accompany you on thees day.
+Sancho
+	Thees Ladja, he ees about to breathe hees last breath. I revenge your father's death.
+	I fight for señor Pankraz!
+Tuppence
+	That despicable Ladja character! I do hope Queen Madalena can sit tight until we get there.
+Bianca
+	Maybe happiness is bein' able to fight to help someone, dun't you think?
+Bianca
+	I mean, it proves you're alive, dun't it?
+Bianca
+	I'll never forget about your mum, not as long as
+	I live.
+Bianca
+	So we'll have to make sure we live a long time.
+	That way, her memory will live on for longer.
+Nera
+	This place is filled with an overwhelmingly evil power, but I won't let it make me falter.
+Nera
+	I'm sure it's your existence that enabled your mother to carry on her fight alone all these years.
+Nera
+	I feel just the same way, you see. I'd do absolutely everything in my power to protect our children.
+%0%a001240
+	Dad, I don't get it.
+%0%a001240
+	Why are there such nasty characters in the world? Why can't they all be nice, like the monsters we've made friends with?
+%0%a001240
+	So the really bad guy is Grandmaster Nimzo, right? I'll sort him out, don't you worry!
+%0%a001240
+	Grandpa, Grandma...
+	Watch over us, please.
+%0%a001250
+	I hate the underworld. I wanted to show Grandma a nice, pretty sky and a beautiful blue sea.
+%0%a001250
+	Thinking about Grandma makes me want to cry,
+	but I'm going to be strong and hold back my tears.
+%0%a001250
+	Um, Dad... When we've finished travelling...
+%0%a001250
+	Um... Nothing. Never mind.
+Sancho
+	You believe we really take victory?
+	I no eso esure...
+Sancho
+	No! Perdón! Ees thees air. Ees making me theenk eso negatively.
+Sancho
+	When I look back, ees a very long way we are travelling. Sí, a long, long way.
+Tuppence
+	Brr... I'm cold. The underworld certainly isn't the kind of place one would choose to hang about in.
+Tuppence
+	Are you sure about your choice of companions, %a000090? I'm not sure I'm quite cut out for this.
+Debora
+	So this is Nadiria. The air here looks like it's bad
+	for the skin. Let's do what we came to do and get out of here.
+Debora
+	I don't think I could survive being stuck in such a desolate place for years on end.
+Debora
+	Let's get down to business and hurry up with rescuing your mother, %a000090.
+Debora
+	You can't see the sun from here. Somehow I
+	don't think that's the only reason for the chill in
+	the air, though.
+Debora
+	I remember that Ladja character. First he dares
+	to turn me into stone and now he's threatening
+	your mother!
+Debora
+	I'll make him pay for this!
+Debora
+	All of the pain and suffering my dear family has had to endure... All of it is Nimzo's doing.
+Debora
+	I'll make him regret the day he dared anger me, more than he could possibly imagine.
+Debora
+	%0%a000090...
+	I feel your pain.
+Debora
+	But you must be strong. Turn the pain into anger... Fan the flames... And then turn it all on Nimzo and make him pay.

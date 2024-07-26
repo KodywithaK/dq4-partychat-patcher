@@ -1,0 +1,104 @@
+~ What luck! %0%a000120 wins %a000500 gold coin%H0500%X%Ys%Z! ~
+~ Oh, no! %0%a000120 loses %a001000 gold coins! ~
+~ What luck! %0%a000120 wins an extra %H1010%Xroll%Y%a001010 rolls%Z of the die! ~
+~ Bad luck! %0%a000120 loses %H1020%Xa roll%Y%a001020 rolls%Z of the die! ~
+~ Go forward %H1030%Xone space%Y%a001030 spaces%Z! ~
+~ Go back %H1040%Xone space%Y%a001040 spaces%Z! ~
+~ Aaaah! Incoming electromagnetic wave! ~
+~ %0%a000120 takes %a000430 %H0430%Xpoint%Ypoints%Z of damage! ~
+~ That l-looks ⓚⓛ (splutter) ⓚⓛ like some really nⓚnasty gas...  ~
+~ %0%a000120 loses %a000810 MP! ~
+~ That l-looks ⓚⓛ (splutter) ⓚⓛ like some really nⓚnasty gas...  ~
+~ But it doesn't have any effect on %a000120 at all. ~
+~ It looks like %a000120's attributes are going to change! Roll the die! ~
+~ %0%a000120's %a000230 is nudged one point... ~
+~ ...up! ~
+~ ...down! ~
+~ An eerie voice permeates the air... ~
+~ Hard cheese! Go back to the start! ~
+~ Waaaah! A trapdoor! ~
+~ There's a chest of drawers here. ~
+~ Take a look inside? ~
+~ There's a pot here.  ~
+~ Take a look inside? ~
+~ There's a chest here. ~
+~ Take a look inside? ~
+~ Examine the ground? ~
+~ Examine the ground? ~
+~ There's a sign with an arrow on it showing which way to go. ~
+~ There's a toll gate here. The fee to pass through is %a001050 gold coins. ~
+~ Paid %a001050 gold coins to pass through the toll gate! ~
+~ This is the entrance to the T 'n' T dungeon! ~
+~ Venture inside? ~
+~ This is the entrance to the treasure trove. ~
+~ Venture inside? ~
+~ A refreshing breeze blows in from somewhere... ~
+~ %0%a000120's HP and MP are fully restored! ~
+~ Wow! %0%a040100! ~
+~ %0%a000120 can't carry any more items. ~
+~ Put %a020100 in the bag? ~
+~ Pick an item to transfer into the bag. ~
+~ Okay to put %a020102 in the bag and carry %a020101 instead? ~
+~ Oh no! Here comes trouble! ~
+~ Nope. Nothing doing, sadly... ~
+~ But the pot is empty. ~
+~ But the chest of drawers is empty. ~
+~ But the chest is empty. ~
+~ %0%a000120's %a000230 increases by 1! ~
+~ %0%a000120's %a000230 increases by 2! ~
+~ %0%a000120's %a000230 decreases by 1! ~
+~ What luck! You'll be able to pick any number on the die and move forward that number of spaces! ~
+~ Mighty oaks from tiny acorns grow. ~
+~ By the power of the mighty Goddess, bestow great strength upon this mortal! ~
+~ Darting eyes and fleeting feet. Time and tide wait for no man. ~
+~ In the blink of an eye, you shall see all four corners of the world! ~
+~ Never tire, never weaken. Climb to the summit with the whole mountain on your back! ~
+~ Ninety-nine blows, ninety-nine bruises, a hundred comebacks! You will rise after every fall. ~
+~ Know that which can be known, know that which cannot. And most of all, know that true knowledge comes from knowing the difference. ~
+~ Fools teach, while the wise learn. Learn wisely, and wisdom you will learn. ~
+~ Can there be such a thing as luck? Or is it destiny? Luckily, we are destined never to know! ~
+~ May Lady Luck sing for you a tune. Your fortune sung, dance the dance of the lucky! ~
+~ Darkness shrouds the way of the weak. ~
+~ The stars fade, lethargy lurks, and the burden is so very heavy. ~
+~ The spring of vitality is dry in the scorching desert. Life withers all around. ~
+~ See how wishing ill fortune on others in jest so quickly comes home to roost. ~
+~ Time flies when you're having fun. Time to fly back to where things were begun! ~
+~ %0%a000120 returns to the start of the board! ~
+~ The glistening of dark eyes in the gloom. The glint of razor-edged fangs spells impending doom! ~
+~ The torrential rain at last finds the calm, wide river. But still waters run deep. Still deeper than the depths of hell... ~
+~ A hideous beating of wings. A honed beak and razor-sharp talons. A one-way ticket to hell! ~
+~ The uncomfortable heat of the breeze blowing over the tombstone. The fiery depths beckon. ~
+~ He who spends too much time counting his pennies may not notice the hole in his purse. ~
+~ %0%a000120 loses 100 gold coins! ~
+~ Pennies from heaven? %0%a000120's purse feels somewhat heavier! ~
+~ %0%a000120 gains 100 gold coins! ~
+~ The writhing settles for a while... ~
+~ There doesn't appear to be any trace of monsters in the vicinity for now! ~
+~ Down, down, down... No sound from the coin dropped in the well. No end to the plummeting depths. ~
+~ For so long deep underground, the sleeping dog rises to greet its master. ~
+~ Great! A treasure chest! ~
+~ Have a look inside? ~
+~ No time like the present, and no present like time. ~
+~ Wow! Ten more rolls of the die! ~
+~ The rest will have to wait, for the rest can wait no longer. ~
+~ %0%a000120 is sent to the inn! ~
+~ You who roll your eyes at me when I fail to roll mine to your liking, for once I will obey. ~
+~ It seems the die will do as it's told on the next turn! ~
+~ A fierce wind blows. But it is an ill wind that blows no good. ~
+~ Go forward 6 spaces! ~
+~ A fierce wind blows. When you sail close to the wind, some setbacks are inevitable. ~
+~ Go back 5 spaces! ~
+~ Life is full of hardships. Obstacles hinder progress at every turn. ~
+~ It looks like the next roll of the die won't be a high one. ~
+~ From rags to riches you go! ~
+~ %0%a000120 is sent to the treasure trove. ~
+~ Look for luck, and luck will shy away from you. ~
+~ Look away from luck, and luck will shine on you. ~
+~ %0%a000120 obtains %a000500 gold %H0500%Xcoin%Ycoins%Z. ~
+~ He who questions if his glass is half full or half empty should first check he has a glass at all! ~
+~ %0%a000120 loses %a001000 gold %H1000%Xcoin%Ycoins%Z. ~
+~ But %a000120 is filthy rich already! %A0110%XHe%Z%B0110%XShe%Z couldn't bear the weight of even one more coin! ~
+~ But %a000120 can only manage to stuff %H0500%Xone more coin%Yanother %a000500 coins%Z into %A0110%Xhis%Z%B0110%Xher%Z pockets! ~
+~ But %a000120 can only manage to stuff %H0500%Xone more coin%Yanother %a000500 coins%Z into %A0110%Xhis%Z%B0110%Xher%Z pockets! ~
+~ But %a000120's %a000230 is already at the max. ~
+~ But %a000120's %a000230 can't go any lower than it is already! ~

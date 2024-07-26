@@ -1,0 +1,132 @@
+Bianca
+	It dun't seem right somehow, havin' a big lookout tower like this next to a peaceful town.
+Bianca
+	If they feel the need for a big thing like this to keep watch, maybe Mostroferrato is in some kind of danger.
+Nera
+	This tower was built before I was born.
+Nera
+	All my father's told me is that he built the tower so we'd be prepared for monsters attacking.
+	He never said anything more than that.
+%0%a001240
+	I love high places. You can always see such a
+	long way!
+%0%a001250
+	This sort of height isn't too scary...I think.
+Bianca
+	That Mr Briscoletti sounds like a bit of a worrier. I've never heard anythin' about Mostroferrato bein' a target for monsters.
+Nera
+	It hardly bears thinking about, but I suppose this lookout tower's a symbol of the possibility that monsters might actually attack us one day.
+%0%a001240
+	Mr Briscoletti is really nice to always worry about other people so much.
+Bianca
+	A man who turned himself into a monster? Is that even possible? I certainly hope not!
+Nera
+	When I was a little girl, I used to love climbing this tower so I could look out and imagine what life must be like in faraway towns and castles.
+%0%a001240
+	Grandmaster Nimzo...
+	Hm. I bet we'll end up having to fight him.
+%0%a001250
+	Um, Dad... Is it okay if we don't walk too close
+	to the edge?
+Sancho
+	Ees notheeng! These estairs...ees notheeng!
+	I no ⓚⓛ hahh ⓚⓛ even feel eet. Hahh hahh...
+	Hahh...
+Bianca
+	Briscoletti must be really loaded to be able to afford to build a tower like this, eh?
+Nera
+	I can't seem to relax. I just have this feeling that something bad is about to happen.
+%0%a001240
+	Why do you think some people are so scared of heights? I don't get it. Heights don't bother me at all.
+Bianca
+	Sounds like we'd better get a move on, %a000090. What is it we have to do again?
+Nera
+	Please, darling. Do what you can to help Papa!
+Bianca
+	Why would he be waitin' at the tower?
+	What d'you s'pose is so special about the place?
+%0%a001240
+	We'd better hurry up and tell Mr Briscoletti that the jar was red!
+%0%a001250
+	Do you think it's a bad sign that the jar was red? What's going to happen?
+Sancho
+	No eso fast! Hahh... Why you hurry?
+	Ees ⓚⓛ hahh ⓚⓛ dangerous. Hahh...
+	Eslow down, or maybe ⓚⓛ hahh ⓚⓛ you eslip, no?
+Tuppence
+	I wonder if Mr Briscoletti is at the tower because something's happened.
+Bianca
+	We have to try harder. If we dun't fight him off, Mostroferrato and Stockenbarrel will be in
+	terrible trouble.
+Nera
+	I'd really like to do something to repay Papa for all he's done. We must try harder next time!
+%0%a001240
+	Do you think that monster's still lurking somewhere?
+	We'll get him next time, right, Dad?
+%0%a001250
+	I've never seen a monster that big before. It's impossible to talk to him. He's really scary.
+Sancho
+	No eso fast! Hahh... Why you hurry?
+	Ees ⓚⓛ hahh ⓚⓛ dangerous. Hahh...
+	Eslow down, or maybe ⓚⓛ hahh ⓚⓛ you eslip, no?
+Tuppence
+	S-So we're going to f-fight him again...
+	Dear Goddess! Please watch over us!
+Bianca
+	Well, we've put out the fire here, eh?
+	Time to move on to the next crisis!
+Nera
+	This tower was built before I was born.
+%0%a001240
+	That monster was pretty big, wasn't he?
+	He was even taller than this tower!
+%0%a001250
+	This sort of height isn't too scary...I think.
+Tuppence
+	I hope I become a man of sufficient means such that I can build a tower like this one day.
+Bianca
+	Briscoletti really cares about the townspeople, eh? That's why they all like him so much.
+Nera
+	I'm sure this tower will continue to keep the people of Mostroferrato safe, just like it always has.
+%0%a001240
+	Mr Briscoletti is really nice to always worry about other people so much.
+Bianca
+	A man who turned himself into a monster? Is that even possible? I certainly hope not!
+Nera
+	When I was a little girl, I used to love climbing this tower so I could look out and imagine what life must be like in faraway towns and castles.
+%0%a001240
+	Grandmaster Nimzo...
+	Hm. I bet we'll end up having to fight him.
+%0%a001250
+	Um, Dad... Is it okay if we don't walk too close
+	to the edge?
+Sancho
+	Ees notheeng! These estairs...ees notheeng!
+	I no ⓚⓛ hahh ⓚⓛ even feel eet. Hahh hahh...
+	Hahh...
+Debora
+	What are we doing at the tower?
+	There's nothing to see here.
+Debora
+	Papa comes here from time to time.
+	I wonder what for.
+Debora
+	It's just crazy talk saying that monsters will come and attack us one day. Papa's constantly worried about it. I suppose that makes him crazy!
+Debora
+	Ugh! I'd never want to turn myself into a monster. For one thing, monsters can't dress themselves up and look pretty.
+Debora
+	What are we doing here?
+	This place is boring.
+Debora
+	I've never seen Papa like that before.
+	We'd better hurry.
+Debora
+	Whatever is Papa doing hanging around here while other people are running around doing errands for him?
+Debora
+	I hope you weren't putting on a shoddy performance because you thought Papa was coming to help!
+Debora
+	There's nothing left for us to do here.
+Debora
+	He didn't build it to protect us against monsters in general, though. We know now that he had one specific monster in mind.
+Debora
+	Ugh! I'd never want to turn myself into a monster. For one thing, monsters can't dress themselves up and look pretty.

@@ -1,0 +1,882 @@
+*: 
+	Ⓠ With a hand to the soil,
+	I work my honest toil,
+	and listen out for gossip as I sow Ⓡ
+*: 
+	Chopping wood and living your life are just the same, really. The most important thing in both is
+	good timing.
+*: 
+	I'll let you in on a little secret. I did battle with a fearful monster in a cave just west of Hay not long ago.
+*: 
+	You'll never guess what it was...
+	A great sabrecat of all things!
+*: 
+	I say it was fearful, but I could tell it'd had some contact with humans. It might even have been someone's pet once.
+*: 
+	Maybe it could be tamed if it recognised something from its younger days.
+*: 
+	I tell you what. If you're feeling bored, why don't you take a look at that book on the counter there?
+*: 
+	We have all sorts in here, you know. And they all write things in it. You travellers certainly like to keep up on your gossip, don't you?
+*: 
+	Oh, is that the Scuttlebutt Alledger you've got there? Oh, yes. That's full of tittle-tattle, that is.
+*: 
+	Keep it if you want to. It's all gossip, mind. Don't take it too seriously!
+*: 
+	You can't help having a few thoughts on the subject when you run an inn, you know...
+*: 
+	If you ask me, I'd much rather travel with a few friends than on my own. It'd be like having a family with you.
+*: 
+	These two lads here are both my boys.
+*: 
+	I only wish they'd find themselves a couple of lovely brides and give me some grandchildren.
+*: 
+	Ssss!
+*: 
+	Welcome you to Stockenbarrel!
+*: 
+	The baths are a-cookin', so the place be a bit full of folk just now.
+*: 
+	Welcome you to Stockenbarrel!
+*: 
+	Bianca! Well, I'll be! We en't see your face 'round these parts in a good long while. I've bin a bit worried about you, so I have.
+Bianca
+	Yeah, well. Sorry about that. I didn't mean to make you anxious or nothin'.
+*: 
+	Welcome you to Stockenbarrel!
+*: 
+	Good to see you lookin' well as usual, Bianca.
+*: 
+	Purrr!
+*: 
+	That son of mine's only sayin' he wants to be a priest now, of all things!
+*: 
+	He's got the inside of our house decked out like it was a church, y'know.
+*: 
+	Meow.
+*: 
+	There's no need to be shy now. Why dun't you come a bit closer, eh?
+*: 
+	Oh! I thought you was the old girl!
+	How embarrassin'!
+*: 
+	That one just refuses to accept he's no spring chicken any more, the silly old fool!
+*: 
+	Strike a light! You went an' found me!
+*: 
+	But that don't mean you're gettin' the treasure
+	I nabbed!
+*: 
+	Huh! I'll get you for this one o' these days!
+*: 
+	I was soakin' in the bath and, when I got out, I realised my clothes was missin'!
+*: 
+	Maybe someone stole them! Yuck!
+*: 
+	Well, well, well! It's bin a while since we've seen you 'round here.
+*: 
+	What's bin keepin' you so busy that you couldn't even pop by and say hello, eh?
+*: 
+	When I think of the two of you out there on your travels in amongst all that danger, I'm beside myself with worry, I am!
+*: 
+	Well, well, well! It's bin a while since we've seen you 'round here.
+*: 
+	Bianca's bin ever so worried about you, %a000090. You should pop in on her more often, you know.
+*: 
+	Sorry, mate.
+	Pub en't open durin' the day.
+~ ⓗSee ya, everyone! I'm off to join that religion and go to that White King's Paradise place!ⓘ ~
+*: 
+	You as well, eh? I don't blame you.
+	The baths here turn up some real beauties.
+*: 
+	I'm talking about bath crystals, of course!
+	The famous Stockenbarrel scintillating sinter!
+*: 
+	I'm afraid no good things in life come for free, though. What I'd really like is a desert rose.
+*: 
+	You sometimes come across them in the desert. If you could find me one, I'd be more than happy to give you some sinter in exchange.
+*: 
+	Wait a minute! Don't go telling any of the villagers about this, okay? This is just between you and me.
+*: 
+	You as well, eh? I don't blame you.
+	The baths here turn up some real beauties.
+*: 
+	I'm talking about bath crystals, of course!
+	The famous Stockenbarrel scintillating sinter!
+*: 
+	Uh oh! You live here, don't you, love?
+*: 
+	N-Never mind all that I was saying.
+	It was nothing. Ha ha!
+*: 
+	Hey! That's a desert rose you've got there. Wow! I've been after one of those for ages!
+*: 
+	I don't suppose I could have yours?
+*: 
+	Blimey! Thanks a lot, mate! Here, I'll give you some of the world-renowned scintillating sinter in return.
+~ %0%a000120 receives some scintillating sinter! ~
+~ %0%a000180 acquires some ~
+~ scintillating sinter! ~
+*: 
+	Yep, there's nothing prettier than a desert rose.
+*: 
+	It's all the better now because it gives you a taste of the outside world, holding somethin' so exotic.
+*: 
+	Well, that's a disappointment. I was planning on giving you some scintillating sinter in return, as well...
+*: 
+	Yep, there's nothing prettier than a desert rose.
+*: 
+	By the way, have you ever heard of a loyalty card? It can make all the difference to your shopping experience, apparently.
+*: 
+	Rumour has it that you can win it as a special prize at the tombola.
+*: 
+	En't you that ole friend of Bianca's?
+*: 
+	Dun't you go puttin' her into any danger, d'you hear? Else you'll have me to answer to.
+*: 
+	Blimey! Bianca! Where in the world have you bin!? We en't seen you here in donkey's years!
+Bianca
+	I know. Sorry. Things have bin really busy and it was hard to find the time to come back and visit.
+*: 
+	Fair 'nough. Just make sure you come and see that old dad of yours once in a while, eh?
+*: 
+	That daft young lad at the inn just can't seem to get to grips with his work. Old Whitey's at the end of his tether.
+*: 
+	En't you that ole friend of Bianca's?
+*: 
+	So you got wed to that town girl, did ya?
+*: 
+	I know it's a bit late, but I want you to have this as a little pressie. It en't much, mind.
+~ %0%a000120 receives a seed of magic! ~
+~ %0%a000180 acquires a seed of magic! ~
+*: 
+	You look after that bride of yours, eh?
+	Here's to the happy ever after!
+*: 
+	That daft young lad at the inn just can't seem to get to grips with his work. Old Whitey's at the end of his tether.
+*: 
+	Oh, it's such hard work learnin' how to run an inn.
+*: 
+	Of all the luck, bein' born son of an innkeeper!
+Whitey
+	Zzzz... Zzzz...
+Whitey
+	Oops! I nodded off again. That'll never do!
+Whitey
+	Hm? Oh! Heavens above! It's you, %a000090!
+Whitey
+	Where in the world have you bin all these years,
+	me old friend?
+Whitey
+	Good grief! You were turned into stone!? Well, of all the things!
+Whitey
+	Talk about bad luck, eh?
+Whitey
+	There's no need to discuss Bianca.
+Whitey
+	I know you'll rescue her. I trust you, see, %a000090.
+Whitey
+	By the way, are these kiddies by any chance...?
+Whitey
+	I knew it! So they're yours and Bianca's, eh?
+Whitey
+	Yeah, I can see it actually. They look just like the two of you when you were little. And a bit like me, oddly enough!
+Whitey
+	It sounds like things have bin far from easy up to now, but they're growin' up wonderfully!
+Whitey
+	You know, it must be eight years now since you and Bianca disappeared, %a000090.
+Whitey
+	That makes me feel ever so old! Ha ha!
+Whitey
+	I dun't imagine there's much an old man like me can do.
+Whitey
+	But if there is anythin' at all that you can think of, you just let me know.
+Whitey
+	I'll be prayin' that you're all safe. And my dear wife in heaven will be too, of course.
+Whitey
+	Come on now, %a000090! You can't pull the wool over my eyes!
+Whitey
+	Those kiddies are yours and Bianca's, en't they?
+*: 
+	Oh, it's such hard work learnin' how to run an inn.
+*: 
+	Of all the luck, bein' born son of an innkeeper!
+*: 
+	At least I get to see Bianca, mind you!
+	Huh huh huh!
+Whitey
+	Zzzz... Zzzz...
+Whitey
+	Oops! I nodded off again. That'll never do!
+Whitey
+	Hm? Oh! Heavens above! It's you, %a000090!
+Whitey
+	We haven't seen hide nor hair of you for years! Bianca's bin ever so worried, you know.
+Whitey
+	There's bin all sorts of odd rumours
+	flyin' about just lately too.
+Whitey
+	Hey! Who are them kiddies with you?
+Whitey
+	Crikey! Yours, are they!? Now there's a turn-up!
+Whitey
+	They do look an awful lot like you, come to think of it.
+Whitey
+	Well, well, well. So now you're a father, %a000090. That makes me feel ever so old!
+Bianca
+	%0%a000090! Thank the Goddess you're safe!
+Bianca
+	I was wonderin' what'd become of you after all those years of you not showin' your face.
+Bianca
+	You've had a bit of a tough time of it, eh? You really have grown so big and strong, though.
+Bianca
+	You were no use to man or beast that time we went off ghost-bustin' together all them years ago!
+Bianca
+	I'm sure you have what it takes now to make Pankraz's dream a reality.
+*: 
+	Meow.
+*: 
+	(splish splash)
+*: 
+	Aaah! You can't beat havin' the baths pretty much to yourself.
+*: 
+	Strike a light! You went an' found me!
+*: 
+	But that don't mean you're gettin' the treasure
+	I nabbed!
+*: 
+	Huh! I'll get you for this one o' these days!
+*: 
+	Stop right there! If you've come to give me the hard sell, you're wastin' your time!
+*: 
+	Oh! You're not one of them, eh? I thought you were another o' those Order of Zugzwang folk come to drum up support.
+*: 
+	Goo! Goo!
+*: 
+	Well, well, well! It's bin a while since we've seen you 'round here.
+*: 
+	What's bin keepin' you so busy that you couldn't even pop by and say hello, eh?
+*: 
+	When I think of the two of you out there on your travels in amongst all that danger, I'm beside myself with worry, I am!
+*: 
+	Well, well, well! It's bin a while since we've seen you 'round here.
+*: 
+	Bianca's bin ever so worried about you, %a000090. You should pop in on her more often, you know.
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Uuurgh, my 'ead! Hic!
+*: 
+	Zzzz... Oh, Bianca... Zzzz...
+*: 
+	That guy's so lovely.
+*: 
+	It sounds like he fancies some girl called Bianca, but I can soon make him forget about her!
+*: 
+	I was in the water so long today that my hands have gone all shrivelled-up and pruny!
+*: 
+	Hic! She's a scary old woman, that wife o' mine.
+	A man's gotta drink if he wants the courage to face that one!
+*: 
+	Oh dear. That fella from the armour shop is on a roll again tonight. That wife of his'll be livid.
+*: 
+	Purrr...purrr...purrr...
+*: 
+	This is Lodestar Harbour.
+*: 
+	Hey, mate! You 'eard of the famous thief,
+	M. Bezzler?
+*: 
+	He plundered stuff from all over the world after nickin' the ultimate key, but he can't do no more damage now.
+*: 
+	Seems he came to a sticky end by bein' gobbled up by a monster the size of a mountain!
+*: 
+	I wonder who managed to lock a monster that big up in the first place!
+*: 
+	I s'pose it just goes to show that even the best of the best can meet 'is match, though, eh?
+*: 
+	My son was always a fine sailor.
+*: 
+	But then his boat was attacked by monsters.
+*: 
+	It's very painful for me to think about what happened to him.
+*: 
+	But I'm old now. My one consolation is that it won't be long before I meet with my son again.
+*: 
+	Hey! Have you heard?
+*: 
+	So the rumours are true!
+*: 
+	Seems that they're building a huge temple at the very top of Mt Azimuth.
+*: 
+	People are saying that the Grandmaster of Nadiria is trying to destroy our world.
+*: 
+	We need a plan! Then we can attack him first and put a stop to all this, rather than just sitting back and waiting for it to happen!
+*: 
+	According to ancient manuscripts, there's a giant dragon god that reigns over our world.
+*: 
+	If that were true, though, why would he allow the monsters to run riot like they are?
+*: 
+	I used to want to be a pharmacist, y'know.
+*: 
+	But then the bloke who was teachin' me all about medicine went and popped his clogs.
+*: 
+	That all feels like a lifetime ago now.
+*: 
+	I always dreamt of bein' a sailor, even when I was a young lad.
+*: 
+	There are too many monsters about for us to sail too far afield at the moment.
+*: 
+	But one of these days, I'm goin' to sail around the whole world huntin' out treasure!
+*: 
+	Travellin' about by boat, are you?
+*: 
+	No? You're flyin' around on a magic carpet!?
+*: 
+	Don't make me laugh! I'm not fooled that easy, you know! People can't fly!
+*: 
+	Aaah. Monsters can be quite cute when they're tame like that.
+*: 
+	What!? Travelling with monsters!? You shouldn't tease a man when he's sloshed, you know. Hic!
+*: 
+	Greetings! Welcome to the best pub in Lodestar Harbour...the only pub in Lodestar Harbour,
+	in fact.
+*: 
+	Well, well. Been a customer of ours in the past, have you?
+*: 
+	I only started work here recently, so you probably know the ropes here better than I do!
+*: 
+	My husband and I are travelling the world in search of the legendary hero.
+*: 
+	But countless years have passed now, and we still don't seem any closer.
+*: 
+	This is our second time here in Lodestar.
+	The last time we were here was probably nigh
+	on a decade ago now.
+*: 
+	Zzzz... The Grandmaster of the Underworld is attempting to take over our world...
+*: 
+	I must find the legendary hero and inform him immediately... Zzzz...
+Lyn Gerie
+	I am sorry, but if you are wanting ze autograph, I cannot give it. I say non to everybody.
+Lyn Gerie
+	Dancing on ze stage every night is more zan enough to keep me busy.
+Lyn Gerie
+	But I always give a performance zat is la crème de la crème!
+Lyn Gerie
+	Tonight will be another dance extraordinaire, so I 'ope you will come and watch, cherie.
+*: 
+	Our performances are only at night, cherie.
+*: 
+	Come back zen if vous voulez un show you'll never forget.
+*: 
+	Alors! I just cannot seem to get ze make-up right at all today.
+*: 
+	Maybe I 'ave 'ad too much of ze old joie de vivre. 'Ic!
+*: 
+	Step right up! Get your souvenirs here! One of these famous Lodestar ships in a bottle could be yours!
+*: 
+	Look at the superb construction! See the fine finish! And all for just one thousand gold coins! What d'you say?
+*: 
+	That's right! You'd be crazy to pass up this unbelievable offer. I'll just pop it in your bag for you.
+*: 
+	Oh dear! You haven't got enough cash.
+	I can't discount something of this quality, you understand, %A0110%Xsir%Z%B0110%Xmadam%Z.
+*: 
+	Shame. But maybe next time, eh?
+*: 
+	Aargh! I dropped my ship in a bottle!
+*: 
+	I'm travelling around in search of a legendary key that's said to open almost any door in the world!
+*: 
+	Folk say the grand thief, M. Bezzler,
+	had his hands on it once, but that was
+	a long time ago now.
+Ogar
+	Have you had a look through the telescope? You'll have probably seen the big mountain to the south-east if you did.
+Ogar
+	That'd be Mt Azimuth. Totally impossible for mere humans to climb.
+Ogar
+	People are saying that the Dragon God has disappeared of late.
+Ogar
+	And that some folk are trying to take advantage of that by getting up to no good now there's no one there to stop them.
+*: 
+	Meow.
+~ It's a telescope. ~
+~ Look through it? ~
+*: 
+	Huh! Stupid curtains stopping me from seeing properly! Oh, my dear beautiful Lyn Gerie...
+*: 
+	Hic! This 'ere's Lodestar 'Arbour.
+*: 
+	The monsters out in the ocean are stronger than ever nowadays. You really take your life in your hands if you take to the waves.
+*: 
+	(sob) Give my son back! Zzzz...
+*: 
+	From time to time, a flickering flame rises up from the dark depths of the ocean.
+*: 
+	That flame is a sad reminder of the many
+	lives lost at sea when boats have been attacked
+	by monsters.
+*: 
+	Oh dear. The thought of it makes me too choked up to even think about my poetry.
+*: 
+	I'm only just back from a long trip out to sea.
+*: 
+	But seein' my wife's happy face as she's sleepin' is enough to make me forget my exhaustion. Ah, it's good to be back!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	I'm so worried. My boy's become a sailor, and it's such a dangerous occupation nowadays.
+*: 
+	He's saying he wants to go off around the world hunting out treasure.
+*: 
+	I just wish he'd realise life itself is the greatest treasure he'll ever have.
+*: 
+	Gurgh-phew, gurgh-phew...
+*: 
+	Yay! A treasure map!
+	Zzzz...
+*: 
+	I've been workin' here for fifteen years now, y'know.
+*: 
+	I ain't like other folk, choppin' and changin' all the while. This is my career!
+*: 
+	No matter how bad things get, you can
+	always relax with a nice little tipple
+	and a good dance show.
+*: 
+	That's the great thing about being a man, I suppose. Ha ha ha!
+*: 
+	See that dancing girl there?
+	I'm her biggest fan, me!
+*: 
+	Come on, Lyn Gerie!
+	Swing over my way!
+*: 
+	See that girl in the middle? She's the latest big hit. Goes by the name of Lyn Gerie.
+*: 
+	She's the best, as far as I'm concerned.
+	Whenever she changes towns, I follow her!
+*: 
+	Yep... I reckon this must be the eighth time I've been back here in Lodestar!
+*: 
+	Travellin' about by boat, are you?
+*: 
+	No? You're flyin' around on a magic carpet!?
+*: 
+	Don't make me laugh! I'm not fooled that easy, you know! People can't fly!
+*: 
+	You may not believe this, but I once met the legendary hero, you know. In the flesh and everything!
+*: 
+	It was a long time ago now, but I can still remember his name.
+*: 
+	Let's see... It was Pancreas! ...No, that's not right. Um...Pancakes! Hmph. That's not it either.
+*: 
+	Never mind, anyway! I met him and that's all that matters. And he's going to save the world, so none of us need worry!
+*: 
+	Greetings! Welcome to the best pub in Lodestar Harbour...the only pub in Lodestar Harbour,
+	in fact.
+*: 
+	Well, well. Been a customer of ours in the past, have you?
+*: 
+	I only started work here recently, so you probably know the ropes here better than I do!
+*: 
+	You are travelling around wiz your children 'unting for your missing wife? You poor things.
+*: 
+	But you must not lose 'eart. She will be waiting for you to rescue 'er, I am sure!
+*: 
+	You are travelling around wiz your children 'unting for your missing mother? You poor things.
+*: 
+	But you must not lose 'eart. She will be waiting for you to rescue 'er, I am sure!
+*: 
+	%H0860%XA traveller%YTravellers%Z, are you? I was on the move myself until recently. Heading for that White King's Paradise everyone's talking about.
+*: 
+	But these ships in bottles I was making for fun were selling like hot cakes, so I thought to myself, ⓗHow much better can it get!?ⓘ
+*: 
+	Ah, you never know in this life, do you, eh?
+*: 
+	Zzzz... The Grandmaster of the Underworld is attempting to take over our world...
+*: 
+	I must find the legendary hero and inform him immediately... Zzzz...
+*: 
+	Ah-phew...
+*: 
+	Ha ha! You've spotted it too, have you?
+*: 
+	Pretty good, eh? If you use your head, you can find the best seat in the house!
+*: 
+	The secret of this little spot has been passed down the generations, so to speak. I'm the sixth bloke here!
+*: 
+	No doubt you're hopin' to sneak a peek
+	as well, right?
+*: 
+	I wish I could help you, mate, but there are already ten people in the queue before you!
+*: 
+	You'll have to just try and find a good spot of your own, eh? Heh heh heh.
+*: 
+	Oh yeah? No need to put up a front with me, mate. Heh heh heh.
+*: 
+	That girl who was here all them years ago, Cleo... She weren't a bad sort.
+*: 
+	Lyn Gerie's somethin' different again. You can't beat a bit of variety, I say!
+*: 
+	Now here's a puzzle. What's a bloke
+	supposed to do to keep himself amused
+	'til the next Lyn Gerie show tomorrow, eh?
+Lyn Gerie
+	Hm? Cleo, you say? Ah, oui. She was ze dancing girl 'ere many years ago.
+Lyn Gerie
+	You were a fan of hers, non?
+Lyn Gerie
+	Je suis désolé, but now I am ze big star
+	around 'ere.
+Lyn Gerie
+	Not zat I will be 'ere forever, of course. Things change in zis world so fast nowadays, non?
+*: 
+	Zat was ze best performance yet!
+*: 
+	It will not be long before I am big superstar, n'est-ce pas?
+*: 
+	Aaaaah!
+Ogar
+	Ah-phew...
+*: 
+	Purrr...purrr...purrr...
+*: 
+	Ah-phew...
+	Oh, Lyn Gerie...
+	Zzzz...
+*: 
+	By that there Goddess, the fields are a proper mess again!
+*: 
+	If 'e goes on like this much longer, we'll be dyin' of starvination an' 'unger.
+*: 
+	This 'ere is 'Ay. You fancy folk'd prob'ly call it Hay.
+*: 
+	Only what with that bissly wolf monster scat'n the fields abroad, we en't got much 'ay to gather.
+*: 
+	My 'ole life I's lived 'ere, but I'm thinkin' we'll 'ave to 'ead off into them there 'ills afore long.
+*: 
+	Granny's bin actin' all funny lately.
+*: 
+	She only eats one little dollop of 'er food an' then gives the rest to me. Says she's full, she does.
+*: 
+	I 'ope she en't sick.
+*: 
+	Arf! Arf arf!
+*: 
+	I bin workin' like billy-o me 'ole life, but things en't gettin' any easier.
+*: 
+	Why was I born in this 'ere dump, eh? The Goddess en't wastin' any of 'Er smiles on me, that's for sure.
+*: 
+	Neeeigh!
+*: 
+	Neeeigh!
+*: 
+	I dunno 'ow much you bin offered for gettin' rid of our monster.
+*: 
+	But you can't do nort with the gold if you get yourself killed.
+*: 
+	Mind you, I dun't s'pose you'd go that far now, would you? You en't from 'round these parts, so what's 'e to you, eh?
+*: 
+	Well, I'll be! A customer!
+*: 
+	What d'you want? Pa's over Bailiff Bails's place, if that's who you're after.
+*: 
+	You know, the place with them 'orses outside.
+*: 
+	I can 'ardly muster the energisms to do anythin' these daisies. I'm so 'ungry!
+*: 
+	I put up that terrorcrow in me field to scare off that wicked devil-monster, but 'e en't bin much good.
+*: 
+	An' we're famous for our terrorcrows 'ere in 'Ay, y'know.
+~ %0%a000120 examines the scarecrow. ~
+~ %A0110%XHe%Z%B0110%XShe%Z's never seen anything like it before in %A0110%Xhis%Z%B0110%Xher%Z life! ~
+Bailiff Bails
+	So your idea's to pick up someone what'll 'elp us at the pub in Lodestar 'Arbour. That's the plan, is it?
+*: 
+	That's it, Bailiff. Them gets some proper feisty scrappers in that there pub.
+*: 
+	No! I dun't like the idea.
+*: 
+	We can't go askin' any ole bay we comes across for assistancin' in village matters.
+*: 
+	They'll just take the reward an' run.
+*: 
+	I can't be wastin' any more time on this codswallop. I've things to do.
+*: 
+	An' who the blazes are you?
+*: 
+	Out me way!
+*: 
+	You young'uns is all the same. 'Ot'eaded 'n' reckyless.
+*: 
+	Perishin' pitchforks! You'm the one what offered to 'elp us out afore, en't you, my lover?
+*: 
+	Aye, I's right as two lefts. It is you!
+	Hails bails, I's 'appy as 'aystacks to be seein' you.
+*: 
+	There's one thousand five 'undred gold coins up for grabs if you be kerumpin' that wicked monster, you know.
+*: 
+	I best let Bailiff Bails do the explicatin'. 'E knows the ins an' the outs of it.
+Bailiff Bails
+	You must be the bay 'as bin asked to 'elp us. From the pub, wun't it?
+Bailiff Bails
+	I'm most oblimigated that you's come down 'ere to 'Ay. Thank 'e kindly.
+Bailiff Bails
+	We's all prayin' to the Goddess that you can 'elp.
+Bailiff Bails
+	So, then. 'Bout this monster what's bin causin' all the palaver...
+Bailiff Bails
+	ⓙE looks as part wolf an' part lion.
+	An' 'e's blimmin' scary is what 'e is.
+Bailiff Bails
+	We dunno where 'e lives or nort, I'm afeared.
+Bailiff Bails
+	All I can tell you is that 'e comes from west. We's all seen 'im, the bissly beggar!
+Bailiff Bails
+	So what we's askin' you to do is to go off west an' find 'e's lair an' give 'im a good larrupin' so's 'e wun't come back again!
+*: 
+	'Cordin' to what I've 'eard, there's even more scary monsters in other parts.
+*: 
+	At least our beast en't 'urt no people 'ere yet.
+~ It's locked from the inside. ~
+~ Maybe it's because of the late hour. ~
+*: 
+	Neeeigh!
+*: 
+	Wehee...
+*: 
+	Well, I'll be! A customer!
+*: 
+	Th-That there's that there monster!
+*: 
+	Dun't kill me! I dun't wanna die!
+*: 
+	Dun't kill me! I dun't wanna die!
+*: 
+	Tell it to keep away! I knows you's friends with it. I's seen you walkin' about with it. Keep it away from me!
+*: 
+	This 'ere is 'Ay. You fancy folk'd prob'ly call it Hay.
+*: 
+	By the Goddess!
+	You made friends with 'e, did you?
+*: 
+	You'll frighten the wotsits off everyone.
+*: 
+	Haaah! Is that monster your pet, is it?
+*: 
+	So, is you a monster tamerer, then?
+*: 
+	Wow! That's 'mazin'!
+*: 
+	Butⓚⓛ Oh, that en't fair!
+*: 
+	I know what you is.
+	You's a monster tamerer.
+*: 
+	Arf! Arf arf!
+*: 
+	Th-That there's that there monster!
+*: 
+	Dun't kill me! I dun't wanna die!
+*: 
+	S-Stay away from us!
+	Stay away from 'Ay! Please!
+*: 
+	Ha ha ha ha! Well I'll be begger'd!
+	You's a cunnin' little blimmer, en't you?
+*: 
+	You bin cahootin' with that there monster
+	all along.
+*: 
+	I knew it, I did! You're a right clever Dicky, eh? You fooled ole Bails good 'n' proper.
+*: 
+	Pick up the rest o' your reward money an' then you best clear off an' never come back!
+*: 
+	Neeeigh!
+*: 
+	Neeeigh!
+*: 
+	Well, I'll be! A customer!
+*: 
+	Dear Goddess, you 'alf frightened me to death!
+	Is you an' that there liony beast friends 
+	or summin'?
+*: 
+	People's bin watchin' you an' 'e walkin' about the place together, y'know. The Bailiff knows all about 'e.
+*: 
+	Uh-oh!
+	St-Stay away, you 'ear!?
+*: 
+	'Ow's 'at? That there terrorcrow?
+	T-Take 'e if you want. I dun't care.
+*: 
+	Take whatever you want!
+	Just get that monster out of 'ere!
+~ %0%a000120 examines the scarecrow. ~
+~ %A0110%XHe%Z%B0110%XShe%Z's never seen anything like it before in %A0110%Xhis%Z%B0110%Xher%Z life! ~
+~ Pull it out of the ground? ~
+~ %0%a000120 uproots the scarecrow from the ground. ~
+~ %0%a000180 acquires a Hay terrorcrow! ~
+*: 
+	I know what you done.
+*: 
+	You 'ad 'e planned from the start. You an' that monster's workin' together.
+*: 
+	I musta bin 'alf loopy ever trustin' you.
+Bailiff Bails
+	I dun't wanna 'ear it.
+Bailiff Bails
+	I'll give you your gold, as 'tis what we agreed.
+Bailiff Bails
+	An' we dun't want no more trouble from that monster friend o' yourn.
+~ %0%a000120 receives one thousand five hundred gold coins! ~
+Bailiff Bails
+	So that's the end of it.
+	Now get gone!
+*: 
+	Aaargh!
+	I en't done nort! Leave us be!
+%0%a001210
+	Grrr...
+*: 
+	Aaargh!
+*: 
+	You gone and made yourself none too pop'lar 'round 'ere, en't you?
+*: 
+	But I know them's got 'e all wrong. You'm not that kind of bay, are you, me 'andsome?
+*: 
+	'Tis thanks to you we can all get back to work in the fields.
+*: 
+	So I'll tell 'e, even if no one else will...
+*: 
+	Thank 'e, my lover.
+	'Ay is forever in your debtitude.
+*: 
+	Saintly silos, we en't 'ad a visitor in these parts for goodness knows 'ow long!
+*: 
+	We's bin 'aving a bumper 'arvest of late,
+	thank 'eavens.
+*: 
+	Arf! Arf arf!
+*: 
+	Ooh-ar, what's this then? What's city inhabitabents like you doin' in a country
+	village like this?
+*: 
+	Neeeigh!
+*: 
+	Neeeigh!
+*: 
+	What be you doin' all the way out 'ere in the country? Come to plough, 'ave you?
+*: 
+	You 'ave? Then let's get crackin'!
+*: 
+	No! What am I talkin' about? Ha ha ha! City folk, farmin'!? What a load of old codswallop!
+*: 
+	Ha ha ha! I din't think as you 'ad.
+	City folk en't much use farmin'.
+*: 
+	Well, I'll be! A customer!
+*: 
+	I came here after I got married because my husband's from Hay. I'm from Zoomingale originally.
+*: 
+	He's a lovely man of course, but there's no time to relax, and my hands are all blistered, and I'm thoroughly, thoroughly fed up!
+*: 
+	We's always 'appy to welcome folk what en't from 'round these parts in these parts.
+*: 
+	I 'ad that whoppin' great terrorcrow in the fields to warden off monsters afore.
+*: 
+	But there en't no danger from monsters these daisies, so I be none too sure what an' I'm gonna
+	be doin' with 'e.
+*: 
+	I's just left 'e there 'til now. Only trouble is, 'e's bin scarin' the sackin' off me as well!
+*: 
+	Seems a shame to throw 'e out, what with 'e bein' a famous 'andicraft of 'Ay an' all.
+*: 
+	Say again? You'm wantin' a terrorcrow, is you?
+	Well there en't nothin' as queer as folk, eh?
+*: 
+	Well, I dun't see why not.
+	I en't gonna use 'e no more.
+*: 
+	Take 'e if you want 'e.
+	'Tis no skin off my 'ooter.
+~ %0%a000120 examines the scarecrow. ~
+~ %A0110%XHe%Z%B0110%XShe%Z's never seen anything like it before in %A0110%Xhis%Z%B0110%Xher%Z life! ~
+~ %0%a000120 examines the scarecrow. ~
+~ %A0110%XHe%Z%B0110%XShe%Z's never seen anything like it before in %A0110%Xhis%Z%B0110%Xher%Z life! ~
+~ Pull it out of the ground? ~
+~ %0%a000120 uproots the scarecrow from the ground. ~
+~ %0%a000180 acquires a Hay terrorcrow! ~
+*: 
+	Ooh-ar! Trav'llers is always welcome 'ere in
+	the village.
+*: 
+	'Twas a trav'ller as saved us all in the
+	first place from that wicked monster we
+	was 'avin' troublesomes with.
+Bailiff Bails
+	I dun't know what I'm tellin' you this for, but I's gonna tell you anyways...
+Bailiff Bails
+	We 'ad this bissly monster causin' all sorts of
+	trouble 'ere afore, an' 'e was a trav'ller what
+	seen the beast off, see.
+Bailiff Bails
+	Thing is, I wun't trustin' 'im, an' I pretty much ostrichsised 'im from the village.
+	Told 'im never to come back, we did.
+Bailiff Bails
+	I know 'e's too late to do nothin' now, but I feel like a right misery guts, I do.
+*: 
+	Now I's thinkin' back on 'e, that monster we 'ad scat'n the fields abroad a while back din't never attack none of us villagers, did 'e?
+*: 
+	Maybe 'e wun't such a wicked beast after all...
+~ It's locked from the inside. ~
+~ Maybe it's because of the late hour. ~
+*: 
+	Neeeigh!
+*: 
+	Wehee...
+*: 
+	Ah! Y-You're...%a001230's husband!
+*: 
+	And here's the young lady herself!
+*: 
+	Phew! I've been looking for you for years and years, you know. Oh, ten in all, I should think.
+*: 
+	Mr Briscoletti told me to wait at Lodestar Harbour, but I got thoroughly lost.
+*: 
+	What a stroke of luck bumping into you like this here. And I never did make it to the harbour!
+*: 
+	So anyway, I'm supposed to give you this chest.
+*: 
+	Now...I can get back home at last!
+*: 
+	Ah! It is you, isn't it? Ms %a001230?
+*: 
+	Phew! I've been looking for you for years and years, you know. Oh, ten in all, I should think.
+*: 
+	Mr Briscoletti told me to wait at Lodestar Harbour, but I got thoroughly lost.
+*: 
+	What a stroke of luck bumping into you like this here. And I never did make it to the harbour!
+*: 
+	So anyway, I'm supposed to give you this chest.
+*: 
+	Now...I can get back home at last!
+*: 
+	Ah! Y-You're friends of Ms %a001230 and %a000090, aren't you?
+*: 
+	Phew! I've been looking for you for years and years, you know. Oh, ten in all, I should think.
+*: 
+	Mr Briscoletti told me to wait at Lodestar Harbour, but I got thoroughly lost.
+*: 
+	What a stroke of luck bumping into you like this here. And I never did make it to the harbour!
+*: 
+	So anyway, I'm supposed to give you this chest.
+*: 
+	Now...I can get back home at last!
+*: 
+	Well, I'll be! A customer!
+~ %0%a000120 places %a020100 in the bag. ~

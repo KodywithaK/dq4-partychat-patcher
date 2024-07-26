@@ -1,0 +1,429 @@
+Bianca
+	You choosin' me and this weddin' goin' ahead already... I dunno, it all feels so sudden.
+Bianca
+	But that dun't mean I en't happy about it.
+	I've always bin a big fan of yours, %a000090.
+Bianca
+	This is the first time I've ever tried on any make-up. Do I look alright in it?
+Bianca
+	Thanks, %a000090. It feels a bit funny to me, that's all.
+Bianca
+	Ha ha! Yeah, I know. It dun't suit me, eh? I s'pose I'll just have to put up with it until the ceremony's over.
+Bianca
+	I'm still a bit bowled over, to be honest.
+	I was sure you'd pick Nera, y'see.
+Bianca
+	Ha ha! This feels a bit awkward, dun't it? We've got time to get used to it, though. We'll be together all the time from now on.
+Bianca
+	It's a lovely day today, dun't you think? Bein' here where we got wed makes me feel all...happy inside!
+Bianca
+	It really was a wonderful weddin'.
+	I'll never forget it as long as I live.
+Bianca
+	Ha ha! Children are so sweet, don't you think?
+	I want one!
+Bianca
+	I s'pose Nera's right back to square one in lookin' for someone to marry now.
+Bianca
+	I hope she manages to find a perfect man just
+	like I have.
+Bianca
+	Urgh! How disgustin'! I feel sorry for people havin' to serve the likes of him!
+Bianca
+	I s'pose it's pretty obvious, but I think marriage is amazin'. I've never bin happier.
+Bianca
+	I feel all embarrassed when folk say
+	things like that!
+Bianca
+	That's good news. Nera will be relieved.
+Bianca
+	I hope we get to stay together until
+	we're their age.
+Bianca
+	Crispin seems to have made a sudden recovery.
+Bianca
+	If he feels that strongly, then I reckon it's just a matter of time before he and Nera tie the knot.
+Bianca
+	I think it's because we grew up apart that we go so well together now. I want to do everythin' I can to support you, %a000090.
+Bianca
+	When I close my eyes here, I can imagine exactly how everythin' was durin' our weddin'.
+Bianca
+	D'you think I'll ever end up talkin' to you like that, %a000090?
+Bianca
+	Ha ha! I s'pose it's a good thing that you're prepared and expectin' it then!
+Bianca
+	Yeah. Hopefully you'll just do as you're told without me needin' to nag, eh! Ha ha!
+Bianca
+	I dun't mind makin' dinner for you, %a000090. Every now and then, anyway!
+Bianca
+	This maid's uniform is so pretty, dun't you think? Maybe old Mr Briscoletti had her wear it so he'd have somethin' nice to look at!
+Bianca
+	Looks like Harry and Maria have gone back already. That's a shame. I was hopin' to have a nice chat with the both of 'em.
+Bianca
+	Briscoletti's really generous, eh? I hope he dun't think we're takin' advantage of him.
+Bianca
+	So this is the Zenithian Shield? I can't
+	explain why, but I feel almost like I've
+	seen it somewhere before.
+Bianca
+	Ooh! What d'ya reckon, %a000090? The Ventuno sounds like fun, and I wouldn't mind travellin' around our old haunts a bit.
+Bianca
+	It's up to you, though. You can decide where we go. I'll be happy as long as I'm with you.
+Bianca
+	Yeah, I'm sure Nera will have no trouble findin' herself a nice bloke.
+Bianca
+	Um, %a000090... Do you ever regret not choosin' Nera over me?
+Bianca
+	Oi! Watch it! Else I'll really give you somethin' to regret! Ha ha!
+Bianca
+	That's good. I'll make sure you never regret it as long as you live.
+Bianca
+	When we have kids, it'd be fun for us all to go travellin' together as a family. ...Sorry! Am I gettin' ahead of myself a bit?
+Bianca
+	Let's always stay together, eh, %a000090?
+Bianca
+	I feel all embarrassed when folk say
+	things like that!
+Bianca
+	I s'pose it's pretty obvious, but I think marriage is amazin'. I've never bin happier.
+Bianca
+	Yuck, yuck, yuck!
+Bianca
+	I hate havin' things like that said about me, especially by a drunk!
+Bianca
+	He wants a wife? Sounds like he'd be happy with anyone as long as she was a woman!
+Bianca
+	A lot of folk are sayin' things like that
+	lately, eh? We'd better hurry up with this
+	hunt for the hero.
+Bianca
+	That Crispin's certainly a determined one!
+	It's good that he's makin' such an effort.
+Bianca
+	Her poor husband! I'll have to make sure I don't end up an old shrew like she is.
+Bianca
+	I hope Nera's happy too.
+Bianca
+	I can understand why you want to stop by here, %a000090.
+Bianca
+	I wonder what this place is. It dun't look like anyone lives here.
+Bianca
+	Maybe we'd be able to figure it out if we could get inside somehow.
+Bianca
+	You dun't think that Debora's a bit angry because you chose me, do you, %a000090?
+Nera
+	I hope you don't think I'm some kind of spoilt little rich girl just because I'm a bit quiet.
+Nera
+	I was just mulling over this strange feeling I have.
+	A kind of conviction that I could be of great use to you on your travels.
+Nera
+	I know that Papa will be totally against the idea of me joining you on your journey.
+Nera
+	But I won't allow him to talk me out of it.
+	Come on, let's go and tell him the news.
+Nera
+	I'm sorry that the wedding ceremony was so rushed.
+Nera
+	It was wrong of Papa not to take your feelings more into account with all of his grand plans.
+Nera
+	This place was built so that we would have space to house guests when they come to visit.
+Nera
+	Although, Mama sometimes uses it as a way of escaping from Papa when they have a tiff! He he!
+Nera
+	I know that Papa seems really stubborn, but I'm sure I'll be able to persuade him.
+Nera
+	We hardly had much chance to get to know each other before we were wed. But I know we'll make up for that from now on.
+Nera
+	I would never have forgiven Papa if anything bad happened to you.
+Nera
+	What a shame for that boy, losing his mother at his young age.
+Nera
+	No one could fail to feel sorry for the poor thing.
+Nera
+	I was so against Papa's idea of me marrying the man who returned the rings to him as he requested.
+Nera
+	But now I realise he was doing it so that I'd end up marrying the best possible person. He was just trying to make me happy.
+Nera
+	Oh dear! Drinking to that extent doesn't seem like a very good idea.
+Nera
+	What a waste when drink is so magnifico!
+	...That's what Papa always says, anyway.
+Nera
+	I hope she manages to find her
+	perfect match before long too.
+Nera
+	How lucky we are, being given all these
+	good wishes from the townsfolk!
+Nera
+	I feel a little bit guilty when I see Crispin's parents.
+Nera
+	I think they were probably hoping that he and I would be married.
+Nera
+	I must admit that I was quite surprised too. Crispin's such a gentle sort. I don't think I've ever known him say a word in anger.
+Nera
+	I always knew how Crispin felt about me.
+Nera
+	But when we met, it was like some strange power was drawing me towards you.
+Nera
+	He he! Just like with those funny monsters you take around with you!
+Nera
+	Crispin always took care of me when I was small. If anything, I think of him as a sort of elder brother.
+Nera
+	It's just the two of us now, but hopefully we'll be a big happy family one day.
+Nera
+	Stop lazing about and put some tea on,
+	you old waster!?
+Nera
+	...I just can't imagine ever saying that to anyone!
+Nera
+	I'm afraid that cooking isn't really my forte.
+Nera
+	I try my best, but I don't even come close to our cook when it comes to handling a cleaver!
+Nera
+	Bianca's not here any more. She's gone home. I can understand that you'd want to see her, though.
+Nera
+	You never look like you're able to relax when you're in this house, you know!
+Nera
+	I never heard about a jar being located in such an unlikely place.
+Nera
+	But those are the rules Papa has decided on if I'm to travel with you, so it must be important.
+Nera
+	So the Zenithian Shield has been right here all along.
+Nera
+	Maybe that's why... I've sometimes felt a strange power coming from it, you see.
+Nera
+	This means I can travel with you for as long as my heart desires. I'm so happy!
+Nera
+	I'm actually quite surprised that
+	Papa relented so quickly.
+Nera
+	Maybe he had some kind of premonition that I'd set off travelling one day.
+Nera
+	I don't mind where we go. As long as I'm by your side, I'd be perfectly content anywhere.
+Nera
+	I'll give you as many children as you want, %a000090. Whatever will make you happy.
+Nera
+	We should be able to stay in the villa if we
+	want to. Let's make sure we rest whenever
+	and wherever we please.
+Nera
+	Travelling together has taught me the joy of being there for one another, %a000090.
+Nera
+	It's so dangerous everywhere nowadays, both in town and outside. What a terrible thing!
+Nera
+	That child... He's the same as me.
+	...Um, never mind. It doesn't matter.
+Nera
+	He seems to be enjoying a good sleep.
+	I hope he doesn't catch a cold.
+Nera
+	How lucky we are, being given all these
+	good wishes from the townsfolk!
+Nera
+	I hope she finds someone nice.
+Nera
+	Wouldn't it be nice if everyone could find their perfect match?
+Nera
+	Forgetting about a problem for a while doesn't make it go away. You need to work at solving it. Little by little is better than nothing at all.
+Nera
+	Do you like it here? I still feel a bit upset when I'm inside this house.
+Nera
+	I always knew how Crispin felt about me.
+Nera
+	But when we met, it was like some strange power was drawing me towards you.
+Nera
+	He he! Just like with those funny monsters you take around with you!
+Nera
+	Crispin always took care of me when I was small. If anything, I think of him as a sort of elder brother.
+Nera
+	I wonder why he's not sleeping in a bed.
+	Poor man!
+Nera
+	If you don't rub a bit harder, it won't help one little bit, you old waster!?
+Nera
+	...I just can't imagine ever saying that to anyone!
+Nera
+	Maybe it would be nice to stay over here sometimes. We could sleep in my old room.
+Nera
+	I think Papa has a few more grey hairs than before. Maybe I've been making him worry too much.
+Nera
+	It feels strange watching Mama sleeping like this.
+Nera
+	I'll do everything I can to help you find your own mother, I promise.
+Nera
+	We're exactly north-west from the La Guardia lookout tower here.
+Nera
+	Maybe this is what Papa was always looking at from up there.
+Nera
+	Let's hurry up inside and see what colour that jar is then, darling.
+Nera
+	So it was blue. I suppose we'd better get back and tell Papa. I do hope he lets me come travelling with you now.
+Nera
+	I wonder what could be inside that jar, and why it's sealed so tightly shut.
+Nera
+	Papa's never mentioned it before, so I really have no idea what it's all about.
+Nera
+	Oh dear, %a000090! I'm sure she was just joking.
+	You must take it with a pinch of salt.
+Nera
+	I wonder if Debora's angry because you chose to marry me instead of her. I hope not!
+Nera
+	Bingo joined the family so that Debora wouldn't get lonely when I went to stay at the abbey.
+Nera
+	Unfortunately, I don't think she's ever been overly keen on him.
+Nera
+	Bingo joined the family so that Mama wouldn't get lonely when I went to stay at the abbey.
+Nera
+	Unfortunately, I don't think she's ever been overly keen on him.
+Debora
+	Now, you mustn't go getting it into your head that I'm coming along with you because I'd miss you or anything.
+Debora
+	I'm sure that Papa's bound to be against the idea.
+Debora
+	But there's nothing he can say that'll change my mind about going off travelling with you.
+Debora
+	I told you I don't like taking orders, but I suppose you do know a thing or two about fighting monsters.
+Debora
+	So I might let you give me advice on how to behave whenever we find ourselves in a battle. Can't say fairer than that.
+Debora
+	It's really dull here.
+	Not to my taste at all.
+Debora
+	You do a good impression of listening to what people say, but I suspect you don't really pay attention half the time.
+Debora
+	Mostroferrato is quite a big town as towns go.
+	I quite like it, actually.
+Debora
+	Well, obviously! I'm hardly likely to have settled for anything less.
+Debora
+	I'm afraid he's going to have a hard time of it trying to find someone as beautiful as me. We're few and far between.
+Debora
+	Bingo was a gift to me so that I wouldn't be lonely when Nera went to live at the abbey.
+Debora
+	I was never all that lonely, though. And I never really took to him, so Mama ended up looking after him most of the time.
+Debora
+	What's that supposed to mean? It's not like you ever seriously considered marrying Nera, did you?
+Debora
+	What a lout! Come on, %a000090!
+	We're leaving.
+Debora
+	I suppose seeing me with my own personal slave is enough to make any woman want to get married.
+Debora
+	Why are you looking so pleased with yourself?
+Debora
+	The fine young specimen he was referring to was me, not you!
+Debora
+	What an irritating old woman! She says that as if Nera and Crispin are bound to get married, but it's not like anything's been decided.
+Debora
+	Crispin's father really doesn't seem to like me for some reason.
+Debora
+	I just don't understand it. I've always treated his son with the respect he deserves.
+Debora
+	Crispin's totally besotted with me, you know. That's why he spends so much time worrying about Nera. He's using her to get to me.
+Debora
+	All his efforts have come to nothing now I've married you, though.
+Debora
+	I suppose it could work out quite well if Nera did decide to be with Crispin.
+Debora
+	Not that I imagine for one minute that she will.
+Debora
+	What is it with nuns? Everything good always has to have been bestowed on us by the Goddess.
+Debora
+	I won't ever nag at you like that to make the tea. You'll just do it with no arguments.
+Debora
+	Yes, it's definitely important to get things straight from the very beginning.
+Debora
+	You and I have an understanding there, though, so we shouldn't have any trouble.
+Debora
+	So Bianca's gone home already.
+Debora
+	We had a bit of a chat when I was getting ready for our wedding ceremony. She's quite a nice girl actually, isn't she?
+Debora
+	Stupid girl! Fancy thinking we're visitors, especially when I'm right here with you!
+Debora
+	I don't see why Papa can't just go and check on the stupid jar himself.
+Debora
+	But if he's going to insist, then I suppose we'd better just hurry up and get it over with.
+Debora
+	So this is our family shield?
+Debora
+	It's strange, but I feel quite drawn to it.
+Debora
+	Papa's always been a complete worrywart.
+Debora
+	I'm sure that's why he's going so bald.
+Debora
+	Papa's boat...
+	I remember going on it once ages ago.
+	It was quite good fun, actually.
+Debora
+	You can decide where we go.
+Debora
+	We're going to the Ventuno, though, right?
+Debora
+	Charming! I don't take advantage of you, %a000090. I just tell it like it is.
+Debora
+	I'm sure Nera will find herself a man sooner or later.
+Debora
+	Fair enough. But don't go thinking I'll take care of you if you wear yourself out.
+Debora
+	And it's merrier still for you, with such a beautiful travelling companion on your arm!
+Debora
+	Bingo was a gift to me so that I wouldn't be lonely when Nera went to live at the abbey.
+Debora
+	I was never all that lonely, though. And I never really took to him, so Mama ended up looking after him most of the time.
+Debora
+	Absolutely, %a000090. You'd better make sure you look after me properly.
+Debora
+	What a greedy child!
+	He has a father, doesn't he?
+Debora
+	Why do you seem to enjoy talking to people when they're asleep?
+Debora
+	Why are you looking so pleased with yourself?
+Debora
+	The fine young specimen he was referring to was me, not you!
+Debora
+	I suppose seeing me with my own personal slave is enough to make any woman want to get married.
+Debora
+	This might be a bit harsh, but I'd say he doesn't have a hope. Not with a face like that.
+Debora
+	What a weak and foolish man, turning to drink like that to forget his troubles.
+Debora
+	Is there any reason we've come to Crispin's house?
+Debora
+	Ah, I know! You've come to show me off, haven't you?
+Debora
+	I suppose he might suit Nera quite well.
+Debora
+	But he'll have to try at least a hundred times harder before he wins her heart.
+Debora
+	He's certainly got enthusiasm, I'll give him that much.
+Debora
+	I suppose we'll just have to sit back and let things take their course.
+Debora
+	Actually, my shoulders are aching a bit too.
+	You'll rub them for me, won't you, %a000090?
+Debora
+	Time for bed already, is it?
+Debora
+	I suppose we could stay in my room then.
+Debora
+	What's Papa doing asleep here?
+	Why doesn't he just go to bed?
+Debora
+	Watching Mama sleeping like that makes me feel all sleepy too.
+Debora
+	Hey! What do you think you're doing, coming into Nera's room like this!?
+Debora
+	Get out right now!
+Debora
+	I never knew there was a shrine here.
+Debora
+	It looks like it's been here a while too.
+	The place is covered in dust.
+Debora
+	Apart from that blue jar, there doesn't seem to be anything else of interest here.
+Debora
+	Well, we've done what he wanted.
+	Time to get back to Papa.

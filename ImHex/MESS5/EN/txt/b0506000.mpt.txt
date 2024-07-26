@@ -1,0 +1,577 @@
+Bianca
+	Do you think that big boat over there is the Ventuno casino ship Briscoletti was on about?
+Bianca
+	I wonder if the whole boat has bin made into a casino. This could be fun! Come on, let's go and
+	see what's what.
+Nera
+	It was all so busy when we were here for our wedding. I hope you'll be able to enjoy looking
+	around a bit more today.
+Bianca
+	Yeah, you need a fair bit of cash before you can really have a good go at gamblin'. Otherwise it's
+	all over in an instant.
+Bianca
+	Part of me wants to go a bit wild, what with it bein' our honeymoon. But I know we need to be sensible about the future too.
+Nera
+	I think you can still have fun with a small amount of money, as long as you set your sights accordingly.
+Bianca
+	I wonder what her story is. D'you think she's got some kind of problem?
+Nera
+	She wants to go on board the Ventuno, and yet
+	she can't. You can really sense the sadness in
+	that poor woman.
+Bianca
+	Come on! What are we waitin' for?
+Nera
+	Mind how you go when you step onto the pontoon, won't you, darling?
+Bianca
+	Huh. He's probably right, but he en't exactly got a nice way of puttin' it, eh?
+Nera
+	I wonder if that fellow spends all his time there, teasing the casino customers like that.
+Bianca
+	But she's not actually on the ship!
+	...Or is that splittin' hairs?
+Nera
+	What a strange occupation it is just to be standing there like that all the time.
+Bianca
+	What a huge ship! It's much bigger than the boat Briscoletti give us, eh?
+Nera
+	I'm not very familiar with the layout of the ship, either. So we can explore it together.
+Bianca
+	So this was Briscoletti's own idea, eh?
+	Pretty impressive stuff.
+Nera
+	I knew Papa was a big fan of this place, but I had no idea that it was his creation.
+Nera
+	He must have set it up during the time I was away at the abbey.
+Bianca
+	Yeah, I might end up feelin' a bit dicky myself.
+	I'm sure I'd feel better if I won, mind!
+Nera
+	Maybe the rocking about would put you into a kind of trance and you'd end up winning at the slot machines without even trying!
+Bianca
+	Briscoletti must be pretty loaded to be able to employ someone like him all the way out here, eh?
+Nera
+	Casinos do have a tendency to get rather wild. It's important to make sure the customers are safe.
+Bianca
+	Let's just forget about everythin' else while we're here and have a good time, eh, %a000090?
+Nera
+	We are on our honeymoon, I suppose. It can't hurt to let down our hair a little bit and have some fun.
+Bianca
+	A weddin' on a boat, eh? Still, our weddin' was nicer than anyone's, I reckon!
+Nera
+	I think we were the first couple to be married here. And I know we're going to be really happy.
+Bianca
+	I s'pose sailors have to work shifts so there's always someone on duty at any time of day.
+	Looks like pretty hard work.
+Nera
+	Oops! Looks like we've invaded the sailors' quarters.
+Bianca
+	Yeah, if only we could get in the kind of wins we expected, eh?
+Nera
+	Papa did something to the slot machines because he says it's boring if casinos pay out too predictably.
+Bianca
+	Yeah, you'll have to make sure you dun't get too carried away, eh? Still, I'm here lookin' over your shoulder, so you should be okay.
+Nera
+	I wonder which one of them is her husband.
+Bianca
+	D'you think he'd really be havin' fun if he lost, then?
+Nera
+	That's exactly right. It's probably a good idea to
+	find something to do that will lift your spirits
+	when you lose.
+Bianca
+	I s'pose the place does need a captain, bein' a boat and all.
+Nera
+	He really doesn't take no for an answer. It can be quite embarrassing at times.
+Bianca
+	That is pretty impressive, but you've bin through at least ten times that many fights, eh, %a000090?
+Nera
+	............
+Nera
+	I think you're much more accomplished than that.
+Bianca
+	It does seem a bit frivolous to be travellin' about for fun in this day and age.
+Nera
+	She must be a strong woman to be travelling about under these circumstances.
+Bianca
+	Blimey! You wouldn't have thought they'd have rooms this grand on a ship, eh, %a000090?
+Nera
+	I've come to like the sea since we started our journey together, %a000090. It's wonderful to look at the stars from onboard a ship.
+Nera
+	He he he! It was like sleeping in a big rocking cradle last night, wasn't it, darling?
+Bianca
+	That was the best night's sleep I've had in ages.
+	You were out for the count as well, %a000090.
+Bianca
+	What a dance! If any bloke fancied a closer look at the footwork, she'd knock him for six no trouble!
+Nera
+	I wouldn't get too close if I were you, otherwise you might get kicked too.
+Bianca
+	You can see right up everyone's nostrils when they crane their necks up at the stage like that. Yuck!
+Nera
+	The dance is thrilling, indeed, but I think the outfits might be even more so!
+Bianca
+	Maybe I should give it a go, eh?
+Bianca
+	Ha ha! Only jokin'!
+Nera
+	If only I had the courage to dance in front of people like they do.
+Bianca
+	Maybe I should get a job here if ever we run out of money then, eh?
+Nera
+	It's a terrible thing that young girls have to do work like this just for the money.
+Nera
+	But with Papa running the place, I'm sure it's a lot more highbrow than other establishments.
+Bianca
+	I wonder if that's what happens to you if you end up doin' that kind of job too long.
+Nera
+	People say that women become more beautiful if they're looked at with appreciation. It makes me
+	feel all embarrassed, though.
+Bianca
+	Do you reckon she's new here? She seems a bit unsure of herself.
+Nera
+	One, two... One and two...
+Nera
+	I can have a little go at dancing here because no one can really see me.
+Bianca
+	All these dancin' girls make themselves up the same way, so it's hard to tell 'em apart!
+Nera
+	Oh! I think that girl was at the abbey when I was!
+	No, I must be imagining it.
+Bianca
+	Watch where you're treadin', %a000090! Are you tryin' to get yourself in trouble or somethin'?
+Bianca
+	Huh! If it's trouble you're after, I'll give you plenty if you're not careful!
+Bianca
+	Hmmm...
+	Are you sure about that?
+Nera
+	Darling...
+	Did you tread on that girl's foot?
+Nera
+	How rude!
+Nera
+	Good. I'm not sure I'd like to be married to the kind of man who goes around treading on people's toes.
+Bianca
+	I get it. But I'm not sure he'll catch any cheats standin' there.
+Nera
+	Does that mean you can cheat at the casino, then?
+Nera
+	Hmm, I've no idea how.
+Bianca
+	If he reckons he knows so much, why dun't he get up an' 'ave a go then, eh?
+Nera
+	That man was rather opinionated, wasn't he? It sounded as if he knew what he was talking about, though.
+Bianca
+	Ha ha! I wish I could've seen him get hit, that would've bin funny!
+Nera
+	He must've been trying to get a very close-up view for that to happen.
+Bianca
+	Does that mean this boat belongs to Briscoletti, then? That bloke's got it made, eh?
+Nera
+	Papa donated some money to the abbey I stayed
+	at too.
+Nera
+	But I asked Abbess Abovall to treat me just like everyone else regardless, which was nice.
+Bianca
+	He seems a bit shook up, eh? It can be a bit of a blow when you lose, I s'pose.
+Nera
+	Papa often used to say it's a good idea to pray to the Goddess before you end up losing too much.
+Bianca
+	Yeah, I'll bet. He certainly en't gettin' his money together by defeatin' monsters.
+Nera
+	Yes, well, I've never really thought about that before. I wonder how everyone's getting on.
+Bianca
+	Typical! There's all them desperate, greedy people
+	out there, and then someone like her comes along
+	and wins!
+Nera
+	She's lucky that she won without even trying. I just hope she doesn't end up addicted as a result. That wouldn't be so lucky.
+Bianca
+	Now I'm jealous! We could do with a win like that.
+Nera
+	The problem with winning is that it's hard to know where to draw the line.
+Bianca
+	Yeah, but ten thousand can turn into a hundred,
+	and a hundred can turn into one too. It works
+	both ways.
+Nera
+	We'll have to keep steadily building up our tokens, just like he said.
+Bianca
+	That's the first time I've seen a priest in a casino!
+	I wonder if the Goddess'll answer his prayers.
+Nera
+	Surely it's not the done thing to waste a prayer to the Goddess on such a thing! I certainly wouldn't
+	do it.
+Bianca
+	It's bigger than I expected. Looks like we could have a lot of fun here!
+Nera
+	Where do we start? I quite like going for Double or Nothing at the poker table myself.
+Bianca
+	That was a stroke of luck! I wonder why no one else spotted it, though. It's so shiny that it's pretty hard to miss.
+Nera
+	How fortunate! Maybe we're having a bit of a
+	lucky streak.
+Bianca
+	Dun't look like they've got any of the special Zoomshine, though, eh? Life is but a drink...ha ha ha!
+Nera
+	Oh yes! These are all Papa's favourite drinks!
+Bianca
+	They've even got a T 'n' T board! This ship's just one big fun palace, eh?
+Nera
+	You're probably surprised to see a T 'n' T board here, right? I know I am!
+Bianca
+	Yeah, you can never get as far as you think you can. It's a tricky old game.
+Nera
+	Yes, you have to keep checking your position and figuring out the best route forward. It's not easy.
+Bianca
+	I dun't remember the ship rockin' all that much,
+	do you?
+Nera
+	There were probably times when the boat rocking worked in his favour as well, though.
+Bianca
+	Yeah, and you can't buy the tickets, neither, so you have to think pretty hard before you use them all up.
+Nera
+	That reminds me. I heard once about a T 'n' T free pass that lets you play as many times as you like.
+Bianca
+	Nope. I could never just laze about havin' fun if there were things to be won.
+Nera
+	I don't think I think too much.
+	So I win some and I lose some.
+Bianca
+	So this is where the casino prizes are kept? Ooh! Gimme, gimme, gimme!
+Bianca
+	Yeah!
+Bianca
+	Oh.
+Nera
+	It looks like I'd be in a lot of trouble if I messed with anything here, no matter that I'm a Briscoletti myself!
+Bianca
+	There's certainly a lot of gear in here. Looks like everyone must've come to stay for a while, eh?
+Nera
+	It's as if people are planning on staying as long as it takes to have a big win, don't you think?
+Bianca
+	He may not go off playin' in the casino, but surely sleepin' on the job is just as bad!
+Nera
+	Sailors like him have people's lives in their hands, so you'd really hope for a little more care to be taken.
+Bianca
+	I s'pose it would be pretty nice gettin' married
+	here, but it'd be tricky to get your guests to come
+	all this way.
+Nera
+	I was only ever allowed in my own room and out on deck when I rode on ships with Papa.
+Nera
+	I had no idea that he felt so strongly
+	about it, though.
+Bianca
+	That's a fair old load of cookin' utensils there, eh? You could make anythin' you liked with them.
+Nera
+	Mmm, what a lovely smell! I'm starting to feel a bit hungry now.
+Bianca
+	Do you think that big boat over there is the Ventuno casino ship Briscoletti was on about?
+Bianca
+	I wonder if the whole boat has bin made into a casino. This could be fun! Come on, let's go and
+	see what's what.
+Nera
+	It was all so busy when we were here for our wedding. I hope you'll be able to enjoy looking
+	around a bit more today.
+Bianca
+	Yeah, the casino can almost be a bit romantic of a night. Perfect for honeymooners, eh?
+Nera
+	She's resting here? Do you think she lost all her money and can't afford to pay for an inn?
+Bianca
+	Come on! What are we waitin' for?
+Nera
+	Mind how you go when you step onto the pontoon, won't you, darling?
+Bianca
+	Maybe I should make a wish too. I wish I'll spend the rest of my life with %a000090!
+Nera
+	I've wished upon a star more times than I can count.
+Nera
+	I always wished that I'd find the boy I once met on Papa's ship again.
+Bianca
+	En't it a bit sad drinkin' on your own like that?
+Nera
+	Well, we're enjoying a nice walk under the stars, aren't we, darling?
+Bianca
+	So they dun't sail this ship no more, eh?
+Nera
+	How sweet! It must take a lot of dedication to become a ship's captain.
+Bianca
+	Blimey! It's all go for him whether he's awake or asleep, eh?
+Nera
+	He must be a keen gambler to be fretting about it in his sleep!
+Bianca
+	He's in a bit of a state, eh?
+Nera
+	That poor man! He seems rather disturbed.
+Bianca
+	Fair enough. I'd prefer to just get a bit of
+	fresh air, personally.
+Nera
+	Maybe we should have a little dance once we've finished playing, then?
+Bianca
+	Brrr. His eyes are really scary.
+Nera
+	People can get far too wound up by the whole
+	casino experience. It should just be about having
+	a bit of fun.
+Bianca
+	What a funny old man! I hope he dun't hurt himself with that kind of carry on!
+Nera
+	He he he! He obviously doesn't like to be beaten,
+	does he?
+Bianca
+	Yeah. I wonder why the sea air makes everythin'
+	so sticky.
+Nera
+	Yes, she seems a sticky character, that's for sure. Sorry... I was just making a joke.
+Bianca
+	It's hard work tryin' to sleep durin' the day.
+	I much prefer sleepin' of a night.
+Nera
+	He seems a reliable sort.
+	I'm sure the ship's safe in his hands.
+Bianca
+	He en't got a bad voice, but I dun't have a clue what them lyrics are all about.
+Nera
+	What a voice! He certainly knows how to command everyone's attention.
+Bianca
+	His voice is hardly high-pitched, eh?
+Nera
+	Um... Moonwort bulb can be great for stopping
+	the wobbles!
+Bianca
+	He may not look the part, but it's his job to be on the lookout for cheats, eh?
+Nera
+	The atmosphere certainly is relaxed. It's rather romantic, in fact...
+Bianca
+	I think we'd prob'ly better leave him be.
+Nera
+	There can only be one reason for being miserable in a place like this. He's obviously lost all his money and can't afford to travel home.
+Bianca
+	It en't a bad voice, that's for sure. It certainly gives the place a unique kind of atmosphere.
+Nera
+	It's amazing to see how people are so enthralled with this man's singing. I wonder if he's famous.
+Bianca
+	I didn't know priests gambled. He seems a bit hooked, actually. Do you think that's okay?
+Nera
+	I suppose priests are people too. It can't hurt for him to have a little bit of fun.
+Bianca
+	The idea of a floatin' casino is all well and good, but it's a bit of a pain for people to get to.
+Nera
+	This is a lovely spot. And the island's nice too, with its lovely crescent shape. Just like a new moon!
+Bianca
+	There's no point hangin' around a T 'n' T board if you en't got no T 'n' T tickets.
+Nera
+	Oh dear. He won't be able to play any more, then.
+Bianca
+	I never heard of that before. Crikey! A free pass to T 'n' T would be like a dream come true, eh?
+Nera
+	I've heard about that. Yes, the T 'n' T free pass,
+	it's called.
+Bianca
+	I can think of better ways to go down in history, thank you very much!
+Nera
+	Don't worry. The sea around here isn't very deep, so there's nothing for us to sink in.
+Bianca
+	What a poor excuse for a sailor!
+	...We won't sink, will we!?
+Nera
+	I can't swim either. You'll have to rescue me if it ever comes to it, okay?
+Bianca
+	Fancy sayin' that in his sleep! He really is a shirker!
+Nera
+	I'm afraid that chap's likely to lose his job before long if he's not careful.
+Bianca
+	Now that's dedication, dreamin' about cookin' even in your sleep!
+Nera
+	I find cooking really good fun. It's always so exciting to see how things turn out.
+Debora
+	I didn't have the chance to play at the casino when we were here for our wedding, so I'm really going to have some fun today.
+Debora
+	Poor people are so boring! I don't want you guarding the purse strings. Spend as much as it takes!
+Debora
+	Sounds like she'd like to be aboard herself.
+	She'll just have to make do with being close by instead.
+Debora
+	You know, they usually charge people just for getting on the pontoon. But I did some name-dropping and mentioned Papa, so we got on for free.
+Debora
+	%0%a000090! I hope you're not going to show me up!
+Debora
+	Work? I'd hardly call it work. Looks to me like those bunny girls just stand about the place the whole time.
+Debora
+	Papa's not here today, so we can really go to town and have some fun!
+Debora
+	I heard that Papa had this place built back when Nera was away at the abbey.
+Debora
+	And as I remember it, Mama refused to speak to him for about three days when she found out!
+Debora
+	It's easy to forget about the motion if you put your mind to it.
+Debora
+	Everyone that comes here is really rich, so it would be bad news if anything untoward happened.
+Debora
+	Absolutely! We should make the most of it and really enjoy ourselves while we're here.
+Debora
+	Indeed. Except your promise to me was more one of eternal devotion than love.
+Debora
+	What have you brought me to this filthy hole for? We're supposed to be here to have fun.
+Debora
+	Papa said something once about how he'd fixed it so wins on the slot machines couldn't be predicted.
+Debora
+	I'll never tell you that you can't visit a casino.
+Debora
+	I will tell you that you have to take me with you, though!
+Debora
+	Good fun? There's nothing fun about being a loser.
+Debora
+	Yep, once Papa makes his mind up about something, there's absolutely no changing it.
+Debora
+	Only five? That's hardly worth boasting about.
+Debora
+	Sounds like she enjoys her travels. There's no sign of a husband with her, though.
+Debora
+	There wouldn't be anything elegant about it if she ate too much and then felt seasick!
+Debora
+	That bed was so comfortable!
+	Trust Papa to get it just right.
+Debora
+	She must be really into her dancing.
+Debora
+	Watch it, %a000090! I don't like the way you're staring.
+Debora
+	Can I keep up? Ha! I could give her a run for her money if I wanted to.
+Debora
+	I wonder just how much Papa is paying these girls.
+Debora
+	I don't blame her. I always find it really irritating when men make it so obvious they can't take their eyes off me.
+Debora
+	She's obviously new. She's totally out of synch with the other girls.
+Debora
+	All of these dancing girls wear such heavy make-up.
+Debora
+	I suppose it's because they don't have the natural beauty I have.
+Debora
+	You didn't tread on that girl's foot then, did you?
+Debora
+	Tsk! You're a disgrace.
+	I can't take you anywhere.
+Debora
+	I wonder... Wimp that you are, you always go red when you tell a lie, so it's a bit of a giveaway.
+Debora
+	If he's supposed to be on the lookout for cheats, then what's he been doing staring at the stage all
+	the time?
+Debora
+	I hardly think he's in a position to pass judgement on the dancing! I'm sure they can dance a lot better than he can.
+Debora
+	Serves him right for getting too close.
+Debora
+	I never knew Papa did that.
+Debora
+	Quick, let's get away from him!
+	Bad luck can be catching, you know.
+Debora
+	Yes, no matter how many times I ask Papa why he's so rich he won't tell me.
+Debora
+	So she managed to win even though she doesn't know how to play? Some people have all the luck.
+Debora
+	Your luck in a casino can run out just as quickly as it comes.
+Debora
+	Don't you go being stingy over each and every coin, will you? You have to spend money to make money!
+Debora
+	I wouldn't mind worshipping the Goddess if she granted prayers like winning at the casino!
+Debora
+	What shall we start with? I like going for broke on the poker table myself.
+Debora
+	It seems a bit desperate, picking up tokens from the floor like that.
+Debora
+	It's true. I've seen Papa drinking all of these.
+Debora
+	I can't believe Papa even built a T 'n' T board here!
+Debora
+	It's better just to go for it and see what happens rather than trying to plan a route. You never know your luck!
+Debora
+	We'd better watch out for that when we're rolling too.
+Debora
+	I wonder who makes T 'n' T tickets anyway.
+Debora
+	Precisely! It's better just to go with your gut.
+	That's the way to win, if you ask me.
+Debora
+	As if I would! How dare he insinuate such a thing!
+Debora
+	It looks like some people have moved here permanently, what with all this luggage.
+Debora
+	He's got some nerve slacking off from his work so blatantly right in front of me!
+Debora
+	He's probably the reason Papa didn't want me down here.
+Debora
+	Well, they're all rich folk, so I suppose they're bound to be quite fussy when it comes to their food.
+Debora
+	I didn't have the chance to play at the casino when we were here for our wedding, so I'm really going to have some fun today.
+Debora
+	She's going on about the Ventuno at night, but what would she know about it from being stood here?
+Debora
+	You usually have to make a reservation to get on the pontoon, but they're letting you on because you're with me.
+Debora
+	Wishing upon a star?
+	Waste of time if you ask me.
+Debora
+	Mmm, sounds nice. You look like you'd prefer a decent meal to a flute of champagne, mind you.
+Debora
+	Come to think of it, are you filling out our ship's log properly every day?
+Debora
+	I've never seen you doing it.
+	Why the secrecy?
+Debora
+	What!? Who do you expect to do it if you don't?
+Debora
+	Huh! You'd just better make sure you do it from now on.
+Debora
+	Imagine the disappointment if you dreamt you'd had a big win and then woke up to find it was just a dream!
+Debora
+	What a fool! Surely he could've stopped before he ended up that bad.
+Debora
+	When I need to unwind, I find a good bit of shopping works much better than any gentle dancing could.
+Debora
+	Ah, but the problem with that philosophy is that tomorrow never comes.
+Debora
+	He certainly doesn't look like he's up to it nowadays.
+Debora
+	The sea air is just terrible for messing up my hair.
+	I'll never get on with it.
+Debora
+	Um, isn't he the only one in charge?
+	What happens to the ship when he sleeps?
+Debora
+	What a weird little ditty he's singing!
+Debora
+	I always prefer men with nice, deep voices, personally.
+Debora
+	I know it's his job, but he's the one ruining the atmosphere if you ask me.
+Debora
+	He's obviously gone and lost all his money and now he can't afford the fare home.
+Debora
+	Why don't you give us a tune, %a000090?
+	On second thoughts, maybe not.
+Debora
+	Are priests even allowed in casinos?
+Debora
+	I wonder if they'll put the Ventuno out to sea once it's peaceful again.
+Debora
+	It'd make it a bit awkward to get to, though.
+Debora
+	You're good for T 'n' T tickets, right, %a000090?
+Debora
+	You'll be in a lot of trouble if you tell me now we don't have any and I can't play!
+Debora
+	Yes, the free pass. I remember Papa talking
+	about that.
+Debora
+	Hmph! It's bad luck to even say things like that when you're on a boat.
+Debora
+	Why would anyone become a sailor if they couldn't swim? I'd find another job if I was him.
+Debora
+	Maybe I should tell Papa and have him fired.
+Debora
+	Maybe we should sample some of his food if it's that perfect. You can try it first, though, and make sure it's good enough for me.

@@ -1,0 +1,146 @@
+%0%a001240
+	It's funny to find a house hidden in the woods
+	like this.
+%0%a001240
+	Wow! Did you hear that, Dad?
+	You can get to the Realm of the Faeries from here!
+%0%a001240
+	You spent some time with a faerie once, didn't you, Dad? That means you must be able to see them!
+Sancho
+	Uf! Now ees a forest we get lost een?
+	Thees quest, ees no easy, eh?
+Tuppence
+	So if I can find my way through this forest, that'll prove that I'm someone special. Right then!
+%0%a001240
+	Ha ha! We've already been to the
+	Realm of the Faeries!
+Sancho
+	I hope ees no eso hard to go there thees time.
+%0%a001250
+	I saw a funny shadow just then.
+	You don't think...?
+Tuppence
+	It's funny how she remembers being a little girl.
+	I don't remember being a little boy. I suppose I must've been in Gotha.
+%0%a001250
+	Does that mean you can't see faeries any more
+	when you grow up? If that's true, I never want to grow up!
+%0%a001240
+	This forest goes on forever! It'd be a never-ending job looking after all these trees.
+%0%a001240
+	Hang on! Which way did we come from again?
+	Can you remember, Dad?
+%0%a001240
+	You've met a faerie before, right, Dad? What was she like? Was she taller than me?
+%0%a001240
+	And could she fly? Did she have wings? Do you think she'd be my friend? Tell me everything!
+%0%a001250
+	The trees here in the forest are saying that they never let bad people through, but we're good, right?
+%0%a001250
+	My hair ribbon's come undone again. It keeps getting caught on the branches of the trees.
+%0%a001250
+	Look! Over there!
+	...Oh. It's disappeared.
+Sancho
+	Maybe ees gonna take a long time to get
+	out of thees forest, no? Now I weesh I pack
+	the cold paella.
+Sancho
+	You know, once señor Pankraz, he eshow me the way to get out of the maze. But ees no gonna work here, I theenk.
+Sancho
+	Ees muchos dangerous eef you run
+	around weeth no purpose. You must take
+	eet eslow now.
+Tuppence
+	My life of brilliance is about to start right here! You have to guide us through this forest, %a000090!
+Tuppence
+	That's odd. This path looks rather familiar.
+	I do hope you're concentrating, %a000090!
+%0%a001240
+	I've heard about the Realm of the Faeries from Sancho. Do you know much about it, Dad?
+%0%a001240
+	I don't know what Mum looks like, but I'll bet she's even more beautiful than the Faerie Queen!
+%0%a001250
+	I'd really love to live in the Realm of the Faeries.
+%0%a001250
+	Is there a land for faeries and a land for monsters?
+	Um, which one do you think this is?
+%0%a001250
+	Um, is it okay if we go and play in the Realm of the Faeries again soon, Dad?
+Sancho
+	We no have anytheeng to do here een the forest, eh, friend? We leave now, okay?
+Sancho
+	You must no lose thees faerie horn, okay?
+Sancho
+	Esometimes you have the careless moment, eh, friend? Ees true, sí?
+Tuppence
+	Treacle was quite a beauty. I should imagine the Faerie Queen must be exquisite.
+Tuppence
+	Imagine how envious people would be if one married a faerie. Yes, what an idea! A faerie bride...
+%0%a001240
+	I reckon I know all the paths through here now.
+	How about you, Dad?
+%0%a001240
+	It's okay. I know we have to keep the thing with the gold bauble a secret from the faeries.
+%0%a001240
+	They've all been such a big help to us. We'd better make sure we do our best.
+%0%a001250
+	Do you think that I'll still be able to see faeries when I grow up if I make sure I behave myself and I'm good all the time?
+Sancho
+	Eef ees possible to turn back time, ees...
+Sancho
+	No. Ees no important.
+	Come. We go, okay?
+Bianca
+	This is a pretty dense forest, eh? You can hardly see the sky at all.
+Bianca
+	Ouch! I've got a crick in my neck from lookin' up
+	so much!
+Nera
+	The air smells so fresh inside a forest. I wonder how far this one stretches on for.
+Nera
+	So only the children could see the faerie the first time you were here? How interesting!
+%0%a001240
+	Over by the bonfire, Dad!
+	We should go and have a look.
+%0%a001250
+	I saw her! I just saw a faerie over there by the bonfire! Can we go and talk to her?
+Sancho
+	Ees esome kind of game?
+	Sí. I remember you like to play like thees when you are young, friend.
+Tuppence
+	Yes, I, er, I saw it too! Over by the bonfire...
+	Er, it was a huge bearded man!
+Tuppence
+	Yes, with six legs...and, er, four ears... Um, no, maybe it was two legs... Anyway, there's something there!
+Sancho
+	Eh!? Ees no one there, but...
+	You no hear a voice?
+Sancho
+	My Majesty! Run! Run away before you
+	are keelled!
+Tuppence
+	Hm? Did I hear a voice then, or am I just
+	imagining things?
+%0%a001240
+	Did you see her that time, Dad?
+	She made it so adults can see her too.
+%0%a001250
+	Are we going to Faerie Lea again?
+	I love it there!
+Tuppence
+	You can see her, can't you, %a000090? It doesn't make sense! Why can't I? It's not fair!
+Bianca
+	You had a little bit of an adventure with a faerie when you were a kid, din't you?
+Bianca
+	You've certainly got your fair share of tales to
+	tell, eh?
+Nera
+	I saw her too! I saw the faerie! She looks just like the faeries I saw all those years ago.
+Debora
+	This forest is deeper than it looks.
+	What are we doing here, anyway?
+Debora
+	I had no idea a place like this existed so close to home.
+Debora
+	So that's a faerie. She looked a bit odd, but quite cute in a way.

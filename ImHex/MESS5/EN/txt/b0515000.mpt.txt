@@ -1,0 +1,698 @@
+%0%a001240
+	Yay! It's a slurpodrome! I bet I can pick a winner. Now, let's see...
+%0%a001250
+	He he! Look at all those funny-coloured slimes!
+Sancho
+	The slimes, they are eso cute, no?
+	Ees because they have the h-healthy paunch, djou know. I n-no think of them as monsters.
+Tuppence
+	Slime races just don't seem exciting enough.
+	I can't quite get into the gambling frame of mind
+	with them somehow.
+Bianca
+	Ha ha ha! Looks like the old bloke's havin' fun!
+Nera
+	He's looking at those slimes with so much
+	affection. It's almost as if he thinks of them
+	as his grandchildren!
+%0%a001240
+	It's funny when the slimes fall splat on their faces!
+%0%a001250
+	I can't figure it out either. These slimes are all quite unpredictable.
+Bianca
+	Slimes are so bouncy and cute-looking.
+Bianca
+	But when you touch them, they're so...slimy! Yuck!
+Nera
+	The slimes here have such bright, shining eyes.
+%0%a001250
+	That slime smells of strawberries!
+Tuppence
+	I say! These slimes are roaming free.
+	Do you suppose that's safe?
+Bianca
+	Yeah, but still, you never can tell what'll happen at the slurpodrome.
+%0%a001240
+	That one certainly seems to look down its nose at
+	the others, doesn't it? Assuming slimes have noses, that is.
+%0%a001250
+	That slime smells of fresh leaves.
+Sancho
+	Djou wanna b-bet on the green slime, My M-Majesty?
+	Hmm...
+Bianca
+	It'd be fun if we could get a talkin' slime in
+	our party, eh? Unless they'd be too much of
+	a chatterbox.
+Nera
+	Slimes are so childish and silly. Er... I mean childlike and innocent.
+%0%a001250
+	Urgh! That slime smells of curry!
+Bianca
+	We used to play T 'n' T together when we were kids. You always won, mind.
+Nera
+	I always marvel at who thought up the idea of such gigantic T 'n' T boards.
+%0%a001240
+	Yay! It's Treasures and Trapdoors!
+%0%a001250
+	I really like T 'n' T. I always manage to beat %a001240.
+Sancho
+	Hmm... Ees n-no eso beeg, thees board, eh?
+Tuppence
+	Ooh! If you're planning on a game of T 'n' T, you must let me do the honours! You won't be sorry, I promise.
+Bianca
+	If only you could always roll what you wanted, eh? I s'pose that'd get a bit borin', though.
+Nera
+	Oh dear. He's taking it all rather seriously.
+	You men can be so funny at times.
+%0%a001250
+	I've already figured out the best way around. Pretty clever, don't you think, Dad?
+Sancho
+	Thees ees a g-good idea! First djou look at
+	the board from the floor, then djou t-t-take the
+	ch-challenge, si?
+Tuppence
+	A real man shouldn't dilly-dally! No, he should make up his mind and be done with it.
+Bianca
+	Huh! Let's give it another go, %a000090!
+Nera
+	I didn't expect anyone to be down there! I hope he couldn't see up my skirt...
+%0%a001240
+	Ha ha ha! It's quite fun falling off, too!
+Tuppence
+	You don't think he's hanging around there just so he can laugh at people, do you?
+Tuppence
+	Honestly! Some people!
+Bianca
+	What a mean old man. We'll have to make sure we don't fall off the board if we decide to have a game.
+Nera
+	The poor man. It must be frustrating not to have ever succeeded.
+Sancho
+	Ees n-no eso fun to watch the others l-losing, djou know. Ees a shame for thees señor.
+Tuppence
+	That does sound like it could be rather funny. If I had time to hang around, I wouldn't mind seeing someone fall.
+Bianca
+	This place is pretty lively of a night, too, eh?
+Bianca
+	There didn't used to be a bridge in the past, so you couldn't get here from Roundbeck and Whealbrook.
+Nera
+	I never visited here at night during my time at the abbey. It's quite a revelation.
+Nera
+	Naturally, I didn't go to the casino during my
+	days at the abbey. But Papa took me there lots
+	of times before.
+%0%a001240
+	This place is pretty lively! I'm feeling all impatient now. I just want to explore and have fun!
+%0%a001240
+	When we came here before with Sancho, I watched a race at the slurpodrome.
+%0%a001240
+	Have you ever seen one, Dad?
+	They're really good fun!
+%0%a001250
+	This town is so big, I'm sure I'd get lost in it in an instant. Don't let go of my hand, will you, Dad?
+%0%a001250
+	............Zzz.
+%0%a001250
+	......Hm? Did you say something?
+	Yes, yes! I'm awake......
+Sancho
+	Uf... Ees eso m-many walls een thees town.
+	Djou n-no feel trapped? I, I can n-no breathe
+	eso well...
+Sancho
+	Even eenside Gotha Castle eet f-feels more open than thees. Djou no think eso, chico?
+Sancho
+	Ees the night, b-b-but ees eso bright, eet feels l-like the day!
+Tuppence
+	So this is the famous Fortuna!
+Tuppence
+	I know, %a000090! Why don't we all split up for a while and have a bit of fun? ...No? Oh, what a shame!
+Tuppence
+	I'm afraid I'm not very proficient when it comes
+	to the casino. I do enjoy a visit every once in a
+	while, though.
+Tuppence
+	I tend to lose, so it's especially exciting for me when I do manage a win.
+Bianca
+	This place never sleeps, eh?
+Nera
+	If only everyone here was having fun. I'm afraid they have their fair share of desolate souls here, too, though.
+%0%a001240
+	We don't have much time to enjoy the place, though, do we?
+Sancho
+	Ees t-too much t-t-temptation here.
+	Djou must n-no let djourself become weak.
+	Ees t-time to estay een the inn for tonight.
+Tuppence
+	If only I could forget my duties for a while and really let my hair down...
+Bianca
+	Maybe we should have a bit of a flutter, eh?
+Nera
+	It's upsetting to see people down in the dumps like that. The point of a casino is to have fun, after all.
+%0%a001240
+	There's not much point in him telling us, is there? There's nothing we can do about it.
+%0%a001250
+	Urgh! That man smelt like he'd had a whole barrel of drink to himself!
+Tuppence
+	It's no use crying over spilt milk. The important thing in this game is knowing when to call it a day.
+Bianca
+	He seems really sad. I wonder what happened to him.
+Nera
+	It might be best if we gave him some space.
+%0%a001240
+	The lights here at night are really pretty.
+%0%a001250
+	I really like stars, so I suppose that must mean I like night-time. I always get really sleepy, though.
+Sancho
+	Si, ees true. Ees especially true on the
+	qu-quiet nights. Then djou th-think of eso
+	many, many memories.
+Tuppence
+	I'm not overly fond of the night-time myself. There always tend to be more monsters out on the prowl.
+%0%a001240
+	Does that mean I'm not the man of her liking? Oh! ...Actually, I'm sort of relieved.
+%0%a001250
+	I don't particularly want to hear my
+	fortune anyway.
+Sancho
+	Esometimes the drowning man, he clutches at the straws. Maybe ees n-no esuch a bad idea to listen to the fortune-teller esometimes, too.
+%0%a001240
+	Yikes! Her face goes all scary when she tells
+	your fortune!
+%0%a001250
+	Maybe I should become a fortune-teller when I
+	grow up.
+Tuppence
+	It's rather fortunate that she'd give us a reading for free, isn't it, %a000090?
+	...Ha ha! Fortunate! I'm an accidental comedian!
+%0%a001240
+	Don't you want her to tell our fortune?
+	I was looking forward to that.
+Tuppence
+	Yes, fortune-telling can be a bit hit and miss. Maybe it's not worth paying any attention to it all.
+Bianca
+	I'm sure that won't stop you, eh? You just have to poke your nose in everywhere, dun't you?
+Nera
+	Hmph! Do I look like the type to go spying on someone while they're having a bath!?
+%0%a001250
+	I quite fancy having a bath now.
+Tuppence
+	How rude! As if I'd barge in on a man having a bath!
+Bianca
+	What a cheek! Did he think we were comin' here to try and take a peek or somethin'!?
+Nera
+	If anyone's in the wrong, it's him for not having a door on his bathroom!
+Sancho
+	Thees señor and señora, they always think of each other, no? Si, there ees n-nothing to esee here.
+	Ees t-time for us to leave.
+Tuppence
+	We'll have to time things more appropriately next time, %a000090.
+Bianca
+	We would've probably felt the same under normal circumstances, but it's a bit different when one of your kids is the legendary hero, eh?
+Nera
+	Everyone wants a world without monsters, but it would be a shame if all the nice monsters had to disappear, too.
+%0%a001240
+	I used to think I didn't get much chance to play, but it doesn't look like most other kids do either.
+%0%a001250
+	It's fun travelling about together, but I sometimes think how nice it would be if we could all just live normal quiet lives at home.
+Bianca
+	I dun't much like hearin' other women chattin' you up. I s'pose that's a wife's prerogative, eh?
+Nera
+	It seems I'm not the only one who finds you so attractive, %a000090!
+%0%a001250
+	It's funny hearing her talk to you like that.
+Tuppence
+	Some people just have an eye for it, you see.
+	I'm referring to my sex appeal, of course.
+Bianca
+	And yet he takes another sip, so it can't be all
+	that bad!
+%0%a001240
+	Ooh! I wonder if the landlord watered them down!
+Sancho
+	The taste of the alcohol, eet depends on djour own mood, djou know.
+Sancho
+	When djou are happy, eet tastes like the liquid paella. But when djou are esad, ees, ees... (sniff)
+Bianca
+	Mum and Dad gave me a brilliant childhood.
+	They always took good care of me.
+Bianca
+	With Mum gone, the family got a bit smaller for
+	a while. But now you've joined, so we're back up
+	to three.
+Bianca
+	And now we have %a001240 and %a001250. We've got so much to be thankful for, even though times are tough.
+Nera
+	We were separated for a long time, but I'm truly happy now that we've been reunited.
+Nera
+	It really is the best thing in the world to have
+	a family.
+%0%a001240
+	There's lots of houses here in this town, isn't there? I'm bound to get lost.
+%0%a001250
+	I can do anything as long as you're all with me.
+Sancho
+	Djour Uncle Sancho, he n-no have a family now.
+	For me, señor P-Pankraz, he was my family.
+	But now he ees n-no lon... No longer... (sob)
+Tuppence
+	I wonder how Mother is getting along.
+Bianca
+	He must be a feisty old man to spend every night down the pub like that.
+Nera
+	I hope that old fellow isn't drinking to excess with all those pub visits.
+%0%a001240
+	Why do grown-ups all spend so much time at the pub? I don't get it.
+Sancho
+	The alcohol, ees all p-poison, djou know. When djou are djoung, and when djou are old. Ees n-no good to drink t-t-too much.
+Bianca
+	It's a pretty normal-lookin' place for a
+	fortune-teller's house.
+Nera
+	I heard talk of the fortune-teller here when I was at the abbey. Apparently, her readings can be a bit hit and miss.
+%0%a001250
+	Do you think he's waiting up for her to come home? That's nice of him.
+Bianca
+	How many times do I have to tell you that you shouldn't go tryin' to start conversations with folk while they're sleepin'?
+Nera
+	You really shouldn't intrude on a woman while she's sleeping, %a000090.
+%0%a001240
+	What's going on with her ears!?
+Tuppence
+	Bunny girls are cute even when they're sleeping!
+Bianca
+	Fancy havin' an underground jail in town! I s'pose there's bound to be crime when you collect so many folk together in one spot, though.
+Nera
+	Jails always seem to feel so cold.
+%0%a001240
+	This place is really creepy. I'd rather not come down here if we don't have to.
+%0%a001250
+	It's dark and cold and smelly down here.
+	I don't like it!
+Tuppence
+	I say! That soldier's asleep! Do you suppose we should wake him?
+Bianca
+	Um... You sure we should've let him go, %a000090?
+Nera
+	Oh dear! He's gone!
+%0%a001240
+	He said something about the stool.
+	I wonder what's there.
+%0%a001250
+	That man was really stinky.
+Sancho
+	Eesⓚⓛ
+	Ees the thug who...
+	When señor Harry, he was...!
+Bianca
+	That's worth knowin', eh?
+	We should go and give it a whirl!
+Bianca
+	Er, I suppose we'd better watch that we dun't end up spendin' too much time gamblin', though.
+Nera
+	Well! He's certainly in the know.
+%0%a001240
+	Do you think that's true?
+Sancho
+	Ees only h-helpful eef they n-no have changed
+	the places of the slot machines. But ees
+	pr-probably okay.
+Bianca
+	Eh? Dun't you want it? I was thinkin' it could come in really handy.
+Nera
+	I wonder what a monster menagerie is. If it's only a thousand gold coins, we could just take a chance and buy it...
+%0%a001240
+	Ooh! What's a monster menagerie?
+%0%a001250
+	A monster menagerie... That sounds pretty impressive. I want one!
+Bianca
+	Nice! Let's go and check it out.
+Nera
+	I wonder what this monster menagerie is all about. How exciting!
+%0%a001240
+	Yay! We got it! We got it!
+	Um... What is a monster menagerie, anyway?
+%0%a001250
+	Did you buy the monster menagerie?
+	Are there any monsters inside?
+Bianca
+	Hm, it's pretty tough havin' to buy stuff for all our gang, eh?
+Nera
+	Oh well. I suppose we'll just have to come back again when we've saved up.
+%0%a001250
+	Can't you afford it, Dad? You could always sell some of my clothes to get some more money.
+Sancho
+	I am esorry, chico. My pockets, they are empty.
+	I can n-no geeve djou nothing.
+Bianca
+	He certainly stocks some pretty curious items,
+	eh? Seems to be doin' a fairly decent business
+	out of it, mind.
+Nera
+	I can't wait to see what the next weird and wonderful item he has in stock will be!
+%0%a001240
+	Let's come back here again, Dad!
+Sancho
+	Thees señor, he ees a g-good businessman, si?
+	He ees as esharp as a m-machete!
+Bianca
+	Yeah, five thousand gold coins seems like a bit of a fortune to spend on a funny old curtain.
+Nera
+	Oh! Aren't you going to buy it? But it's so sweet!
+Nera
+	Sorry. If you've made up your mind, then I won't try to change it.
+%0%a001240
+	Oh! Go on, Dad! Buy it, buy it, buy it!
+%0%a001250
+	If you don't want to buy it, then I won't try to change your mind.
+Sancho
+	I n-no eso sure how m-many times we g-gonna need thees s-slime curio when we are tr-travelling...
+Bianca
+	Did you really want this funny old curtain, %a000090? It dun't much look like your kind
+	of thing.
+Nera
+	Yippee! I'm so happy! This is just what I wanted!
+	It's so pretty!
+%0%a001240
+	Yay! We got it! Thanks, Dad! I'm going to use it as a blanket when I go to bed tonight.
+%0%a001250
+	It doesn't look all that cute when you get up close.
+Sancho
+	Qué? Oh, djou can wear thees curio.
+	I wonder who ees gonna l-look the best een eet.
+Bianca
+	Hm, it's pretty tough havin' to buy stuff for all our gang, eh?
+Nera
+	Oh well. I suppose we'll just have to come back again when we've saved up.
+%0%a001250
+	Can't you afford it, Dad? You could always sell some of my clothes to get some more money.
+Sancho
+	I am esorry, chico. My pockets, they are empty.
+	I can n-no geeve djou nothing.
+Bianca
+	Does that mean he's shuttin' up shop? I was lookin' forward to seein' what other weird and wonderful things he might have on sale.
+Nera
+	I hope he'll start selling his curiosities again once the world is in better shape.
+%0%a001240
+	Do you think he travels about on his own?
+	That would be hard going.
+Tuppence
+	Yes, I don't think I'd be too keen on travelling about at the moment if I weren't with you, %a000090.
+Bianca
+	Bein' in a casino is like bein' in another world. It helps you forget your troubles for a little while.
+Nera
+	Don't forget that a casino is just a place to let off a little steam. You mustn't get too carried away.
+%0%a001240
+	Dad! Dad! Let's go to the slurpodrome and watch a slime race! I reckon I can pick a winner!
+%0%a001250
+	Did you see that man before? He was crying.
+	Don't you cry, will you, Dad?
+Sancho
+	Maybe we can ween esomething for our journey. Esomething which ees gonna muchos h-help us.
+Sancho
+	But djou n-no gamble too much, okay, chico?
+	The first rule of the casino ees to t-take eet eslow.
+Tuppence
+	Rrraargh! The gambler's blood in me is flowing fast and furious again for the first time in a long time!
+Tuppence
+	...Hm? You look surprised. Did you not know about my penchant for a flutter?
+Bianca
+	He's right, %a000090. We shouldn't get too carried away.
+Nera
+	Some people get hooked despite that. Imagine what it would be like if you could actually win money here!
+Sancho
+	Ees a g-g-good idea, no? Eef the casino, eet n-no return to the clientes their gold, they g-gonna make beeg money!
+Sancho
+	Maybe ees t-time for a casino een Gotha, no?
+	But ees n-no good for the esafety. The crime, ees gonna increase, too. Hmm...
+Bianca
+	We probably act like that when we get caught up in gamblin'. How embarrassin'!
+Nera
+	He seems to be a bit over-excited. Maybe he's never had a win before.
+%0%a001240
+	Go on!
+	That's the way!
+%0%a001250
+	He was a bit carried away for a grown-up.
+Sancho
+	Djou n-no talk too much, okay, chico?
+	Eef djou play here, djou play.
+	But eef djou go, djou must go quickly.
+Bianca
+	Hm, but you can lose a lot of money fast in
+	the hundred-token slots, so you really have
+	to go careful.
+Nera
+	Papa only ever played on the hundred token slot machines. It seems rather frivolous when I think
+	of it now.
+%0%a001240
+	Hundred-token slots...
+	Maybe I'm not quite ready for them yet.
+Tuppence
+	The hundred-token slots? Dear me! I do love casinos, but I tend to be a bit too cautious to play with those kind of amounts.
+Bianca
+	Mum always said that every profession needs its underlings. Without them, the whole thing falls apart.
+Nera
+	I hope he has his dream come true some day.
+%0%a001250
+	Aaah. That man had such a nice voice.
+	I hope I get to talk to him again...
+Bianca
+	Urgh! He spat on me!
+Nera
+	He should stop there and have a rest before he does himself a mischief.
+%0%a001240
+	Where's the stunning young beauty come to steal a prince's cart? What? She's behind me?
+	Oh no she isn't!
+%0%a001240
+	What do you think?
+	Did I get the words right?
+Bianca
+	Typical old bloke, eh? Thinks he knows all there is to know about life just because his has bin a long one!
+Nera
+	I suppose there are all sorts of ways to find entertainment in a casino.
+%0%a001240
+	How come he says you can see all walks of life here? I can't see anything special. I don't get it!
+%0%a001250
+	I don't really like casinos. They're so noisy.
+Bianca
+	I en't sure it's the kind of thing he should be bettin' on, but it looks like he's got a winner there, eh?
+Sancho
+	Ees l-like a game for thees señor, eh?
+	Because he doesn't know anything.
+	M-Maybe he's lucky...
+Bianca
+	They all dance so well. It's quite a show!
+Nera
+	I'm surprised their costumes don't fall down with all that dancing about!
+Sancho
+	Ees a r-rumba or a salsa? Heh heh! I n-no care.
+	But I can no t-take my eyes away from them!
+Tuppence
+	I think they're absolutely fantastic. Just look at the way they move in those costumes. Mmmm!
+%0%a001240
+	That guy looked really intense.
+%0%a001250
+	Urgh! You won't end up looking all scruffy like him, will you, Dad?
+Bianca
+	I dun't think I know this song specifically, but it somehow sounds familiar.
+Nera
+	La la la Ⓠ
+	Please, baby, ooh,
+	I need you! Ⓠ
+%0%a001240
+	La la la Ⓠ
+	Geez, baby poo...!  Ⓠ
+%0%a001250
+	What a good song!
+Tuppence
+	Yes, I'd say she's probably the prettiest of them all.
+Bianca
+	Looks like you think it's pretty raunchy, eh, %a000090? I can tell by that glazed look in
+	your eyes!
+Nera
+	Darling, do you mind if we go elsewhere? I'm not too keen on being here on the stage.
+%0%a001240
+	What does raunchy mean?
+	Does it mean rude?
+%0%a001250
+	Look at that costume!
+	I'd be really embarrassed if I were her.
+Sancho
+	Perfect papayas! I, I n-no...
+	Ah! Si! We n-need to take a rest from all our h-hard travelling, no? Ees a g-good time, eh? Si, si.
+Tuppence
+	Oh, yes. It's very raunchy.
+	Very raunchy indeed!
+Bianca
+	I en't lettin' her get the better of me!
+	Da-da-daa, Da-da-da-daaa...  Ⓠ
+Nera
+	Stop it, %a000090! It's making me feel funny seeing you watch her tummy button wiggling around like that!
+%0%a001240
+	Da-da-daa, Da-da-da-daaa...!
+	What do you reckon, Dad? Am I any good?
+%0%a001250
+	Huh. I'm no good at dancing.
+Bianca
+	Yeah, well, it can't hurt to let go and have a bit of fun every once in a while, eh?
+Nera
+	He he he! You are rather good.
+%0%a001240
+	I can do it just as well!
+	Watch me!
+Bianca
+	Um, you know when we're done with all this travellin' and we go back to the castle? I can still wear these kind of clothes, right?
+Nera
+	But wearing a dress like that must make you feel so pretty and special.
+%0%a001240
+	That kind of dress would probably really suit %a001250. Especially when she gets a bit older.
+%0%a001250
+	I'm a princess, but I've never worn a dress like that.
+%0%a001240
+	Hmm, sounds tricky.
+Tuppence
+	I suppose I support the lead, so to speak, by accompanying you on your travels, %a000090.
+	It's true that it is rather difficult.
+Bianca
+	That's a good point. Travellin' certainly does broaden the mind.
+Nera
+	I've met all sorts of people, too. Meeting you was the best of all, though.
+Tuppence
+	I'd like to meet a few more people, too. Only the kind of folk who'll make me look good, mind you.
+Bianca
+	Did you know there was a cave all the way up here, %a000090?
+Nera
+	I had no idea there was a cave here.
+%0%a001240
+	I'm pretty curious to see what lies beyond this cave, aren't you?
+%0%a001250
+	There's a really funny atmosphere to this place.
+Sancho
+	C-C-C-Careful where djou are treading,
+	My Majesty.
+Tuppence
+	Oh! There are no monsters here! Ha ha! I was rather dreading the fact that there would be.
+Bianca
+	You're not the only one who becomes all the more determined to do somethin' when you're told not to, %a000090!
+Nera
+	No doubt you're planning on moving it regardless? You have that defiant look on your face again.
+%0%a001240
+	ⓗThis stone must not be movedⓘ? I wonder who would write something like that.
+%0%a001250
+	If it says not to move it, then we shouldn't move it. ...Right?
+Sancho
+	Who would put esomething like this een here?
+	Ees loco! I n-no like the f-f-feeling of this.
+Tuppence
+	When you see instructions not to do something, you tend to do it anyway, right, %a000090?
+Bianca
+	Do you sense a kind of heavy feeling in the air all of a sudden? We should be careful, %a000090.
+Nera
+	Be careful, darling. There are monsters about!
+%0%a001240
+	That strange stone slab...
+	I wonder what it actually does.
+%0%a001250
+	Why did you go and move it when it said not to!?
+Tuppence
+	Dear me. Whyever did you move that stone slab, Your Majesty? Did you have too much time on your hands or something?
+Bianca
+	Hey! The monsters have disappeared!
+Nera
+	It seems to be something to do with that stone slab.
+	What a strange cave this is!
+%0%a001240
+	Am I just imagining it, or have all the monsters disappeared? Why would that be?
+%0%a001250
+	Where have all the monsters gone?
+Sancho
+	Eet eseems as eef the air, ees cleared.
+	Are djou feeling eet, too, chico?
+Bianca
+	Weird. It's like any sign of monsters is just drifitin' away. Still, I suppose we shouldn't complain!
+Bianca
+	There's somethin' a bit funny about this cave.
+	I wonder what the story is.
+Nera
+	It feels so odd being able to take our time walking through a cave like this without always looking over our shoulders.
+Nera
+	I wonder where all the monsters are lurking.
+%0%a001240
+	Am I just imagining it, or have all the monsters disappeared? Why would that be?
+%0%a001240
+	You can see monster footprints all over the place, but there's no sign of the monsters themselves.
+%0%a001240
+	If it gets much quieter, I'm going to start having trouble staying awake!
+%0%a001250
+	That's odd. All the monsters are gone.
+	I don't see a single one of them.
+%0%a001250
+	Ready or not...here we come!
+%0%a001250
+	I think the monsters must be playing hide and seek!
+%0%a001250
+	Right, right. left... Um, left...right, right... Ⓠ
+%0%a001250
+	It's just a little ditty that %a001240 taught me. It's to help me remember how to skip nicely.
+%0%a001250
+	Yoohoo! Monsters!
+	...Why don't you answer me?
+Sancho
+	Djou know what eet ees, My Majesty? The monsters, they are escared of djou now. Because djou fight like the matador!
+Sancho
+	Si, ees g-good the monsters no b-b-bother us.
+	But I... I estill w-w-worried.
+Tuppence
+	I say! There's something a bit odd here. There's no sign of any monsters whatsoever.
+Tuppence
+	I'm not very comfortable with this. I don't much like surprises. Still, at least this is a good one.
+Tuppence
+	Ah... (mumble mumble)...
+	Oh dear! This won't do!
+Tuppence
+	Sorry, %a000090. Things are so quiet in here that I was almost falling asleep on the spot.
+Tuppence
+	Did you use holy water while I wasn't looking or something, %a000090?
+Bianca
+	What do you suppose is goin' on with this place?
+	Why are the monsters here such pesky, persistent little things?
+Bianca
+	If there are this many monsters about, there must be somethin' pretty special in here that they're tryin' to stop us gettin' at.
+Nera
+	It's all or nothing with this cave when it comes to the number of monsters around. Rather too extreme for my liking.
+Nera
+	It would be nice to get ahead more quickly, but it looks like they're doing their hardest to stop us.
+%0%a001240
+	Be careful, Dad. The monsters in here
+	are pretty scary.
+%0%a001240
+	This cave isn't far from Roundbeck, is it?
+%0%a001240
+	We'll have to tell all the townspeople to steer well clear of this place. It's far too dangerous!
+%0%a001250
+	Ouch! ...It's alright. I just tripped a bit, that's all.
+%0%a001250
+	The monsters here are really mean. It's like they're being controlled by something.
+Sancho
+	A brave conquistador, he knows when ees the good time to make a fresh estart.
+Sancho
+	Djou have b-become such a fine man, %a000090. I, I am so proud! Esometimes when I am walking behind djou, I forget djou are n-no djour father.
+Sancho
+	Today, ees been a very exhausting day. I g-gonna prepare for djou a nice hot bath and esomething esalty for dinner.
+Tuppence
+	Don't worry, %a000090. If the worst happens, I'll take good care of your beloved wife and children.
+Tuppence
+	Hmm. If only I'd brought a painter along with me.
+Tuppence
+	How nice it would be if I could show people at home a picture of me in a mighty fighting pose!
+Tuppence
+	I just can't keep up with this place. One minute there are no monsters at all, and then the whole place is overrun with them!
+Bianca
+	Hey! What d'you s'pose that is?
+%0%a001240
+	Are we done yet? Those stone slabs are really heavy. I'm tired!
+%0%a001250
+	Is that your robe over there, Dad?
+Sancho
+	Uf! Pushing these estones around these narrow passages, ees like dancing the salsa, no? Ees h-hard work.

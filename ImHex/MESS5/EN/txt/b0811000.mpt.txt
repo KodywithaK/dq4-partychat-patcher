@@ -1,0 +1,77 @@
+*: 
+	Welcome to the weapon shop.
+	What can I do for you?
+*: 
+	What do you need?
+*: 
+	Sorry, you don't seem to have enough money for that.
+*: 
+	%0%a040100, is it?
+	Thank you very much.
+*: 
+	%a000840 %a010100?
+	Thank you very much.
+*: 
+	Have a go at using %H0840%X%M0100%Xthem%Yit%Z as an item in battle. %M0100%XThey%YIt%Z%Yone of them as an item in battle. They%Z can be quite effective.
+*: 
+	Who's going to carry the goods?
+*: 
+	Into the bag it is, then!
+*: 
+	You can't carry any more, %a000180.
+	Would you like me to reorganise your items?
+*: 
+	Okay! I've sorted things out for you.
+*: 
+	Seems you're carrying a lot of important items, %a000180. It wouldn't be right for me to organise them!
+*: 
+	Can someone else carry the goods?
+*: 
+	Do you want to equip %M0100%Xthem%Yit%Z now?
+*: 
+	That's the spirit! You'd be daft not to equip something after you've spent good money on it!
+~ %0%a000180 equips %a020100! ~
+*: 
+	You can't equip this particular item, %a000180. Do you still want it?
+*: 
+	Here you go, %a000180!
+*: 
+	I'll just place the goods in %a000180's coffin, then.
+*: 
+	Okay. I'll make sure the goods get to %a000180 in the wagon, then.
+*: 
+	I'll put the remaining item%H0880%X%Ys%Z in your bag, then.
+*: 
+	Can I help you with anything else?
+*: 
+	Who wants to sell something?
+*: 
+	Really? But you're not carrying anything, %a000180!
+*: 
+	But your bag's empty!
+*: 
+	Sorry, I'm not interested in things like that.
+*: 
+	Besides, there are some things you're better off hanging on to.
+*: 
+	A word of warning: if you sell %H0840%X%M0100%Xthose%Ythat%Z%Ythose%Z, you might never be able to get %H0840%X%M0100%Xthem%Yit%Z%Ythem%Z back. Is that okay?
+*: 
+	%0%a040100? I'll give you %a000620 gold coin%H0620%X%Ys%Z for it. Okay?
+*: 
+	How many do you want to sell?
+*: 
+	%a000840 %a010100? I'll give you %a000620 gold coin%H0620%X%Ys%Z for them. Okay?
+*: 
+	Oh well, that's a shame.
+*: 
+	It amazes me to say this, but you can't carry any more gold!
+*: 
+	Why don't you buy something from me first?
+*: 
+	Pleasure doing business with you!
+*: 
+	Would you like to sell anything else?
+*: 
+	Anything else I can help you with?
+*: 
+	Come again!

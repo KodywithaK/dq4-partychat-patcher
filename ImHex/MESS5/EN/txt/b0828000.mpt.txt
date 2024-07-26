@@ -1,0 +1,60 @@
+*: 
+	Well, hello there, and welcome to Lodestar Harbour's famous tombola.
+*: 
+	Looks like you have a grand total of %a001140 tombola ticket%H1140%X%Ys%Z at the moment.
+*: 
+	It's just one ticket per go.
+	Will you be trying your luck?
+*: 
+	Very well. We'll give it a little spin.
+*: 
+	Bad luck, dear%H0860%X%Ys%Z. I'm afraid a black ball doesn't win you anything.
+*: 
+	Ooh! Now there's a turn-up for the books. A gold ball, of all things!
+*: 
+	Luck's obviously smiling on you today, my dear%H0860%X%Ys%Z. That wins you a loyalty card!
+*: 
+	Ooh, well done! That's a white ball, which means you win a category 5 prize.
+*: 
+	That's a free tombola ticket.
+	Here you are!
+*: 
+	Congratulations! A %a001330 ball equals a category %a001150 prize. You've won %a040100.
+*: 
+	Who'd like to carry the prize?
+*: 
+	Oh! You've had enough? Does that mean you don't even want your prize?
+*: 
+	Really? Forgive me for going on, but I won't be able to give it to you later if you change your mind.
+	Are you sure you don't want it?
+*: 
+	Well, what a waste! Not to worry, though. I'll have it for myself if you don't want it. Many thanks!
+*: 
+	I'll put it in your bag for you, then.
+*: 
+	Hmm... You already seem to have your hands full there, %a000180. Why don't I reorganise your items for you?
+*: 
+	There we are! Nice and tidy.
+*: 
+	Ah, perhaps not. Everything you have there seems to be on the valuable side.
+*: 
+	Maybe someone else could take the prize instead?
+*: 
+	Would you like to equip %M0100%Xthem%Yit%Z now?
+*: 
+	Very well. I can take care of that for you.
+~ %0%a000180 equips %a020100! ~
+*: 
+	I'm afraid you can't equip this particular item, %a000180. Do you still want it?
+*: 
+	There we are, %a000180!
+*: 
+	I'll place it in poor %a000180's coffin, then.
+*: 
+	I'll be sure to give the prize to %a000180 in the wagon, then.
+*: 
+	You have %a001140 tombola ticket%H1140%X%Ys%Z left. Would you like another go, dear%H0860%X%Ys%Z?
+*: 
+	Dear me! I'm afraid you don't seem to have any tombola tickets.
+*: 
+	Do come back again sometime, won't you?

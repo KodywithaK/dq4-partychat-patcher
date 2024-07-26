@@ -1,0 +1,110 @@
+Bianca
+	We're not far from Stockenbarrel here.
+	I wonder how Dad's gettin' on.
+Nera
+	I remember this place. I stayed here one night with the sister on my way back home from the abbey.
+%0%a001240
+	Oh! I didn't expect there to be an inn here.
+	You know everything, Dad!
+%0%a001250
+	My legs are tired. It's really hard work
+	walking on sand.
+Sancho
+	You want to rest here for today, friend?
+Tuppence
+	What a remote little place. I don't expect I'll find any nice young ladies to entertain me here.
+Bianca
+	Timin' might be important, but it en't everythin'.
+	You need lots of energy too.
+Nera
+	He he he! What a funny little ditty! Just what you need to put a smile on your face.
+%0%a001240
+	Is timing important for life? Grown-ups always talk about such difficult things.
+Sancho
+	Timing? Maybe ees why your Uncle Sancho, he no have a beautiful señora wife, no? Because hees timing, ees no so good.
+Bianca
+	%0%a001210 was a sabrecat and not just a regular cat, eh?
+Bianca
+	You dun't think the sabrecat that bloke was just on about could be...?
+Nera
+	Someone's pet!? Surely you're the only one brave enough to keep a monster as a pet, %a000090!
+%0%a001250
+	Do you think such a fearsome sabrecat
+	really exists? I'd like to see it for myself,
+	wouldn't you, Dad?
+Bianca
+	I wonder what kind of gossip it is.
+	We should have a look!
+Nera
+	Gossip isn't usually a good thing. But... I wouldn't mind having a look to see what it's about.
+%0%a001240
+	Gossip? I want to see it!
+%0%a001250
+	Sancho told us it's not right to gossip about people.
+%0%a001250
+	But if it's written down already, then maybe that's not so bad...
+Bianca
+	It's probably all just much of a muchness, but it can't hurt to take it with.
+Nera
+	I looked all the way through, but I couldn't see anything in there about us. Shame, really.
+%0%a001240
+	We'll take it with us though, won't we?
+	You never know, it could come in useful.
+%0%a001250
+	I think a nice storybook would be much more interesting than that thing.
+Sancho
+	I no read these gossips.
+Sancho
+	Even eef you try to tempt me like the prestidigitator weeth the paella.
+Bianca
+	I remember Dad sayin' somethin' along the same lines. Family's ever so important to him.
+Nera
+	Darling... Um, never mind. I was just thinking how happy I am, that's all.
+%0%a001240
+	It was fun travelling around with Sancho too, but being with you is much better.
+%0%a001250
+	Dad... Aah, it's so nice to be able to call you that after all those years.
+Tuppence
+	It's quite useful seeing how various inns are run.
+	We run an inn back home, as you know.
+Bianca
+	En't those sons of hers the priest and the bloke from the inn?
+Bianca
+	I wonder when she had them! She dun't look old enough to have kids that big!
+Nera
+	Some people get to live together as a family all the time. I can't help feeling a little envious.
+%0%a001240
+	So they're brothers. It must be fun having a brother to play with.
+%0%a001240
+	Not that I don't like %a001250, of course!
+	She's cool too.
+Sancho
+	The papá, always he wants the boy, and the madre, eshe wants the girl, sí? Ees always like thees.
+Bianca
+	Crikey! That took me by surprise! I remember the cat at our place bein' like that at first.
+Nera
+	Oh dear! That cat seems to be in rather a bad mood. I suppose we all have days like that.
+%0%a001250
+	That cat's injured. See where she's licking?
+	I hope she gets better soon.
+Debora
+	This place is quiet as usual. I can't help feeling like I want to stay every night and liven the place up a bit with some singing and dancing!
+Debora
+	You'd better do some chopping or the like to build up your muscles a bit.
+Debora
+	Taming a husband is one thing, but taming a monster is quite another.
+Debora
+	You'd probably be able to do it, though, wouldn't you? I don't know how we're supposed to remind it of its old owner, mind you.
+Debora
+	Gossip is a stupid waste of time. The silly rumours about me back home just meant no one really knew the truth.
+Debora
+	Hey! Why is there nothing about me in here?
+Debora
+	When we have children, I want to just let them do as they please. I only need one servant, and that's you, %a000090.
+Debora
+	For goodness' sake, %a000090!
+	You can tame monsters, but you can't pet a cat without getting into a fight!?
+Debora
+	That innkeeper could tell we were a happily married couple, even though he doesn't know us.
+Debora
+	It's great that you seem nice and happy being my slave. It means you'll stay devoted to me for evermore.

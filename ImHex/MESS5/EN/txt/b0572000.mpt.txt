@@ -1,0 +1,203 @@
+Bianca
+	I didn't expect to find a cave in a place like this.
+Bianca
+	I dun't much like the look of this place. We'd better watch where we're walkin', %a000090.
+Nera
+	Do be careful, darling. I can't help feeling some very sinister vibes here in this cave.
+Nera
+	The path here is so treacherous that just walking along it is enough to make me nervous!
+%0%a001240
+	It's funny that this cave just popped up out of nowhere. You never can tell with the underworld, can you?
+%0%a001240
+	Um, Dad... Are the m-monsters here in this cave really strong? (gulp)
+%0%a001250
+	Ow! My head hurts! I can feel something really powerful in here.
+%0%a001250
+	Um, can you hear something, or is it
+	just my imagination?
+Sancho
+	Friend! Why are we een thees cave?
+	We were eso near to our goal.
+Sancho
+	Uncle Sancho, he no like thees cave eso much.
+	Eef I am een the lead, maybe I ees eslipping and walking on the bobo-trap floor.
+Tuppence
+	Dear me! Whatever is going on here? Why are the monsters so strong?
+Tuppence
+	Ah! I think I've figured it out! This is like a challenge to test our skills before the final battle!
+Tuppence
+	It's a shame they have to make the challenge so tricky, mind you...
+Bianca
+	Hang on a minute! Didn't we just come through here? Now I'm really confused.
+Bianca
+	Why do all the monsters in this place have to be so blimmin' strong!?
+Bianca
+	Do you think someone somewhere is tryin' to test us or somethin'?
+Nera
+	Haah... Haah... Are you alright, darling?
+	The monsters in here are so formidable!
+Nera
+	We keep on moving forwards and yet it feels like we're always back in the same place. I hope we're not lost.
+%0%a001240
+	If we manage to beat the monsters here easily, that'll mean we're invincible, right?
+%0%a001240
+	Then I'm not going to be beaten! I'm going to keep on trying until I get the better of them!
+%0%a001240
+	Can you feel it too, Dad? We're being observed by something powerful. I can sense it.
+%0%a001250
+	Um... Which way did we come from again?
+	And which way do we go now?
+%0%a001250
+	The walls are so high that it's impossible to see where we need to head for.
+%0%a001250
+	This cave is really weird. It feels like the paths between the different rooms in it keep changing.
+Sancho
+	My Majesty. Ees never too late to turn back eef theengs are becoming loco, no?
+Sancho
+	No one weell laugh at you, I promise.
+Sancho
+	Are you lost, friend?
+Sancho
+	At times like thees, there ees only one way to go.
+	You must cast Evac!
+Sancho
+	No? Perdón, My Majesty. Esometimes, I estill theenk of you as a child.
+Tuppence
+	I don't know. This cave is quite a puzzle, I must say.
+Tuppence
+	Haah... Haah... The monsters here certainly put up quite a fight!
+Tuppence
+	I don't suppose I could trouble you to let me have a rest in the wagon every now and then, could I?
+	I'm exhausted!
+Bianca
+	I can't help feelin' like we're goin' to get lost here. We'll have to watch out.
+Bianca
+	I know we dun't have time to hang about, %a000090, but maybe we should try goin' back a bit?
+Nera
+	I wonder how much longer this place
+	stretches on for.
+Nera
+	Walking around aimlessly is just tiring us all out. We should think about going back every now and then.
+%0%a001240
+	I think I'm getting stronger and stronger all the time. Have you noticed, Dad?
+%0%a001240
+	We've come a long way in, haven't we?
+	How much further do you think it goes?
+%0%a001250
+	All of the monsters here seem really angry.
+	Do you think it's because we're here?
+%0%a001250
+	You can feel a breeze in here. Not like the maze we were in before.
+Sancho
+	Uf! Ees no time for siesta yet?
+	There ees no day and night een thees monster underworld. How you know when to rest?
+Sancho
+	I wonder eef señor Pankraz, he knew about thees cave.
+Tuppence
+	Full speed ahead, Tuppence!
+Tuppence
+	Ha hah! I can handle anything this cave throws at me! Let's keep on pushing ahead!
+Tuppence
+	Thanks to all my adventures with you, I've become so much stronger than I used to be.
+Tuppence
+	No amount of training can give you the edge that real battle experience does!
+Bianca
+	Things are gettin' a bit tough. I hope we dun't run into any strong monsters now.
+Bianca
+	The monsters in here are so strong, I'll probably be havin' nightmares about 'em tonight.
+Nera
+	It seems we're out in the open again. What a relief!
+Nera
+	Be careful, darling. I'm sensing something terribly evil around us here.
+%0%a001240
+	Do you think Grandmaster Nimzo is even stronger than the monsters here, Dad?
+%0%a001240
+	Urgh. I'm starting to feel a bit giddy.
+%0%a001250
+	Oh no! I think I'm going to cry! There's something really scary nearby!
+%0%a001250
+	Ouch! My head feels like it's about to split in half. Maybe it's because of the monsters in this cave.
+Sancho
+	Ees no joke, thees cave, My Majesty. Ees eserious.
+	We are too far eenside for jokes.
+Sancho
+	Now I am theenking, who ees wanting to build thees cave? And why?
+Tuppence
+	(puff puff) I think I'm about reaching my limit here, %a000090.
+Tuppence
+	The monsters here are just impossible. I feel totally powerless to stand up to them.
+Bianca
+	Ooh. Is this an aura or somethin'? Wow! I feel like it could blow me away in an instant!
+Nera
+	I can feel an incredible aura here. I can hardly even open my eyes, it's so strong!
+%0%a001240
+	Wow! What do you suppose that is?
+%0%a001250
+	That's who it was. The strong being I've been sensing all this time.
+Sancho
+	You know, sí, My Majesty? Thees monster, he ees more powerful than any monster you have locked horns weeth before.
+Tuppence
+	This is r-ridiculous! How can anyone give off such power when they're sleeping!?
+Bianca
+	Haah... Haah... I reckon that's the strongest monster I've ever fought!
+Bianca
+	I can hardly believe we came out of that one alive.
+Nera
+	It was a difficult battle, that's for sure. But I feel a lot more self-confident having triumphed.
+Nera
+	I couldn't have done it without you, though.
+	Thank you so much, darling.
+%0%a001240
+	Yay! I did it! I did it! We're stronger than ever now!
+%0%a001240
+	What's this Catas Trophy all about? Did he make it so he could have an excuse to test our strength?
+%0%a001240
+	Heh heh! He was quite a funny character, that one!
+%0%a001250
+	I was really scared for a while, but I'm happy now we've won.
+%0%a001250
+	Poor Starkers, being forgotten like that.
+%0%a001250
+	I know! Maybe I could be Starkers's mum so he has someone to look after him!
+Sancho
+	Hahhh... Hahhh...
+	I never...hahh...imagined...hahh...esuch...hahh...a monster!
+Sancho
+	I have lost eso much weight een thees battle,
+	I must eat to myself a whole paella to recover!
+Tuppence
+	I'm alive! I'm still alive! It's a miracle!
+Debora
+	You're not doing too bad a job of things, so you take the lead here, okay?
+Debora
+	It's weird... I feel like I can't quite catch my breath.
+Debora
+	I used to feel stifled when I was forced to study, but this is a whole other level.
+Debora
+	You will protect me if it comes to it, right?
+	I'll give you a hand and everything.
+Debora
+	Ugh. This is far too much exertion for me. Muscles I didn't even know I had are starting to ache.
+Debora
+	We're bound to get lost again on this path.
+	Maybe we should think about turning back.
+Debora
+	Look at me a minute. ...Yep, you've got some spinach stuck in your teeth, you oaf!
+Debora
+	I sense something evil in the air. We'll have to go carefully and try not to get hurt.
+Debora
+	What is this!? What am I feeling? There's an aura so strong I can almost taste it!
+Debora
+	Haah... Haah...
+	Well, we just about managed to pull through.
+Debora
+	Wait a minute! Why don't you seem tired, %a000090? You'll be in trouble if you were making me pick up your slack!
+Debora
+	That's odd. Weren't we here just now?
+Debora
+	Well, if you knew that, then hurry up and sort it out! Stop causing me headaches!
+Debora
+	I do hope you're not fobbing me off.
+	Gentle as I am, I can lose my temper at times.
+Debora
+	Hmm... Fine. If you say we're not lost, I'll believe we're not lost.

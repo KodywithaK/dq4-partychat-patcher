@@ -1,0 +1,92 @@
+*: 
+	Welcome to the slurpodrome!
+	Are you gooing to try your luck?
+*: 
+	Gooness me! You don't seem to have any tokens. You'll have to come back when you've bought some.
+*: 
+	It's race time! Place your bets, ladies and gents.
+	On your marks, get set, goo!
+~ Goo, slimes, goo! ~
+~ The winning formula was: %a001080! ~
+*: 
+	Well, that was a slurp of goo luck!
+	You won %a000720 token%H0720%X%Ys%Z!
+*: 
+	And %a000180 was %H1090%Xfirst%Ysecond%Z past the post, which means you win a slopping %a001100 gold coin%H1100%X%Ys%Z!
+*: 
+	Will %a000180 be bouncing and trouncing in the next race too?
+*: 
+	But %a000180 didn't bounce in first or second, which means you have to pay the fifty gold coin entrance fee.
+*: 
+	Are you gooing to goo ahead and bet on the next race?
+*: 
+	Bad luck! You win some, you ooze some.
+*: 
+	But %a000180 was %H1090%Xfirst%Ysecond%Z past the post, which means you win a slopping %a001100 gold coin%H1100%X%Ys%Z!
+*: 
+	And %a000180 didn't bounce in first or second either, which means you owe the fifty gold coin entrance fee. Goops!
+*: 
+	Hey! You had me all confoozed for a minute there! You don't have any slimes with you.
+*: 
+	If you want to enter a slime in a race, you'll have to moozy on down to the slurpodrome together.
+*: 
+	Which slime do you want to enter in the race?
+*: 
+	Ha ha! You do like to goof around, don't you? %0%a000180 can't race. The slurpodrome is for slimes only!
+*: 
+	So you think %a000180's a gooer, do you? Sorry, but with all the goo will in the world, I can't let %A0180%Xhim%Z%B0180%Xher%Z%C0180%Xit%Z take part today.
+*: 
+	Slimes need to be all groown up and at level twenty or higher to race. Keep up the training and you'll have a slurperstar racer in no time!
+*: 
+	You think %a000180's up to racing? Looks a little woozy to me...
+*: 
+	I think it'd be better if you allowed some time for a bit of rest and regooperation first.
+*: 
+	%0%a000180? Goovy! The entrance fee is fifty gold coins per race, okay?
+*: 
+	Goops! Looks like you're a bit short on funds.
+*: 
+	Super gooper! %0%a000180 will be racing in lane six.
+*: 
+	Do you want to place a bet on the race?
+*: 
+	Oh! Your finances are a bit on the squishy side. You can't afford it.
+*: 
+	No bets, then? You'll just have to hope %a000180 comes up with the goos and wins you a prize instead.
+*: 
+	It's race time! Fingers crossed for first or second place! On your marks, get set, goo!
+~ Goo, slimes, goo! ~
+~ The winning formula was: %a001080! ~
+*: 
+	Gootiful! %0%a000180 was %H1090%Xfirst%Ysecond%Z past the post, which means you slurp off with %a001100 gold coin%H1100%X%Ys%Z!
+*: 
+	Do you want to goo ahead and enter %a000180 in the next race without placing any bets?
+*: 
+	Looks like %a000180 was snoozing on the job there! You still have to pay the fifty gold coin entrance fee, I'm afraid.
+*: 
+	The rules are as simple as one, goo, three! You just have to guess which slimes will come first and second.
+*: 
+	So if you think it'll be the ones in lanes one and five, you bet 1-5.
+*: 
+	It doesn't matter which way round you do it. If the slime in lane five comes first and the slime in lane one comes second, you still win.
+*: 
+	You can bet on several combinations in one race too.
+*: 
+	Make sure you have a goo look at the odds and place your bets carefully.
+*: 
+	You can even have one of your own slimes take part in the race. Just slurp up the small entrance fee of fifty gold coins and you're goo to go!
+*: 
+	Not only do you win money if they come in first or second, you also have your entrance fee refunded.
+*: 
+	The prize money for coming in second is 150 gold coins, and if you come in first, you pocket a slopping 400!
+*: 
+	You don't have to bet if you don't want to, either. You can just sit back and support your own slime as it boings its way to victory.
+*: 
+	No little squirts allowed, though. Remember that your slime has to be an adult and at least level twenty to enter.
+*: 
+	Can I goo anything else for you?
+*: 
+	Slurp on down again soon.
+	Goobye for now!
+~ Choose where to place your bets and press the ~
+~ A Button to gamble your tokens. ~

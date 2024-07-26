@@ -1,0 +1,237 @@
+%0%a001240
+	Did you see that!? That huge great rock just melted away into nothing!
+Sancho
+	Look, friend! There ees a castle at the
+	bottom of the lake!
+%0%a001250
+	That magma staff is really frightening. Imagine what damage it could do if it fell into the wrong hands.
+%0%a001240
+	This place doesn't feel like a normal cave.
+	It's like someone made it. See! The rock there
+	is cut dead straight!
+Tuppence
+	Good heavens! How deep do you suppose
+	this cave is?
+Sancho
+	Ees very dark. You must be careful where you are walking. You no come crying eef you fall over, okay?
+%0%a001250
+	I don't really like the dark, but I'll try not to let it get to me. At least it's better than being somewhere
+	high up.
+Sancho
+	Uf! I was no expecting to find esometheeng
+	like thees!
+%0%a001240
+	Hey, Dad! Can we have a ride on that thing?
+	I reckon it'd be a right laugh!
+%0%a001250
+	I've never seen a cart like that before.
+%0%a001240
+	Wow! Look at all those carts! How are we supposed to decide which one to get on?
+%0%a001250
+	I'm a bit nervous of riding about on these carts.
+	...I suppose I'm quite excited too, though.
+Sancho
+	Your Uncle Sancho, he ees never riding on esometheeng like thees before. Ees, ees eso exciting!
+Tuppence
+	So all we have to do to reach our goal is clamber aboard a cart and settle down for the ride?
+	Ha! If only it were that simple.
+Sancho
+	You know, I no mind the espeed of the carts eso much now, but these jumps! Anda! Ees escary, eh?
+%0%a001250
+	Um... So we go over there... Then up there... Change the points... And... Oh! I'm completely confused!
+%0%a001250
+	Do you think it's safe just to get on these things without a grand plan, Dad? What happens if we get lost and can't find our way out of here?
+%0%a001240
+	I know! We should have a ride on every single cart there is! It's just so much fun!
+Tuppence
+	Yippee! I never imagined such a fantastically fun place existed! It's things like this that make travelling impossible to give up.
+Tuppence
+	Think how much fun it would be if we had
+	something like this in Gotha. It would speed
+	patrol duty up no end.
+Sancho
+	You no get wet before, friend?
+	Thees waterfall, he has a mind of hees own, eh?
+%0%a001250
+	I'm quite keen on these carts now. Can we have a few more goes on them, Dad?
+%0%a001240
+	We'll have to bring Uncle Bertie with us next time. He'd love it here!
+%0%a001240
+	I didn't expect to find a priest in here.
+	He was a bit of a strange one.
+Tuppence
+	It would be nice if we didn't have to encounter any more monsters now. Much more enjoyable.
+%0%a001240
+	Did you hear that? It's a cart going round!
+	We should go and have a look.
+Sancho
+	We must help thees señor.
+	Quick, friend!
+%0%a001240
+	You'd think he'd be enjoying going round and round like that. It doesn't sound like it, though.
+%0%a001250
+	Watching him whirling around is starting to make me feel dizzy.
+Tuppence
+	How terrifying! That's what happens if you just clamber on without thinking about lining
+	your points up first.
+Sancho
+	Ees broken!
+	We must help thees señor.
+%0%a001250
+	Oh no! He took quite a pounding there.
+	Do you think he's alright?
+Tuppence
+	Er... I w-won't tell anyone, don't worry. If he's kicked the bucket, I mean.
+%0%a001240
+	Is it broken now? Won't it go round and
+	round any more?
+Sancho
+	Qué!? Ees thees the way I breeng you up, friend?
+	No, ees no!
+%0%a001250
+	We have to help him, Dad!
+Sancho
+	Maybe ees good that ees broken. You never know eef another señor, he ees gonna be estuck on thees cart.
+%0%a001240
+	It doesn't look like this can be fixed. That's a pity.
+%0%a001240
+	At least Dr Agon wasn't hurt. And it's nice to have someone else on the team for a while.
+Sancho
+	Anda! Now we have a clown een the party!
+	You theenk he ees really a Zenithian?
+%0%a001250
+	Um, Dad... That Dr Agon is odd, isn't he? I'm not sure what it is, but there's just something a bit weird about him.
+Dr Agon
+	We Zenithians usually live to a ripe old age, y'know.
+Dr Agon
+	But I tell you, twenty years going round on
+	that thing, and I'm as hungry as a caterpillar
+	in a coal mine!
+Tuppence
+	I always thought the Zenithians were supposed to be a beautiful and cultured race. I must admit that I'm rather taken aback by this character.
+%0%a001250
+	Why do the archaeologists send other people in to do their work for them? That doesn't seem right.
+%0%a001240
+	A fun place like this surely can't have been built by someone evil! It must've been the Goddess who did it.
+Sancho
+	How long ees thees señor down here?
+	Ees esuch a shame for heem.
+Tuppence
+	It may be a thrill riding about on the carts, but I certainly wouldn't want to be stuck in here with no way of leaving.
+%0%a001240
+	Do you think Dr Agon really is a Zenithian?
+%0%a001240
+	I mean, he's totally different to all the other Zenithians we've met. And he doesn't have
+	any wings, either.
+%0%a001240
+	Huh. I really wanted a go on that spinning
+	cart myself.
+%0%a001250
+	I can't seem to relax when Dr Agon's about.
+	I wonder why.
+%0%a001250
+	We'd better hurry on out of here, Dad.
+Sancho
+	The family of thees señor Agon, they must be eso worried, no? We must take heem to esee
+	them quickly.
+Sancho
+	Twenty years... Maybe eet feels like a long time to you, friend, but when you are old like your Uncle Sancho, eet goes eso fast.
+Sancho
+	But maybe ees no the esame eef you are on a cart all the time, like thees señor Agon, eh?
+Tuppence
+	That's incredible! Twenty whole years spinning around in circles, and yet he doesn't have a hair
+	out of place!
+Tuppence
+	I'll have to remember to pick his brains for some hairstyling tips.
+Tuppence
+	It's rather fortunate that Dr Agon did decide to have a ride on that cart.
+Tuppence
+	Otherwise I might've been the one who ended up stuck on the thing for twenty years solid!
+Dr Agon
+	Gee whillikers, it's been an age since I last had the chance to flap the old facehole!
+Dr Agon
+	Am, am I talking properly? Tell me if I'm using any fun-diddly-unny words, will you, friend? I guess the old licker might be a bit rickety-rusty.
+Dr Agon
+	I guess you look at me and see a jolly Joe with a fresh young smile, but I've been alive a thousand times longer than any of you!
+Dr Agon
+	Huh? You think I'm joking? Ha ha hah! Sure, why not? If that's the way you lickety-like it!
+Dr Agon
+	Hmm... You've had your fair share of suffery-duffery-doodling, eh, %a000090, old buddy? Nothing gets past the old Agon peepers, you know!
+Dr Agon
+	How do you like my outfit, then?
+	It used to put the ⓗpiⓘ in pizzazz twenty years ago. Everyone wanted a piece of my style!
+Dr Agon
+	Ⓠ Round and round we go! Ⓠ
+	Ⓡ Round and round we go-diddly-o! Ⓡ
+Dr Agon
+	Sorry about that. After twenty years on the old circuit, I just can't relax unless I'm chasing my tail!
+%0%a001240
+	Hey! There's Dr Agon. How did he get there?
+%0%a001250
+	You don't think Dr Agon's angry, do you, Dad?
+	We've kept him waiting quite a while now.
+Sancho
+	Qué? Where deed...? Thees señor Agon, he no want to leave thees place, eh?
+Tuppence
+	Oh. It looks like Dr Agon's been waiting for us.
+Tuppence
+	The thought obviously hasn't even crossed his mind that he could find his way to Zenithia alone.
+Bianca
+	Ha! I had no idea there was a cave like this here.
+Bianca
+	Eh? You've bin here before, have you? I'm startin' to think you've bin everywhere!
+Nera
+	I wonder who built this. What a curious place!
+%0%a001240
+	I know my way all around this cave! I reckon I could navigate it even with my eyes closed.
+%0%a001240
+	This is my favourite cave ever! The carts are brilliant. You must think so too, right, Dad?
+%0%a001250
+	I don't have a big destiny to fulfil like %a001240 because I'm not the legendary hero, so can I play here a bit longer?
+Sancho
+	Hahh... Hahh...
+	Wait a momento, friend. Hahh...
+	Ees time...for a siesta.
+Sancho
+	I know you want to play, friend, but ees no a good time. You play when your Uncle Sancho, he ees no here, okay?
+Tuppence
+	I wonder what actually powers all the carts in here. I suppose it must be magic.
+Bianca
+	Now's not the time for a joyride, %a000090!
+	We have to get ourselves over to Nadiria before
+	it's too late.
+Bianca
+	I can't help wonderin' who built this place and
+	why, mind. It's not just s'posed to be a theme
+	park, surely?
+Nera
+	What a delightful place! If only we could just
+	forget our duties and let our hair down and
+	enjoy it properly!
+Nera
+	We'll have to all come back here again when the world's at peace. We could bring a picnic and make
+	a day of it.
+%0%a001250
+	Do you think that man did something so bad that he really deserves to be shut up in here for so long?
+%0%a001240
+	A fun place like this surely can't have been built by someone evil! It must've been the Goddess who did it.
+Sancho
+	How long ees thees señor down here?
+	Ees esuch a shame for heem.
+Tuppence
+	It may be a thrill riding about on the carts, but I certainly wouldn't want to be stuck in here with no way of leaving.
+Debora
+	I'm not usually keen on caves.
+	They're so dark and claustrophobic.
+	This one isn't like all the others, though.
+Debora
+	I never expected to find an amusement ground all the way out here! I wonder who built it.
+Debora
+	Why would anyone build something like this in a cave? It'd be so much nicer if it was outdoors.
+Debora
+	So he's been stuck in here digging all this time? Maybe it's punishment for doing something he shouldn't have.
+Debora
+	Imagine being holed up in here all alone like that!
+	I don't think I could stand it.
+Debora
+	It's terrible to make someone work in this dank and smelly hole! I'd do my best to escape if it were me.

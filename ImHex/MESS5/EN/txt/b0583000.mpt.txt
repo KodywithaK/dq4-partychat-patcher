@@ -1,0 +1,50 @@
+Bianca
+	I didn't expect to find a house in a place like this.
+Nera
+	It's a lovely-looking house, but it must be terribly lonely being stuck all the way out here all alone.
+%0%a001240
+	I know this place! There's a scholar here who knows absolutely everything!
+%0%a001250
+	I remember coming here before.
+Bianca
+	Dun't be so lazy, %a000090. You should at least listen to what he has to say.
+Nera
+	Don't you think that was rather rude of you?
+%0%a001240
+	You should listen to this guy, Dad.
+	He knows his stuff!
+Sancho
+	You are estill the esame hot-headed kid, eh?
+Sancho
+	Eef you no change thees about yourself, friend, you never gonna find what you are looking for.
+Tuppence
+	Dear, dear! Getting a bit big for our boots, aren't we? Surely even he who saves the world could do with a bit of advice every now and then.
+%0%a001250
+	Rockbombs seem quite fond of using the Kamikazee spell. It's really scary.
+Sancho
+	Thees information, ees very useful, sí?
+	Muchas gracias again, señor.
+Sancho
+	Eef you tell me we are coming here today,
+	I prepare esometheeng as a geeft.
+Sancho
+	Thees señor, he helped us muchos when we are looking for Stolos' estaff, you know.
+Bianca
+	It must be a funny old life, bein' stuck here on your own with only a cat for company.
+%0%a001240
+	We stopped by here when we were trying to figure out how to turn you back out of stone.
+%0%a001240
+	The scholar here recommended using Stolos' staff.
+	He really knows what he's talking about!
+%0%a001250
+	The man who lives here knows all there is to know. He's amazing!
+Tuppence
+	Urgh! What a dull and remote place you've brought me to. Why, there's only one man and his cat here for entertainment!
+%0%a001250
+	Hello, cat! Shall we play together again?
+Debora
+	What are we doing all the way out here?
+Debora
+	You already know what he wanted to say, right?
+Debora
+	In that case, we may as well get going.

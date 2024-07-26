@@ -1,0 +1,687 @@
+*: 
+	Ah-phew, ah-phew.
+*: 
+	Zzzz... Aren't you that boy of Pankraz's...?
+*: 
+	Whatever are you doin' here? He'll be ever so worried about you.
+*: 
+	Zzzz...
+Checkpoint Charlie
+	The kingdom of Coburg is just on from here.
+Checkpoint Charlie
+	But a child of your age shouldn't be out alone at this hour of the night!
+Checkpoint Charlie
+	You hurry up and get yourself off home, boy.
+~ The door is rusty and won't budge an inch. ~
+Bianca
+	Huh. What a pain! I hope there's some other way we can get inside.
+*: 
+	Oooh, you're awake now, are you?
+*: 
+	This castle is full of ghosts, I'll have yooo know. You must take care, little one. 
+	Hoo hoo hoo!
+~ The door is rusty and won't budge an inch. ~
+~ The iron bars are heavy and impossible to move. ~
+Bianca
+	I dun't like the feel of this place.
+	Stay close to me, okay, %a000090?
+Bianca
+	Waaah!
+~ %0%a000090 examines the coffin. ~
+~ There doesn't seem to be anything of note. ~
+*: 
+	............
+*: 
+	I seee yooo!
+~ ............ ~
+~ It's pitch black and impossible to see a thing. ~
+~ It's like being trapped in some kind of ~
+~ small space. ~
+~ There's a heavy stone lid above %a000090's head. Try to move it? ~
+~ %0%a000090 uses all of his strength to push the stone lid away. ~
+~ There's an inscription carved into the tombstone. ~
+~ It says something about it being %a000090's grave. ~
+~ But %a000090 can't read very well, and isn't sure of the exact wording. ~
+~ It's getting hard to breathe. It won't be long before %a000090 loses consciousness at this rate! ~
+~ Try to move the stone lid above %a000090's head? ~
+*: 
+	Uuurh...
+~ There's an inscription carved into the tombstone. ~
+~ It says something about it being Bianca's grave. ~
+~ But %a000090 can't read very well, and isn't sure of the exact wording. ~
+*: 
+	Uuurh...
+~ It sounds like there's a voice coming from the grave! Have a look inside? ~
+~ %0%a000090 uses all of his strength to push the grave open. ~
+Bianca
+	Phew! That was horrible! Couldn't you have got here any sooner!?
+Bianca
+	Thanks for helpin' me out, anyway.
+	We'd better get a move on.
+*: 
+	............
+~ The Countess is looking sadly towards the door to the roof. ~
+~ The Countess looks kindly at %a000090 and Bianca, and then closes her eyes. ~
+*: 
+	Gooooood evenink to yooo.
+	I am Miss Count of Uptaten Towers.
+Miss Count
+	Ten years ago now, ze people of my castle were attacked by ze monsters and killed.
+Miss Count
+	Vy did such thing happen, yooo ask?
+Miss Count
+	It is said that an evil being tries to take from ze vorld all children viz any status.
+Miss Count
+	But Count Uptaten and I are havink no children.
+Miss Count
+	And I believe zis angered ze monsters and made zem kill us all.
+Miss Count
+	Still, zere is no use in counting ze cost of it over and over. Vot's done is done. But...
+Miss Count
+	Yooo see, ve vooould like very much tooo rest in peace. I am hopink yooo vill be able tooo help us.
+Miss Count
+	Could yooo try tooo banish from zis old, derelict castle ze ghosts zat now live among us?
+Miss Count
+	If zese ghosts are not gone, ve people of ze castle are fated tooo forever dance upon zis cursed stage of limbo.
+Bianca
+	It's as dark as you like in here!
+	Watch where you're walkin', eh, %a000090?
+Count Uptaten
+	Ooooooh! Yooo are ze first people tooo have ze courage tooo come zis far!
+Count Uptaten
+	Many years ago, zere came tooo zis castle ze ghosts whooo now live here.
+Count Uptaten
+	My vife, Miss Count, and I are finding it impossible tooo rest in peace.
+Count Uptaten
+	How zings have changed! I still remember ze days ve vould enjoy ze afternoooooon tea vile vatching ze flowers bloooooom.
+Count Uptaten
+	Please! I beg yooo! Banish from zis castle ze ringleader of zese ghosts. Zen ze rest vill follow vun by vun.
+Count Uptaten
+	Vunderful! I hoped I could count on yooo! Yooo are indeed very brave.
+Count Uptaten
+	Zis ringleader vill be in ze throne roooooom, guarded by his evil minions, ze spirits of dark vorld.
+Count Uptaten
+	Yooo came throoough a very dark floooooor on yooor vay here, correct? Zat is ze roooooom vere zis ringleader is lurkink.
+Count Uptaten
+	Just take ze stairs up after ze doooooor just zere. Remember zat I'm countink on yooo!
+Count Uptaten
+	I am sorry. I zink I am not hearing yooo correctly.
+	I ask vun more time. Yooo vill help me, yes?
+Count Uptaten
+	Ooooooh! I have been vaiting a long time for someone to appear from zere.
+Count Uptaten
+	Vait! Zere is still somezing I must tell to yooo. Yooo young people must be more patient before yooo go runnink off!
+Count Uptaten
+	Zere is no use in yooo goink directly tooo ze throne roooooom now. It is tooo dark for yooo tooo see.
+Count Uptaten
+	Yooo must go throoough the grand hall tooo ze basement. In a jar in ze kitchen, yooo vill find
+	a torch.
+Count Uptaten
+	Viz zis, yooo vill banish ze darkness and bring in ze light. Easy as vun, ha ha ha, twooo, ha ha ha, zree!
+Count Uptaten
+	Zat's ze vay!
+Count Uptaten
+	I make ze rusty dooor open for yooo also. Goood luck and stick together. Zere is safety in numbers, remember!
+Count Uptaten
+	Yooo must go throoough the grand hall tooo ze basement. In a jar in ze kitchen, yooo vill find
+	a torch.
+Count Uptaten
+	Zis torch is sacred item I received once from queen of certain country.
+Count Uptaten
+	I zink ze spirits of dark vorld vill be afraid of ze light and it vill make zem disappear.
+Count Uptaten
+	Ooooooh! Yooo have ze torch! Vunderful!
+Count Uptaten
+	Now just climb ze stairs and find ze throne roooooom vere is vaiting ghost ringleader.
+Count Uptaten
+	His number vill soooooon be up!
+*: 
+	Oh dear. Oh dear, oh dear! It's not only ghosts, but spirits of the dark world Nadiria too!
+*: 
+	This must mean that Grandmaster Nimzo is extending his grip on our world. I read all about him in a book once!
+*: 
+	Ssss. I was supposed to be chief of the castle guards, but I couldn't protect the Count from those monsters.
+*: 
+	(sizzle sizzle) If only somebody, anybody, could stop the Grandmaster of Nadiria and bring peace back to our world!
+*: 
+	Wa ha ha! Dance! Dance!
+	Dance your toes to the bone!
+*: 
+	Wa ha ha! The boss has found us a great place to rest our weary skulls!
+*: 
+	Dance! Dance an eternal dance and keep us entertained for evermore!
+*: 
+	Ugh. My stomach's empty.
+*: 
+	Huh. What's taking dinner so long?
+	My mouth's dry as a bone here.
+*: 
+	I heard there's going to be a real
+	feast tonight.
+*: 
+	Pah! Can't you put a bit more feeling into
+	this dance?
+*: 
+	You'll make the food taste bad at this rate.
+*: 
+	I'm going to eat until my bones burst tonight!
+*: 
+	Mmmm. I smell the smell of tasty children!
+*: 
+	Wa ha ha! It won't be long before we're tucking in!
+*: 
+	I don't understand what's taking dinner so long! We'll have to go down and rattle some bones in the kitchen if it's much longer!
+*: 
+	Heeelp!
+	Somebody make it stop!
+*: 
+	Aaargh! My legs!
+	I can't make it stop!
+*: 
+	It's such a shame. The Count and Countess used to enjoy drinking tea from the most exquisite tea set.
+*: 
+	Now that lovely silver pot and cups are probably lying somewhere forgotten.
+	What a terrible waste!
+*: 
+	The ghosts told us it was too boring watching us dance, so I suppose we're lucky in that respect.
+*: 
+	We should probably count our blessings, but it would be nice to be able to finally sleep
+	in peace.
+~ The door is rusty and won't budge an inch. ~
+~ But then a warm breeze blows from out of nowhere. ~
+~ The rusty door is open! ~
+*: 
+	Ssss. Welcome.
+	Do you wish to stay the night?
+*: 
+	I wish you a warm and pleasant sleep.
+*: 
+	Very well.
+	Perhaps next time (sizzle sizzle).
+*: 
+	Ssss. I came here looking for some sizzling hot treasure.
+*: 
+	I haven't found it yet, though. Ssss.
+*: 
+	Urgh! I think I'm going to be sick!
+	I can't prepare a meal like this!
+*: 
+	The boss is going to bring out a special ingredient he's been saving.
+*: 
+	Can't you see I'm busy? Go away!
+Bianca
+	It's really dark.
+	We'd better use the torch, %a000090.
+~ %0%a000090 lights the torch. ~
+~ A beautiful pale light illuminates the surroundings. ~
+*: 
+	Hah! You children are very brave coming
+	this far!
+*: 
+	Why don't I cook you a nice, tasty dinner as a reward? Come with me!
+*: 
+	Perhaps I should mention...you're the main ingredient!
+*: 
+	You're not afraid of me, are you? Surely you're not such scaredy-cats if you've made it this far!
+*: 
+	Oh no! I couldn't possibly! I can't make a meal out of two poor children!
+*: 
+	It's just not a recipe I'm comfortable with!
+*: 
+	Do you want your neck sliced off by the scythe of hell!?
+*: 
+	No? Then I suggest you start preparing
+	this meal!
+*: 
+	Yikes!
+*: 
+	Mmm. Smells good! I can hardly wait.
+	Haul her up!
+*: 
+	Right away!
+*: 
+	Mmmm! This looks tasty!
+*: 
+	We'll be chewing this one down to the bone!
+*: 
+	Thank the Goddess! You're safe!
+*: 
+	I can't tell you how relieved I am.
+	Now I'll be able to rest easy.
+*: 
+	What are you doing here!? I thought the skeletons would've made a meal of you by now!
+*: 
+	Well, if they can't stop their dinner running away, then maybe I should tuck in instead!
+*: 
+	H-Help! We'll leave the castle, I promise!
+*: 
+	If we all go, there won't be any more monsters coming here, I'm sure!
+*: 
+	We were forced out of Nadiria, you see. So we were just looking for somewhere nice to live.
+*: 
+	Surely you can forgive that? Right?
+*: 
+	Heh heh heh. Well, that's a relief.
+	You'll grow up to be a fine young man, I'm sure.
+*: 
+	There's no need to be like that!
+	Surely you can forgive us, boy!
+Count Uptaten
+	I knew I could count on yooo!
+	I cannot zank yooo enough.
+Miss Count
+	Yes. Zank yooo so very much. Ve vere on tenterhooooooks, but now ve are so relieved. We can rest at last.
+Miss Count
+	Ze other castle inhabitants already are
+	sleepink peacefully.
+Count Uptaten
+	Are yooo ready tooo depart, my dear?
+Miss Count
+	Yes, my darlink.
+Miss Count
+	Goooooodbye.
+	Ve vill never forget yooo.
+Bianca
+	Well, that's good. Now the two of them can finally sleep peacefully together.
+Bianca
+	Those ghosts who took over this place were a nasty bunch, eh?
+Bianca
+	But it's the monsters who came along and killed all those poor innocent people who are the most to blame.
+Bianca
+	Oh! What's that? What a pretty ball!
+Bianca
+	I'll bet it's some kind of reward.
+	We should take it with us.
+~ Bianca takes the glowing gold orb and hands it to %a000090. ~
+~ %0%a000090 acquires the gold orb! ~
+~ ⓗHere lies Count Uptaten, whose number is now sadly up.ⓘ ~
+~ ⓗHere lies Miss Count, now sadly out for ~
+~ the count.ⓘ ~
+Bianca
+	He was quite romantic for a posh count-type person, eh?
+Bianca
+	I s'pose we'd better be gettin' back now.
+~ %0%a000090 acquires %a040100. ~
+~ That completes the toff's tea set! ~
+~ %0%a000090 acquires the toff's tea set! ~
+*: 
+	Pankraz! Welcome home, sir!
+Pankraz
+	It's good to be back, my man!
+Sancho
+	Hola, señor!
+	I, I eso happy to esee you.
+Sancho
+	Cómo está? How are you feeling now?
+	Are you estill a leettle unwell?
+Sancho
+	Qué? Eet was just a cold? Ha ha ha!
+	Bravo, bravo!
+Sancho
+	Ah, sí... While you have been away, señor, thees letter, he came for you.
+Pankraz
+	Hmm...
+Sancho
+	Well, friend, I expect you are tired after all thees travelling, sí?
+Sancho
+	Maybe you have a leettle siesta, uh?
+Pankraz
+	Good morning, %a000090!
+	Slept well, I trust?
+Pankraz
+	I've some things I need to look into, so I'll be staying in today.
+Pankraz
+	Make sure you don't go wandering off out of town. Understand?
+Sancho
+	Eh, buenos días!
+Sancho
+	Was eet you, friend? Are you the one who hide my chopping board esomewhere?
+Sancho
+	Ees very estrange. Esomeone ees playing games weeth me...
+Sancho
+	I find my chopping board een the chest of drawers! Maybe you theenk your Uncle Sancho, he ees going loco, eh?
+Sancho
+	No, no, no. Esomeone ees playing games weeth me...
+*: 
+	Brrrrr. I'm f-f-f-f-freezing! It's supposed to be s-s-summer before long. I don't g-g-get why it's
+	so c-c-cold.
+*: 
+	There's a whole lot of funniness goin' on here in the village at the minute.
+*: 
+	I wonder if it's got anythin' to do with that odd fella who was here the other day.
+*: 
+	It's extremely dangerous outside of the village. You be a good boy now and go back home where you'll be nice and safe.
+*: 
+	My poor plants are really sufferin' here with this cold. I'm at my wits' end, I am.
+*: 
+	My poor plants are really sufferin' here with this cold. I'm at my wits' end, I am.
+*: 
+	Hey! Where did you get that stone, boy? Find it at the bottom of the well, did you?
+*: 
+	I went huntin' about in the cave back in my younger days, lookin' for some of them famous Whealbrook bluestones.
+*: 
+	Ah, yes. I remember pokin' about them big
+	rocks hopin' for a sign of some ore. It doesn't
+	half take me back.
+*: 
+	My poor plants are really sufferin' here with this cold. I'm at my wits' end, I am.
+*: 
+	This here's Whealbrook. We only ever get nice and friendly folk visitin' our village.
+*: 
+	Meow! Meow! Meow!
+*: 
+	You're Pankraz's son, if I'm not mistaken.
+*: 
+	This might just be hearsay, but it sounds like he's got an almighty enemy out there somewhere.
+*: 
+	If only you were more grown up, you'd be able to help him out.
+*: 
+	Hello. That's an interesting-looking gem you've got there.
+*: 
+	It's a gold orb, you say?
+*: 
+	May I have a closer look?
+~ %0%a000090 hands over the gold orb. ~
+*: 
+	Wow. It's even prettier up close.
+~ The man hands the gold orb back to %a000090. ~
+*: 
+	Erm, make sure you take good care of your father, okay?
+*: 
+	Oh, go on. It's not like I'm planning on stealing it or anything. You can trust me, I promise.
+*: 
+	No matter how hard things may get for you, keep your head held high and never give up.
+	Remember that, okay?
+*: 
+	I don't suppose that splendid-lookin' fella is still standin' outside the church, is he, boy?
+*: 
+	Hm. What to do, what to do... I wonder if it's me he wants to see...
+*: 
+	Now that is odd. I could've sworn I'd put my sewin' box in the cupboard, and yet there it is on the chair.
+*: 
+	My mind must be playin' tricks on me.
+*: 
+	Dear me! I turn my head for a second, and come back to find the pot practically licked clean!
+*: 
+	The old man should just speak up if he's that hungry.
+*: 
+	I didn't eat it, I tell you!
+*: 
+	Honestly! That old dragon of a wife of mine treats me like a child sometimes!
+*: 
+	Hey! Someone's gone and written a weird message in my guest book. It wasn't you, was it, boy?
+*: 
+	You're that kid who likes caves, right?
+	I'm the guard who was standin' in front of  Whealbrook Adit before.
+*: 
+	There's a funny fella in the village at the moment who's causin' quite a stir.
+*: 
+	He was standin' by the church last time I looked. You be careful of him, alright, boy?
+*: 
+	That's funny. I'm sure there was no glass here before.
+*: 
+	A lot of weird things seem to be happenin' just lately.
+*: 
+	Yikes! You can see me!?
+*: 
+	Yippee! At last, someone who can see me!
+*: 
+	Who am I?
+	Tee hee! I might tell you, but not here.
+*: 
+	One of the houses here in the village has a room in the cellar.
+*: 
+	Come and meet me there. Race you!
+*: 
+	So you're Pankraz's son are you, boy?
+*: 
+	Come to think of it, I seem to remember there bein' a King Pankraz of somewhere or other once.
+*: 
+	Not that that has anythin' to do with your dad, of course!
+*: 
+	Now my old man's back, I've been able to open up the shop again. Maybe I could do you a deal?
+Mr Rockefeller
+	Ah! You're the young laddie from the cave aren't you, boy? You really helped me out of a tight spot back there.
+Mr Rockefeller
+	In fact, I'd say you deserve a reward!
+	Have a look in that drawer just there.
+Mr Rockefeller
+	Has anyone ever told you that you've got really kind eyes? It's like magic.
+	One look from you and my spirits soar!
+*: 
+	You came! But I beat you!
+	My name's Honey. I'm a faerie!
+Honey
+	But our land ⓚⓛ our magical, faerie land ⓚⓛ is in terrible danger.
+Honey
+	That's why I was sent to the human world: to find help. But everyone here's been ignoring me.
+Honey
+	Tee hee hee! I even played a few tricks on people so they'd have to take notice of me.
+Honey
+	And it worked! See, you came aloⓚⓛ
+Honey
+	Ssh! Someone's coming!
+Pankraz
+	I was sure I heard voices down here, so I thought you must be playing with someone.
+	But I see you're alone.
+Pankraz
+	Brrr. It's freezing down here. Stop talking to yourself and come upstairs before you catch a cold.
+Honey
+	Tee hee! It's true. No one else can see me!
+Honey
+	Anyway, will you come with me? To my land?
+Honey
+	Then Treacle will tell you everything.
+Pankraz
+	Good morning, %a000090!
+	You were restless in the night.
+	Did you have a bad dream?
+Pankraz
+	What? The faeries are in trouble?
+	Ah ha ha! You're still half asleep, my lad!
+Pankraz
+	I've some things I need to look into, so I'll be staying in today. You go off and play. But stay in town, you hear?
+Sancho
+	Eh, friend. Why you looking eso esad, uh?
+Sancho
+	I know ees boring here, but your papá, he has important theengs he must do.
+	You no get een hees way, okay?
+*: 
+	That's strange. The funny message in my guest book has disappeared.
+*: 
+	What in the world is goin' on!?
+*: 
+	There's a funny fella in the village at the moment who's causin' quite a stir.
+*: 
+	And there are rumours that there's someone bad out to get Pankraz.
+*: 
+	Make sure you watch your back, eh, boy?
+*: 
+	My old man found the glass he was after, but it doesn't look like the thing Pankraz is lookin' for is so easily found.
+*: 
+	I heard it was somethin' to do with a legendary hero or the like.
+*: 
+	Sorry! Listen to me, borin' a kid with grown-up stuff like that!
+*: 
+	Hello. That's an interesting-looking gem you've got there.
+*: 
+	It's a gold orb, you say?
+*: 
+	Do you mind if I have a closer look?
+~ %0%a000090 hands over the gold orb. ~
+*: 
+	Wow. It's even prettier up close.
+~ The man hands the gold orb back to %a000090. ~
+*: 
+	Erm, make sure you take good care of your father, okay?
+*: 
+	Oh, go on. It's not like I'm planning on stealing it or anything. You can trust me, I promise.
+*: 
+	No matter how hard things may get for you, keep your head held high and never give up.
+	Remember that, okay?
+*: 
+	I saw that young lad who was in front of the church before headin' off towards the cave.
+	I hope he's alright.
+*: 
+	Don't you think about goin' to dangerous places like that, d'you hear, boy?
+*: 
+	Pankraz seems nice and settled at the moment, but I suppose he'll be off on his travels again before long.
+*: 
+	It must be hard on you sometimes, boy, but you make sure you give him all the support he needs, alright?
+*: 
+	Dear, oh dear, oh dear! Not another empty pot!
+*: 
+	This is all very odd!
+*: 
+	I decided to have a feast. That's what the old dragon thought I'd done anyway, so I may as well get some pleasure out of the ear-bashin'!
+Honey
+	Sweet! You came!
+	Come on, I'll take you to meet Treacle.
+Honey
+	I've brought a human warrior as you requested, Treacle.
+Treacle
+	My, what a cute little warrior he is too!
+Honey
+	N-No! He's not cute! He might look cute, but he's really not! I mean, he's reallyⓚⓛ
+Treacle
+	Alright, Honey, settle down!
+	I can see his potential perfectly well.
+Treacle
+	It's %a000090, isn't it?
+	Welcome to Faerie Lea, the soft and creamy home of the faeries.
+Treacle
+	I believe the reason you can see us faeries when other humans cannot is because you have a special power.
+Treacle
+	And so I have a favour to ask you, %a000090.
+	Will you help me and my kind?
+Treacle
+	You see, one of our greatest treasures, the Herald of Spring, has been stolen.
+Treacle
+	It's a flute that we faeries use to summon spring in all its sweetness. Without it, the bitterness of winter will continue forever.
+Treacle
+	We need your help to get it back, %a000090. Will you help us recover the Herald of Spring?
+Treacle
+	You will? What sweet music to my ears!
+Treacle
+	I want you to go along with %a000090, Honey.
+Honey
+	Yes, Treacle!
+~ Honey joins %a000090. ~
+Treacle
+	I hope you can help us, %a000090.
+	You are our last chance!
+Treacle
+	I see...
+	Well, I won't hold it against you. I'm not bitter.
+Honey
+	Why did you refuse Treacle?
+	I thought you'd make a really brave warrior, but it looks like I was wrong.
+*: 
+	We faeries aren't strong enough to wield swords.
+*: 
+	We need your help, %a000090. That's why Treacle asked you. Please, do what she asks of you.
+*: 
+	The faeries are responsible for the passing of the seasons.
+*: 
+	If they can't summon spring, the winter will never end and the whole world will freeze.
+*: 
+	If you travel north from here, you'll reach the winter wasteland. They say there's a place called the Winter Palace there.
+*: 
+	But apparently its doors are always locked.
+*: 
+	Tee hee hee! You're the warrior Honey brought from the human world to get the Herald of Spring back!?
+*: 
+	Oh, my! Er...I heard that the thief who stole it fled to the Winter Palace. Good luck!
+*: 
+	The view from here in springtime is breathtaking.
+*: 
+	Treacle's far too soft, if you ask me.
+*: 
+	How can faeries and humans live together in peace, let alone monsters?
+*: 
+	It's because of Treacle that we're stuck in this endless winter without a flute.
+*: 
+	I know where he went. That thief ran away north with Treacle's precious Herald of Spring.
+*: 
+	Treacle's really warm and kind.
+*: 
+	And gooey too. That's a compliment from a slime, you know. She let me live here in Faerie Lea, even though I'm a monster.
+*: 
+	Aaaah!
+	Th-That's a great sabrecat!
+*: 
+	I know it's only a young cub, but even so...
+	I've never heard of anyone befriending a sabrecat. They come straight from hell!
+*: 
+	Oooh, that's good! Nothing like a bath.
+	You can feel the heat right down to your bones.
+*: 
+	You're new here, are you? Have you heard about the dwarf who lives in a cave over to the west?
+*: 
+	You have? You're very well informed.
+*: 
+	Apparently he was ousted from Faerie Lea when he wrote a book about thieving and locks. ⓗLots about Locksⓘ it was called.
+*: 
+	If Treacle had been in charge back then, it wouldn't have been such a bone of contention. Poor dwarf.
+*: 
+	I don't know. I hardly get a single customer these days. So then, how does this go again...?
+*: 
+	It wasn't my idea! Dwight went off on his own. I knew nothing about it.
+*: 
+	I don't know where he got the idea that it was Treacle who chucked me out of Faerie Lea.
+*: 
+	I-I'm sorry about all this. I don't suppose you'd be interested in my book, ⓗLots about Locksⓘ, would you? To make up for Dwight's behaviour...
+*: 
+	It's shut away in a treasure chest right at the bottom of this cave.
+*: 
+	And if you come across Dwight, set him straight for me, would you?
+*: 
+	It wasn't my idea! Dwight went off on his own. I knew nothing about it.
+*: 
+	I don't know where he got the idea that it was Treacle who chucked me out of Faerie Lea.
+*: 
+	I-I'm sorry about all this. I don't suppose you'd be interested in my book, ⓗLots about Locksⓘ, would you? To make up for Dwight's behaviour...
+*: 
+	Oh! You've already absorbed its wisdom, I see.
+*: 
+	Well anyway, if you come across Dwight, set him straight for me, would you?
+*: 
+	So, you're a master of all that ⓗLots about Locksⓘ has to teach now, are you?
+*: 
+	It's not every door you'll be able to open, but you shouldn't have any trouble with simple locks.
+*: 
+	By the way, if you come across Dwight on your travels, set him straight for me, would you?
+*: 
+	Ooh! A gooman and a faerie!
+*: 
+	I'm not a bad slime. Really, I'm not.
+	I wouldn't just goo off with the Herald of Spring. It was Dwight.
+*: 
+	Heh heh heh. You lookin' for that ⓗLots about Locksⓘ book an' all?
+*: 
+	Well you may as well go 'ome, then.
+	You ain't gonna get it before me, mate!
+*: 
+	Heh heh heh. You lookin' for that ⓗLots about Locksⓘ book an' all?
+*: 
+	Eh? Gordon Bennet! You got it already?
+*: 
+	Hmph! Better watch yer back, mate. I'm like an elephant, me. I pack a mean trunk!
+	Er, no... I mean, I never forget nuffin'!
+~ %0%a000120 opens the treasure chest. ~
+~ There's a book entitled ⓗLots about Locksⓘ inside! ~
+~ A strange aura radiates from the book and envelops %a000090... ~
+~ %0%a000090 magically absorbs the wisdom from the pages of ⓗLots about Locksⓘ! ~
+~ As the aura fades away, the book disintegrates into thin air... ~
+*: 
+	Thanks to you, Dwight realised his mistake.
+*: 
+	Yay!
+	Dwight's back, Dwight's back!
+	Yay!
+Dwight
+	I can't belieb it, trickig me like, like, like ⓚⓛ Ahchoo! ⓚⓛ dat!
+Dwight
+	You know, you fight preddy well. (sniff) Bud I could've bead you if I wanded.
+Dwight
+	I'll show you next dime. Da White Dwarf reigns supreme! Ahchoo!

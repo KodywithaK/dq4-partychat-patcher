@@ -1,0 +1,848 @@
+*: 
+	Awright, darlin'! 'Ow about I share wiv you me little tip on guaranteein' yourself a win at poker?
+*: 
+	Five grand to you, missy. Can't say fairer than that. Give us five thousand gold, an' I'll tell ya the business, okay?
+*: 
+	Woof woof!
+*: 
+	Ooh, it's not often we have any
+	passing trade here!
+*: 
+	While you're here, I might as well give you
+	a couple of pointers.
+*: 
+	If you cross the desert west of here, you come to the queendom of Helmunaptra.
+*: 
+	And if you cross the ocean south-east from here, you come to King Dominicus's Dominion.
+*: 
+	What do you want? Come for a gander at me desert rose collection, have ya?
+*: 
+	Hey, I wonder how that old geezer's gettin' on. There was this bloke here a while back who said he was headin' north to build a museum or the like.
+*: 
+	Ruff ruff!
+*: 
+	Ooh, it's not often we have any
+	passing trade here!
+*: 
+	While you're here, I might as well give you
+	a couple of pointers.
+*: 
+	If you cross the desert west of here, you come to the queendom of Helmunaptra.
+*: 
+	And if you cross the ocean south-east from here, you come to King Dominicus's Dominion.
+*: 
+	Ah-ha! You must be Miss %a001230's husband.
+*: 
+	And there you are too, %a001230.
+*: 
+	Excellent. I was sent out by Mr Briscoletti on a bit of a mission, you see.
+*: 
+	Huuurgh-up!
+*: 
+	To give you this. There, I've done it now.
+	Goodbye!
+*: 
+	Urgh... So...hot...
+	Throat...dry...
+	W-Water...
+*: 
+	Please...
+	Need...water...
+*: 
+	Water! Water!
+	Glug, glug, glug, glug, glug...
+*: 
+	Thank you. You saved my life! I'm actually a travelling salesman, you know.
+*: 
+	Thank you. You saved my life! I'm actually a travelling salesman, you know.
+*: 
+	Have you heard of these desert rose things?
+*: 
+	That's why I'm here. I came looking for one.
+	The only trouble is, I forgot my hat, and it's far
+	too hot to go exploring without a hat here.
+*: 
+	Aaah... Will I never learn?
+*: 
+	They're actually rocks that are shaped like
+	roses, apparently.
+*: 
+	Most of the time they're buried under piles of sand, but there are sandstorms in this area every night that shift the sand about.
+*: 
+	If you spend the night at the inn and go out looking early in the morning, you're almost guaranteed to find one lying around.
+*: 
+	My sister had a fight with my dad and stormed out. I think she's never coming back.
+*: 
+	I hope she's okay.
+*: 
+	A wandering minstrel such as myself has seen many places, but this castle was a complete
+	surprise to me.
+*: 
+	The people here have wonderful tales about a legendary hero, passed down to them from their parents, and their parents' parents.
+*: 
+	Far in the dim and distant past, a Zenithian woman descended from the heavens.
+*: 
+	Her child was to become a hero.
+	The saviour of the world.
+*: 
+	That is but one of the many folk tales about the legendary hero.
+*: 
+	A thousand welcomes, %H0860%Xwanderer%Ywanderers%Z of the desert.
+	This is the queendom of Helmunaptra.
+*: 
+	Cleohatra, Queen of the Desert, embraces all visitors of the desert.
+*: 
+	I'm researching the legendary hero.
+*: 
+	It is now clear to me that he did indeed come from Zenithian blood.
+*: 
+	But tracing his family line beyond the hero himself is extremely difficult.
+*: 
+	There's really no way to find out what happened to him now.
+*: 
+	Long ago, one of our ancestors accompanied the legendary hero on his quest.
+*: 
+	When together they restored peace to the world, he settled here, and Helmunaptra was born.
+*: 
+	Do you know what the ancient wisdom says?
+	When a plague revisits the world, the legendary
+	hero shall come once more.
+*: 
+	Welcome, %H0860%Xtraveller%Ytravellers%Z. This is the training room of
+	our warriors.
+*: 
+	It is written in the stars that we must guard the legendary helm.
+*: 
+	We must keep it safe until the legendary
+	hero returns.
+*: 
+	Kaaah! Stand back, or be hurt!
+*: 
+	Practising against a mannequin might just seem like sport, but the results are deadly! Hii-yaaah!
+*: 
+	You may find Queen Cleohatra below, in the Garden of Tranquility.
+*: 
+	Queen Cleohatra foretells of a great calamity.
+	A vast shadow that will once more cover the world.
+*: 
+	She awaits the arrival of the Great One.
+*: 
+	Ha ha hah! Your heart leaps in surprise to see such a beautiful garden in the middle of the desert?
+*: 
+	Queen Cleohatra blesses us with this paradise, more precious than beetle's blood.
+*: 
+	Her astounding beauty, and her eyes that
+	penetrate the mysteries of the future are her
+	two greatest powers.
+*: 
+	The flowers of the Garden of Tranquility require constant tending.
+*: 
+	Mummy mia! What beauty you possess!
+	A jewel of the desert to rival our own!
+Bianca
+	Crikey! You certainly know how to flatter a girl, eh?
+*: 
+	The flowers of the Garden of Tranquility require constant tending.
+*: 
+	Mummy mia! What purity of heart I see in this young lady!
+*: 
+	The desert can be a harsh place for a delicate jewel. May every star in the night sky bless you
+	and keep you safe.
+*: 
+	Travellers come here in search of desert roses.
+*: 
+	They are said to be found in places that once were blessed with water. In oases.
+*: 
+	Helmunaptra must once have been a rich and fertile land.
+*: 
+	Welcome to my queendom.
+	I am Cleohatra, Queen of the Desert.
+Queen Cleohatra
+	You are here to visit the sacred grave of the legendary hero?
+Queen Cleohatra
+	Yes. It is meant to be. I sense a rare power
+	within you.
+Queen Cleohatra
+	Follow me.
+	I will show you.
+Queen Cleohatra
+	This way.
+Queen Cleohatra
+	The desert can be harsh to those who do not know its secrets. Rest well on your journey.
+Queen Cleohatra
+	You have told me you came to visit the sacred grave of the legendary hero.
+Queen Cleohatra
+	Though the memory of the legendary hero is lovingly enshrined here, in truth, this is not a grave.
+Queen Cleohatra
+	Obscurity clouds our knowledge. What happened to the hero after saving the world is a mystery.
+Queen Cleohatra
+	But the Zenithian Helm has been passed down through generations of Helmunaptrans.
+Queen Cleohatra
+	When the legendary hero appears once more, he will come in search of this helm.
+Queen Cleohatra
+	My ancestors built this shrine to protect it
+	until that day.
+Queen Cleohatra
+	Please, try on the helm...
+~ %0%a000120 examines the magnificent helm that's on display. ~
+~ It's the Zenithian Helm! ~
+~ %0%a000090 tries it on. ~
+~ It rests as heavy as lead on his head. It doesn't look like %a000090 can equip himself with it. ~
+~ %0%a000090 puts the helm back. ~
+Queen Cleohatra
+	No. It was not meant to be.
+Queen Cleohatra
+	I felt an unusual power within you, but you are not the one.
+Queen Cleohatra
+	Let us return now.
+	Please, follow me.
+Queen Cleohatra
+	Where are you going?
+	Please, try on the helm...
+~ %0%a000120 examines the magnificent helm that's on display. ~
+~ It's the Zenithian Helm! ~
+~ %0%a000090 tries it on. ~
+~ It rests as heavy as lead on his head. It doesn't look like %a000090 can equip himself with it. ~
+~ %0%a000090 puts the helm back. ~
+~ There's a stone tablet... ~
+~ ⓗWhen falls the never-ending night, ~
+~ then shall the hero return.ⓘ ~
+Queen Cleohatra
+	Though I cannot see deeply, I am blessed with the power to look into people's hearts.
+Queen Cleohatra
+	I believe that what I felt from you was the strength of your own desire to find the legendary hero.
+Queen Cleohatra
+	May I ask why you are so determined to find the Great One?
+~ %0%a000090 explains the situation... ~
+Queen Cleohatra
+	You have inherited your father's mission to rescue your mother from Nadiria?
+Queen Cleohatra
+	Then your father's name was Pankraz?
+Queen Cleohatra
+	You come from the kingdom of Gotha, far across the ocean toward the eastern sky...
+Queen Cleohatra
+	The kingdom that King Pankraz left with his infant child to go in search of his kidnapped wife...
+Queen Cleohatra
+	Yes, I have heard many such rumours from travellers passing through my queendom.
+Queen Cleohatra
+	If you are the son of Pankraz, you should return to the east. To Gotha, your homeland.
+Queen Cleohatra
+	The hearts of men are home to many secrets.
+	If you reconsider, my ears are always open.
+Queen Cleohatra
+	Though I cannot see deeply, I am blessed with the power to look into people's hearts.
+Queen Cleohatra
+	I believe that what I felt from you was the strength of your own desire to find the legendary hero.
+Queen Cleohatra
+	A thousand sorrows fill my heart knowing that you are not the one. The helm is not meant for you.
+Queen Cleohatra
+	You come from the kingdom of Gotha, far across the ocean toward the eastern sky...
+Queen Cleohatra
+	The kingdom that King Pankraz left with his infant child to go in search of his kidnapped wife...
+Queen Cleohatra
+	Yes, I have heard many such rumours from travellers passing through my queendom.
+Queen Cleohatra
+	If you are the son of Pankraz, you should return to the east. To Gotha, your homeland.
+*: 
+	With darkness must come rest. If you have business here, return with the rise of the sun.
+*: 
+	The desert is very cold at night.
+*: 
+	Be careful not to catch a,㈢ a,㈢ a ⓚⓛ㈢㈢ Ahchoo! ⓚⓛ cold, my %H0860%Xchild%Ychildren%Z.
+*: 
+	For as long as the sun has risen over the desert in the morning, we of Helmunaptra have awaited the return of the legendary hero.
+*: 
+	Where are you, o Great One? Where?
+*: 
+	Have you heard of these desert rose things?
+*: 
+	That's why I'm here. I came looking for one.
+	The only trouble is, I'm wearing a short-sleeved shirt, and it's far too cold to go exploring in that.
+*: 
+	Aaah... Will I never learn?
+*: 
+	They're actually rocks that are shaped like
+	roses, apparently.
+*: 
+	Most of the time they're buried under piles of sand, but there are sandstorms in this area every night that shift the sand about.
+*: 
+	If you spend the night at the inn and go out looking early in the morning, you're almost guaranteed to find one lying around.
+*: 
+	Zzz... Zzz...
+	Come back, Cleo...
+	Zzz... Zzz...
+*: 
+	What? You saw my daughter Cleo in Lodestar Harbour?
+*: 
+	What lies are these, you scarab!
+	I have no daughter!
+*: 
+	I have only one child: my son here.
+	A thousand curses on you for this wickedness!
+*: 
+	I never knew the desert was such an
+	arduous place.
+*: 
+	I can't understand why anyone would choose to live here.
+*: 
+	It's you! The legendary hero!
+*: 
+	Hah!?
+	Oh, I was just dreaming.
+	Zzz... Zzz...
+*: 
+	Ah-ha! You're %H0860%Xa friend of %a001230's%Yfriends of %a001230%Z, aren't you?
+*: 
+	Ah-ha! You're %a001230, aren't you?
+*: 
+	The flowers of the Garden of Tranquility require constant tending.
+*: 
+	Mummy mia! What a beautiful young lady you have in your company. She's like an exquisite rose.
+*: 
+	Roses can take much effort to tend.
+	But for some that only adds to their allure.
+*: 
+	Don't disturb me! (slurp)
+*: 
+	I'm training myself up to be a sooper gooper slime like the one on the roof of the castle.
+*: 
+	Ah-phew, ah-phew.
+*: 
+	Come to trade in some mini medals, have you?
+*: 
+	I've still only managed to collect a set of powjamas so far.
+*: 
+	The chocolate medalliyums here are yummy,
+	though. I'm completely addicted!
+*: 
+	Hello there! If you're looking for the bank,
+	you've come to the right place!
+*: 
+	I keep all customer deposits very carefully indeed. Inside my own pocket, in fact!
+*: 
+	So relax, place your trust in me,
+	and deposit away!
+*: 
+	How would you like to buy a chocolate medalliyum for the folks back home? It's a bargain price of only 480 gold coins!
+*: 
+	Nice doing business with you! I'll put it in that bag of yours there.
+*: 
+	Oh. You know they're very special and you can only buy them here, right? ...If you change your mind, just say the word.
+*: 
+	Oh dear! I'm afraid you can't afford it at the moment. Make sure you come back once you've
+	saved up, though, won't you?
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Haah haah... It's a tiring task for an old man like me, setting the lanterns going of a night.
+*: 
+	Come to trade in some mini medals, have you?
+*: 
+	I've still only managed to collect a set of powjamas so far.
+*: 
+	The chocolate medalliyums here are yummy,
+	though. I'm completely addicted!
+*: 
+	Eh? A rare treasure hidden in the castle, you say?
+*: 
+	Nope. I don't remember hearing anything about that. Why don't you try asking King Dominicus?
+King Dominicus
+	Hm? You wish to ask about a rare treasure hidden in my castle, my little minikin?
+King Dominicus
+	Hmm... I wonder if it's that puzzling little thing that suddenly appeared just the other day.
+King Dominicus
+	I racked my brains trying to think of a use for it, but I'm afraid the results were rather miniscule.
+King Dominicus
+	I had it on my throne until just recently.
+	But it rather made my rear dominium sore.
+King Dominicus
+	The lady at the inn said she could find a use for it, so I gave it to her in the end.
+King Dominicus
+	Oh, I beg your pardon. My mistake.
+	In that case...
+*: 
+	How would you like to buy a chocolate medalliyum for the folks back home? It's a bargain price of only 480 gold coins!
+*: 
+	Nice doing business with you! I'll put it in that bag of yours there.
+*: 
+	Oh. You know they're very special and you can only buy them here, right? ...If you change your mind, just say the word.
+*: 
+	The special thing I was given by His Majesty?
+	...Oh, not that!
+*: 
+	I thought it would make a good paperweight, but it was so heavy I sprained my wrist when I tried to put it on a letter.
+*: 
+	Then I tried using it as a chopping board, but you should see the mess it made of my knife!
+*: 
+	No, I ended up giving that useless thing to the chap in the bank. Good riddance, I say!
+*: 
+	Hello there! If you're looking for the bank,
+	you've come to the right place!
+*: 
+	I keep all customer deposits very carefully indeed. Inside my own pocket, in fact!
+*: 
+	So relax, place your trust in me,
+	and deposit away!
+*: 
+	That thing I got from the woman at the inn was so solid that I thought it would make an excellent shield.
+*: 
+	But it was far too heavy for anyone I know to be carting around all the time!
+*: 
+	It was in my way in here, so I dumped it outside in the end.
+~ It's a maxi medal! ~
+*: 
+	Ouoooze!
+*: 
+	S-s-slurp-somebody h-help me!
+~ There seems to be a troubled voice coming from underneath. Go to the rescue? ~
+*: 
+	That was goosome! I thought I was going to ooze it for a minute then. Thanks for helping me out.
+*: 
+	I thought it would be goo for my training, you see, but I ended up getting squashed!
+*: 
+	We can't just leave it here. It's dangerous!
+	You take it! Goo on!
+~ The slime thrusts the maxi medal into ~
+~ %a000120's hands. ~
+~ %0%a000180 acquires the maxi medal! ~
+*: 
+	Phew! That's a weight off my slime.
+	Now I can get back to my training.
+*: 
+	I'm b-b-being squelched!
+	Hurry up and h-h-help me!
+*: 
+	So that's the famous maxi medal?
+*: 
+	It's certainly unusual, that's for sure.
+	Could be worth a fair bit, you know.
+*: 
+	Give me a mini medal over that any day, though. Far more portable. And pretty too. Size isn't everything, eh?
+King Dominicus
+	Ah! Is that my old maxi medal you have there?
+King Dominicus
+	I came by that a long while back now. I'm afraid I much prefer the delightful little mini medals, though.
+King Dominicus
+	Do feel free to keep it, won't you? Just take it far away from my dominion, if you don't mind.
+King Dominicus
+	Aaah... I feel a minion times better now!
+	Er, let's see...
+*: 
+	That maxi medal just appeared out of nowhere when I was cleaning the fountain. Years and years ago it was.
+*: 
+	It was one of the King's treasures until he became so infatuated with mini medals. And yet look at the state of it now!
+*: 
+	Long ago, there was a fellow who scattered maxi medals all over the world as a kind of treasure trail.
+*: 
+	But he used magic to send them flying, and they ended up injuring people and damaging buildings on their way!
+*: 
+	They were recalled before you could say ⓗKing Dominicus's Dominionⓘ.
+*: 
+	It was mini medals all the way after that. You can't find the maxi ones anywhere any more.
+*: 
+	Haaaaaaaaa...
+	Finally! Ye're finally here, are ye?
+*: 
+	I've been waitin' so long, I've only been an' died,
+	so I have!
+*: 
+	What's that? What's me name, ye're askin'?
+	Well, let's see now...
+*: 
+	I'm so old, Death's been bored stiff waitin' fer me... And I'm a knick-knackerer... So I s'pose that makes me...Old Man Nick Knack!
+Old Man Nick Knack
+	ⓙTwas me dream to gather famous goods from all over the world and display them in me knick-knackatory here. That's why I built the place.
+Old Man Nick Knack
+	Haaaaaaaaa...
+	But I've been waitin' here fer someone to come so I could ask them to go collectin' exhibits fer me.
+Old Man Nick Knack
+	Only, not a single feen's turned up in me
+	entire lifetime!
+Old Man Nick Knack
+	So, then... Let's take a look at ye.
+	See if ye were worth the wait...
+Old Man Nick Knack
+	Janey Mac! That's a maxi medal ye're carryin' there, is it not?
+Old Man Nick Knack
+	Right! Well, that settles it! Ye're just the %A0110%Xfeen%Z%B0110%Xwan%Z I've been waitin' fer. Congratulations! Ye're the new curator of the knick-knackatory!
+Old Man Nick Knack
+	Is that all ye have with ye?
+	Just that measly collection?
+Old Man Nick Knack
+	Haaaaaaaaa...
+	Ye've still much to learn, %A0110%Xlad%Z%B0110%Xme girl%Z. Don't ye know the real pleasure in trav'llin's collectin' souvenirs as ye go?
+Old Man Nick Knack
+	Hmmm... I s'pose 'tisn't a bad collection. 'Tisn't good, but 'tisn't desperate either.
+Old Man Nick Knack
+	Ye've come rollin' home with all this, have ye?
+	And at yer age! 'Tis a grand collection altogether.
+	Well done.
+Old Man Nick Knack
+	I was actually hopin' to hand the place over to someone who brought me the dream souvenir, mind.
+Old Man Nick Knack
+	I'd love to see it, though, that finest of souvenirs!
+	'Tis hidden somewhere about in King Dominicus's Dominion, I believe.
+Old Man Nick Knack
+	What's that? Ye're askin' me why I don't go lookin' fer the souvenirs meself?
+Old Man Nick Knack
+	Haaaaaaaaa...
+	Youngsters today are a cold-hearted breed, so they are.
+Old Man Nick Knack
+	I tried to find it, but I couldn't.
+	That dream souvenir in King Dominicus's Dominion.
+Old Man Nick Knack
+	I tell ye, any feen that can find that treasure would be welcome to me knick-knackatory, so they would.
+Old Man Nick Knack
+	How's she cuttin', then?
+	Have ye brought me some new souvenirs, have ye?
+Old Man Nick Knack
+	Well I've taken a good look through yer things, and there's nuttin' I'm remotely interested in.
+Old Man Nick Knack
+	I'd love to see it, though, that finest of souvenirs!
+	'Tis hidden somewhere about in King Dominicus's Dominion, I believe.
+Old Man Nick Knack
+	Haaaaaaaaa...
+	Sometimes I think bein' dead's almost as borin' as
+	bein' alive.
+Old Man Nick Knack
+	Janey Mac! Knick-knack! Give a dog a bone!
+	That's a maxi medal ye're carryin'!
+Old Man Nick Knack
+	Right! That settles it! The knick-knackatory's yours.
+	Congratulations! Ye're the new curator.
+Old Man Nick Knack
+	I hope ye'll make a success o' the ole place.
+	Keep bringin' more souvenirs, an' ye'll do just grand.
+*: 
+	Old Man Nick Knack's a tough nut.
+	He's really prickly.
+*: 
+	There's a couple of rooms downstairs that even the kernelⓚⓛ I mean, even Old Man Nick Knack doesn't know about.
+*: 
+	You should see what the crackⓚⓛ I mean, craic is down there!
+~ The entrance is locked tight. ~
+*: 
+	Ah, there y'are!
+Old Man Nick Knack
+	So ye've finally gathered all the souvenirs then, I see.
+Old Man Nick Knack
+	And I can honestly say at last, the displays look grand. Everytin's in its proper place.
+Old Man Nick Knack
+	Let's go inside and take one last look at all the crackin' work ye've done.
+Old Man Nick Knack
+	Ah, 'tis grand indeed that ye've gathered everytin' together for me.
+Old Man Nick Knack
+	Maybe now I can finally rest in peace.
+Old Man Nick Knack
+	Thank ye kindly. 'Tas been a fair craic, so it has.
+Old Man Nick Knack
+	Haaaaaaaaa-phew...
+	Haaaaaaaaa-phew...
+~ Old Man Nick Knack seems to be in a very, ~
+~ very deep sleep. ~
+Old Man Nick Knack
+	Well I've taken a good look through yer things, and there's nuttin' I'm remotely interested in.
+Old Man Nick Knack
+	Oh, yes. I nearly fergot. I've been wantin' to give ye this, so I have.
+~ %0%a000120 receives the chamois. ~
+~ %0%a000180 acquires the chamois. ~
+Old Man Nick Knack
+	Ye can use that on any of the fine articles we
+	have on display here. It'll polish 'em up so they
+	look just grand.
+Old Man Nick Knack
+	Only, 'tisn't the done thing to be cleanin' the exhibits in front of our visitors now, is it?
+Old Man Nick Knack
+	So I'd ask ye to refrain from yer rubbin' 'til after dark, when ev'ryone's out the way.
+Old Man Nick Knack
+	I can just imagine the visitors queuein' up at the door now! Gorrah, I'll give ye two on yer shoe an' three fer luck, so I will!
+Old Man Nick Knack
+	I'm givin' %H0860%Xye%Yyouse all%Z free reign to arrange the exhibits any which way ye fancy.
+Old Man Nick Knack
+	Just go up and examine one o' the pedestals and ye can set whatever ye like on it.
+Old Man Nick Knack
+	But I don't want ye spookin' the visitors by movin' things about durin' the day. So make sure y'only
+	do it after hours.
+Old Man Nick Knack
+	Oh, 'tis %H0860%Xyerself%Yyerselves%Z! I thought I'd take on a guard, what with the exhibits bein' worth a bob or two now.
+Old Man Nick Knack
+	And we've a fair few visitors these days an' all,
+	so I'm after findin' meself a receptionist too.
+Old Man Nick Knack
+	She's a quare lass. A real corker! 'T'll bring a breath of fresh air into the old place, so it will!
+Old Man Nick Knack
+	Oh, an' there's a peculiar feen loiterin' up on
+	the top floor.
+Old Man Nick Knack
+	But I can't very well throw him out now, can I?
+	Not with the entrance fee bein' so dear an' all.
+	He'd most likely tell me to bog off.
+Old Man Nick Knack
+	Ah, 'tis grand now we've a security guard on the premises. We can all relax an' enjoy the exhibits.
+	Ye'll keep 'em comin' now, won't ye?
+Old Man Nick Knack
+	Oh, 'tis %H0860%Xyerself%Yyerselves%Z! We've a fair few visitors now, so I'm after findin' meself a receptionist, ye know.
+Old Man Nick Knack
+	She's a quare lass. A real corker! 'T'll bring a breath of fresh air into the old place, so it will!
+Old Man Nick Knack
+	Oh, an' there's a peculiar feen loiterin' up on
+	the top floor.
+Old Man Nick Knack
+	But I can't very well throw him out now, can I?
+	Not with the entrance fee bein' so dear an' all.
+	He'd most likely tell me to bog off.
+Old Man Nick Knack
+	We've a fair few visitors now, so I'm after findin' meself a receptionist, ye know.
+Old Man Nick Knack
+	It'll bring a breath of fresh air to the ole place to have a quare lass like her sat behind the desk.
+*: 
+	Hello! I'm Sue. Sue Veneer. I'm absolutely crazy about knick-knacks, you know. It's sort of in me blood, I s'pose.
+Sue Veneer
+	So it's grand altogether that old Mr Knack's given me the chance to work here like this. He won't regret it!
+Old Man Nick Knack
+	Haaa...
+	A museum's nuttin' without exhibits.
+Old Man Nick Knack
+	I can't be expectin' anyone to visit while I don't have any exhibits now, can I? Haaa...
+Old Man Nick Knack
+	Sure and there's more than one way to skin a cat, but we should be concentratin' on expandin' the collection now, not jiggin' about with the displays.
+Old Man Nick Knack
+	Just 'cause we're exhibitin' a few knick-knacks now doesn't mean the world 'n' his wife'll be queuin' up at the door, y'know.
+Old Man Nick Knack
+	It'll take a quare while fer the news to spread,
+	so ye'll need to be patient.
+Old Man Nick Knack
+	The exhibition halls are overflowin' with desert roses. Haaa... The whole place is just one big
+	desert o' roses.
+Old Man Nick Knack
+	The whole place is overflowin' with chocolate medalliyums.
+Old Man Nick Knack
+	It smells like a sweet factory in here, so it does.
+	All that sugar's goin' to me head. Haaa...
+Old Man Nick Knack
+	The museum's stuffed to the gunwales with
+	ships in bottles!
+Old Man Nick Knack
+	And here we are on this fine little island, the perfect place fer a souvenir shop too. Haaa... What a waste! We could've made a few bob sellin' them.
+Old Man Nick Knack
+	Haaa... 'Tis embarrassin' altogether callin' this place
+	a museum.
+Old Man Nick Knack
+	ⓙTis a meagre display at best. I'd give up me halo to have more knick-knacks, so I would, but I don't s'pose that'll happen any time soon. Haaa...
+Old Man Nick Knack
+	Well at least we've a few more knick-knacks in the place now. But the empty pedestals still stand out like sore thumbs.
+Old Man Nick Knack
+	Haaa...
+	I s'pose I'll be long gone before they're all in use.
+	Oh, no. ⓙCourse I won't, I'm a ghost!
+Old Man Nick Knack
+	ⓙTis startin' to look like a real knick-knackatory now! Aye, 'tis a fine collection, so it is.
+Old Man Nick Knack
+	But ye've given the visitors expectations now!
+	They'll be wantin' to see new displays, won't they? Be off with ye now and find sometin' fresh!
+Old Man Nick Knack
+	Well I'll play five on yer hive! Sure as I'm a ghost,
+	the pedestals are nearly all full, are they not?
+Old Man Nick Knack
+	Only, I s'pose I'll have to wait 'til they're diggin' up me bones before the whole lot's taken care of. Haaa...
+Old Man Nick Knack
+	Well give a dog a bone! 'Tis a grand feelin' altogether to see every pedestal in use!
+Old Man Nick Knack
+	But this is just the beginnin'! Ye're barely playin' one on me thumb now. We need exhibits that are more valuable if the museum's to be taken seriously.
+Old Man Nick Knack
+	ⓙTis a shame to put such a fine article in such a dismal place as this.
+Old Man Nick Knack
+	Ara, be whist, Nick! I said I was leavin' it up to you now, didn't I? I shouldn't be stickin' me nose in.
+Old Man Nick Knack
+	Well I'll play five on yer hive! Sure as I'm a ghost,
+	the pedestals are nearly all full, are they not?
+Old Man Nick Knack
+	Only, I s'pose I'll have to wait 'til they're diggin' up me bones before the whole lot's taken care of. Haaa...
+Old Man Nick Knack
+	Ye've put a fine collection together, to be sure. Only... Haaa... I don't know about the way ye've arranged things meself. I'd sooner seeⓚⓛ
+Old Man Nick Knack
+	No. No, no.
+	I said I was leavin' it all up to you, so I did.
+	So I'll leave it all up to you, so I will. Aye.
+Old Man Nick Knack
+	I s'pose ye're followin' some grand plan are ye, arrangin' the articles in such a way?
+Old Man Nick Knack
+	Haaa...
+	I just don't understand what's goin' on in you young %A0110%Xfellas%Z%B0110%Xwans%Z' heads sometimes.
+Old Man Nick Knack
+	I don't like to say anytin', but...
+	Well, the exhibition halls are really startin' to take shape now, ye know.
+Old Man Nick Knack
+	Only, I'd rather see articles befittin' the room they're displayed in, if ye don't mind me sayin'.
+Old Man Nick Knack
+	That's grand! We've more 'n' more visitors all the time. But a knick-knackerer never stops fiddlin', y'know. 'Tis what we do.
+Old Man Nick Knack
+	So let this ole paddywhack give y'a bone and tell ye that ye can attract different folk by puttin' different articles on display.
+Old Man Nick Knack
+	Go on, give it a try. Switch a few articles around and wait a while. Ye'll soon see different types o' feens turnin' up.
+Old Man Nick Knack
+	I've a fair few things I'd like ye to sort out, but everyone looks like they're havin' a grand craic here.
+Old Man Nick Knack
+	So I'll turn a blind eye to the little niggles fer now.
+Old Man Nick Knack
+	The way ye've arranged the articles in this museum is desperate altogether, ye daft maggot!
+Old Man Nick Knack
+	What theⓚⓛ
+	Did I just burst out with sometin' then, did I?
+	I'm sure I probably didn't mean it, whatever it was.
+Old Man Nick Knack
+	ⓙTis some grand weather we're havin', isn't it?
+	Even fer a dead fella like meself, 'tis nice to
+	warm yer bones.
+Old Man Nick Knack
+	Ye really ought to get out in the sun yerself sometimes, ye know.
+Old Man Nick Knack
+	All the visitors look like they're havin' a whale of a time. They'll all go rollin' home happy.
+Old Man Nick Knack
+	Everyone seems mighty pleased at havin' the opportunity to see such a rare collection of
+	peculiar articles, so they do.
+Old Man Nick Knack
+	Ye've done a grand job, so ye have.
+Old Man Nick Knack
+	I'll be honest with ye, I never thought ye'd make such a go of it. Ye've played nine on me spine, so ye have. I'm gobsmacked.
+Sue Veneer
+	Mr Knack's written me a little note about the sort of exhibits he's hopin' to see in the museum.
+Sue Veneer
+	Accordin' to what he's written, there's a sort of ratin' that goes with every article.
+Sue Veneer
+	I think Mr Knack's expectin' the articles on display on the second and third levels to reflect the grandeur of their settin' to some extent.
+Sue Veneer
+	Anyway, if ye'd like to look at what he's written any time, just give me a nod.
+Sue Veneer
+	Mr Knack's after addin' a little amendment to his notes about the museum exhibits.
+Sue Veneer
+	It seems he's discovered sometin' about some new articles we could be displayin'.
+Sue Veneer
+	Would ye like to see Mr Knack's notes now,
+	would ye?
+~ (DISPLAY KNICK-KNACK LIST) ~
+Sue Veneer
+	Would ye like me to fill ye in on some o' the articles ye've yet to find?
+Sue Veneer
+	And what article in particular are ye interested in?
+Sue Veneer
+	Is there another article ye'd like to
+	know about, perhaps?
+Sue Veneer
+	Well I'm always here if there's sometin' ye'd like to know. Me interest in knick-knacks isn't just a veneer, y'know. 'Tis ever sue deep!
+Sue Veneer
+	Aye, well. Ye've collected every article there is to collect, haven't ye?
+Sue Veneer
+	It'll be me askin' you about things from now on
+	I s'pose, won't it?
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗToday is the... Well, today's today, that's what it is! ~
+~ ㈡ ~
+~ ⓗSo anyway, the fella hasn't put a single article on display! He's put the whole lot in the box room... ~
+~ ⓗI'm startin' to wonder if he doesn't have sometin' against me...ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗToday is the... Well, today's the day after yesterday, so it is. Just like every other day. ~
+~ ㈡ ~
+~ ⓗBut anyway, the fella brought me a maxi medal, so he did! 'Twas the least I could do to appoint him as curator. ~
+~ ⓗI wonder whether he'll make a go of the museum or not. Maybe he'll make it into the grand knick-knackatory I always dreamt of.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗToday's... Ara! Who am I trying to kid? I haven't got the foggiest what today is! ~
+~ ㈡ ~
+~ ⓗI always dreamt of a grand knick-knackatory, full of diverse and sought-after articles. ~
+~ ⓗBut the daft eejit's just put the same thing on every single pedestal! He'll be the death of me, so he will!ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗToday's... Ara! Who am I trying to kid? I haven't got the foggiest what today is! ~
+~ ㈡ ~
+~ ⓗI always dreamt of a grand knick-knackatory, full of diverse and sought-after articles. ~
+~ ⓗBut the dirty maggot's only gone an' filled the place up with ships in bottles! The Goddess strike him down for such tomfoolery! ~
+~ ⓗOr maybe I should spook him one day? I could ~
+~ put a sheet over me head and jump out on him ~
+~ from inside a wardrobe!ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗToday's some day or other, I can't rightly remember when. ~
+~ ㈡ ~
+~ ⓗBut it doesn't matter. The point is, the place is finally startin' to look like a knick-knackatory. 'Tis slow progress, but it's gettin' there. ~
+~ ⓗYe can't be too quick-quack with the knick-knacks, though. Slow and steady, that's the key. That way I can keep an eye on the fella.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗAh, me ole diary. How's she cuttin'? D'ye happen to know what the day is, do ye? ~
+~ ㈡ ~
+~ ⓗWell anyway, he's found me a fair few knick-knacks now, so he has. ~
+~ ⓗIt won't be long 'til every pedestal in the place is taken. I can hardly contain meself!ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗAnother day in another month...though don't go askin' me to write down what day or what month! ~
+~ ㈡ ~
+~ ⓗAnyway, every pedestal in the house is taken! ~
+~ 'Tis a grand day for the knick-knackatory! ~
+~ ⓗNow the lad just needs to get him a bit of exhibitin' know-how. Aye, that's the problem now, so it is.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗYe know, I find it hard to keep track o' the days, so I do. 'Tis a handicap when ye're tryin' to write a diary. ~
+~ ㈡ ~
+~ ⓗAnyway, I told Sue a quare bit of information about the knick-knacks I'd like in the museum today. ~
+~ ⓗShe's a fine wan, that one. Cute, an' an absolute corker to go with it!ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗDoes it really matter what day it is now, does it? ~
+~ ㈡ ~
+~ ⓗHe's a sound lad. He's all the makin's ~
+~ of a fine knick-knackerer. ~
+~ ⓗBut what in name of the Goddess does he think he's doin' with the displays!? He's makin' my poor knick-knackatory look like a joke! ~
+~ ⓗStill, at least I have me maxi medal. 'Tis more than enough fer me, that. Aye, more than enough.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗMe memory's banjaxed, so it is! How's an ole feen like me supposed to remember what day it is, eh? ~
+~ ㈡ ~
+~ ⓗAnyway, I'm a little worried, so I am. ~
+~ ⓗI can't help but feel the lad's not quite the full shillin' when it comes to puttin' stuff on display. ~
+~ ⓗOnly, I did say I'd leave it all up to him, so I can't really say anytin' now. I'm up a gum tree good 'n' proper, so I am. ~
+~ ⓗStill, at least I have me maxi medal. 'Tis more than enough fer me, that. Aye, more than enough.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗSuch an' such a day in such an' such a month... ~
+~ ㈡ ~
+~ ⓗThat young feen I made curator's certainly havin' a good bash at it, so he is. ~
+~ ⓗHe's some funny ideas, though. But I s'pose ye can't have everytin' in this life...ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗToday's... ~
+~ ㈡ ~
+~ ⓗArgh! What does it matter!? The point is, that young feen I made curator's certainly havin' a good bash, so he is. ~
+~ ⓗNo doubt he'll have a better feel fer the job as time goes on. I'm sure there's no need to worry. No. No need. No, no.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗThere's no time to write down the date! ~
+~ ㈡ ~
+~ ⓗGive a dog a bone, I was right to appoint that young feen as curator! ~
+~ ⓗHe's made everytin' just grand. 'Tis almost like I was runnin' the place meself, so it is! Here's hopin' it lasts a long while.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗMe heart's too taken to care about the date! ~
+~ ㈡ ~
+~ ⓗSue brought me some cakes today, so she did. ~
+~ ⓗWhat a fine wan she is! She's a kind heart and a figure that'd have ye playin' seven knick-knacks all the way up to heaven!ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗWhy do folk bother with diaries anyway? 'Tis such a bore tryin' to keep track o' the days, so it is. ~
+~ ㈡ ~
+~ ⓗ'Tisn't all exactly how I'd be likin' it, but the young fella's done a grand job still an' all. ~
+~ ⓗThe place is black with visitors, so it is. Aye, 'tis a fine achievement and a happy time fer all.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗToday's... Well, knick-knack, Janey Mac, 'tis one o' those days! ~
+~ ㈡ ~
+~ ⓗThe lad's put the Catas Trophy on display! ~
+~ I nearly died again, so I did! Again! ~
+~ ⓗHe's a tough one, that fella. I can't rightly grumble at him, what with him bein' such a bruiser an' all.ⓘ ~
+~ It's Old Man Nick Knack's diary. ~
+~ %0%a000120 starts to read it... ~
+~ ⓗI couldn't care less what day it is. ~
+~ ㈡ ~
+~ ⓗThe knick-knackatory's about as perfect as it ~
+~ can be. ~

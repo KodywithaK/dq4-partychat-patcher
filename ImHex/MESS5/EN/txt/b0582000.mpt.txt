@@ -1,0 +1,153 @@
+%0%a001240
+	Hey, I remember this place! This is where you spent all those years as a statue, right, Dad?
+%0%a001250
+	I thought long and hard about how to first greet you when I found you, Dad.
+%0%a001250
+	I hope I made a good job of it.
+%0%a001250
+	It's nice to see you living and breathing again, Dad. Not like the statue you were all those years.
+Sancho
+	Ees lucky the señor who ees leeving here, he ees no hot een the head, eh?
+Sancho
+	Eef he had broken your estatue, friend...
+	I, I no know what I would do! (sniff)
+Sancho
+	Ees because of your wonderful children that you are back to normal now. You must eshower them weeth praises later, friend.
+Tuppence
+	So this is where you spent all those years as a statue, is it, %a000090?
+Tuppence
+	What a lovely spot! I wouldn't be surprised if this island ends up on the tourist map before long.
+%0%a001240
+	Oh! You must've seen him being snatched while you were standing here as a statue.
+%0%a001240
+	I wonder where the monsters can have
+	carried him off to.
+%0%a001250
+	That poor little boy must be just as upset as his parents, being separated like that.
+%0%a001250
+	I can imagine how he must feel. It's a bit like how it was for us.
+Sancho
+	Estill no one knows where ees Georgie?
+Sancho
+	The poor boy! And hees poor madre and papá! We pray! We pray to the Goddess that he ees esafe.
+Tuppence
+	If only we could find him and bring him back... In fact, I wonder if that's what she's hoping.
+%0%a001250
+	She's crying out in her sleep just like Sancho does.
+%0%a001240
+	I wonder if Mum would be like that if
+	I ever got kidnapped.
+Sancho
+	I, I can no watch thees woman esuffer any more! Come, My Majesty! We go now, por favor.
+%0%a001240
+	I wonder why he doesn't go off looking for his son. That's what you'd do, right, Dad?
+%0%a001250
+	That poor man!
+Sancho
+	You know, the people, they are no talking about eet eso often, but eet ees estill happening.
+Sancho
+	For the young child to be kidnapped...
+	Ees, ees too horrible!
+Bianca
+	So you spent all those years as a statue in the garden here, eh, %a000090?
+Bianca
+	Now's not the time for dwellin' on the past.
+	We should move on.
+Nera
+	So this is the place where you spent all those years as a statue, darling.
+Nera
+	This place is certainly a fair distance from the temple I was at all that time.
+Nera
+	It's horrible to think about how far apart we were.
+%0%a001240
+	Hey, I remember this place! This is where you spent all those years as a statue, right, Dad?
+%0%a001240
+	We knew you were here for a while before we actually came and rescued you.
+%0%a001240
+	But we didn't know how to turn a statue back into a human again. Sorry we kept you waiting a bit.
+%0%a001250
+	I thought long and hard about how to first greet you when I found you, Dad.
+%0%a001250
+	I hope I made a good job of it.
+%0%a001250
+	It's nice to see you living and breathing again, Dad. Not like the statue you were all those years.
+Sancho
+	Ees lucky the señor who ees leeving here, he ees no hot een the head, eh?
+Sancho
+	Eef he had broken your estatue, friend...
+	I, I no know what I would do! (sniff)
+Sancho
+	Ees because of your wonderful children that you are back to normal now. You must eshower them weeth praises later, friend.
+Tuppence
+	So this is where you spent all those years as a statue, is it, %a000090?
+Tuppence
+	What a lovely spot! I wouldn't be surprised if this island ends up on the tourist map before long.
+Bianca
+	It's nice to see someone so happy. And it's all thanks to you, %a000090, for puttin' that nasty Order of Zugzwang lot in their place.
+Nera
+	How lovely! This just goes to show how all of your efforts to defeat the Order of Zugzwang paid off.
+%0%a001240
+	She's so happy that she's actually crying!
+	How embarrassing!
+%0%a001250
+	When you're really happy, you sometimes cry. That's what happened to me when we found Mum.
+Sancho
+	Now we know for esure that thees Order of Zugzwang, they are the desperados.
+Tuppence
+	It's nice to see people caring about each other so much. We should go home to Gotha every once in a while, you know.
+Bianca
+	There's nothin' more important than family.
+	I feel that more strongly than ever now.
+Nera
+	I must admit that I feel a little bit envious.
+	It would be so nice if we could have a normal
+	family life one day.
+%0%a001240
+	He doesn't seem to realise that you're the statue he's talking about!
+%0%a001240
+	And after you were supposed to have brought such good luck to them too. How rude!
+Sancho
+	Ees eso wonderful to esee thees señor laughing like the buffoon. Eet warms your heart, no? (sniff)
+Sancho
+	Thees ees good news for everyone. The time,
+	eet was estopped for them, but now they can estart their lives again.
+Nera
+	She's just like me, not having had the chance to watch her baby grow up.
+%0%a001240
+	I don't need toys! Why would I need toys when I have the Zenithian Sword to play with!?
+Bianca
+	Hey! The Zenithian Sword en't a toy, you know!
+	A bit of respect wouldn't go amiss!
+%0%a001240
+	Sorry, Mum!
+Bianca
+	Our job en't done yet, but it's nice to get some thanks along the way.
+Nera
+	He was taken in by the Order of Zugzwang, wasn't he? It's wonderful that you were able to rescue him.
+%0%a001240
+	If we leave those monsters from the underworld
+	to their own devices, the same thing is bound to happen again.
+%0%a001240
+	We have to get to Nadiria, Dad, and fast!
+%0%a001250
+	Did we meet him before? I don't really remember...
+	He he he!
+Tuppence
+	When you consider all we did, we deserve a lot more gratitude than we geⓚⓛ Er, don't mind me! I'm just mumbling away!
+Debora
+	So you were put on display here in this garden?
+Debora
+	I was in pride of place at the Crocodilopolis and you were stuck here. Our roles as servant and master are obviously predestined!
+Debora
+	If Sancho and the children hadn't found you, you'd have ended up standing here forever.
+Debora
+	See how much trouble you've caused us all!
+Debora
+	That's all down to my servant having defeated the Order of Zugzwang. More thanks are in order if you ask me!
+Debora
+	I'd like to get all this nonsense over with and relax at last too, so you'd better pull your finger out, %a000090.
+Debora
+	She's had the same experience as me, not having seen her baby grow up.
+Debora
+	If he's in your debt, then he's in mine too.
+	I'm the boss around here after all.

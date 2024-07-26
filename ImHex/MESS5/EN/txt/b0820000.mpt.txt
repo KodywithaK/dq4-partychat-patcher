@@ -1,0 +1,40 @@
+King Dominicus
+	I'm a collector of mini medals, which are said to be scattered all over the world.
+King Dominicus
+	Splendid! I see you have some mini medals with you. Let me be examining them, %H0860%Xmy friend%Ymy friends%Z.
+King Dominicus
+	By Jimini! I see you've brought yet more mini medals! Sorry to be a moaning minnie, but I'm afraid even I need to draw the line somewhere.
+King Dominicus
+	You're currently carrying %a000570 mini medal%H0570%X%Ys%Z. Would you like to exchange any of your medals for prizes, %a000120?
+King Dominicus
+	What may I administer to you?
+King Dominicus
+	Hmm... I'm afraid you'll need to maximise your efforts and collect more mini medals before I can part with something of such eminence.
+King Dominicus
+	You'd like %a020100?
+	Very well, my little minikin.
+King Dominicus
+	And to whom should I administer %M0100%Xthem%Yit%Z?
+King Dominicus
+	It seems that %a000180's hands are full enough as it is! Perhaps you should rearrange your items and minify the space they take up.
+King Dominicus
+	Or perhaps not... I don't mean to meddle, but all of %a000180's items seem to be rather too prominent. 
+King Dominicus
+	Maybe someone else could carry %a020100 instead?
+King Dominicus
+	Marvellous! That's that wasted space beautifully minimised!
+King Dominicus
+	%0%a000180 can't seem to equip %a020100. Shall I proceed regardless?
+King Dominicus
+	Shall I equip %M0100%Xthem%Yit%Z for you right away?
+King Dominicus
+	Splendid! I assume that means you must be rather taken with %M0100%Xthem%Yit%Z.
+~ %0%a000180 equips %a020100! ~
+King Dominicus
+	Your reward is administered!
+King Dominicus
+	Is there anything else you'd like?
+King Dominicus
+	Very well. Do let's mingle again sometime!
+King Dominicus
+	My joy at seeing new mini medals never diminishes! Bring them to me, and your rewards will not be miniscule!

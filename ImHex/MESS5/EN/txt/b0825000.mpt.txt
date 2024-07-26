@@ -1,0 +1,13 @@
+~ There's a slot machine that costs %a001070 %H1070%Xtoken%Ytokens%Z per go. ~
+~ Give it a whirl? ~
+~ It looks like you don't have any casino tokens. Come back again when you've bought some! ~
+~ Press up on the +Control Pad to put in your tokens, and then press the A Button to start the wheels spinning. Press the B Button to stop playing. ~
+~ Well done! ~
+~ You've just won yourself %a000720 tokens. ~
+~ You already have the maximum possible number of casino tokens. Play anyway? ~
+~ Bad luck! ~
+~ How about another go? ~
+~ The management might not be too happy if they ~
+~ catch someone fiddling around in the back of one ~
+~ of their machines! ~
+~ It looks like you don't have enough casino tokens. Come back again when you've bought some more! ~

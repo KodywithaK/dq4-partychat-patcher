@@ -1,0 +1,59 @@
+Patty
+	Welcome to Patty's Party Planning Place!
+	
+Patty
+	If you want to pick up new members for your party, this is the place to be! Same goes if you want to ditch a party member, for that matter.
+Patty
+	So, how can I help you today?
+Patty
+	But you've already got plenty of company there as it is!
+Patty
+	You'll have to leave someone behind if you're determined to add a new member to your party.
+Patty
+	Yikes! I'm afraid you don't have anyone available to join your party. Sorry!
+Patty
+	So, who do you want to take along with you?
+Patty
+	You want %a000180 to join you? No problemo!
+Patty
+	%0%a000180! %0%a000090's here to see you.
+~ %0%a000180 joins the party. ~
+~ %0%a000180 runs off to the wagon outside. ~
+Patty
+	Can I fetch anyone else for you while you're here?
+Patty
+	You want to drop someone off?
+	Erm, sorry to break it to you, but you're all alone right now, %a000090.
+Patty
+	Who do you want to leave behind?
+Patty
+	I'm sure there are still some important things %a000090 needs to do, don't you think?
+Patty
+	Sorry, but we're not properly equipped for looking after monsters here.
+Patty
+	You'd be better off going to an expert who knows how to handle them properly.
+Patty
+	Yikes! That's a bit mean, trying to ditch someone when they're in such a sorry state.
+Patty
+	Got it. Looks like you can have a rest for a while, %a000180.
+Patty
+	%0%a000180's in the wagon, right?
+Patty
+	I'll be sure to let %A0180%Xhim%Z%B0180%Xher%Z%C0180%Xit%Z know that %A0180%Xhe%Z%B0180%Xshe%Z%C0180%Xit%Z should return here.
+Patty
+	I'll put anything %a000180 doesn't have equipped in your bag there, okay?
+Patty
+	Do you want to drop anyone else off while you're here?
+Patty
+	Oh, you've changed your mind?
+	Probably for the best.
+Patty
+	Yikes! I'm afraid I don't have any of your party members staying with me at the moment.
+Patty
+	You want to check up on how your pals are getting along? Sure. Who do you want to see first?
+Patty
+	Do you want to see how anyone else is getting along?
+Patty
+	Can I do anything else for you today?
+Patty
+	Then we're done! Call again soon!

@@ -1,0 +1,571 @@
+*: 
+	We must rescue Madalena before that happens,
+	so that she may once again seal the gates.
+*: 
+	You are the one who must rescue her, %a000090. You, her son, have the power.
+*: 
+	This room was Madalena's.
+*: 
+	Something she used to say has remained firmly in my memory...
+*: 
+	She used to say that if light was in your heart, you could never be consumed by darkness.
+*: 
+	Here. I do not know if this will be of any use to you, but I am sure she would have liked you to have this book.
+~ %0%a000120 receives an intricately embroidered book. ~
+~ %0%a000180 acquires ⓗLofty Liltsⓘ. ~
+*: 
+	It is a book of psalms. We of Lofty Peak read from it from an early age. Good luck. May the Goddess protect you.
+*: 
+	My doors are open to you, weary %H0860%Xtraveller%Ytravellers%Z.
+*: 
+	Won't you rest here for the night, and recover from your weariness?
+*: 
+	Welcome to Lofty Peak.
+*: 
+	This is the home of the forgotten ones.
+	Those who the world no longer knows.
+*: 
+	You have come to speak with the Elders?
+	But the hour is already late.
+*: 
+	Would you not rest at the inn and return to speak with them in the morning?
+*: 
+	Night-time scares me now.
+*: 
+	If the gates of Nadiria are opened fully...
+*: 
+	...the world will darken in perpetual night!
+~ It's locked from the inside. ~
+~ Maybe it's because of the late hour. ~
+~ %0%a000120 places %a020100 in the bag. ~
+*: 
+	There are many copies of the holy manuscript our priest here wrote to be found in churches all over the world.
+*: 
+	They're written in a special kind of ink, you see, so the writing in them doesn't fade, no matter how much time passes.
+*: 
+	I've been here for more years than I can remember now, trying to create more of the ink this church has so long been renowned for.
+*: 
+	I put the special ink mixture into the tusk of an eyevory tusk-tusk and left it to mature over several years.
+*: 
+	And finally! Finally, last night, it was ready!
+*: 
+	Oh! I want to share this joy with everyone
+	I meet! Would you like to have some of the finished product?
+*: 
+	Then it's yours! Don't go wasting it,
+	though, will you?
+~ %0%a000120 receives a tusk-tusk tusk inkwell! ~
+~ %0%a000180 acquires a tusk-tusk tusk inkwell! ~
+*: 
+	N-No, you're quite right. I mustn't give it out to all and sundry, otherwise it'll be gone in the blink of an eye.
+*: 
+	The method of making tusk-tusk ink is a secret art known only to those in this area.
+*: 
+	I suppose you could call it a regional speciality of sorts.
+*: 
+	It was a fair while back now, but some soldiers came by here from the Kingdom of Gotha.
+*: 
+	They said something about being on a hunt for the missing king.
+*: 
+	I wonder if they found him. I do hope so.
+*: 
+	The best days for Gotha were when Pankraz was king.
+*: 
+	In all my years in this world, I don't think I've ever met a more solid character than him!
+*: 
+	This is the village of Battenberg.
+	We have snow here all year round.
+*: 
+	It never used to be anywhere near as hard
+	to get here in the past, before all the monsters came along.
+*: 
+	Haah... Haah... I bought myself an iron mask here, but it's just so heavy...
+*: 
+	Haah... Haah...
+*: 
+	Well, well! You're very young to have children!
+*: 
+	Naturally, my wife is beautiful and young-looking too, of course! Ha ha!
+*: 
+	Oh! Where are your mother and father?
+*: 
+	Children your age shouldn't be wandering about on their own. It's dangerous!
+*: 
+	When a woman's in love, she can stay young for all eternity.
+*: 
+	Shouldn't you be getting off home? Your mother and father are probably wondering where you are.
+*: 
+	This little boy will be the death of me.
+	He won't eat a bite.
+*: 
+	And after all the effort I went to, making
+	a soup to disguise the vegetables he says he hates so much!
+*: 
+	Come on now, eat up!
+	It's good for you.
+*: 
+	It's not fair! Mum has some foods she doesn't like, so why can't I?
+*: 
+	Aaah. Oh? Hello. On your travels, are you?
+*: 
+	Ah, so you're trying to find your missing wife.
+*: 
+	Now, let me see. I'm sure I have a Batten binnacle here somewhere.
+*: 
+	Hopefully it'll come in handy on your journey.
+	Take it, it's yours!
+~ %0%a000120 receives a Batten binnacle! ~
+~ %0%a000180 acquires a Batten binnacle! ~
+*: 
+	Make sure you treat her nicely once you've found her, won't you?
+*: 
+	Tsk, tsk, tsk!
+*: 
+	Fancy losing a precious Batten binnacle!
+	I despair sometimes.
+*: 
+	Aaah. A Batten binnacle's indispensable if you're on your travels, that's for sure.
+*: 
+	Tsk, tsk, tsk!
+*: 
+	Meow.
+*: 
+	The people of Gotha were searching for their missing king for eight long years.
+*: 
+	He must be quite a man.
+*: 
+	Ooh! We don't often get visitors all the way up here. Enjoy your stay, won't you?
+*: 
+	Two generations of queens from Gotha have been kidnapped, you know.
+*: 
+	It's all very mysterious, it really is.
+*: 
+	Hey, man. Peace, and welcome to the Knot Welcome Inne! We've got some kinda offer-type thing goin' on right now.
+*: 
+	Hey, man. Peace, and welcome to the Knot Welcome Inne!
+Granny Knot
+	Yo, man. I'm Granny Knot and I suppose you could say I own this place here.
+Granny Knot
+	Y'know, people live among nature and then they return to the ground.
+Granny Knot
+	Every one of us only gets one chance at life, so you may as well make sure it's a gas. Have a cool journey now.
+*: 
+	We're havin' some kinda offer thing right
+	now to encourage more folk to chill out and stay over.
+*: 
+	People who stay in groups of four get a special gift or somethin' hip like that.
+*: 
+	So if you're here as a group of four, lemme know, huh? Friendship rules!
+*: 
+	Huh? You already stayed here as a
+	group of four?
+*: 
+	That's chillin', man! Then I guess I'd better give you my very own hand-made Forget-me-Knot flag.
+~ %0%a000120 receives a Forget-me-Knot flag! ~
+~ %0%a000180 acquires a Forget-me-Knot flag! ~
+*: 
+	Easy, man! See ya next time.
+*: 
+	Folk reckon that the main priestess of that Zugzwang Order thing is a real beauty.
+*: 
+	Maybe it'd be worth joinin' up if she
+	really is that hot, huh?
+*: 
+	Folk reckon that the high priestess of that Zugzwang Order is really pure. Just bein' near her is supposed to cleanse your heart or somethin'.
+*: 
+	Maybe it'd be worth joinin' up if she
+	really is that hot, huh?
+*: 
+	Peace. Did you know that the main holy guy over at the Order of Zugzwang is actually a gal?
+*: 
+	You're kiddin'! You don't know about the Order? They're gonna save people who join up with them when the world ends, dude.
+*: 
+	I ain't buyin' it, though. Seems like all they do is collect up money, and I got better things to spend
+	my twinklers on.
+*: 
+	I'm a travelling nun. Are you on your travels too?
+*: 
+	There's a terrible sinister aura coming from far across the ocean to the west of late.
+*: 
+	Do be careful if you're heading that way.
+*: 
+	Ooh! It's all too goosome for words! I keep having dreams about the past.
+*: 
+	Monsters made me attack goomans. I mean, humans. But they did nothing to deserve it!
+*: 
+	Hey, man. Peace, and welcome to the Knot Welcome Inne! We've got some kinda offer-type thing goin' on right now.
+*: 
+	Hey, man. Peace, and welcome to the Knot Welcome Inne!
+*: 
+	Peace. Did you know that the main holy guy over at the Order of Zugzwang is actually a gal?
+*: 
+	You're kiddin'! You don't know about the Order? They're gonna save people who join up with them when the world ends, dude.
+*: 
+	I ain't buyin' it, though. Seems like all they do is collect up money, and I got better things to spend
+	my twinklers on.
+Granny Knot
+	Zzzz... Zzzz...
+*: 
+	Woof woof!
+*: 
+	Ooh, it's not often we have any
+	passing trade here!
+*: 
+	While you're here, I might as well give you
+	a couple of pointers.
+*: 
+	Apparently, there used to be a tower on Azimuthias, the continent north of here,
+	that reached right up to the heavens.
+*: 
+	I wonder if it's still there now.
+*: 
+	What do you want? Come for a gander at me desert rose collection, have ya?
+*: 
+	They're stonkin', except the old man at the
+	museum just north of here ain't interested in displayin' them alone.
+*: 
+	Ruff ruff!
+*: 
+	Ooh, it's not often we have any
+	passing trade here!
+*: 
+	While you're here, I might as well give you
+	a couple of pointers.
+*: 
+	Apparently, there used to be a tower on Azimuthias, the continent north of here,
+	that reached right up to the heavens.
+*: 
+	I wonder if it's still there now.
+*: 
+	I've been livin' here in these mountains
+	for nigh on one hundred years now, I'll have
+	you know.
+*: 
+	Now, I come across this T 'n' T ticket
+	just over there and I was wonderin' if it
+	might be yours.
+*: 
+	I'd best be givin' it you back then.
+~ %0%a000120 receives a T 'n' T ticket! ~
+~ %0%a000120 puts the T 'n' T ticket in the bag. ~
+*: 
+	Then maybe this mini medal I found is yours?
+*: 
+	I'd best be givin' it you back then.
+~ %0%a000120 acquires a mini medal! ~
+*: 
+	How about this flowing dress then?
+	Is that yours?
+*: 
+	I'd best be givin' it you back then.
+~ %0%a000120 receives a flowing dress! ~
+~ %0%a000120 acquires the flowing dress. ~
+*: 
+	Hmm... You know, it's not often you meet folk as honest as your good self.
+*: 
+	Honesty like that deserves to be rewarded!
+	Here, take it all!
+~ %0%a000120 receives a T 'n' T ticket! ~
+~ %0%a000120 puts the T 'n' T ticket in the bag. ~
+~ %0%a000120 acquires a mini medal! ~
+~ %0%a000120 receives a flowing dress! ~
+~ %0%a000120 acquires the flowing dress. ~
+*: 
+	You have a safe journey now, won't you?
+*: 
+	I've been livin' here in these mountains
+	for nigh on one hundred years now, I'll have
+	you know.
+*: 
+	Folk seem to be gettin' more and more dishonest nowadays. It's a sad and sorry trend.
+*: 
+	Folk reckon that the high priestess of that Zugzwang Order isn't just a beauty, she's also the kind of lady everyone wants to follow.
+*: 
+	Maybe it'd be worth joinin' up if she
+	really is that hot, huh?
+~ Mini medals are kept separately from other items. ~
+~ If you want to see how many mini medals you've collected, open the Attributes menu and move the cursor to the wagon symbol. ~
+~ Mini medals are kept separately from other items. ~
+~ If you want to see how many mini medals you've collected, open the Attributes menu and move the cursor to the wagon symbol. ~
+~ %0%a000120 places %a020100 in the bag. ~
+*: 
+	I must say, that couple you're travelling with seem very young to have children.
+*: 
+	Naturally, my wife is beautiful and young-looking too, of course! Ha ha!
+*: 
+	I 'eard there was some kind of amazin' treasure up this tower.
+*: 
+	But I can't get any 'igher than this.
+	I'm stuck.
+*: 
+	By the Goddess! Never did I foresee that %H0860%Xan earthly being%Yearthly people%Z would scale the Stairway to Zenithia!
+*: 
+	Many moons ago, this great stairway did lead
+	to the lofty heights of Zenithia, yet today, it lies
+	in ruin...
+*: 
+	The mighty castle is toppled from its exalted perch. At the bottom of a lake, for shame!
+*: 
+	If you would journey thither, take the magma staff you see before you. You shall have need of it.
+*: 
+	By use of the staff shall great rocks that impede your passage unto a cave be destroyed.
+~ %0%a000010 holds the magma staff aloft. ~
+*: 
+	Hum-diddly! Heeelp!
+	Someone stop this caaart!
+~ There are some rusty old points here. ~
+~ Switch them over? ~
+~ Putting all %A0110%Xhis%Z%B0110%Xher%Z strength into it, %a000120 pushes the rusty points lever and switches the points. ~
+~ The points break! ~
+~ %0%a000120 forgets the idea of changing the points. ~
+~ The points are broken. ~
+*: 
+	Oooh... Ouch!
+*: 
+	I don't know who you are, %H0860%Xfriend%Yfriends%Z, but thank
+	the Goddess there are still good people like
+	you in the world!
+*: 
+	Silly old me just climbed aboard that thing without so much as a should-I-diddly-shouldn't-I.
+	And that was twenty years ago!
+*: 
+	I should've known better. Curiosity killed the cat.
+	Every good citizen knows that wholesome adage, don't they?
+*: 
+	Oh, dearie! I'm forgetting my manners.
+	I haven't even introduced myself.
+	They call me Dr Agon.
+Dr Agon
+	You'll probably find this a bit hard to believe, but I'm actually a Zenithian, you know. Oh, yes indeedy.
+Dr Agon
+	And if twenty years on that cart hasn't spoilt
+	the old Agon intuition, I'd say that's where
+	you're headed.
+Dr Agon
+	Nothing like a good old fashioned, blister-rubbing trip, is there? Mind if I come along with you, %H0860%Xfriend%Yfriends%Z?
+Dr Agon
+	%H0860%XYou%YYou all%Z know the other age-old adage.
+	There's safety in num-diddly-umbers!
+~ The Zenithian Dr Agon joins the party. ~
+Dr Agon
+	I'm ready for action!
+	Let's hit the road!
+*: 
+	No one knows what this place was. A shrine built by Nimzo to get at the Goddess, perhaps...
+*: 
+	Or a holy place created by the Goddess to guide the righteous...
+*: 
+	Plenty of archaeologists have put people like me to work over the years excavating the place in the hope of finding out.
+*: 
+	But it's still a mystery.
+*: 
+	Or perhaps people were just too scared to find out the truth.
+~ There are some points here. ~
+~ Switch them over? ~
+Dr Agon
+	Well, shoot! Would you look at that? Now the castle's at the bottom of this lake, practically every room's flooded. The whole shebang!
+Dr Agon
+	I've been scratching my noggin now for a month of Sun-diddly-undays, but I still can't figure out why the place fell out of the sky.
+Dr Agon
+	Just as I thought, there isn't a Zen-diddly-ithian in the whole place.
+Dr Agon
+	Oh, bless my cotton socks, I almost forgot!
+	There should be a secret staircase just behind
+	the old throne here...
+Dr Agon
+	What in the name of hi-diddly-ho!?
+Dr Agon
+	There should be a gold orb on this pedestal, but it's as empty as a heart full of sin!
+Dr Agon
+	And this hole...
+Dr Agon
+	I suppose it must've opened up when that evil knievel one awoke long, long ago.
+Dr Agon
+	Of all the rotten luck! The gold orb must've fallen out through it!
+Dr Agon
+	I guess with only one orb left, the poor castle
+	just couldn't...
+Dr Agon
+	Well, now we know why Zenithia crashed out of the sky at least.
+Dr Agon
+	I just wish to goodness I knew where the
+	gold orb was.
+Dr Agon
+	The pedestal's still got a bit of the old gold orb aura about it, though.
+Dr Agon
+	Maybe with a spot of meditation, I could figure out where in the world the orb ended up.
+~ Dr Agon closes his eyes and starts to gather ~
+~ his thoughts... ~
+Bianca
+	Well, that's good. Now the two of them can finally sleep peacefully together.
+Bianca
+	Those ghosts who took over this place were a nasty bunch, eh?
+Bianca
+	But it's the monsters who came along and killed all those poor innocent people who are the most to blame.
+Bianca
+	Oh! What's that? What a pretty ball!
+Bianca
+	I'll bet it's some kind of reward.
+	We should take it with us.
+~ Bianca takes the glowing gold orb and hands it to %a000090. ~
+~ %0%a000090 acquires the gold orb! ~
+*: 
+	Hello. That's an interesting-looking gem you've got there.
+*: 
+	It's a gold orb, you say?
+*: 
+	Do you mind if I have a closer look?
+Prince Harry
+	I'm the Prince of Coburg. The next in line to the throne! I expect you want to serve me by being
+	my lackey, do you?
+Dr Agon
+	Holy Goddess, we're done-diddly-doodahed for!
+	The orb's been destroyed!
+Dr Agon
+	Zenithia won't ever fly above the clouds agⓚⓛ
+Dr Agon
+	No! Wait a mo-diddly-oment!
+	This ship isn't sinking that easily!
+Dr Agon
+	If my old noggin's not failing me, I seem to remember a legend about the faeries creating the two orbs.
+Dr Agon
+	Maybe we could ask the Faerie Queen to work her honeydew magic again and cook us up another one.
+Dr Agon
+	You know, I've heard there's a forest somewhere in the world that leads to the Realm of the Faeries.
+Dr Agon
+	Hi-diddly-ho, it's a plan, %a000140! I'll be waiting here. You run along and see what you can do, okay?
+~ %0%a000120 examines the pedestal... ~
+~ A solitary silver orb shimmers forlornly atop it. ~
+~ There's a whirlpool that looks like a teleportal. ~
+~ Jump in? ~
+~ There's a secret staircase leading down! ~
+*: 
+	Welcome to Coburg.
+*: 
+	You've probably heard all about me. I'm the one who helped Prince Harry oust that fake dowager.
+*: 
+	What!? The one who did it was actually the
+	Prince of Gotha?
+*: 
+	He went missing at just about the time he was crowned, didn't he?
+*: 
+	We had soldiers here from Gotha on a search party looking for him, see.
+*: 
+	Come to think of it, you look quite a lot like the fellow in question.
+~ ⓗGlory to the Kingdom of Coburg! ~
+~ Everything is for the people!ⓘ ~
+~  ~
+*: 
+	Argh! I've had about as much of Prince Kendrick's mischief as I can take!
+*: 
+	The Goddess only knows what kind of a king that little rascal will make! The worry keeps me awake at night.
+*: 
+	Strike a light! You went an' found me!
+*: 
+	But that don't mean you're gettin' the treasure
+	I nabbed!
+*: 
+	Huh! I'll get you for this one o' these days!
+*: 
+	Rumour has it that there's an incredible
+	treasure hidden in a cave surrounded by
+	mountains far to the west.
+*: 
+	It's supposed to be something really special, but the surroundings are crawling with monsters.
+*: 
+	I'd keep away from the place if I were you.
+*: 
+	This is Coburg Castle.
+*: 
+	Wait a minute! You're that friend of Prince Harry's! It's %a000090, isn't it?
+*: 
+	Go on through!
+*: 
+	I'm finding it nigh on impossible to relax at
+	the moment.
+*: 
+	I can't shake this feeling that a huge and
+	powerful evil force has begun to strengthen
+	its grip on our world.
+*: 
+	Prince Harry is at the end of his tether with all of little Prince Kendrick's antics.
+*: 
+	I'm in love with Prince Kendrick!
+*: 
+	He's really nice.
+*: 
+	Aaaaaaaah!
+*: 
+	You gave me a bit of a fright there. I thought it was Prince Kendrick, you see.
+*: 
+	His latest trick is putting mice on people's heads because he knows everyone hates them. Not very nice at all.
+*: 
+	These are Darwin the Psarologist's quarters.
+Darwin
+	My research tells me that somewhere in the world there still exists a cape that was worn long ago by
+	a brave king in battle.
+Darwin
+	When a special person uses special armour like that, it enables them to achieve their true potential.
+Darwin
+	I heard the news about you becoming King of Gotha, %a000090.
+Darwin
+	I'm sure you'd have what it takes to make good use of the cape if you could find it.
+*: 
+	Ouch! I knew I'd end up with a bump on my
+	head. Prince Kendrick will be the death of me
+	one of these days.
+*: 
+	King Wilbur has vowed not to get married. That way, he hopes to prevent another power struggle like the last one.
+*: 
+	I suppose that means that the next King of Coburg will be Prince Harry's young lad, Kendrick.
+*: 
+	Ah-phew, ah-phew.
+*: 
+	Welcome to Coburg, ruled over by
+	His Majesty King Wilbur!
+King Wilbur
+	Oh! It's you!
+King Wilbur
+	%0%a000090!
+	Or should I say King %a000090?
+King Wilbur
+	I was terribly worried when I heard you'd disappeared, King %a000090.
+King Wilbur
+	It was such a relief to hear you'd returned to Gotha safe and sound.
+King Wilbur
+	I hoped you'd be paying a visit here in Coburg again before long.
+King Wilbur
+	Do make yourself at home, won't you?
+*: 
+	These are the quarters of Prince Harry and his wife. Uninvited guests areⓚⓛ
+*: 
+	Oh! I beg your pardon! I didn't recognise you for a minute. Do go on through!
+*: 
+	Thanks to you, Prince Harry and his wife are living happy and peaceful lives.
+*: 
+	I'll never ever forget the good you did here!
+*: 
+	Hey! Who are you?
+Harry
+	Kendrick! You mustn't address guests like that!
+Kendrick
+	What do you want?
+Harry
+	I do beg your pardon. I'm afraid my son's manners are a bit lacⓚⓛ Oh!
+Harry
+	Good heavens! It's you, %a000090!
+	I've been hoping you'd pay a visit.
+Harry
+	I can't tell you how thrilled we were to hear you'd turned up in Gotha in one piece.
+Harry
+	You did have a rotten bit of luck there, eh?
+Harry
+	In fact, you've always seemed to be a bit jinxed, come to think of it.
+Harry
+	Still, it's great to see you here again safe and well.
+Harry
+	Oh yes! I'm a father now, by the way.
+Harry
+	This is my son, Kendrick.
+Kendrick
+	............

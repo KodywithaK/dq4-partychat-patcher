@@ -1,0 +1,151 @@
+%0%a001240
+	Glug... Glug... Hang on! I can breathe! I was sure
+	I wouldn't be able to, what with being underwater and all.
+%0%a001250
+	Look! Did you see that huge fish just swim past?
+Tuppence
+	This looks rather a tricky place to defend.
+	Aaah! I suppose that's why they had it floating
+	up in the sky.
+Dr Agon
+	It's, it's enough to make an old fella cry, I, I... (sob)
+	Ah ha ha! Just joshin' with ya!
+	I'm not really blubbing!
+Dr Agon
+	So the old castle's as waterlogged as a log full of water, eh? It's gonna be fun, fun, fun drying the place out. Away with you mould! Away!
+%0%a001240
+	Is this Zenithia, the castle in the sky?
+	It's a bit different to how I expected.
+%0%a001250
+	Is it just around the castle that there's air?
+	It's a lot brighter than you'd expect for
+	somewhere that's underwater.
+Sancho
+	But ees good ees een the lake, no?
+Sancho
+	Eef ees falling on the land or on a town, maybe ees a beeg problem, sí?
+Dr Agon
+	What's that? Was this castle airborne twenty years ago? I can't tell you, friend.
+Dr Agon
+	Let me see... How many decades ago did I leave now? Oooh... I guess I wasn't counting!
+%0%a001240
+	I can't help feeling a bit down in the dumps here. It's sad to see something that was once so grand in such a state.
+%0%a001250
+	I could be wrong, but it feels like things have brightened up a little bit here. Maybe it's because
+	we came along.
+Sancho
+	When I esee thees kind of place, eso deserted and een the ruins, I can no help but theenk of Whealbrook. Ees, ees very painful.
+Tuppence
+	I wonder where all the Zenithian ladies are hiding themselves. Er, and the men as well, of course.
+Dr Agon
+	It's not Zenithia now, eh?
+	It's Beneathia! Hah hah hah haⓚⓛ
+	Oh, you didn't like that one?
+Dr Agon
+	I'm more of a breaststroke man than a crawler, myself. The crawl's so gosh-darned hard.
+Dr Agon
+	Shame I don't have my aqua jammies with me. I could've shown you my moves!
+%0%a001240
+	I've always hated tidying my room, but I'm going to make sure I do it from now on.
+%0%a001240
+	Castles look much better when they're kept all nice.
+Sancho
+	You really believe thees castle, eet was once floating een the air? I no eso esure...
+Tuppence
+	I can't help worrying that my weapons and
+	armour will rust away to nothing with all this
+	water about.
+Dr Agon
+	You know, I think I'm starting to like this
+	underwater look!
+Dr Agon
+	But you should have seen the place before.
+	The beautiful garden, the great throne room...
+	It was to die-diddly-eye for!
+Dr Agon
+	It's a bit damp, but it's still the same old castle.
+	No monsters around here!
+%0%a001240
+	A secret staircase? I'll find it, Dad!
+	Don't you go finding it first, okay?
+%0%a001250
+	Do you think it's alright for him to tell us a secret like that?
+Tuppence
+	You'd better count me out. I was never any good at finding things. I never liked it.
+	Over to you, %a000090...
+%0%a001240
+	We did it, Dad! We found the stairs!
+Dr Agon
+	%0%a000090! You're right-diddly-ight on the ball, my friend!
+Dr Agon
+	I really didn't think you'd find the hidden staircase!
+%0%a001240
+	I wonder how far down this goes.
+	It's pitch-black down there.
+%0%a001250
+	I'm okay. As long as I don't look down, I'm okay.
+Sancho
+	Qué? A heedden estaircase?
+	What you theenk ees at the bottom?
+%0%a001240
+	There's a weird kind of glowing. I wonder what it is. I feel like I've seen it somewhere before.
+%0%a001250
+	This room's different from all the others.
+	It has an air of magic to it.
+Dr Agon
+	Oh... Why don't you go a bit further, %a000090?
+%0%a001240
+	A gold orb? Do you know what he's on about, Dad?
+%0%a001250
+	Dr Agon gave me a fright there, shouting out like that! What do you suppose it is he's looking at?
+Sancho
+	Qué? What ees the matter weeth señor Agon?
+	We should find out, friend.
+Tuppence
+	I'm afraid I'm finding his witterings rather tricky to follow. Fancy there being a hole in the castle, though!
+%0%a001240
+	What was that? I saw it...
+	Was that boy... Was it you, Dad?
+%0%a001240
+	This is making my head hurt!
+	Did all that really happen?
+%0%a001250
+	Are you okay, Dad?
+	You look a bit pale.
+%0%a001250
+	Um... Don't cry or anything, will you?
+	We're here for you, you know.
+Sancho
+	Eso thees ees how señor Pankraz, he, he...
+Sancho
+	............
+Tuppence
+	What a monster! How despicable!
+Tuppence
+	I don't know if faeries really exist, but we must at least go and find out!
+%0%a001240
+	So if we find the gold orb, the castle will float up in the sky again?
+%0%a001240
+	But how are we supposed to find the faerie village?
+%0%a001240
+	I wonder if Dr Agon's a bit lonely all by himself
+	in the castle.
+%0%a001240
+	So the faeries made the castle float?
+	That's so cool!
+%0%a001250
+	Are we going to meet some faeries?
+	Yay! I can't wait!
+%0%a001250
+	I hope we get to meet some faeries soon. Ooh! You met some when you were little, Dad? You're so lucky!
+Sancho
+	Perdón. I no can theenk of anytheeng now.
+Sancho
+	We go to esomeone to make us the gold orb, sí?
+	Ees okay. I know.
+Tuppence
+	The Faerie Queen... Zenithians...
+	It all sounds like the stuff of legend! How thrilling!
+Tuppence
+	I'm intrigued to know what this Faerie Queen is like.
+	I can't wait to meet her.

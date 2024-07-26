@@ -1,0 +1,156 @@
+%0%a001240
+	Looks like that gold bauble just doesn't cut it for some reason. What do we do now, Dad?
+%0%a001250
+	Does this mean we get to go back to the Faerie Palace? Yay! We're so lucky!
+Sancho
+	I can no esee anytheeng wrong weeth thees bauble.
+	Ees gold and ees round. What ees the problem?
+Tuppence
+	After all that effort we went to! You'd think we deserved a little credit at least.
+%0%a001240
+	Do you think this tiny little gold orb really has the power to make the castle float up in the sky again?
+%0%a001240
+	We've been away quite a while now.
+	I hope Dr Agon's not too lonely.
+%0%a001250
+	I'm positive this will make everything okay!
+	We have to hurry and show it to Dr Agon!
+%0%a001250
+	The castle's giving off a really fidgety air, like it's on tenterhooks. Maybe it knows we have the orb.
+Sancho
+	Hmm... You no theenk thees orb, eet looks exactly the esame, just like the bauble?
+Sancho
+	I no understand about the orbs and the baubles.
+	Ees all just balls to me. We must eshow thees one to Dr Agon, and esee what he esays.
+Tuppence
+	Well! It seems I'm about to bear witness to the momentous moment when this legendary castle
+	once again takes to the skies!
+Tuppence
+	To think I was involved in finding the orb...
+	Er! Don't mind me! Just thinking out loud.
+%0%a001240
+	Did you see that, Dad? The castle's floating! It really is floating! Let's go and have a look outside.
+%0%a001250
+	So standing on that stone makes the castle fly!
+	Ooh, how exciting!
+Sancho
+	Thees señor Agon, he ees eslippery like the eel, no?
+Tuppence
+	Leave things up to us?
+Tuppence
+	Surely he doesn't mean we can just do whatever we want with the place!?
+%0%a001240
+	Dr Agon must've stopped the clock too, during all those years going round and round in the Diggery Pokery. Otherwise he would've starved to death!
+%0%a001250
+	So they stop the clock and go into hibernation?
+	I had no idea Zenithians could do such a thing!
+Sancho
+	These people from Zenithia, they are estrong like the Goddess, no?
+Tuppence
+	Those Zenithians sound like a crafty bunch.
+	Or should I say ingenious?
+%0%a001240
+	He doesn't know Dr Agon? That's weird. Maybe he's a bit confused because he just woke up.
+Tuppence
+	I knew it! I've been thinking he was a bit suspicious all along. I mean, he doesn't have wings for starters!
+%0%a001240
+	It's a bit nerve-racking moving the castle about
+	the place. We'd never be able to afford to pay
+	for any damage.
+%0%a001250
+	I can't help feeling a bit bad about landing the castle on the ground. I mean, Zenithia's supposed to float up above the clouds, after all.
+%0%a001240
+	The ⓗrearward chamberⓘ? He means at the back of the fireplace, right? I wonder what the old man can be doing back there.
+%0%a001240
+	This is from the Yggdrasil tree?
+	A tiny little sapling like this?
+%0%a001250
+	It's so tiny and delicate!
+	Can I give it some water, Dad?
+%0%a001250
+	This tiny sapling's done so well in all that water.
+	It's a determined little thing.
+Sancho
+	They esay you can breeng esomeone who has passed away back from the dead weeth the leaf of Yggdrasil.
+Sancho
+	But thees ees just a sapling. Eet no has esuch estrong power yet, I believe.
+Tuppence
+	If we can keep this sapling going, we'll have all the Yggdrasil leaves we could possibly need! Now we can fight to the death without having to worry!
+%0%a001240
+	ⓗThe darkness spreadethⓘ... I think that means
+	we'd better hurry, Dad.
+%0%a001250
+	That poor sapling, confined to such a tiny pot!
+%0%a001250
+	Once we've defeated Nimzo, we'll have to make
+	sure it's moved to a nice big place with lots and
+	lots of sunshine!
+Sancho
+	Sí, ees just the esapling, but ees from the Great World Tree. Eef you no look after eet well, the Goddess, eshe gonna make you pay!
+%0%a001240
+	A present? We're not supposed to take presents from strangers. But I suppose it's okay if you're here, Dad.
+%0%a001240
+	I didn't know there were faeries here too. Do you think Zenithians and faeries are all good friends?
+%0%a001250
+	Is that grass Yggdrasil? Ooh...
+Sancho
+	Uf! The dew of Yggdrasil, ees a very valuable theeng.
+%0%a001240
+	That's not fair! Why can we only have one lot at
+	a time? It'd be much better if we could takes loads of it!
+%0%a001250
+	We'll have to make sure we use the bit of Yggdrasil dew we have carefully then, Dad.
+Sancho
+	Sí. Ees true. Eef you have too much of esometheeng like thees, you forget the true value of life.
+Tuppence
+	You'd think she could just slip us a few extra lots out of goodwill, wouldn't you? We are fighting for world peace, after all.
+%0%a001240
+	The Zenith Dragon? Sealed away powers?
+	What is the old man on about!?
+%0%a001250
+	The Zenith Dragon is the god of this world, isn't he? I've read all about him.
+Sancho
+	Qué? Another tower? My back, ees no een esuch good eshape, you know. But you no worry about me. Olé! Let's go!
+Tuppence
+	You don't think he's dangerous, do you? I mean, why would he be holed up in a place like this?
+%0%a001240
+	Centuries? Wow! I didn't realise this place
+	was so old.
+%0%a001250
+	Have you ever met the Zenith Dragon, Dad?
+	I've only ever seen pictures of him in books.
+Sancho
+	Then we must find thees Zenith Dragon, sí?
+Tuppence
+	Are humans really all that noble? I'd say gods have the edge there, myself.
+%0%a001240
+	Zenithia is certainly a fairly tricky place to find your way around!
+%0%a001240
+	I wonder if this place will ever be as grand as it used to be before it fell out of the sky. I'd love
+	to see it brought back to its former glory.
+%0%a001250
+	The castle seems much happier now. Zenithia's supposed to be in the sky, after all. It's bound to dislike being underwater.
+%0%a001250
+	Zenithia used to be much, much higher all those
+	years ago, didn't it? We're lucky we didn't have to climb so high.
+Sancho
+	The water, eet has almost all drained away now.
+	And you can hear the voices too. Ees, ees esuch a happy time.
+Tuppence
+	I'll be able to hold my head up high when we get back to Gotha, so I will! There's not many folk who can say they've been to Zenithia.
+%0%a001240
+	What a long ladder!
+	And it's really dark too...
+%0%a001250
+	I'm okay. As long as I don't look down, I'm okay.
+%0%a001240
+	Look, Dad! There are clouds underneath the castle! That's cool!
+%0%a001250
+	The castle isn't going to suddenly move or anything, is it? It's totally safe, right?
+Sancho
+	Now, when you look at eet again, ees a very grand building, no?
+Tuppence
+	It's rather impressive seeing the castle afloat
+	like this.
+Tuppence
+	Certainly something you have to see to believe.

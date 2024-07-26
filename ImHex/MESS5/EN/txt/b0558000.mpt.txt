@@ -1,0 +1,219 @@
+Bianca
+	This is another big old tower, eh? What's the plan, anyway? I'm not sure that climbin' it is the best idea at the moment.
+Nera
+	What are we doing here? Oh! So this is where
+	the Zenith Dragon's powers were supposedly
+	sealed away?
+%0%a001240
+	I knew about this island existing before, but I had no idea there was this tower here.
+%0%a001250
+	Oh! I hate heights!
+Sancho
+	Just looking at all those estairs...
+	I no feel eso good.
+Tuppence
+	Who'd have thought there'd be a tower hidden among all these big mountains? Seems a bit odd to me.
+%0%a001240
+	What a cool tower, having the entrance at the top!
+%0%a001240
+	Shame we have to go all the way down to the bottom to get out.
+%0%a001250
+	Um, are we still high up?
+	Or is it safe to open my eyes now?
+Sancho
+	Thees place, ees estrange... You can
+	feel the evil here as esoon as you enter. 
+Sancho
+	My Majesty. We must brace ourselves
+	for trouble.
+Tuppence
+	I s-say, %a000090! The monsters in this tower are rather f-formidable!
+%0%a001240
+	Did... Did that woman back there just die?
+%0%a001240
+	Wow... If only we'd got here a bit sooner.
+%0%a001250
+	What did she mean about the dragon's eyes? Why would anyone care so much about that?
+%0%a001250
+	Dad... Will you hold my hand?
+Sancho
+	No! The monsters, they cannot get away weeth thees!
+Sancho
+	I never have the honour of knowing your name, señorita. But I promise you, we, we gonna avenge your death!
+Tuppence
+	We can't run away just because she told us to.
+Tuppence
+	Goddess rest her soul, though, the poor woman.
+%0%a001240
+	Hey! What's that? Let's go and have a
+	closer look, Dad.
+Sancho
+	Careful. Esometheeng just moved.
+%0%a001240
+	So we're at the bottom level. It's just how it looks from outside: bigger than all the other floors.
+%0%a001250
+	Is that...a dragon's neck? Is there more of it
+	further down?
+%0%a001240
+	What's wrong, Dad? You look like
+	you've seen a ghost.
+%0%a001240
+	Did you know that monster guy back there
+	or something?
+%0%a001250
+	Um, Dad. That monster then...
+%0%a001250
+	Um... Never mind.
+Sancho
+	Come, we must carry on. We estill have many theengs to do here een thees tower.
+Tuppence
+	That was a shock. That monster certainly put up quite a fight.
+%0%a001240
+	Turned Pankraz to ashes? So he's the one who killed Grandpa? I'll never forgive him!
+%0%a001250
+	This is the first time I've ever felt pure hatred for a monster. I'll fight with all my might next time.
+Sancho
+	Eet was heem? He killed señor Pankraz?
+	No! The pain een my heart, ees too much!
+Tuppence
+	I thought we were for it more times than I can
+	count. That was one battle that was a little too
+	close for comfort.
+%0%a001240
+	It looks fairly straightforward from the outside, but this tower is as complicated as you like.
+%0%a001240
+	I don't think I've ever seen so many stairs!
+	It's okay, though. I can handle it.
+%0%a001240
+	This must be the tower we heard about in Zenithia. The tower where the Zenith Dragon's powers were sealed away.
+%0%a001250
+	I don't like anywhere that I can
+	see a long way down.
+%0%a001250
+	I know I have to just put up with situations like this if we're going to find Mum.
+Sancho
+	Ees my duty to protect you weeth my life,
+	My Majesty.
+Sancho
+	But thees place, ees so dark. There ees no even one window.
+Tuppence
+	The monsters here are a bit too strong for my liking. Are you doing alright, %a000090?
+Tuppence
+	I'll watch your back, don't you worry.
+	You just keep pushing on ahead!
+%0%a001240
+	It's a bit weird that it has a basement even though it's a tower.
+%0%a001250
+	It's dark, isn't it? ...I'm not scared, though.
+	I've got my eyes closed, you see.
+Sancho
+	Esuddenly, the air, eet has changed. Ees no like before. We do not know what ees coming.
+	We must be careful.
+Tuppence
+	Yikes! It's a poisonous swamp!
+	Mind how you go, %a000090!
+%0%a001240
+	Brrr... Is it me, or is it getting colder in here?
+%0%a001240
+	This is quite big for an underground chamber.
+	I wonder which way we need to go.
+%0%a001250
+	Um, don't go running off anywhere fast, will you? I've got my eyes closed, you see.
+%0%a001250
+	Brrr... I don't like the feel of this place.
+Sancho
+	These theengs, they are esent to try us by the Goddess. We must take care, and move eslowly.
+Sancho
+	Esince just now, I have the estrangest feeling.
+Sancho
+	As eef ees destiny that I have come here thees day.
+Tuppence
+	It seems that the monsters are getting stronger the further down we go. Or is it just my imagination?
+Tuppence
+	I'll watch your back, don't you worry.
+	You just keep pushing on ahead!
+%0%a001240
+	Why do you suppose those monsters were so interested in the dragon's eyes?
+%0%a001240
+	There seem to be a lot of mysteries about this tower.
+%0%a001240
+	Do you think we're getting any closer to finding Mum with all this travelling we're doing, Dad?
+%0%a001240
+	I wonder how the Zenith Dragon's powers were sealed away. Do you know, Dad?
+%0%a001250
+	Bad monsters are bad through and through, right? They never just turn good and start behaving themselves?
+%0%a001250
+	There's something bothering me about that dragon statue. There seemed to be something missing around its face.
+Sancho
+	I, I no expect thees... I never imagined I would find señor Pankraz's keeller here. I, I am overcome by my feelings...
+Sancho
+	But now he has escaped, we must finish what we came here to do.
+Tuppence
+	Erm, so what do we do now again?
+%0%a001240
+	I didn't expect the dragon's face to have a device like that hidden in it!
+%0%a001240
+	Whoever came up with the idea of going along on its tongue must have been an eccentric one. Just like Dr Agon, in fact!
+%0%a001250
+	It's fun walking along a dragon's tongue. And it's not even scary, even if it is high up.
+Sancho
+	Thees contraption, ees loco, no!?
+Sancho
+	I have forgotten the estress of the battle we just fought already.
+Tuppence
+	What do you suppose is waiting for us in
+	here? There seem to be ferocious monsters
+	all over the place.
+%0%a001240
+	Looking through that hole is really scary! I bet %a001250 would cry if she had a look!
+%0%a001250
+	Aren't we done here yet? Ohhh!
+Sancho
+	The ladders and the ropes, they are dangerous, amigo. Eef your mind wanders and you are theenking about paella, you weell fall!
+%0%a001240
+	So this is a dragon orb.
+%0%a001240
+	I bet the monsters we saw before would love to get their claws on it.
+%0%a001240
+	I wonder if the powers of the Zenith Dragon really are inside this orb. It's all a bit weird, really.
+%0%a001250
+	What a pretty orb. It's glowing even more brightly than the gold orb.
+Sancho
+	At last, we have completed thees task.
+	Eet was no cinch, no?
+Tuppence
+	Um, don't have me carry anything too important,
+	will you? I'd never forgive myself if I dropped it and it broke!
+%0%a001240
+	I would never have believed there was such a big room inside a statue like this!
+%0%a001250
+	This dragon is so big and majestic.
+%0%a001240
+	Wow! What an amazing-looking staff!
+Sancho
+	Thees estaff, ees perfect for you, My Majesty. Eet esuits you so well.
+%0%a001240
+	Look how high up the ceiling is! We did well climbing all the way down here!
+%0%a001250
+	This tower is just full of stairs and ladders and ropes. It's totally exhausting!
+Sancho
+	I, I cannot estop theenking about the monster...
+	Eets face ees gonna haunt me forever.
+Tuppence
+	Brrr... Here's hoping we won't be running into any more monsters that strong.
+Bianca
+	Okay, I get it. You all explored this place. Very nice. Now can we move on?
+Nera
+	We don't have much time. Maybe you could show me around this place when everything's calmed down and got back to normal?
+%0%a001240
+	We don't need to do anything here any more, right, Dad? Let's go!
+%0%a001250
+	I've had enough, Dad. When we've finished what we're doing, I want to go straight home. I'm not very good with towers.
+Sancho
+	We have no more to do een thees tower.
+	We must move on.
+Debora
+	I find anything that takes too much effort really rather tedious. There's no point in climbing this tower just for the fun of it.
+Debora
+	There's nothing left for us to do here, right?
+	So let's hurry up and move on.

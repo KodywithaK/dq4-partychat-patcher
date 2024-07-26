@@ -1,0 +1,382 @@
+%0%a001240
+	Did you see that little room by the entrance, Dad? What do you think it's for?
+%0%a001240
+	This building's incredible. I can't imagine how
+	they managed to build something so huge on
+	top of a mountain!
+%0%a001240
+	Brrr. It's a bit c-c-cold here, isn't it, D-D-Dad?
+%0%a001240
+	I s-s-suppose it's because we're high up.
+	We're even above the c-c-clouds. Brrr.
+%0%a001250
+	Hahh, hahh, hahh... It's weird. Why am I so out of breath even though I'm not...hahh...doing anything?
+%0%a001250
+	Hahh, hahh, hahh...
+%0%a001250
+	Look, Dad! There's a cloud underneath us!
+	I've never been this high up before.
+Sancho
+	A giant temple on the top of Mt Azimuth?
+	Ees, ees amazing!
+Sancho
+	You esee? I am estill just a young man.
+	There ees eso much I no know about the world!
+Tuppence
+	That Zenith Dragon is rather spectacular, being able to fly up above the clouds like this.
+Tuppence
+	It's hard to believe He's the same creature as that funny Dr Agon we were spending our time with not so long ago.
+%0%a001240
+	Is that... Is that armour mine?
+%0%a001240
+	Dad! What are you doing? If that's the Zenithian Armour, then we have to have it!
+%0%a001240
+	...Oh, I get it. You're planning on going away to get ready first so that we definitely win, right?
+	That's really clever.
+%0%a001250
+	Phew. Looks like we managed to avoid a bit of a
+	fight there.
+Sancho
+	Thees señor, he no realise we are no from thees place like heem, eh?
+Sancho
+	You have become very clever like thees, friend.
+	Sí, you are a master of the tactics now.
+%0%a001240
+	Why should we be soulless?
+	That's a bit of a weird thing to say.
+%0%a001250
+	Was that soldier a monster?
+	Then that means this temple is... Hmm.
+Tuppence
+	Dear me. He was rather alarming, wasn't he?
+%0%a001240
+	So this is the armour the legendary hero wore!
+	Wow! It's so cool!
+%0%a001250
+	Does this armour belong to %a001240 now too? That's so unfair! ...Um, I mean, how lovely!
+Sancho
+	I no expect to find the legendary armour een a
+	place like thees.
+Tuppence
+	Oof! It's rather heavy, isn't it? I suppose that just means I'm not cut out for this kind of armour.
+%0%a001240
+	Looks like he thinks we're part of the following.
+%0%a001250
+	What is this place? It's full of lots of really
+	strange-looking people.
+Sancho
+	He can no imagine any other people, they gonna come eenside, eh?
+Sancho
+	We must pretend we are worshippers eso he no theenk we are esuspicious.
+Tuppence
+	Tsk tsk! What a useless guard he is, actually encouraging us intruders inside like that!
+%0%a001240
+	The people in here don't seem to notice us at all.
+%0%a001240
+	It's like they're all totally mesmerised by something.
+%0%a001250
+	That person just said something about Mada.
+	Isn't Mada Grandma's name too?
+Sancho
+	Hmm... Sí, your Uncle Sancho, he knows what ees happening here now.
+Sancho
+	You listen to me, friend. Whatever you esee here, you must no believe eet, okay?
+Tuppence
+	M-Mada? Surely it couldn't be...?
+%0%a001240
+	Why should we be soulless?
+	That's a bit of a weird thing to say.
+%0%a001250
+	Was that soldier a monster?
+	Then that means this temple is... Hmm.
+Sancho
+	Sí! Ees true! Ees the monsters! They are een
+	control of thees Order of Zugzwang!
+Tuppence
+	Dear me. He was rather alarming, wasn't he?
+%0%a001240
+	That kid's eyes looked really empty. It's like he couldn't see properly or something.
+Sancho
+	Ees no right. He can no esee us, even when we espeak to heem.
+%0%a001250
+	Do you think that person's okay, Dad?
+	The people here are making me nervous.
+Tuppence
+	It's rather tricky to fathom whether the people here are alive or dead sometimes.
+%0%a001240
+	That statue almost looks like it's alive.
+	...Hang on! I've seen a statue like this before...
+%0%a001240
+	I know! It looks just like you did when you were a statue! Does that mean...?
+%0%a001250
+	That lady looks so kind. I feel like I want to hug her for some reason.
+Sancho
+	Friend!
+	Ees, ees your wife!
+	Ees %a001230!
+Tuppence
+	Hmm... What an exquisite-looking lady.
+Tuppence
+	It's rather odd, though. I can't help feeling like I've seen the same image somewhere before.
+%0%a001240
+	Can you believe he had the cheek to pretend to
+	be Grandma?
+%0%a001240
+	Huh! Now I'm even more determined than ever.
+	I won't rest until the world's at peace again.
+%0%a001240
+	Everyone seems to have livened up all of a sudden. Do you think that means they're back to normal again?
+%0%a001250
+	I knew deep down that wasn't really Grandma, but I was a little bit worried that it might be.
+%0%a001250
+	It's a relief that it wasn't her, but what do you think that nasty monster meant when he said she's not part of this world any more?
+%0%a001250
+	Maybe we should try having a word with everyone here, Dad. We might be able to find out something useful.
+Sancho
+	You no have time to feel the blues, friend.
+Sancho
+	You must concentrate and theenk of a way to esave %a001230.
+Sancho
+	Sí, thees señora Mada, eshe was just a monster. But estill... Now you can be esure your madre, eshe ees een the underworld.
+Tuppence
+	The God-King, Korol... No doubt the time will come when we have to pit our strength against him.
+%0%a001240
+	No way! So this Korol character placed a curse on Mum as well as turning her into a statue?
+%0%a001240
+	Do you think the curse will be lifted if we manage to defeat him?
+%0%a001250
+	So...that really is Mum, then?
+Tuppence
+	Fancy not even realising that the legendary hero was born years ago. These monster types are terribly ignorant.
+%0%a001250
+	Isn't that boy the one from the house where you stayed when you were a statue, Dad? It's great that we were able to rescue him.
+Sancho
+	Ees, ees eso wonderful news! Hees papá, he ees gonna be eso, eso happy! (sniff)
+Tuppence
+	It could be quite tricky for him to get home from here, though, couldn't it? I wonder how he'll manage.
+%0%a001240
+	A hidden staircase? We should go and find it
+	right away!
+%0%a001250
+	Have you been to this place before, Dad?
+	Hmm, I had a feeling you had.
+Sancho
+	The estage?
+	He means the place where ees the estatue of señora %a001230, no?
+%0%a001250
+	You have to accept people's thanks gracefully and tell them it was no trouble. That's manners.
+Sancho
+	Esacrificed? Sí, when the temple ees completed, all the eslaves, they gonna be keelled.
+Tuppence
+	I'd wager that she's rather a lovely specimen when she's smartened up a bit. It's all in the cheek bones, you know.
+%0%a001240
+	Quite a few people seem to be a bit dazed.
+	I hope they'll be alright.
+Sancho
+	Ees, ees eso esad... These señores and señoras, they have been lied to for eso long.
+%0%a001250
+	The people up here must've been the important
+	ones, then.
+Tuppence
+	If Korol took a liking to him, that probably means he did lots of evil things here.
+%0%a001240
+	So the stairs were right in the middle of the stage. That's a bit easy to find, considering it was supposed to be a hidden staircase!
+%0%a001250
+	We have to hurry up and help Mum.
+	I'm going to try really hard to do my bit.
+Sancho
+	You must be careful, friend. Your Uncle Sancho, he has a bad feeling, you know.
+%0%a001240
+	He must be a right coward to have built a secret staircase and hidden himself down here!
+%0%a001250
+	What's wrong, Dad? You look a bit troubled.
+%0%a001250
+	Of course... This is the place where you were made to work as a slave all those years ago.
+Sancho
+	Anda! Ees thees place you were...
+Sancho
+	Sí, but now you are back again.
+	Ees esome kind of destiny, no?
+Tuppence
+	Don't worry about me. I'm happy to follow you wherever you go, %a000090!
+%0%a001240
+	This place is pretty huge. And the monsters here are more than a bit scary too.
+%0%a001240
+	Oh! I'm totally lost now. You'll have to figure out which way we need to go, Dad.
+%0%a001250
+	This place is like a labyrinth. You have to plan your next move really carefully otherwise you get lost.
+%0%a001250
+	This place is really hard to get around. I wonder why they made it this way. Don't the monsters
+	get lost?
+Sancho
+	Ees eso much work to build a place eso beeg under the ground like thees, eh?
+Sancho
+	Anda! You no feel dizzy when you walk around een the circles like thees?
+Tuppence
+	Hmph. These complicated paths are becoming really rather irritating.
+Tuppence
+	I'll just follow your lead, %a000090. I'm sure you'll be able to guide us through this place.
+%0%a001240
+	Looks like all the soldiers in this place are monsters. We'd better be careful, Dad.
+%0%a001250
+	Yikes! That's scary! It sounds like the monsters here have been feasting on the slaves.
+Sancho
+	The best theeng, ees no to be found by
+	the guards, sí? You must take muchos
+	care for thees.
+%0%a001240
+	We're almost there.
+	Korol can't be far away now.
+%0%a001250
+	We must be careful, Dad. I'm sensing something evil down below.
+Sancho
+	Thees monster, he no realise he told us that thees Korol, he ees near here.
+Sancho
+	Friend! Ees time to regain your estrength, no?
+	Then we go eento battle! Olé!
+%0%a001240
+	That poor man! He must've been desperate,
+	writing something like that in the hope that she'd
+	read it one day.
+%0%a001250
+	Dear Goddess,
+	Please grant this tormented soul peace within your safe haven. Amen.
+Sancho
+	Come, friend. We pray, okay?
+Tuppence
+	I don't have any brothers or sisters, but I can still feel this poor chap's pain. What a way to go.
+%0%a001240
+	We are going the right way, aren't we?
+	I'm not too sure...
+%0%a001250
+	I feel like we keep going round and round in circles. Everywhere seems to look the same.
+Sancho
+	You are lost, sí, friend?
+Tuppence
+	How to find our way around this place is a complete mystery. I've never seen anywhere so complicated.
+%0%a001240
+	Up and down, big spaces and tiny spaces...
+	This place is such a mishmash!
+%0%a001250
+	Um, do you think I've got a bit stronger, Dad?
+	Am I being of any use to you?
+Sancho
+	You know, friend, esince we find thees estatue of señora %a001230, you no look the esame.
+Sancho
+	You no geeve up now! Ees time to fight!
+	Eef you no fight now, when do you fight, eh?
+Tuppence
+	Where is this confounded Korol fellow anyway?
+	I hope he doesn't just pop out and catch us unawares.
+%0%a001240
+	I can sense a really strange aura. Wow! It's the strongest one I've felt yet, that's for sure.
+%0%a001250
+	Um... Is it okay if I hold your hand, Dad?
+	I'm a little bit scared.
+Sancho
+	Are you ready, friend?
+Tuppence
+	We won't let anyone get the better of us. No one can! I hope...
+%0%a001240
+	Hahh... Hahh... That Korol guy was really strong.
+%0%a001240
+	And then that Ladja character appeared.
+	I can hardly get my head around it all.
+%0%a001240
+	You did pick up that ring, didn't you, Dad?
+	I wonder where it came from. It's so shiny.
+%0%a001250
+	I hate Ladja! We'll have to make sure we give him a good hiding next time!
+%0%a001250
+	Is it okay if I have a bit of a look at that ring?
+%0%a001250
+	It's strange, but just holding it makes me feel all warm inside.
+%0%a001250
+	Sorry. I shouldn't have asked.
+Sancho
+	Aargh! Thees Ladja, he must pay for señor Pankraz! Next time, we no gonna let heem
+	get away.
+Sancho
+	Ees estrange. When I look at thees ring, I can no help but to theenk of señora Mada.
+Sancho
+	Maybe ees just because we esee thees fake señora Mada before.
+Tuppence
+	Thank the Goddess I'm still alive! Even in the face
+	of such a trying battle, Tuppence survives to fight another day!
+Tuppence
+	Well, we should be heading back to that big room so we can try to figure out how to bring %a001230 back to life.
+%0%a001240
+	I don't sense any monsters about.
+	Maybe Korol was in charge of them all.
+%0%a001250
+	It's so much easier to walk about with no monsters coming and getting in our way. If only it could always be like this.
+Sancho
+	We were told señora Mada, eshe ees een the underworld, no?
+Sancho
+	Uf! Our quest, how long ees gonna last?
+Tuppence
+	What a gift it is that there are no monsters around. We should make the most of it and check there aren't any treasure chests we've missed.
+%0%a001240
+	D-Do you think that was really Grandma's voice we could hear?
+%0%a001240
+	She said even the legendary hero can't take on Grandmaster Nimzo, but surely that can't be right?
+%0%a001250
+	Grandma sounded so kind and gentle...
+%0%a001250
+	Oh! I wish I could speak to her more. There's so much I want to talk to her about.
+Sancho
+	I...!
+	Ees...!
+	Señora Madaaa!
+Sancho
+	Her words, eso full of love...
+	You no forget these words, friend. Never!
+Tuppence
+	Ah yes. A mother always puts the safety and needs of her children first.
+Tuppence
+	My mother's just the same.
+%0%a001240
+	Now I'm totally confused about what we should do.
+%0%a001240
+	I mean, I can understand how you feel, Dad.
+	But I can see where Grandma's coming from too.
+%0%a001250
+	Oh! I really wish I could get to meet Grandma.
+Sancho
+	Thees time I no gonna esay anytheeng.
+	You theenk for yourself what you gonna do.
+Sancho
+	But you no theenk I am cold, okay?
+	You are the king of Gotha, My Majesty.
+	You can no rely on your Uncle Sancho forever.
+Tuppence
+	I'll have to give my old mum a nice shoulder rub when I go home to Gotha.
+Tuppence
+	I'm probably causing her no end of worry and stress at the moment, so it's the least I can do.
+Bianca
+	Aah... This is the temple I spent all them years in, stood stock-still as a statue.
+Bianca
+	Ha ha! This'll probably sound quite daft, but I almost feel a bit sentimental about the place.
+Nera
+	I hardly remember anything at all about those years I spent here as a statue.
+Nera
+	Maybe I was asleep most of the time.
+%0%a001240
+	What's up, Dad? What are we doing here?
+%0%a001240
+	We've rescued Mum now, so we don't have anything left to do here, right?
+%0%a001250
+	This is the place we had our reunion with Mum.
+	But I'd still rather not come here.
+%0%a001250
+	Now she's with us again, I don't see the point in being reminded of those sad times without her.
+Sancho
+	We no have time to walk like a dog, friend.
+	When you are travelling, you must always
+	know where you are going and go there.
+Tuppence
+	I'd heard rumours about the Order of Zugzwang, of course. I always had a feeling there was something suspicious about them.
+Debora
+	So this is where I spent all those years as a statue.
+Debora
+	I don't remember it very clearly, but I have this impression that everyone was kneeling before me.

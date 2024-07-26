@@ -1,0 +1,46 @@
+*: 
+	You can trade in your casino tokens here for all sorts of exciting things.
+*: 
+	You currently have...
+	Oh dear! It looks like you don't have any tokens at all.
+*: 
+	Come back again when you've got some.
+*: 
+	You currently have %a000420 token%H0420%X%Ys%Z.
+	Would you like to exchange them for a prize?
+*: 
+	Which prize do you want?
+*: 
+	I'm afraid you don't have enough tokens for %a040100.
+*: 
+	%0%a040100, right?
+*: 
+	And who's the lucky recipient?
+*: 
+	Well, there's always room in your bag!
+*: 
+	But you can't carry any more items, %a000180. Shall I reorganise what you've got?
+*: 
+	Unfortunately, you're carrying a lot of important items, %a000180. I can't mess with them!
+*: 
+	Can someone else carry the goods?
+*: 
+	All done. I've sorted things out for you!
+*: 
+	You can't equip this particular item, %a000180. Do you still want it?
+*: 
+	Would you like to equip %M0100%Xthem%Yit%Z right away?
+*: 
+	I'm sure %M0100%Xthey'll%Yit'll%Z be just perfect for your needs.
+~ %0%a000180 equips %a020100! ~
+*: 
+	Here you are, %a000180!
+*: 
+	I'll just place the prize in %a000180's coffin, then.
+*: 
+	Okay. I'll make sure the prize gets to %a000180 in the wagon, then.
+*: 
+	Would you like to trade in any more tokens?
+*: 
+	Thanks for your custom.
+	Come again soon!

@@ -1,0 +1,285 @@
+Bianca
+	It's hard to believe that anyone lives in a place like this, eh?
+Nera
+	I never imagined there'd be a town here in Nadiria. That was the last thing I expected.
+%0%a001240
+	It's good to find a town like this. The monsters
+	are really strong around here, so we could do
+	with a rest.
+%0%a001250
+	What a strangely shaped town. It looks a bit like a flower when you see it from a distance.
+Sancho
+	Outside, ees a very dark atmosphere, but here een the town, ees no like that. Ees nice.
+Sancho
+	You know, friend, maybe ees a good idea to make preparations for our journey here before we leave.
+Tuppence
+	You don't suppose Queen Mada is here somewhere, do you?
+Tuppence
+	Well, even if she's not, I doubt she can be too far away now.
+Bianca
+	I never thought we'd find ourselves back here again.
+Bianca
+	Being here reminds me of your mum, you see.
+Nera
+	Are you alright, darling? There's lots of talk of your mother here, isn't there?
+%0%a001240
+	I'll never rest until I've avenged Grandma's death!
+%0%a001250
+	What a strangely shaped town. It looks a bit like a flower when you see it from a distance.
+Sancho
+	I estill feel the power from señora Mada here een thees town, even after eshe has passed away now.
+Sancho
+	Ees reaching us, even from the heavens, eso far, far away.
+Tuppence
+	There's still plenty of fight in me! Winning is all about attitude. As long as you never give in, victory can't be too far away.
+%0%a001240
+	I thought that slime was picking on him for a minute, but it looks like they're friends.
+%0%a001250
+	Rocket? Who would give a slime a name like Rocket!?
+%0%a001250
+	Ha ha! That slime had a really funny face.
+Bianca
+	So there's only one town in the whole place. Looks like we're on our own from here on in then, eh?
+Nera
+	Did you see the flowers there? She's got her own little garden going.
+%0%a001240
+	Wow. There are loads of people living here.
+	I never expected that.
+%0%a001250
+	This place has a strange feel to it. A sort of warmth. It's not scary at all.
+Tuppence
+	So this place is called Precarius, is it?
+	Or was it Precautionary? No... I do believe
+	she said Promiscuous!
+Bianca
+	Now there's a surprise. Sounds like your
+	mum's thought of as somethin' of a saviour
+	'round these parts.
+Nera
+	I wonder how your mother can have felt, rescuing this place when she was in dire need of being rescued herself.
+%0%a001240
+	I get it. It must be the holy water that keeps the monsters away from this place.
+%0%a001250
+	I hope we get to meet Grandma soon.
+	She sounds really special.
+Sancho
+	Qué!? Madalena? Thees ees the name of señora Mada! You mean, eshe was here, een thees town!?
+Sancho
+	Sí, eshe has no changed. Always eshe likes to help people. I, I... I miss her eso, eso... (blub)
+Bianca
+	That's a bit of a worry, eh? Sounds like all the folk here used to be monsters at some time or other.
+Nera
+	Fancy that! Not only have they left behind their monstrous behaviour, but they've changed from
+	their monstrous forms too.
+Nera
+	It sounds like your mother's powers really are a force to be reckoned with.
+%0%a001240
+	The human world is the world we live in, right?
+	I didn't know it had a name.
+%0%a001250
+	So monsters can get turned into humans if they have a change of heart? It's the first I've heard of it.
+Sancho
+	Ees interesting, sí? We must believe een what
+	thees monster, he tells us, and try to become
+	the fine humans, eh?
+Tuppence
+	It doesn't sound like many folk venture here from the human world, does it?
+Tuppence
+	I feel rather proud to be part of such an elite
+	little group.
+Bianca
+	The people living here are much more fun than you'd imagine, eh?
+Nera
+	He he! What a funny chap. It's hard to believe he was ever a monster.
+%0%a001240
+	Oh, I get it. If monsters turn into humans, they
+	get fat.
+%0%a001240
+	Wait a minute! You don't think that means Sancho...
+%0%a001240
+	No, surely not!
+%0%a001250
+	His tummy was all wobbly!
+Tuppence
+	Hellfire and brimstone? I had no idea that monsters thought about that kind of thing too.
+Bianca
+	It won't be long before we find out the answer, eh? We'll soon see whether the legendary hero's a match for that Nimzo or not.
+Nera
+	Fancy still having respect for the Grandmaster even after being turned into a human! Nimzo must have quite a hold on people.
+%0%a001240
+	Grandmaster Nimzo... I know he's meant to be really strong. But I'm stronger!
+%0%a001250
+	It's weird that he's still loyal to Nimzo even though he's a human now. Don't you think?
+Sancho
+	Thees Nimzo, he has many followers.
+	He must be a powerful capitán, no?
+Sancho
+	You must no let your guard down when you meet heem, friend.
+Tuppence
+	I can sort of understand why that soldier said the things he said.
+Tuppence
+	Loyalty is supposed to be unwavering in the face of all challenges, after all.
+Tuppence
+	It's just like if I were to become a monster. I'm sure my loyalty to you would remain the same, %a000090.
+Bianca
+	That bloke there was human, right? Looks like the humans are the bad guys in this place, then!
+Nera
+	That was a human, wasn't it? How odd! It seems the humans are worse than the monsters in this place.
+%0%a001240
+	That took me by surprise! He was a baddie,
+	wasn't he?
+%0%a001250
+	He stole some treasure? The person he took it from must be really upset.
+Tuppence
+	I didn't expect to have a battle sprung on me here!
+	It looks like we really can't afford to let down our guard in this place.
+Bianca
+	You've got a bit of a funny look on your face, %a000090. Does that staff mean somethin' to you?
+%0%a001250
+	Who'd have thought we'd find a Stolos' staff here? It's really nice to have one again.
+Bianca
+	It's a good job there's an inn here in Nadiria for
+	us, eh?
+%0%a001250
+	Wow! Look at all those books! This place is more like a library than an inn.
+Bianca
+	Is he sayin' Nimzo might force his way into the
+	human world?
+Bianca
+	That'd be terrible. We have to stop him before it comes to that.
+%0%a001240
+	Um, Dad. That man was a Zenithian, right?
+%0%a001240
+	It's a bit of a surprise to see one of them in Nadiria.
+%0%a001250
+	He seemed to be quite badly injured.
+	I hope he's alright.
+Bianca
+	Her spark of life is growin' weaker?
+	Oh no! We have to hurry, %a000090!
+Bianca
+	I'll never forget that look your mum had on her face when the time come.
+Bianca
+	She seemed to relax a bit when your dad appeared on the scene.
+Nera
+	Oh dear! It sounds like your mother is in terrible peril. We have to hurry!
+Nera
+	Your mother's spark of life has been
+	extinguished now.
+Nera
+	But I'm sure she's watching over us from above with your father and sending us her blessings.
+%0%a001250
+	That's terrible! There's no time to lose, Dad!
+%0%a001250
+	Grandma...
+Sancho
+	How long ees señora Mada fighting all on
+	her own?
+Sancho
+	My Majesty! Ees no time to lose.
+	You must help your madre rápido!
+Bianca
+	Ha! Looks like havin' a tipple in this world could have some pretty serious consequences!
+%0%a001240
+	I didn't know that! So drinking turns people
+	into monsters?
+Sancho
+	They esay eef you dreenk too much alcohol, you become like a monster. Here, ees really true, sí?
+	Maybe the alcohol, ees here to test the monsters.
+Sancho
+	Eh! Perdón, friend. I forget you are no old enough to understand thees theengs.
+Nera
+	Well, we don't want to do anything that will cause us any regrets.
+%0%a001250
+	If drinking is so bad, then what's the point in there being a pub here?
+Tuppence
+	You can't blame a man for succumbing to a drink here. Not with a beauty like that serving it up to you.
+%0%a001240
+	Wow! What a huge wheel!
+%0%a001250
+	Ouch! My neck's started to hurt from looking up
+	so much!
+Sancho
+	Be careful! Eef you are caught een the teeth, ees no gonna be eso pretty, eh?
+Bianca
+	That poor creature seemed a bit lonely.
+	I wonder why it was all by itself here.
+%0%a001240
+	It does feel quite good, actually.
+	Long may it last!
+Nera
+	I don't really believe that humans can turn
+	into monsters.
+Nera
+	Or I don't want to believe it! Imagine how terrifying a half-man half-beast would be!
+%0%a001250
+	Have you got any regrets, Dad? I hope not.
+	I'd feel really bad for you if you did.
+Bianca
+	You dun't think he's talkin' about Nimzo, do you?
+Nera
+	He must have had a really evil heart to have turned into a monster! I wonder if such all-encompassing evil really does exist.
+%0%a001250
+	What do you suppose happened to him in the end? Maybe he got attacked for being a monster.
+Tuppence
+	I wonder why he wanted to become a god.
+Tuppence
+	I'm not too sure that's ever a good idea. I mean, think of that Dr Agon character.
+Debora
+	So there's a town in Nadiria. It's a pity they don't have a clothes shop. The fashion here could be quite interesting if they did.
+Debora
+	There's still lots of talk of your mother here, even after her death.
+Debora
+	Only one town... I'd quite like to buy Papa a souvenir, but I can't see anywhere to buy one.
+Debora
+	Your mother was really quite special.
+	They do say that if a parent shines too much, their children will be dull, mind you...
+Debora
+	So the inhabitants of this place all used to
+	be monsters.
+Debora
+	When are you going to become someone special like your mother was, %a000090?
+Debora
+	How silly! He can't blame being fat on being
+	well-rounded!
+Debora
+	I'm the most well-rounded person I know, and there's not a scrap of fat on me!
+Debora
+	He's incredibly loyal to still respect Nimzo even now. He'd probably make an excellent servant.
+Debora
+	It's Nimzo who'd be powerless, though, not our hero. He was wrong there!
+Debora
+	Why would he steal like that? As long as I had money, I'd never think of stealing.
+Debora
+	Do you recognise that staff?
+	Oh! It's %a001250's?
+Debora
+	It's quite impressive that the thief made it all the way to Nadiria, don't you think? He must've come after we opened the way.
+Debora
+	So this is what a Nadirian inn looks like.
+	I wonder how the food tastes.
+Debora
+	There's no need for him to make such a song and dance about it. We'll sort Nimzo out.
+Debora
+	Hmph. He's not listening.
+	Maybe we should give him a slap.
+	He obviously needs waking up from his nightmare.
+Debora
+	And you're the one to do it! Now's not the time to be hanging around in pubs!
+Debora
+	We don't have time to hang around here. It's time to make Nimzo pay for what he did to your mother.
+Debora
+	There are plenty of people in our world who turn into monsters when they've had a drink.
+Debora
+	Why are you looking so aggravated?
+	I wasn't pointing any fingers!
+Debora
+	She has an easy time of it, working in a pub and refusing to serve drink! Even I wouldn't mind working in a pub like that.
+Debora
+	Correct answer! You shouldn't have any regrets, what with being married to me and everything.
+Debora
+	How dare you! You can't possibly have any regrets. You're married to me, remember!
+Debora
+	What a fool. He had it all wrong from the outset, wanting to become a god.
+Debora
+	He sounds just like the idiots who turn up at the casino to make their fortunes and end up penniless.

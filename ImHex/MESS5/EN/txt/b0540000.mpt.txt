@@ -1,0 +1,348 @@
+Bianca
+	Um, are you sure we've got time to hang about in a place like this, %a000090? Hadn't we better hurry?
+Bianca
+	Looking at the river rush by takes me back to bein' a little girl. I wonder why.
+Nera
+	You must have a lot of memories here. But we should really try not to dawdle too much.
+Nera
+	This place never changes. The water smells just like it always has. And so does the grass.
+%0%a001240
+	Wow! What a cool river! It runs into the sea, right? How amazing!
+%0%a001250
+	The water's so clear. It'd be lovely to swim in.
+Sancho
+	Eef I just esay I go together weeth heem to Coburg that day...
+Sancho
+	No. Ees too late now.
+%0%a001240
+	I wish I had friends. Then I could spend all the time playing about and having fun.
+%0%a001250
+	It's a shame you didn't age at all when you were a statue, Dad. I wish I could be a grown-up soon.
+Sancho
+	I no esay I blame everyone een Coburg, but esometimes I theenk like thees...
+Sancho
+	Eef you and your father, you were no esummoned to Coburg on thees day,
+	maybe señor Pankraz, he, he...
+Bianca
+	I s'pose we should look on the bright side. At least we didn't age in all those years we were statues, eh?
+Nera
+	Yes, we must look just like we did all those years ago before we were turned into stone.
+Tuppence
+	I wonder why that soldier was posted all the way out here. Don't they need his sort over at the castle?
+%0%a001240
+	Don't you have a Whealbrook bluestone, Dad?
+%0%a001240
+	Whealbrook's the place you spent a bit of time when you were little, isn't it? Maybe we should go there and see if we can find some bluestones ourselves!
+%0%a001250
+	I read about Whealbrook bluestone in a book once. There used to be lots of it about in caves long ago.
+%0%a001240
+	That old woman's elder sister must be even more of an old woman than she is!
+%0%a001250
+	I love tombolas! Have you got any tombola tickets, Dad? Can we go sometime? Pretty please!
+%0%a001250
+	You can hear the water running by. It makes me feel all calm and relaxed.
+%0%a001240
+	We're under the river now, aren't we? I wonder how they made this tunnel. You don't think it'll collapse or anything, do you?
+Sancho
+	I remember now. Many years ago, there was an old señor on the Coburg eside of the river who espent hees time just looking eento the water.
+Sancho
+	I wonder how he ees now.
+Bianca
+	Comin' here reminds me of the time I moved from Roundbeck all them years ago. Time flies, eh?
+Nera
+	This is where we first met, isn't it? How the years have flown by since then!
+%0%a001240
+	Do boats come here? Have you been on one, Dad? That's so cool! I want to go on a boat!
+	Take me on a boat!
+%0%a001250
+	The sea is such a pretty colour. And look at how the waves rock up and down.
+Sancho
+	Ees eso near to Whealbrook here. Ees a place weeth very painful memories for me.
+Tuppence
+	What an oversight! We should've brought an artist along with us, %a000090.
+Tuppence
+	Then I could have had lots of lovely heroic portraits done of me on my travels to keep for posterity!
+Bianca
+	Isn't her poor husband that bloke who was always sleepin'? How did he end up comin' a cropper?
+Nera
+	The poor woman, losing a loved one like that. Just the thought of it makes me feel utterly wretched.
+%0%a001240
+	Prince Albert always said it's important to help a person who's in distress.
+%0%a001240
+	Maybe it'll be a help to that woman if we defeat Nimzo. We have to at least try, Dad!
+%0%a001250
+	Not all monsters are bad. People don't realise that. But it is a shame for that woman.
+Sancho
+	Uf! Ees eso esad!
+	You must do esometheeng, My Majesty.
+	You must return the world to peace.
+Bianca
+	Comin' here reminds me of the time I moved from Roundbeck all them years ago. Time flies, eh?
+Nera
+	This is where we first met, isn't it? How the years have flown by since then!
+%0%a001240
+	It's too dark to see where the path ends and the sea starts. We'd better watch that we don't fall in!
+%0%a001250
+	I'm sleepy.
+Sancho
+	Ees no polite to visit people at night.
+Sancho
+	We leave and come again tomorrow, okay?
+%0%a001250
+	Oh dear. It looks like she's having an upsetting dream.
+Nera
+	I wonder how long she'll go on feeling so terrible.
+Sancho
+	Ees always the esad theengs you esee een your dreams. Sí, sí. I understand.
+Bianca
+	It always makes me feel sad comin' here.
+Nera
+	All those years have passed, and yet this place has hardly changed at all.
+%0%a001240
+	We looked all over for you with Sancho, but we never came here.
+%0%a001240
+	He said this is the one place he wanted to avoid.
+%0%a001240
+	This place must be full of memories for you and Sancho. You spent time with Grandpa here too.
+	I do know, you know.
+%0%a001250
+	If you're feeling sad, it's okay to cry. I'll cry with you if it makes you feel better.
+%0%a001250
+	...I can't breathe very well. Being here... It's very hard for some reason.
+Sancho
+	You know, I tell myself I never come here again.
+Sancho
+	But ees okay. Now I have you weeth me.
+	Ees much happier thees time.
+Sancho
+	You know, friend, I came after you and your father when you left Whealbrook for Coburg that day. I had a bad feeling een my heart.
+Sancho
+	But when I arrived een Coburg, already señor Pankraz, he was no there. I tried to find heem, but ees no good.
+Sancho
+	When I came back and heard the news, I, I... (sob)
+Tuppence
+	What a travesty! There was no need for such rampant vandalism. I'm sure it used to be a lovely little village.
+Tuppence
+	I'm sure this place will be back to its old self one day, %a000090. Where there are people, there's life.
+%0%a001240
+	Do you know that man, Dad? He's really old!
+%0%a001250
+	It's sad seeing someone so old and doddery.
+%0%a001240
+	This is a pretty little church. Maybe they decided to spare it because it's a sacred place.
+%0%a001250
+	I need to say lots of prayers. That way all the people who died here will find their way safely
+	to the Goddess.
+Tuppence
+	What a lovely young filly! It's like seeing a beautiful rose in the middle of a wilderness.
+%0%a001240
+	Well, well! That slime seems to be fairly clued up, considering he lives in a well!
+%0%a001250
+	That slime is really cute!
+%0%a001240
+	Are we staying here tonight? Go on, let's!
+Sancho
+	Sí, thees ees...
+	Uf, ees been esuch a long time.
+Bianca
+	Quite right. We have %a001240 and %a001250 to make us proud. We should be happy!
+Nera
+	We had a terrible time of it too when we were turned into stone, but at least we can be grateful that our children were well looked-after.
+%0%a001240
+	We're both fine. You don't need to worry about us, so cheer up!
+%0%a001250
+	Their place was set on fire? Their beds and clothes and money and everything? How terrible!
+Sancho
+	I no believe eet!
+	Ees the señora from the inn!
+	Eshe, eshe ees alive! Oh, ees, ees... (blub)
+%0%a001240
+	A cave! Did you go exploring in there when you were little, Dad? Heh heh! So you liked adventures just like I do, then!
+%0%a001250
+	Have you ever seen a Whealbrook bluestone, Dad?
+	No? That's a pity.
+Sancho
+	Ees possible to make a fine gemstone from thees Whealbrook bluestone, you know.
+Sancho
+	When there were no eso many monsters een
+	thees cave, many, many people, they came
+	here to find eet.
+Bianca
+	Looks like customers are pretty thin on the ground
+	'round here! I hope the people runnin' this place
+	don't lose heart.
+Nera
+	If you don't mind, I think we should try to support this place and stay here as often as we can.
+%0%a001240
+	Is she the only child here in the village? Maybe I should offer to be her playmate for a while.
+%0%a001240
+	So this is the cellar of your old house. No way! You went from here to the Realm of the Faeries!? Wow!
+Sancho
+	Ees no eso different from before.
+	Thees ees the only place that was no destroyed. Ees, ees... (sob)
+%0%a001230
+	Who would've thought pretty flowers like this would blossom in a place so dark?
+Sancho
+	No! Ees no possible... Thees blossom, ees the esame one from eso many years ago?
+Bianca
+	It always makes me feel sad comin' here.
+Nera
+	All those years have passed, and yet this place has hardly changed at all.
+%0%a001240
+	We looked all over for you with Sancho, but we never came here.
+%0%a001240
+	He said this is the one place he wanted to avoid.
+%0%a001240
+	This place must be full of memories for you and Sancho. You spent time with Grandpa here too.
+	I do know, you know.
+%0%a001250
+	If you're feeling sad, it's okay to cry. I'll cry with you if it makes you feel better.
+%0%a001250
+	...I can't breathe very well. Being here... It's very hard for some reason.
+Sancho
+	You know, I tell myself I never come here again.
+Sancho
+	But ees okay. Now I have you weeth me.
+	Ees much happier thees time.
+Sancho
+	You know, friend, I came after you and your father when you left Whealbrook for Coburg that day. I had a bad feeling een my heart.
+Sancho
+	But when I arrived een Coburg, already señor Pankraz, he was no there. I tried to find heem, but ees no good.
+Sancho
+	When I came back and heard the news, I, I... (sob)
+Tuppence
+	What a travesty! There was no need for such rampant vandalism. I'm sure it used to be a lovely little village.
+Tuppence
+	When things are peaceful again, everyone in
+	Gotha should band together to get this place
+	back on its feet!
+Tuppence
+	I know! We could get the folk from Coburg on board too. The more, the merrier!
+%0%a001240
+	Do you know that man, Dad? He's really old!
+%0%a001250
+	Does that old man have to stay in bed all the time?
+	Do you think he's alright?
+%0%a001240
+	Hey! That's a bit like how Sancho brought us up,
+	isn't it?
+%0%a001240
+	Then that means these two are family.
+%0%a001250
+	Um, can I sleep in with you tonight, please, Dad?
+%0%a001240
+	Are we staying here tonight? Go on, let's!
+Sancho
+	Sí, thees ees...
+	Uf, ees been esuch a long time.
+%0%a001240
+	(yawn) Looking at the bed has made me sleepy all of a sudden.
+Tuppence
+	That's a very comfortable-looking bed for a place like this.
+%0%a001250
+	I'm sleepy, Dad. I want to go to bed.
+Bianca
+	You helped a bloke who got stuck here lookin' for medicinal herbs once, right, %a000090?
+Bianca
+	I know all about it, see. He was well impressed
+	with you, a brave little kid goin' into a cave with
+	so many monsters.
+Bianca
+	The first time I came in here was just after
+	them soldiers from Coburg burnt Whealbrook
+	to the ground.
+Bianca
+	I thought maybe I'd find you in here hidin', you see.
+Nera
+	You must've been a born adventurer to come playing in this cave when you were such a small boy!
+Nera
+	So this is where you used to play when you were small. I used to always play at the La Guardia lookout tower.
+Nera
+	I used to be scolded terribly by Papa if he ever caught me there.
+%0%a001240
+	Did you come exploring in this cave all by
+	yourself, Dad?
+%0%a001240
+	You were a lot younger than me then, weren't you? You must've been really brave!
+%0%a001240
+	This cave is amazing.
+%0%a001240
+	I wonder if it was dug out by all of the people who came here looking for Whealbrook bluestones.
+%0%a001250
+	Um, you won't go annoying the monsters in here too much, will you, Dad?
+%0%a001250
+	The water in here is really pretty. I wonder where it comes from.
+Sancho
+	Señor Pankraz, he came here all the time.
+	I used to make for heem the packed lunch.
+	Sí, sí... I remember eet like yesterday.
+Sancho
+	The people from the village, they no come near the cave because they were afraid of monsters.
+Sancho
+	Thees ees why señor Pankraz, he can continue hees research and no one knows notheeng.
+Sancho
+	The flames, they no can come een here, eh?
+	Ees just like eet was before.
+Tuppence
+	I was expecting a rather bigger cave, given the way you spoke about it.
+Tuppence
+	I suppose things always seem bigger to you
+	as a child.
+Tuppence
+	It feels very damp in here. I wonder if it's because of the river.
+Bianca
+	This must be where Pankraz did all his research about the legendary hero.
+Nera
+	This place seems to have a kind of warm atmosphere to it somehow.
+%0%a001240
+	Is this Grandpa's secret room? It's really cool! Maybe I should have a secret room too!
+%0%a001250
+	Grandpa Pankraz...
+Sancho
+	Ees the first time I esee thees room.
+	Señor Pankraz, he, he...
+Tuppence
+	So this is the research chamber of the mighty King Pankraz! Ooh, I feel quite overwhelmed!
+Debora
+	How long are you planning on carrying on with this trip down memory lane, %a000090?
+Debora
+	You have an important task to take care of, remember. It's time to move on.
+Debora
+	Well, we were stuck as statues for all those years. Huh! Being reminded of that really irritates me.
+Debora
+	Being here certainly takes me back. It's time we stopped looking to the past now, though.
+Debora
+	You'd better not ever put me in that position, %a000090. I'd never forgive you if you did.
+Debora
+	It's chilly by the water at night. And no, I wasn't saying that so you'd come and warm me up, %a000090.
+Debora
+	You'd better not ever put me in that position, %a000090. I'd never forgive you if you did.
+Debora
+	It's been so long, and yet there still aren't enough people here to rebuild the town.
+Debora
+	Never mind, %a000090. When the world's at peace again, people will flock here because of its connection to me, and then it will all be okay.
+Debora
+	I was so angry when I was turned into a statue. They could at least have made it a gold one.
+Debora
+	It was that anger that kept me going, though.
+	Anger and the determination to have my revenge.
+Debora
+	If you want to stay here, I don't have a problem with that. Stay whenever you like.
+Debora
+	It's strange to see flowers blossoming in such a dark place. I wonder who planted them here.
+Debora
+	It's been so long, and yet there still aren't enough people here to rebuild the town.
+Debora
+	Never mind, %a000090. When the world's at peace again, people will flock here because of its connection to me, and then it will all be okay.
+Debora
+	You certainly love your caves, don't you, %a000090? I can't believe you used to come in here when you were little.
+Debora
+	We've been married a long time now, but I still don't think I'll ever be able to share your love of caves.
+Debora
+	Caves are damp and smelly and dark and claustrophobic, and there's never any sunshine...
+Debora
+	It doesn't matter that I'm clearly married to a cave fanatic. I still don't see myself ever liking them.
+Debora
+	So this is where your father carried out his research on the legendary hero.
+Debora
+	I wonder if it's fate that you're here now with your own son.

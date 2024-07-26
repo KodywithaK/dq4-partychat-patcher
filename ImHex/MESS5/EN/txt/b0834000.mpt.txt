@@ -1,0 +1,53 @@
+~ Would you like to save the details of your journey so far in an adventure log? ~
+~ Are you sure you want to continue playing without saving in an adventure log first? ~
+~ Save to which adventure log? ~
+~ This will require overwriting ~
+~ ⓗ%a000660: %0%a000090 %a000240ⓘ. ~
+~ Proceed? ~
+~ This will require overwriting ~
+~ ⓗ%a000660: %0%a000090 Ⓓ%a000240ⓘ. ~
+~ Proceed? ~
+~ Saving adventure log. ~
+~ Do not turn the power OFF ~
+~ or remove the DS Game Card! ~
+~ The adventure log could not be ~
+~ saved. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ Record your achievements so far in an adventure log? ~
+~ Are you sure you don't want to ~
+~ save your progress? ~
+~ Save to which adventure log? ~
+~ This will require overwriting ~
+~ ⓗ%a000660: %0%a000090 %a000240ⓘ. ~
+~ Proceed? ~
+~ This will require overwriting ~
+~ ⓗ%a000660: %0%a000090 Ⓓ%a000240ⓘ. ~
+~ Proceed? ~
+~ Saving adventure log. ~
+~ Do not turn the power OFF ~
+~ or remove the DS Game Card! ~
+~ The adventure log could not be ~
+~ saved. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ The adventure log could not be ~
+~ accessed. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ Do you want to make a quick save log and suspend your game for the moment? ~
+~ Recording quick save log. ~
+~ Do not turn the power OFF ~
+~ or remove the DS Game Card! ~
+~ Quick save log successfully created. ~
+~                   Bless you, my child. ~
+~              Please turn the power OFF. ~
+~ The quick save log could not be ~
+~ saved. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ The quick save log could not be ~
+~ accessed. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ You can't make a quick save log here. ~
+~ You can leave the dungeon to do so, or close your Nintendo DS Series System to put it into Sleep Mode. Make sure you have enough battery power first. ~
+~ You can't make a quick save log here. ~
+~ Please either save in a church, or leave town and quick save there. ~
+~ If you need to take a break right now, you can close your Nintendo DS Series System to put it into Sleep Mode. ~
+~ You can continue your adventure simply by opening your Nintendo DS Series System again, but be careful not to run out of batteries in the meantime. ~

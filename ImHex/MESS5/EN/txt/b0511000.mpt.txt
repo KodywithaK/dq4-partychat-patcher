@@ -1,0 +1,732 @@
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	The Order of Zugzwang!? Then they must've bin at the temple that time. I hope they're alright.
+Nera
+	I'm sorry, darling. I'm just finding it hard to have a conversation with a ghost.
+%0%a001240
+	It's not our fault. It was already in a bad state when we found it.
+%0%a001250
+	Is there no way we can make the tea set all nice again for him, Dad?
+Sancho
+	There was a f-fine tea set een Gotha a l-long, long t-t-time ago.
+Sancho
+	I n-no remember what h-happened to eet now.
+	Maybe esomeone, they br-broke eet? Si...
+	M-Maybe eet was djour cl-clumsy Uncle S-Sancho...
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	The Order of Zugzwang!? Then they must've bin at the temple that time. I hope they're alright.
+Nera
+	I'm sorry, darling. I'm just finding it hard to have a conversation with a ghost.
+%0%a001240
+	I'm not scared of ghosts if they're all like him!
+%0%a001250
+	The Count wants us to help him. What's this tea set he's on about, though? Do you think it's here in the castle somewhere?
+Sancho
+	Uf. Thees c-count, hees esoul can n-no rest, eh?
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	Do you think it's really okay for us to get hold of a crown like this? I dun't feel worthy!
+Nera
+	A p-p-present from a ghost. How l-lovely...
+%0%a001240
+	(sniff sniff)
+%0%a001240
+	It's okay! I was thinking it might be a bit stinky because it's so old, but it's actually not too bad.
+%0%a001250
+	Don't give that crown to me, will you? I'm worried
+	I'll stop growing if I wear something too heavy on
+	my head .
+Sancho
+	Uf! Ees a f-fine article, eh, chico?
+	Djou m-must look after eet, okay?
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	It's funny seein' the flash of light when he's angry
+	at you sayin' no! Takes me back to the last time we met him!
+%0%a001240
+	Did the Count make that flash of light? It's a bit
+	mean of him to do that just because he didn't like
+	our answer.
+%0%a001250
+	That tea set used to belong here in the castle, right? But now it's got into a bad way.
+%0%a001250
+	I thought you were supposed to keep precious things like that safe, though. Don't all adults know that?
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	Well, we can hardly accept responsibility for that now, can we?
+Nera
+	What a shame they've been disappointed!
+%0%a001240
+	It must be a bit rubbish being dead. I'll have to be careful it doesn't happen to me.
+%0%a001250
+	Don't the Count and Countess need to go and be
+	with the Goddess? Or are they just going to stay here forever?
+Tuppence
+	You can't taste anything when you're dead? How tiresome! I'll have to make sure I eat and drink as many delicious things as I can while I'm alive, then.
+Bianca
+	Fancy comin' back here! Dun't you worry, though.
+Bianca
+	I still en't forgotten how good it was to come explorin' here with you when we were kids.
+Nera
+	If there was a castle like this near Mostroferrato, I know I would've had to explore it when I was little.
+Nera
+	Oops! I'd better not let the children hear me say things like that.
+%0%a001240
+	Do you know this place, Dad? That's cool! Maybe I should go off adventuring of a night, too!
+Bianca
+	Oi! I dun't think so! Your dad and I only came here adventurin' for good reason, I'll have you know.
+%0%a001240
+	Huh!
+%0%a001250
+	I can hear the little birds singing. They're saying that all is well here at the castle now.
+Sancho
+	I n-no believe djou and Bianca, djou w-went out of the town alone like thees all those djears ago, chico.
+Sancho
+	But ees okay. Ees n-no esomething to be a-angry about now. Ees t-too long ago. And djou are n-no the muchacho djou were then.
+Sancho
+	I n-never came to thees place weeth señor Pankraz. I believed ees j-just an old ruin.
+Tuppence
+	Are there ghosts here?
+Tuppence
+	I suppose I'd consider a beautiful female ghost if I had to. You can't accuse me of being closed-minded.
+Bianca
+	I reckon it was the bad ghosts that made it so scary last time. Walkin' around now, even of a night, dun't scare me at all.
+Nera
+	You and Bianca came adventuring here in the middle of the night once, didn't you? I wish I'd been there.
+%0%a001240
+	I reckon %a001250 and I are big and brave enough to explore somewhere like this on our own!
+%0%a001250
+	When you were here as a boy, there were lots of evil ghosts, weren't there? How scary!
+Sancho
+	Djou and Bianca, djou c-came here to thees place een the m-m-middle of the night, si? When djou were j-just a leettle muchacho.
+Sancho
+	Djou know, I b-believed djou were a well-behaved djoung boy, but no. Djou are tr-truly the eson of señor Pankraz. I, I am eso h-h-happy!
+Tuppence
+	Brrr... There's a bit of a chill in the air here. Oh...
+	I'm the only one feeling it, am I?
+Bianca
+	I can't sense anything sinister here now.
+	That's a relief.
+%0%a001240
+	It'd be really fun to come exploring here just with kids of my own age.
+Bianca
+	The place looks a bit tidier than the last time
+	we came, eh? Maybe those two lovebirds
+	fixed it up a bit.
+Bianca
+	We did a good job of rescuin' %a001210 by comin' here all those years back. I couldn't have done it without you, %a000090.
+Nera
+	Old buildings always have a certain smell to them. Maybe it's just mould, I don't know. But it's not a
+	bad smell.
+Nera
+	I can't imagine how worried I'd be at the thought of %a001240 and %a001250 here all alone.
+Nera
+	You'd be worried too, right? That's probably just how Pankraz felt when you came here as a boy.
+%0%a001240
+	Are all the bad ghosts gone now? If I see any, I'll soon send them packing!
+%0%a001240
+	Look! There's a huge spider's web up there. Wow!
+	It looks amazing.
+%0%a001240
+	We don't have any ghosts in Gotha.
+	It would be fun if we did.
+%0%a001240
+	I reckon I could stay undiscovered here for ages if we had a game of hide-and-seek.
+%0%a001250
+	This castle's not scary. Not now all the nasty ghosts have gone away.
+%0%a001250
+	There are so many stairs and corridors here.
+	I'm worried I'm going to get lost.
+%0%a001250
+	You did well here, Dad. The people seem really grateful to you.
+%0%a001250
+	My favourite castle of all is Gotha, of course. That's where all my friends are. And it's much warmer than here, too.
+Sancho
+	Djou no think ees a r-really beeg castle?
+	Ees like a g-giant paella. Ees a w-waste
+	to leave eet.
+Sancho
+	To restore thees c-c-castle to eets f-former glory, ees gonna take muchos, muchos time, eh?
+	Si. Many, many djears.
+Tuppence
+	Tuppence Castle... No, not grand enough. Great Tuppence Castle? Hmm... I know! I could call it Tupptaten Towers!
+Tuppence
+	Sorry! I was just trying to figure out what name I'll give my castle in the future.
+Tuppence
+	Watch where you're walking, won't you, %a000090? The floorboards might be a bit weak in places.
+%0%a001240
+	It's funny to find a house hidden in the woods
+	like this.
+%0%a001240
+	Wow! Did you hear that, Dad?
+	You can get to the Realm of the Faeries from here!
+%0%a001240
+	You spent some time with a faerie once, didn't you, Dad? That means you must be able to see them!
+Sancho
+	Uf! Now ees a f-forest we g-get lost een?
+	Thees quest, ees n-no easy, eh?
+Tuppence
+	So if I can find my way through this forest, that'll prove that I'm someone special. Right then!
+%0%a001240
+	Ha ha! We've already been to the
+	Realm of the Faeries!
+Sancho
+	I hope ees n-no eso hard to g-g-go there thees time.
+%0%a001250
+	I saw a funny shadow just then.
+	You don't think...?
+Tuppence
+	It's funny how she remembers being a little girl.
+	I don't remember being a little boy. I suppose I must've been in Gotha.
+%0%a001250
+	Does that mean you can't see faeries any more
+	when you grow up? If that's true, I never want to grow up!
+%0%a001240
+	This forest goes on forever! It'd be a never-ending job looking after all these trees.
+%0%a001240
+	Hang on! Which way did we come from again?
+	Can you remember, Dad?
+%0%a001240
+	You've met a faerie before, right, Dad? What was she like? Was she taller than me?
+%0%a001240
+	And could she fly? Did she have wings? Do you think she'd be my friend? Tell me everything!
+%0%a001250
+	The trees here in the forest are saying that they never let bad people through, but we're good, right?
+%0%a001250
+	My hair ribbon's come undone again. It keeps getting caught on the branches of the trees.
+%0%a001250
+	Look! Over there!
+	...Oh. It's disappeared.
+Sancho
+	M-Maybe ees gonna take a l-long time to get
+	out of thees f-forest, no? Now I weesh I p-pack
+	the c-c-cold paella.
+Sancho
+	Djou know, once señor P-Pankraz, he eshow me the way to g-get out of the maze. But ees n-no gonna work here, I think.
+Sancho
+	Ees m-muchos dangerous eef djou r-r-run
+	around weeth n-no purpose. Djou must t-take
+	eet eslow now.
+Tuppence
+	My life of brilliance is about to start right here! You have to guide us through this forest, %a000090!
+Tuppence
+	That's odd. This path looks rather familiar.
+	I do hope you're concentrating, %a000090!
+%0%a001240
+	I've heard about the Realm of the Faeries from Sancho. Do you know much about it, Dad?
+%0%a001240
+	I don't know what Mum looks like, but I'll bet she's even more beautiful than the Faerie Queen!
+%0%a001250
+	I'd really love to live in the Realm of the Faeries.
+%0%a001250
+	Is there a land for faeries and a land for monsters?
+	Um, which one do you think this is?
+%0%a001250
+	Um, is it okay if we go and play in the Realm of the Faeries again soon, Dad?
+Sancho
+	We n-no have anything to do here in the forest, eh, chico? We leave now, okay?
+Sancho
+	Djou must n-no lose thees f-faerie horn, okay?
+Sancho
+	Esometimes djou have the c-careless moment, eh, chico? Ees true, si?
+Tuppence
+	Treacle was quite a beauty. I should imagine the Faerie Queen must be exquisite.
+Tuppence
+	Imagine how envious people would be if one married a faerie. Yes, what an idea! A faerie bride...
+%0%a001240
+	I reckon I know all the paths through here now.
+	How about you, Dad?
+%0%a001240
+	It's okay. I know we have to keep the thing with the gold bauble a secret from the faeries.
+%0%a001240
+	They've all been such a big help to us. We'd better make sure we do our best.
+%0%a001250
+	Do you think that I'll still be able to see faeries when I grow up if I make sure I behave myself and I'm good all the time?
+Sancho
+	Eef ees p-possible to t-turn back time, ees...
+Sancho
+	No. Ees n-no important.
+	Come. We go, okay?
+Bianca
+	This is a pretty dense forest, eh? You can hardly see the sky at all.
+Bianca
+	Ouch! I've got a crick in my neck from lookin' up
+	so much!
+Nera
+	The air smells so fresh inside a forest. I wonder how far this one stretches on for.
+Nera
+	So only the children could see the faerie the first time you were here? How interesting!
+%0%a001240
+	Over by the bonfire, Dad!
+	We should go and have a look.
+%0%a001250
+	I saw her! I just saw a faerie over there by the bonfire! Can we go and talk to her?
+Sancho
+	Ees esome kind of g-game?
+	Si. I remember djou like to p-play like thees when djou are djoung, chico.
+Tuppence
+	Yes, I, er, I saw it, too! Over by the bonfire...
+	Er, it was a huge bearded man!
+Tuppence
+	Yes, with six legs...and, er, four ears... Um, no, maybe it was two legs... Anyway, there's something there!
+Sancho
+	Eh!? Ees n-no one there, b-but...
+	Djou n-no hear a voice?
+Sancho
+	My Majesty! Run! R-Run away before djou
+	are k-k-keelled!
+Tuppence
+	Hm? Did I hear a voice then, or am I just
+	imagining things?
+%0%a001240
+	Did you see her that time, Dad?
+	She made it so adults can see her, too.
+%0%a001250
+	Are we going to Faerie Lea again?
+	I love it there!
+Tuppence
+	You can see her, can't you, %a000090? It doesn't make sense! Why can't I? It's not fair!
+Bianca
+	You had a little bit of an adventure with a faerie when you were a kid, din't you?
+Bianca
+	You've certainly got your fair share of tales to
+	tell, eh?
+Nera
+	I saw her, too! I saw the faerie! She looks just like the faeries I saw all those years ago.
+%0%a001240
+	So is it different to the time you came before,
+	or hasn't it changed much?
+%0%a001240
+	Oh. There used to be more faeries about?
+	I wonder where they've all gone, then.
+%0%a001240
+	There only seem to be girl faeries.
+	I feel like a bit of an intruder.
+%0%a001250
+	The faeries and the monsters all get along fine together here. That's the way it should be.
+%0%a001250
+	Is it always spring here? I'm sure that's not the
+	only reason for the place having such a warm
+	feel to it, though.
+Sancho
+	Uf! I always know thees qu-quest of djours, eet ees hard, b-but I n-no think ees eso hard djou must
+	tr-travel to the R-Realm of the Faeries.
+Sancho
+	But djou know, ees n-no eso bad here, eh?
+	Ees a v-very b-b-beautiful place.
+Bianca
+	It was the depths of winter when you came here as a boy, eh, %a000090? It's hard to imagine it now.
+Bianca
+	Thanks for bringin' me here.
+	I always wanted to see the Realm of the Faeries.
+Nera
+	This place looks exactly like a picture I saw in a book once when I was a child.
+Nera
+	%0%a001250 seems to really like books. I'll have to find it and read it to her one day.
+Nera
+	Thank you, darling. I was just thinking how I'd love to visit the Realm of the Faeries.
+Bianca
+	Dwarfs make all kinds of things, eh? They're pretty impressive creatures by all accounts.
+%0%a001250
+	That slime looked really cute, don't you think?
+%0%a001250
+	I knew you'd agree, Dad!
+	You see things like that.
+%0%a001250
+	Oh. You think all slimes look the same?
+	That's weird.
+Bianca
+	It's funny to think that you came to a place like this all them years ago. I wish I could've come with you.
+%0%a001240
+	So you really did used to be a little boy.
+	Does that mean Sancho was small once, too?
+Sancho
+	Eh, chico! I n-no tell djou then that djou must
+	st-stay eenside the town? But djou c-come eso
+	far away to thees p-place.
+Sancho
+	Qué? Djou c-come here from eenside our house!?
+%0%a001240
+	Is Treacle a friend of yours, Dad?
+	I'd like to meet her if she is.
+Tuppence
+	Aah. Faeries really are rather sweet, aren't they?
+Tuppence
+	Aah. All of these faeries are just so
+	incredibly sweet!
+%0%a001240
+	So she wasn't the queen, then?
+%0%a001240
+	So when we blow this horn, we get to meet the Queen? Will you let me blow it, Dad? Pleeease!
+%0%a001250
+	There are so many faeries here! Do you think I might be able to make friends with some of them?
+%0%a001250
+	Ooh, what a pretty horn! Is it some kind of musical instrument? I wonder what kind of music it plays.
+Sancho
+	Ees all c-connected, si? Djou help esomeone e-een the past, and now they h-help djou.
+%0%a001240
+	Did you hear that!? So there really is a Zenithian castle out there somewhere! We have to find it, Dad!
+%0%a001250
+	I'm not very good when it comes to heights. I should be okay in the castle, but I'm not too sure about the stairway...
+Sancho
+	Thees señorita ees eso djoung, but she r-rules thees place eso well.
+Tuppence
+	Mmm... Treacle. She really is terribly sweet.
+%0%a001240
+	Treacle's got such a lovely smile, and she's so friendly. I wonder if Mum's like her.
+%0%a001240
+	When you get the chance, will you tell me all
+	about what happened here in the past? I really
+	want to know!
+%0%a001250
+	Treacle's clothes are so beautiful. If only I could try on some clothes like that.
+Sancho
+	Thees señorita ees eso djoung, but she r-rules thees place eso well.
+Sancho
+	My Majesty, we no have anything m-more to do here, no? Ees time to leave?
+Tuppence
+	Mmm... Treacle. She really is terribly sweet.
+Bianca
+	D'you think you're really supposed to climb up into the heavens to get to Zenithia?
+Bianca
+	I think it looks quite good floatin' about in the middle of the sky like it is at the minute, personally.
+Nera
+	It looks like we were wrong about peace being restored to the world just by the Zenith Dragon being resurrected.
+%0%a001240
+	Everybody wants peace, don't they? I'll do my best, as long as you stick by me, Dad.
+%0%a001250
+	Peace doesn't mean a world without monsters, right? Peace will be when we can all live together
+	in harmony.
+Sancho
+	Anda! Everyone, they esay n-nothing but p-peace, peace, peace. But ees n-no easy to find the peace, djou know? 
+Tuppence
+	So the lovely Treacle is praying, too! Ooh, I feel better already! I'm raring to go now!
+%0%a001250
+	I'm going to make friends with some faeries
+	just like you have, Dad. And one day, we'll all
+	go off adventuring together.
+Sancho
+	Ees amazing... Djou r-really c-came here when djou were eso djoung, eh, chico?
+Sancho
+	Djour father, señor Pankraz, he w-was also the escape artist when he was djoung, but ees
+	n-nothing compared to djou!
+Tuppence
+	Your Majesty! You absolutely must introduce me to that delightful creature!
+%0%a001240
+	Was Honey a bit more chatty the last time you met her, Dad?
+%0%a001240
+	I'll bet she's being quiet now to show respect
+	to Treacle.
+%0%a001250
+	Treacle... Honey... Sherbet...
+	Faeries' names are all so sweet, don't you think?
+Bianca
+	There are all sorts of odd places dotted about the world, eh?
+Nera
+	You look a bit disappointed, darling. Was your last adventure with Honey really that much fun?
+%0%a001240
+	Do you think all of the faeries obey what the Queen says? If it were me, I'd probably sneak off there when no one was looking.
+%0%a001250
+	That's good, Dad. It's nice that Honey has good memories of your adventure together, too.
+%0%a001240
+	Just the idea of staying the night in the Realm of the Faeries is really exciting!
+%0%a001250
+	We'd probably all have lovely dreams if we stayed the night here, don't you think, Dad?
+%0%a001250
+	I wish I could live in a room like this.
+Bianca
+	What's goin' on with that wall? The more times I look at it, the more odd it seems.
+Nera
+	We're inside a tree, and yet it's like being in the water. Just what you'd expect from a faerie's home, I suppose! Full of illusions.
+%0%a001250
+	The walls and the stairs are all watery!
+	Faeries are so amazing!
+%0%a001240
+	The Faerie Palace is pretty deep into the woods,
+	isn't it?
+%0%a001250
+	I really like being out in nature, with trees and water all around. It just makes me feel good.
+Sancho
+	Djou are l-like djour father, si? Djou n-no have the sense of rheethm and djou n-no can sing, si?
+Sancho
+	But thees horn, ees m-made by the faeries.
+	Ees okay. Anyone, they can make eet work.
+%0%a001240
+	Everybody wants peace, don't they? I'll do my best, as long as you stick by me, Dad.
+%0%a001250
+	Peace doesn't mean a world without monsters, right? Peace will be when we can all live together
+	in harmony.
+Sancho
+	Anda! Everyone, they esay n-nothing but p-peace, peace, peace. But ees n-no easy to find the peace, djou know? 
+Bianca
+	Where d'you think the feather came from?
+	I didn't think faeries had wings.
+Nera
+	So faerie quills really do exist! I always thought they were just made up in books.
+%0%a001240
+	Hey, that's pretty cool. I reckon I might even be able to knuckle down and study if I had something like this to write with!
+%0%a001250
+	I can spell some really difficult words, you know,
+	so you could let me use that quill sometime if
+	you wanted.
+Tuppence
+	This must've been made by pulling a feather out of some poor creature's back. Dear me!
+Bianca
+	I get it. You have to use the quill with the right kind of ink, then.
+%0%a001240
+	Oh! I can't wait to have a go at using this quill!
+%0%a001250
+	Um, Dad, it might be better not to let %a001240 use the quill, you know.
+%0%a001250
+	It's just, he's always breaking normal pens, and they're much stronger. I don't know how he does it!
+Bianca
+	The walls and the stairs feel all watery, and
+	yet you dun't get wet when you touch 'em.
+	It's all very weird.
+%0%a001250
+	There's water everywhere, but it doesn't feel cold.
+	I suppose that's because it's spring water. I mean, water in the spring!
+Sancho
+	I n-never get used to thees f-f-floating estairs.
+	The estairs, they must be firm, djou know.
+	Si. V-Very, very firm.
+%0%a001240
+	You know Dwight and that slime, don't you, Dad? Sometimes it feels like you know everyone in the whole world!
+%0%a001250
+	I wouldn't mind living in a cave if I had a slime to keep me company. ...But maybe it's not such a 
+	good idea.
+Tuppence
+	So this Dwight character killed his grandfather?
+	No? Barking up the wrong tree, am I?
+Tuppence
+	It amounts to the same thing, as far as I can see.
+Bianca
+	That's got me thinkin'. I wonder if Mum died because someone made her worry too much...
+%0%a001240
+	Well, it's fun travelling around with lots of different characters, right, Dad?
+%0%a001250
+	Dwight never says very much, though.
+	It's a bit of a shame, really.
+%0%a001250
+	His grandad is definitely happy for him.
+	He's really very fond of Dwight.
+Sancho
+	Thees s-señor Dwight, he ees esharp l-like the machete. I believe he ees a v-valuable comrade
+	and a f-f-fine matador.
+Tuppence
+	Ha! Only because he'll more than likely come to some harm on his travels!
+Tuppence
+	The old man couldn't stand Dwight, could he?
+	No? Barking up the wrong tree, am I?
+Bianca
+	He's got a nerve, callin' us funny! Still, it's refreshin' to hear someone speak their mind, eh?
+Nera
+	There's nothing wrong with a young man having a bit of spirit like that. %0%a001240's so well-behaved.
+%0%a001240
+	Hey! Are you saying you'd rather have a kid who's more like Dwight?
+Nera
+	Don't be silly, dear! You know you and %a001250 are my favourite people in all the world. Along with your father, of course.
+%0%a001240
+	It'll be fun to see how Dwight behaves on the battlefield, won't it, Dad? Ha ha!
+%0%a001250
+	Did you beat Dwight in a fight once, Dad?
+%0%a001250
+	Phew! Then I don't have to worry about him being around as long as you're here, too.
+Sancho
+	Anda! I was n-no expecting thees!
+Tuppence
+	He's just going to be lumped in with the other monsters though, correct? He won't be part
+	of your select elite like I am.
+%0%a001240
+	That's weird. How come Dwight couldn't join us? Have we got too many monsters already?
+%0%a001250
+	To be honest, I'm quite relieved. Dwight gives me the creeps for some reason.
+%0%a001240
+	You should always say please when you ask someone a favour, right, Dad?
+%0%a001250
+	You're not cold! You're just doing what's best for us, aren't you, Dad?
+Sancho
+	Thees s-señor, he ees f-full of garbanzos, si?
+	Djou n-no want heem to j-join us? Ees good to have esuch a f-fiery fighter. Si, fiery like a jalapeño.
+Tuppence
+	The cheek of it! How dare he address the King of Gotha with such insolence?
+%0%a001240
+	Dwight's pretty wild, isn't he? The way he fights has to be seen to be believed!
+%0%a001250
+	Do you think Dwight had fun travelling about with us? I don't find him as scary as I used to.
+Sancho
+	Ees g-good for us to have esomeone eso djoung weeth us, no? Djour Uncle S-Sancho, he n-no the djoung espring pollo he was before, djou know.
+Tuppence
+	Hmph! I won't allow that Dwight character to outshine me!
+Bianca
+	Well, we've got quite a fighter back on the team, eh?
+Nera
+	I'll have to stay on my toes now if I don't want Dwight to make fun of me.
+%0%a001240
+	Oh! Isn't Dwight going to be able to tag along?
+	That's a shame.
+%0%a001250
+	I really like all the monsters you've had join the party so far, Dad.
+%0%a001250
+	So it'd be tricky to decide on someone to leave behind just so Dwight could take their place.
+Tuppence
+	You have plenty of good hardy fighters on side already, %a000090. There's no need to stoop to the likes of that Dwight character.
+Bianca
+	Huh? How come he couldn't join us?
+Nera
+	Oh dear. Dwight's certainly rather quick to throw in the towel, isn't he?
+%0%a001240
+	So Dwight moved back here! We should come back sometime and invite him to join us again.
+Sancho
+	Chico! Djou n-no learn these b-bad habits from me, djou know! Ees n-no good to esay ⓗnoⓘ all the time.
+	No, no, no.
+Sancho
+	Djou m-must have the faith and answer ⓗsiⓘ.
+	But ees n-no my fault eef djou esometimes f-f-find djourself een trouble because of thees, okay?
+Tuppence
+	I thought we parted with Dwight back over
+	at Monty's.
+Tuppence
+	And yet here he is back in his cave. I suppose
+	you have to admire him for making that journey
+	all by himself.
+Bianca
+	You shouldn't tease him like that, %a000090! Surely he can come along?
+Nera
+	If the wagon was full, he'd end up having to go to Monty's, though.
+Nera
+	Do you think he'd really be alright with that?
+Bianca
+	What is it about caves? They're always so cold and damp, the whole world over.
+Bianca
+	You en't never spent a long stretch of time livin' in one place, right, %a000090?
+Bianca
+	Nope, you've bin on the road for pretty much all your life so far.
+Bianca
+	Eh? You lived at the Crocodilopolis? Ha! You can hardly call that livin'! ...Sorry. I didn't mean to bring back bad memories.
+Bianca
+	We should get a wriggle on to Nadiria if we're done and dusted here.
+Bianca
+	We're the sort of guardians of the legendary
+	hero, after all. It wouldn't do for us to distract
+	him too much.
+Nera
+	It's good to be able to walk around without fear in such a dank, cold place, isn't it?
+Nera
+	Waah!
+Nera
+	Sorry! There was some kind of furry insect by my foot. It took me by surprise, that's all.
+Nera
+	We should really try to move on if you're ready to, darling. We don't have much time.
+%0%a001240
+	You came here when you were little, right, Dad?
+	With that faerie friend of yours.
+%0%a001240
+	You're so lucky! It'd be so much fun to go off adventuring with a faerie.
+%0%a001240
+	Now we're here, we should explore every nook and cranny. I want to see everything you saw when you were here last.
+%0%a001240
+	So this is where you came to find ⓗLots about Locksⓘ...
+%0%a001240
+	If only you still had the book with you now.
+	I'd love to know what was in it.
+%0%a001250
+	I thought this cave would be so much nicer, what with it being in the Faerie Realm and everything.
+%0%a001250
+	I imagined flowers all over the walls, and lots of shiny things everywhere. Hmph.
+%0%a001250
+	I've never got lost in a cave before.
+%0%a001250
+	But %a001240 gets lost all the time. He just wanders on in without giving any thought to how to get back out again.
+%0%a001250
+	Whenever I walk through a cave, I always wonder what would happen if the sun suddenly shone right into the middle of it.
+%0%a001250
+	It would certainly give everyone a shock,
+	wouldn't it?
+Sancho
+	Ah, ees another cave. Si, si...
+	When I tr-travelled weeth s-señor Pankraz, we explored een m-m-many, many caves.
+Sancho
+	Djou know, ees n-no eso easy to t-take a djoung bebé weeth djou when djou are tr-travelling.
+	Si, señor Pankraz, he was eso t-tough. Eso macho.
+Sancho
+	Esometimes now, chico, djou look j-just like djour father, señor P-Pankraz.
+Sancho
+	Si. Djou have gr-grown eento a f-f-fine man now, My Majesty.
+Sancho
+	Ees n-no good to be een a c-c-cave like thees where ees n-n-no action, djou know. I estart to ch-chatter like the castanets.
+Tuppence
+	The monsters around here are rather puny.
+	I could fight these fellows off with one hand
+	tied behind my back!
+Tuppence
+	I wouldn't turn down a bit of assistance if things took a dangerous turn, mind you.
+Tuppence
+	There don't appear to be any faeries here.
+	Shall we be heading off, then?
+%0%a001240
+	Look, Dad! It's a Treasures & Trapdoors board!
+%0%a001240
+	I love T 'n' T just as much as you do! Is that why you brought me here?
+%0%a001250
+	Have you got a T 'n' T ticket, Dad?
+	I'd love to have a go!
+%0%a001250
+	Of course! We've got a free pass so we can play as many times as we like! That's okay, right?
+%0%a001250
+	Hmm. This is a tricky one.
+	I wonder which way to move.
+Sancho
+	When I ees travelling weeth señor Pankraz, we find many boards of T 'n' T. But we never estop to play, djou know.
+Sancho
+	I no put the espoon in. Ees good. Ees l-like the
+	fiesta. Sancho, he likes the fiesta almost as
+	m-much as the paella!
+Tuppence
+	This is a big T 'n' T  board. Quite an achievement for whoever built it, I'd say.
+Tuppence
+	You must let me try, %a000090! I've got lucky fingers, you know. I'll win us something good, trust me!
+Bianca
+	I'm not really very good at T 'n' T. I never seem to roll a good throw.
+Bianca
+	It can't hurt to let our hair down every once in a while. We could have a game here before movin'
+	on, eh?
+Nera
+	I absolutely adore T 'n' T. It's so much fun
+	rolling the dice!
+Nera
+	It's a shame that only one of us can go up on
+	the board. It's so tense having to watch from
+	the sidelines!
+%0%a001240
+	You defeated a bad monster here once, didn't you, Dad? You're cool!
+%0%a001250
+	Has that skeleton been left here all on his own?
+	Poor thing!
+Sancho
+	Djou can walk all around thees b-board, si?
+	Ees a good idea to esee what djou must do
+	b-before djou estart the game, no?
+%0%a001240
+	Wow! He made this place all on his own?
+%0%a001250
+	Wouldn't it have been easier to build some
+	stairs so he could get out, rather than
+	building a T 'n' T board?
+Sancho
+	Thees man, he make esomething from nothing, eh?
+	Ees a g-good quality, thees.
+Tuppence
+	Some people would have probably just given up the ghost if they fell down a hole like that.
+Tuppence
+	We're lucky that it was someone like him instead. Now, let's have some fun!
+Bianca
+	He certainly rolls with the times, eh? Fancy buildin' a T 'n' T board just because he got stuck in a hole!
+Nera
+	It's understandable that he felt the need to do something to ease his boredom. I was so bored I could have cried during those years as a statue.

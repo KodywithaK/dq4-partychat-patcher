@@ -1,0 +1,250 @@
+~ %0%a020010 casts %a000170! ~
+~ %0%a020010 doesn't know any non-battle spells. ~
+~ %0%a020010 is currently indisposed, and cannot cast spells. ~
+~ %0%a020010 has a nose around for treasure. ~
+~ %H0610%XThere's only one treasure that hasn't %YThere are another %a000610 treasures that haven't%Z been found yet on this level. ~
+~ No... (sniff sniff) There doesn't appear to be any treasure that hasn't been found on this level. ~
+~ %H0860%X%0%a020010 starts to sneak around as stealthily as a thief%YThe party start to sneak around as stealthily as thieves%Z. ~
+~ %0%a020010 whistles. ~
+~ Peep inside the treasure chest? ~
+~ Peep inside the pot? ~
+~ %0%a020010 starts to cast %a000170... ~
+~ But it doesn't seem like it'd be much use on %a020180 at the moment. ~
+~ %0%a020010 uses %a020100. ~
+~ %0%a020010 isn't carrying any items at present. ~
+~ %0%a020010 is in need of revival, so can't make use of %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z %a000100. ~
+~ %0%a020010 tries using %a040100. ~
+~ %0%a020010 holds %a020100 aloft! ~
+~ %0%a020010 equips %A0010%Xhimself%Z%B0010%Xherself%Z%C0010%Xitself%Z with %a020100. ~
+~ %0%a020010 unequips %a020100. ~
+~ %0%a020010 takes %a020100 in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ Memories of Bianca and %a001210 come flooding back... ~
+~ %0%a020010 sprinkles some holy water about. ~
+~ %0%a020010 throws %a020100 into the air!  ~
+~ %H0860%X%0%a020010 bangs %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head%YThe party bang their heads%Z on the ceiling! ~
+~ %0%a020010 gives an Yggdrasil leaf to %a020180. ~
+~ %0%a020010 %H0860%Xtakes some Yggdrasil dew%Yadministers Yggdrasil dew to everyone in the party%Z. ~
+~ %H0860%X%0%a020010%YEveryone%Z is miraculously healed! ~
+~ %0%a020010 is about to %H0860%Xtake some Yggdrasil dew%Yadminister Yggdrasil dew to everyone in the party%Z... ~
+~ But %H0860%X%A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z%Yeveryone%Z's full of beans already! ~
+~ %0%a020010 puts on the prayer ring and prays... ~
+~ %0%a020010 recovers %a000810 MP. ~
+~ The ring disintegrates. ~
+~ %0%a020010 opens a pouch of musk. An unusual scent wafts out... ~
+~ %0%a020010 grips %a020100 tightly! ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z feels a little glow inside... ~
+~ The ticket becomes crumpled... ~
+~ %0%a020010 ignites the night light. ~
+~ But even the power of the night light can't shroud this place in darkness. ~
+~ %0%a020010 spreads some monster munchies about. ~
+~ %0%a020010 runs %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands over a rockbomb shard. ~
+~ It feels like it could explode at any moment! ~
+~ %0%a020010 lifts the lid off a phial of Paxa Punch just a little... ~
+~ Wow! Talk about invigorating! ~
+~ %0%a020010 takes %a020100 in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z feels a strange sensation, as if %a020100 is protecting %A0010%Xhim%Z%B0010%Xher%Z%C0010%Xit%Z. ~
+~ %0%a020180 downs the elfin elixir! ~
+~ %0%a020180's MP is fully restored! ~
+~ %0%a020010 beats the war drum! ~
+~ %0%a020010 has a read of King Korol's Catechism... ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z decides %A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z might quite like King Korol after all! ~
+~ %A0010%XHis%Z%B0010%XHer%Z%C0010%XIts%Z head becomes filled with terrifying thoughts! ~
+~ It only goes to confirm %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z opinion that Korol really is a misguided miscreant! ~
+~ %0%a020010 rolls out the flying carpet! ~
+~ This just isn't the kind of place you can roll out a flying carpet! ~
+~ The carpet's magic doesn't seem to work here, and it remains tightly bound. ~
+~ The Zenith Dragon's voice resounds through the air! ~
+Zenith Dragon
+	You must summon me from a place that is more open.
+~ But ringing the tintinnabulum here is pointless. ~
+~ The Zenith Dragon can't hear. ~
+~ %0%a020010 slips the talaria onto %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z feet. ~
+~ %0%a020010 peeks into Ra's mirror... ~
+~ %A0010%XHis%Z%B0010%XHer%Z%C0010%XIts%Z reflection peeks back. ~
+~ %0%a020010 is somewhat relieved! ~
+~ %0%a020010 blows %a020100. ~
+~ %0%a020010 takes the Royal Insignia in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ The crest of the House of Gotha is engraved on it. ~
+~ %0%a020010 takes %a020100 in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ It shines brightly. ~
+~ %0%a020010 picks up the gold orb. ~
+~ The orb shines dazzlingly in the palm of %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ %0%a020010 picks up the dragon orb. ~
+~ A dragon symbol manifests itself on the orb's surface. ~
+~ %0%a020010 takes %a020100 in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ Just being in possession of the right key is enough to open any door locked with it. ~
+~ %0%a020010 grips %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z mini medal tightly. ~
+~ The medal becomes ever so slightly warmer. ~
+~ %A0010%XHis%Z%B0010%XHer%Z%C0010%XIts%Z hand starts to hurt! ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z feels an overwhelming urge to throw it, and puts it away before %A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z does something %A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z might regret! ~
+~ %0%a020010 takes the stone from Whealbrook in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ It just looks like any other stone. ~
+~ %0%a020010 has a look at the Whealbrook bluestone. ~
+~ Patches of sparkling crystal can be seen here and there in the rock. ~
+~ %0%a020010 examines the Whealbrook sapphire. ~
+~ The beautiful gem sparkles brilliantly in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ %0%a020010 takes the Zizzwizz Pillow and nestles %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head in it. ~
+~ Aaaah! So comfy! ~
+~ %0%a020010 picks up the silver teapot. ~
+~ It looks very old, but it's prettily decorated. ~
+~ %0%a020010 picks up the silver teacup. ~
+~ The antiquated cup fits perfectly in its saucer. ~
+~ %0%a020010 picks up the silver tea tray. ~
+~ It has lost its lustre, but the detailed embellishments are still superb. ~
+~ %0%a020010 takes the toff's tea set in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ The teapot, cup and tray it consists of bear the emblem of Uptaten Towers. ~
+~ %0%a020010 takes the toff's tea set in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ It has been well polished, and gleams beautifully. ~
+~ %0%a020010 picks up the Crown of Uptaten. ~
+~ It's a most splendid headpiece, sporting an impressively large jewel. ~
+~ %0%a020010 picks up the blooming branch. ~
+~ The sweet smell of its blossom wafts through the nearby air. ~
+~ %0%a020010 gazes on the marital organ. ~
+~ It really is an intricately crafted musical masterpiece. ~
+~ %0%a020010 gazes on the marital organ. ~
+~ The Whealbrook sapphire adorning its frame sparkles remarkably! ~
+~ %0%a020010 takes the slime curio in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ It's modelled after some healslimes, and really is very curious indeed! ~
+~ %0%a020010 picks up the ship in a bottle. ~
+~ The ship looks just like the Black Jack. ~
+~ %0%a020010 picks up the terrorcrow. ~
+~ Yikes! It really is scary! ~
+~ %0%a020010 picks up the bottle of Zoomshine and takes out the stopper. ~
+~ The fumes waft out and %A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z starts to feel giddy! ~
+~ %0%a020010 grabs hold of the honey buns. ~
+~ They're really weighty! ~
+~ %0%a020010 picks up a handful of scintillating sinter. ~
+~ Its unusual scent lingers in the air... ~
+~ %0%a020010 takes the desert rose in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ It's just a lump of sand in the shape of a rose. ~
+~ %0%a020010 takes out the chocolate medalliyum. ~
+~ It smells really sweet, but apparently these medalliyums are quite bitter. ~
+~ %0%a020010 takes hold of %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z maxi medal. ~
+~ It's big and sturdy-looking. ~
+~ %0%a020010 takes the monster chess set in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands. ~
+~ But there's no time for a game at the moment... ~
+~ %0%a020010 opens up the copy of ⓗLofty Liltsⓘ. ~
+~ ⓗBenedictions to the Almighty One in Verse, Volume 1ⓘ... The richly decorated book is full of long words that are impossible to understand. ~
+~ %0%a020010 takes the Yggdrasil sapling in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ The fresh, young leaves smell delicious! ~
+~ %0%a020010 takes the Yggdrasil sapling in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ Verdant, fresh leaves cover the plant all over. ~
+~ %0%a020010 takes out the faerie quill. ~
+~ If only %A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z had some ink, %A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z could write something with it. ~
+~ %0%a020010 opens up the Annalum Retentium. ~
+~ It's full of surprising pictures that seem to depict humans turning into monsters. ~
+~ %0%a020010 opens %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z copy of the Scuttlebutt Alledger. ~
+~ ⓗREVEALED! MEDAL-SOME KING DOMINICUS IN MINI BATHTUB SCRUBBING ROMP!ⓘ ~
+~ ⓗROD'S SECRET STASH! BRISCOLETTI KEEPS UNDERCOVER COLLECTION AS TAX DODGE!ⓘ ~
+~ ⓗHEY, THAT'S A HUMAN-SHAPED SPUD! HAY IN ANTI-GM FOOD SPOTLIGHT!ⓘ ~
+~ ⓗTRUBBLE BREWING IN ZOOMINGALE: PROF. TOILEN ADMITS CAUSING SNOWSTORM IN BOTCHED RESEARCH FIASCO!ⓘ ~
+~ ⓗ150-YEAR-OLD MYSTIC MRIDULA WAS 'MASTERMIND' OF VOODOO ANTI-AGEING SCAM.ⓘ ~
+~ ⓗHOW'S YOUR HARBOUR? KNOT WELCOME! GRANNY KNOT DENIES STINT AS ONE-TIME STAR OF LODESTAR HARBOUR'S SEEDY STAGE SHOW!ⓘ ~
+~ ⓗEXCLUSIVE! MONTY STEPS IN TO SETTLE MONSTER MELEE!ⓘ ~
+~ ⓗYOU ARE WHAT YOU EAT: CHA-MEAL-EON SLIMES CHANGE COLOUR ACCORDING TO DIET!ⓘ ~
+~ ⓗUPTA MISCHIEF AT UPTATEN! MIDNIGHT GRAVE-GOERS TO TIE THE KNOT?ⓘ ~
+~ ⓗPHENOMENAL FANFARE FUN WHEN YOU WIN THE 10,000 JACKPOT!ⓘ ~
+~ ⓗHOT TIPS! KABUFF, INSULATLE AND OOMPH MAKE MEGA-MONSTER BASHFEST A BREEZE!ⓘ ~
+~ %0%a020010 takes the Forget-me-Knot flag in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ It bears the logo of the Knot Welcome Inne. ~
+~ %0%a020010 picks up the tusk-tusk tusk inkwell. ~
+~ It's full of a very odd-coloured ink. ~
+~ %0%a020010 takes the ghoulroarer in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand and spins it around. ~
+~ A terrifying noise that sounds like a scream rings out. ~
+~ %0%a020010 takes Madalena's locket in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ It's a finely crafted locket that looks like it once had a picture inside. ~
+~ %0%a020010 takes Madalena's locket in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ Mada's smiling face graces the inside. ~
+~ %0%a020010 picks up the Catas Trophy. ~
+~ The inscription reads: ⓗFor Beating the Most Barbaric of Bossesⓘ. ~
+~ %0%a020010 picks up the chamois. ~
+~ It's made from a unique material. ~
+~ %0%a020010 proudly displays %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z T 'n' T free pass! ~
+~ The platinum-coloured card glistens importantly! ~
+~ %0%a020010 casually squeezes %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z loyalty card. ~
+~ It's tough, and doesn't feel like it would bend much at all. ~
+~ It would probably be better to try and open 'The Big Book of Beasts' somewhere out in the wild. ~
+~ %0%a020010 tries to use %a040100. ~
+~ But %M0100%Xthey don't seem like they'd%Yit doesn't seem like it'd%Z be much use on %a020180 at the moment. ~
+~ %0%a020010 takes the Batten binnacle in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hand. ~
+~ %0%a020010 hands %a020100 to %a020180. ~
+~ %0%a020180 takes %a020100 out of %a020010's coffin. ~
+~ %0%a020010 places %a020100 in %a020180's coffin. ~
+~ %0%a000120 takes %a020100 out of %a020010's coffin and places %M0100%Xthem%Yit%Z in %a020180's. ~
+~ %0%a020010's %a000101 %M0101%Xare%Yis%Z exchanged for %a020180's %a000102. ~
+~ %0%a000120 exchanges %a020010's %a000101 for %a020180's %a000102. ~
+~ %0%a020010 puts %a020100 in the bag. ~
+~ %0%a000120 puts %a020010's %a000100 in the bag. ~
+~ %0%a020180 takes %a020100 out of the bag. ~
+~ %0%a000120 takes %a020100 out of the bag and places %M0100%Xthem%Yit%Z in %a020180's coffin. ~
+~ %0%a020101 in the bag %M0101%Xare%Yis%Z exchanged for %a020180's %a000102. ~
+~ %0%a000120 exchanges %a020101 in the bag with %a020180's %a000102. ~
+~ %0%a020010 puts %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z %a000100 in a different place. ~
+~ %0%a000120 rearranges what %a020010 is carrying. ~
+~ %0%a000120 puts %a020100 in a different place in the bag. ~
+~ %0%a020010 equips %a020100. ~
+~ %0%a020120 equips %a020010 with %a020100. ~
+~ %0%a020180 equips %a020100. ~
+~ %0%a020120 equips %a020180 with %a020100. ~
+~ %0%a020100 cannot be equipped. ~
+~ %0%a020010 cannot equip %a020100. ~
+~ Equip this now? ~
+~ Discard %a020100? ~
+~ %0%a000100 discarded. ~
+~ If you discard %M0100%Xthose%Ythat%Z %a000100 now, you might not be able to obtain %M0100%Xthem%Yit%Z again. Are you sure? ~
+~ You can't possibly discard %a020100! %M0100%XThey're%YIt's%Z far too important! ~
+~ There are currently no party members whose tactics can be changed. ~
+~ You can't change the party's line-up at the moment. ~
+~ Place all non-essential items in the bag? ~
+~ All non-essential items are placed in the bag. ~
+~ Sort contents of bag by type? ~
+~ The bag's contents are now sorted. ~
+~ Sort contents of bag alphabetically? ~
+~ The bag is currently empty. ~
+~ But nothing happens. ~
+~ But nothing happens here. ~
+~ But the spell fails. ~
+~ But nothing happens this time. ~
+~ %0%a020180's wounds heal! ~
+~ %0%a020180 recovers %a000810 MP. ~
+~ %0%a020180 returns to life! ~
+~ %0%a020180 does not return to life. ~
+~ %0%a020180 is no longer poisoned. ~
+~ All trace of monsters in this area seems to have disappeared. ~
+~ A bluish light shines from inside the chest. ~
+~ A reddish light shines from inside the chest. ~
+~ A yellowish light shines from inside the chest. ~
+~ A bluish light shines from inside the pot. ~
+~ A reddish light shines from inside the pot. ~
+~ A yellowish light shines from inside the pot. ~
+~ The chest is empty. ~
+~ The pot is empty. ~
+~ %0%a000180's %a000230 increases by %a000820! ~
+~ %0%a020180's maximum HP increase by %a000770! ~
+~ %0%a020180's maximum MP increase by %a000810! ~
+~ It feels a lot like there are more monsters about in the area now. ~
+~ Once upon a time, %a000120 finds %A0110%Xhim%Z%B0110%Xher%Zself %a001300. ~
+~ Hmm... This could be anywhere, really... ~
+~ %H0860%X%0%a000120 doesn't%YThe party don't%Z know of any places to Zoom to! ~
+~ %0%a020180's curse is wiped clean away! ~
+~ The effect of %a020100 wears off. ~
+~ The Holy Protection effect wears off. ~
+~ The padfoot effect wears off! ~
+~ There's no one in the party to talk to at the moment. ~
+~ There's nobody there to talk to. ~
+Dusty
+	Neigh!
+~ There's no room to land here. ~
+%0%a000010
+	...
+~ But there's no treasure here. ~
+~ %0%a020010 holds the staff of resurrection aloft! ~
+~ A heavenward-bound soul is drawn back towards the staff... ~
+~ %0%a020010 grips the adventurer's map tightly. ~
+~ Oops! It crumples a little. ~
+~ %0%a020010 grips the adventurer's map tightly. ~
+~ Oops! It crumples a little. ~
+~ %0%a000120 carries %a000090 to a church and prays for the Goddess to resurrect him. ~
+~ The party carry %a000090 to a church and pray for the Goddess to resurrect him. ~
+~ A party full of coffins doesn't make for much of an adventure! ~
+~ No, no, no. A slave can't just do whatever he pleases! ~

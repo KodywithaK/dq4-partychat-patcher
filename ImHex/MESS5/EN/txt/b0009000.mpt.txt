@@ -1,0 +1,744 @@
+*: 
+	A prince on a white horse came and...he came and asked Maria and...then Maria said yes and...
+*: 
+	They got married!
+Nun of the Above
+	It seemed as if Maria had hardly been back with us at the abbey a few days before Prince Harry returned.
+Nun of the Above
+	If the Goddess knew he was coming, She, in Her infinite wisdom of course, didn't tell any of us about it! It was quite a shock!
+Nun of the Above
+	Well that's Prince Harry married...
+Nun of the Above
+	I'm sure it would make the Goddess happy if you were to follow suit, %a000090.
+Nun of the Above
+	What joy Prince Harry has brought to the world, asking Maria for her hand in marriage!
+Nun of the Above
+	Let us hope the young Briscoletti girl from Mostroferrato finds someone soon too. Where has the sister who was taking her home got to?
+Nun of the Above
+	Perhaps it's this trouble with the ships I've been hearing about. Hardly any are sailing now, apparently. I hope she isn't stranded.
+Nun of the Above
+	Zzzz...
+	What joy Prince Harry has brought to the world, asking Maria for her hand in marriage!
+Nun of the Above
+	Let us hope the young Briscoletti girl from Mostroferrato finds someone soon too. Where has the sister who was taking her home got to?
+Nun of the Above
+	Perhaps it's this trouble with the ships I've been hearing about. Hardly any are sailing now, apparently. I hope she isn't stranded.
+Nun of the Above
+	It seemed as if Maria had hardly been back with us at the abbey a few days before Prince Harry returned.
+Nun of the Above
+	If the Goddess knew he was coming, She, in Her infinite wisdom of course, didn't tell any of us about it! It was quite a shock!
+Nun of the Above
+	Well that's Prince Harry married...
+Nun of the Above
+	I'm sure it would make the Goddess happy if you were to follow suit, %a000090.
+*: 
+	I hear law an' order's been restored in Coburg at last. Well that sure is good news now, isn't it?
+*: 
+	My ambition's to be a dancer. Dancers are the prettiest girls in the world!
+*: 
+	That's what I came here for. But it's really hard trying to make it in the dancing game.
+*: 
+	I came here looking for a legendary shield I heard about.
+*: 
+	Something like that would go for a small fortuna. Ha ha ha! Get it? Fortuna!
+*: 
+	Gosh, darn it, I'd give my right arm to be in that casino right now.
+*: 
+	Oh, what the heck! I'm sick o' this store. I'm goin'!
+*: 
+	Why, hello there. Oh, you're a friend of my husband? I suppose you've heard what he's planning now, then?
+*: 
+	He gave up on the idea of goin' away to that castle to do business. Oh, yes! He's far too busy at the casino now to think about work!
+*: 
+	I don't know! Men!
+*: 
+	The land of opportunity ain't so hot in daylight hours, %A0110%Xbuddy%Z%B0110%Xlady%Z. I ain't doin' no business at all.
+*: 
+	I was a traveller myself, you know, back in the day.
+*: 
+	Ah, they were fine times. Fine times!
+Mystic Mridula
+	Kah ha ha ha hah!
+	I am mystic-mystic Mystic Mridula. And I don't like this person who is leading your party.
+Mystic Mridula
+	If you are giving to me a man of my liking, I will gladly look into a crystal ball, poke my finger in dirty tea leaves, whatever you are wanting...
+Mystic Mridula
+	Kah ha ha hah! Welcome to Mystic Mridula's super-duper fortune-telling mumbo-jumbo bonanza!
+	You wanna give it a go, no?
+Mystic Mridula
+	Okey-dokey! You're such a handsome cookie,
+	I'll do it for free!
+Mystic Mridula
+	Yesss... Yesss... Kah ha ha hah!
+	You are looking for something, no?
+	I am seeing a woman who is very close to you.
+Mystic Mridula
+	But in your heart, you are all in a quandary.
+Mystic Mridula
+	Kah ha ha hah!
+	Have no fearings! This woman is alive and kicking, and she is waiting for the day to meet you again.
+Mystic Mridula
+	You must be returning to Zoomingale, and from there travelling south.
+Mystic Mridula
+	Yes! There is waiting for you there something that will be changing your life!
+Mystic Mridula
+	Oh... You are saying that you want to find your own way? Kah ha ha hah! Be my guest! Ka ha ha ha hah!
+Mystic Mridula
+	Kah ha ha ha hah!
+	I am mystic-mystic Mystic Mridula. And I don't like this person who is leading your party.
+Mystic Mridula
+	If you are giving to me a man of my liking, I will gladly look into a crystal ball, poke my finger in dirty tea leaves, whatever you are wanting...
+Mystic Mridula
+	Kah ha ha hah! Welcome to Mystic Mridula's super-duper fortune-telling mumbo-jumbo bonanza!
+	You wanna give it a go, no?
+Mystic Mridula
+	Okey-dokey! You're such a handsome cookie,
+	I'll do it for free!
+Mystic Mridula
+	Yesss... Yesss... Kah ha ha hah!
+	You are looking for something, no?
+	I am seeing a woman who is very close to you.
+Mystic Mridula
+	But in your heart, you are all in a quandary.
+Mystic Mridula
+	Kah ha ha hah!
+	Have no fearings! This woman is alive and kicking, and she is waiting for the day to meet you again.
+Mystic Mridula
+	You must be returning to Zoomingale, and from there travelling south.
+Mystic Mridula
+	Yes! There is waiting for you there something that will be changing your life!
+Mystic Mridula
+	Oh... You are saying that you want to find your own way? Kah ha ha hah! Be my guest! Ka ha ha ha hah!
+*: 
+	According to what I've heard, there's a king somewhere who collects those mini medals that
+	crop up all over the place.
+*: 
+	I heard a rumour that the old guy was livin' it up on some island way down south. Sounds like he's got the right idea, huh?
+*: 
+	I keep tellin' my boy not to go playin' outside o' town, but he just won't listen.
+	I sure am worried about him.
+*: 
+	I wish the world was a more peaceful place,
+	and we didn't have to think about monsters the
+	whole time.
+*: 
+	I came to this town because I heard there was a shop where you could buy a book called ⓗThe Big Book of Beastsⓘ.
+*: 
+	But the shopkeeper won't sell you one unless you've got a horse and cart first!
+*: 
+	I don't know what's stranger, the things the man sells, or the man selling the things!
+*: 
+	Now you look like a seasoned old trav'ller to me, pardner. In that case, you won't wanna be without this here Big Book of Beasts!
+*: 
+	I wanna say three thousand gold coins for it, but I just can't resist givin' you a discount, pardner! So how about we settle on a thousand?
+*: 
+	Yee-ha! You got yourself a deal!
+	I'll just go on and put it in your bag for you.
+	Ride 'em, %A0110%Xcowboy%Z%B0110%Xcowgirl%Z!
+*: 
+	Okay, pardner. You're the boss!
+*: 
+	Sorry, pardner, but you look to be a little
+	short of cash.
+*: 
+	Don't be a stranger now, pardner. If I git ahold of any more unusual items, I'll be puttin' them up for sale. So come on by again, y'hear?
+*: 
+	Howdy, pardner! Now didn't I just sell you that mighty fine Big Book of Beasts?
+*: 
+	I ain't got no other fancy goods to be sellin' you right now.
+*: 
+	But I can't let my best customer leave empty-handed now, can I?
+*: 
+	So how about this? The only one of its kind found anywhere in the world, the famous Fortuna slime curio!
+*: 
+	I wanna say ten thousand gold coins for this fine article, but I just can't resist givin' you a discount, pardner! So how about five thousand?
+*: 
+	Hot dog! You're really gonna buy this slime curio from me for five thousand bucks?
+*: 
+	You got yourself a deal, pardner! I'll just put it right into your bag there for you and take that cash off your hands. Thank you kindly!
+*: 
+	Okay, pardner. You're the boss!
+*: 
+	Still too much for ya, huh, pardner?
+	I'm pretty attached to it myself, you know...
+*: 
+	Sorry, pardner, but you look to be a little
+	short of cash.
+*: 
+	Why, you've cleaned me out, pardner!
+*: 
+	But I ain't beat that easy. The Ole Fortuna Curiosity Shop'll ride again. Yes siree, it will! Yeehaw!
+*: 
+	So I'll be seein' ya 'round, huh, pardner?
+*: 
+	Did you buy one too?
+*: 
+	I thought so. You look like the type.
+*: 
+	They're selling ships in bottles down in the dockyard.
+*: 
+	They're pretty well-made. You wouldn't want to miss out on a souvenir of Lodestar Harbour now, would you?
+*: 
+	Step right up! Get your souvenirs here! One of these famous Lodestar ships in a bottle could be yours!
+*: 
+	Look at the superb construction! See the fine finish! And all for just one thousand gold coins! What d'you say?
+*: 
+	That's right! You'd be crazy to pass up this unbelievable offer. I'll just pop it in your bag for you.
+*: 
+	Oh dear! You haven't got enough cash.
+	I can't discount something of this quality, you understand, %A0110%Xsir%Z%B0110%Xmadam%Z.
+*: 
+	Shame. But maybe next time, eh?
+*: 
+	%H0860%XA traveller%YTravellers%Z, are you? I was on the move myself until recently. Heading for that White King's Paradise everyone's talking about.
+*: 
+	But these ships in bottles I was making for fun were selling like hot cakes, so I thought to myself, ⓗHow much better can it get!?ⓘ
+*: 
+	Ah, you never know in this life, do you, eh?
+*: 
+	Get this! After six whole years at Heaven's Above Abbey, Rodrigo Briscoletti's daughter, Nera, has finally returned to Mostroferrato!
+*: 
+	It's rather sad parting after such a long time. We looked after Nera for many years, you know.
+*: 
+	I would have returned to the abbey sooner, but her family have been so hospitable.
+*: 
+	To be perfectly honest, we would have been glad to have her stay on with us.
+*: 
+	But her father has plans for her future, it seems. He's hoping to find a nice young man for her to marry.
+*: 
+	Ⓠ With a hand to the soil,
+	I work my honest toil,
+	and listen out for gossip as I sow Ⓡ
+*: 
+	You look lost, %H0860%Xtrav'ller%Ytrav'llers%Z. If you're lookin' for Mostroferrato, it's down south, through the tunnel.
+*: 
+	I'll let you in on a little secret. I did battle with a fearful monster in a cave just west of Hay not long ago.
+*: 
+	You'll never guess what it was...
+	A great sabrecat of all things!
+*: 
+	I say it was fearful, but I could tell it'd had some contact with humans. It might even have been someone's pet once.
+*: 
+	Come to think of it, that'd be the way to tame it again, I suppose. By using something it remembered from its old owner...
+*: 
+	Now I don't mean to pry, but what's your opinion on women? D'you think they should be all demure an' unassumin' an' that?
+*: 
+	I thought as much. I s'pose I better sign up for a stint at the old abbey like Nera did, then.
+*: 
+	That's right! We women have more to offer than that now, dun't we!?
+*: 
+	I tell you what. If you're feeling bored, why don't you take a look at that book on the counter there?
+*: 
+	We have all sorts in here, you know. And they all write things in it. You travellers certainly like to keep up on your gossip, don't you?
+*: 
+	Oh, is that the Scuttlebutt Alledger you've got there? Oh, yes. That's full of tittle-tattle, that is.
+*: 
+	Keep it if you want to. It's all gossip, mind. Don't take it too seriously!
+*: 
+	You can't help having a few thoughts on the subject when you run an inn, you know...
+*: 
+	If you ask me, I'd much rather travel with a few friends than on my own. It'd be like having a family with you.
+*: 
+	Ooh, don't tell me! Let me guess!
+	You've heard about that pretty little Nera and now you're hoping to get married to her!
+*: 
+	Ooh, wait till I tell everyone!
+	But I wouldn't get your hopes up too much. She'd be quite a catch for you!
+*: 
+	Ooh, you'll never guess what I heard!
+	Prince Harry of Coburg's got married!
+*: 
+	What's that? You're a friend of his?
+	Ooh, tell all, tell all!
+	What!? You didn't know!? Then go and ask him!
+*: 
+	I heard of a fellow in Zoomingale who knows the Zoom spell. That'd be the quickest way to get to Coburg.
+	㈡
+	*: So hurry up! Ooh, I'm dying to know all the juicy details!
+*: 
+	Ssss!
+*: 
+	Get this! After six whole years at Heaven's Above Abbey, Rodrigo Briscoletti's daughter, Nera, has finally returned to Mostroferrato!
+*: 
+	I'd love to meet her.
+	I'd...love to...zzz...
+*: 
+	It's rather sad parting after such a long time. We looked after Nera for many years, you know.
+*: 
+	I would have returned to the abbey sooner, but her family have been so hospitable.
+*: 
+	To be perfectly honest, we would have been glad to have her stay on with us.
+*: 
+	But her father has plans for her future, it seems. He's hoping to find a nice young man for her to marry.
+*: 
+	Now I don't mean to pry, but what's your opinion on women? D'you think they should be all demure an' unassumin' an' that?
+*: 
+	I thought as much. I s'pose I better sign up for a stint at the old abbey like Nera did, then.
+*: 
+	That's right! We women have more to offer than that now, dun't we!?
+*: 
+	I tell you what. If you're feeling bored, why don't you take a look at that book on the counter there?
+*: 
+	We have all sorts in here, you know. And they all write things in it. You travellers certainly like to keep up on your gossip, don't you?
+*: 
+	Oh, is that the Scuttlebutt Alledger you've got there? Oh, yes. That's full of tittle-tattle, that is.
+*: 
+	Keep it if you want to. It's all gossip, mind. Don't take it too seriously!
+*: 
+	Keep heading south from here, and you'll hit a bridge. Mostroferrato's just on the other side of it.
+*: 
+	Ooh, don't tell me! Let me guess!
+	You've heard about that pretty little Nera and now you're hoping to get married to her!
+*: 
+	Ooh, wait till I tell everyone!
+	But I wouldn't get your hopes up too much. She'd be quite a catch for you!
+*: 
+	Ooh, you'll never guess what I heard!
+	Prince Harry of Coburg's got married!
+*: 
+	What's that? You're a friend of his?
+	Ooh, tell all, tell all!
+	What!? You didn't know!? Then go and ask him!
+*: 
+	I heard of a fellow in Zoomingale who knows the Zoom spell. That'd be the quickest way to get to Coburg.
+	㈡
+	*: So hurry up! Ooh, I'm dying to know all the juicy details!
+*: 
+	I'll let you in on a little secret. I did battle with a fearful monster in a cave just west of Hay not long ago.
+*: 
+	You'll never guess what it was...
+	A great sabrecat of all things!
+*: 
+	I say it was fearful, but I could tell it'd had some contact with humans. It might even have been someone's pet once.
+*: 
+	Come to think of it, that'd be the way to tame it again, I suppose. By using something it remembered from its old owner...
+*: 
+	I ain't sure about that Debora, mind.
+	It dun't do to go too far the other way, eh?
+*: 
+	I ain't sure about that Debora, mind.
+	It dun't do to go too far the other way, eh?
+*: 
+	At last! There you are! I've been looking for you all over the place!
+*: 
+	I'm a soldier from Coburg.
+	Prince Harry is absolutely desperate to see you.
+*: 
+	Please hurry over to Coburg at once!
+*: 
+	Bau! Bau bau!
+*: 
+	Somebody! Please! Stop that dog!
+*: 
+	Hahh...hahh...
+	I'm...so sorry...
+	He just...hahh...ran off...
+*: 
+	What's got into you, Bingo?
+	Come on. Come here.
+Bingo
+	Bau bau!
+	Arf, aaarf.
+*: 
+	Goodness! That's the first time he's ever taken a shine to someone other than me.
+*: 
+	Who are...
+*: 
+	............
+*: 
+	...! Oh, dear. I don't know what came over me.
+	I just drifted off into a daydream before asking your name.
+*: 
+	You're...? Ah, %a000090, is it?
+	Well, %a000090, I'm very sorry about my dog.
+*: 
+	I hope we run into each other again.
+	You must let me make it up to you.
+*: 
+	Come along now, Bingo.
+	It's time to go home.
+Bingo
+	Bau! Bau bau bau!
+*: 
+	Welcome to Mostroferrato, ancient stronghold of the Briscoletti family.
+*: 
+	Me and my boy are always travelling about from place to place, you know.
+*: 
+	But this is a first, I can tell you.
+	Have you heard about it?
+*: 
+	Just think, if you married one of Mr Briscoletti's daughters, you'd come into a small fortune overnight!
+*: 
+	The renowned millionaire, Mr Briscoletti, is looking for a suitable young man to marry his daughter, Nera.
+*: 
+	Of course, he's laid down some pretty stringent ground rules, but they say whoever he picks might even get the famous Briscoletti family shield!
+*: 
+	Looking for old Briscoletti's place? It's the
+	flash mansion right at the far end of town.
+	You can't miss it.
+*: 
+	Even the item shop's closed today so the owner can go and see what's happening. And that guy never takes a holiday!
+*: 
+	Thank the Goddess Mr Briscoletti's finally realised it's high time for his daughter Nera to settle down with a nice young gentleman.
+*: 
+	She's such a lovely girl. As pure as the driven snow, she is.
+*: 
+	Countless young hopefuls have come courting her in the past, you know.
+*: 
+	But her father's a very strict man of
+	tradition and family values. He's turned
+	them all away until now.
+*: 
+	You're %H0860%Xa traveller%Ytravellers%Z, aren't you? Travellers are cool. Me and my dad are travellers.
+Bingo
+	Aaarf, aaarf...
+*: 
+	I'm so bored. I suppose you're going to the mansion too, are you?
+*: 
+	I knew it! But you don't seem like
+	the gold-digger type.
+*: 
+	What? Don't you know what's going
+	on there today?
+*: 
+	All the young men in town have gone to
+	Mr Briscoletti's mansion.
+*: 
+	Welcome, welcome! I'd say I can just about squeeze you in. Ha ha ha!
+*: 
+	We're not normally this empty, I assure you. Apparently Mr Briscoletti's making some big announcement today, you see.
+~ ⓗUnderage drinking is protibihⓚⓛ probitihitⓚⓛ prohibited by law.ⓘ ~
+*: 
+	Well, well! %H0860%XA visitor%YVisitors%Z. And you must be about the same age as my boy, Crispin.
+*: 
+	I wish you young ones wouldn't take so long finding wives. It's a constant source of concern for us parents, you know.
+*: 
+	Although you're a traveller, I see.
+	I expect you're married already, aren't you?
+*: 
+	I knew it! You must meet lots of suitable young ladies travelling about the place like you do.
+*: 
+	Really? Well, you don't want to leave it too long. We parents can't relax until we've seen our children married, you know.
+*: 
+	And mark my words, you won't be able to sweet talk the ladies forever. Once your youth's gone, you've had it!
+*: 
+	Don't listen to my wife. She doesn't know what she's talking about. Marriage is a lottery, my friend. A very risky lottery.
+*: 
+	Stop lazing about and put some tea on,
+	you old waster!
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	My wife manages everything to do with the shop. My job's taking care of the housework.
+*: 
+	It's great being married to someone who's so in control. Although...I can do some things myself.
+*: 
+	Marriage is a blessed union of two souls in the presence of the Goddess.
+*: 
+	She will bestow happiness upon any couple who truly love one another.
+*: 
+	This is Mr Briscoletti's villa. He doesn't get
+	out here much, though. It's just that little bit
+	too far away.
+*: 
+	Welcome to the Briscoletti residence.
+*: 
+	Are you here to talk to Mr Briscoletti about marrying Ms Nera?
+*: 
+	Just wait over there then, please.
+*: 
+	In that case, I'm afraid I'll have to ask you to come back another time.
+*: 
+	Mr Briscoletti is very busy today talking to all
+	Ms Nera's prospective grooms.
+*: 
+	You picked a great time to visit this place,
+	my friend.
+*: 
+	Not that it'll do you much good. I don't intend to lose out on all Nera's wealth.
+*: 
+	It would be like a dream come true if
+	I married Nera.
+*: 
+	I just wonder what these ⓗconditionsⓘ are
+	going to be...
+*: 
+	Oh, are you here to ask for Nera's hand in marriage too?
+*: 
+	Well, I'm Crispin. Crispin Burns. Pleased to
+	meet you. Nera and I have been friends since
+	we were little.
+Crispin
+	I don't care about money or family heirlooms. The thought of marrying Nera is like asking for the moon. But if she picked me, I'd... I'd be over the moon!
+*: 
+	Thank you all for your patience. Mr Briscoletti is ready to see you now. Please go in.
+Rodrigo Briscoletti
+	Welcome, young Romeos!
+	As I'm sure you are already aware,
+	I am Rodrigo Briscoletti.
+Rodrigo Briscoletti
+	And as you are all here in the hope of marrying my daughter, Nera, one of you will soon be calling me ⓗPapaⓘ, eh? Ha ha ha ha hah!
+Rodrigo Briscoletti
+	But enough antipasto! Only a man of extreme virtue will marry my precious bambina.
+Rodrigo Briscoletti
+	So. The rules.
+Rodrigo Briscoletti
+	According to a very ancient legend, somewhere on our continent of Zephyrus, there are two rather unusual rings.
+Rodrigo Briscoletti
+	They are called the Circle of Fire and the Circle of Water. They're said to bring good fortune to those who wear them.
+Rodrigo Briscoletti
+	I have therefore decided that the suitor who brings them to me will marry my daughter with one of those very rings on his finger!
+Rodrigo Briscoletti
+	And I will give my new son-in-law the treasured Briscoletti shield as a sign of acceptance into my great family.
+Rodrigo Briscoletti
+	Soⓚⓛ
+*: 
+	Wait!
+Rodrigo Briscoletti
+	Nera! Didn't I tell you to wait in your room?
+Nera
+	Papa. I've always done as I'm told. Always.
+Nera
+	But please, let me choose my husband for myself.
+Nera
+	Listen to me, all you brave young men. The Circle of Fire is said to be deep in a cave full of lava.
+Nera
+	A place like that is far too dangerous! I couldn't bear it if anyone was to get hurt because of me.
+Nera
+	............
+Nera
+	Aren't you...? The young man who stopped Bingo when he ran away before...?
+Nera
+	So, you came here for my hand in marriage?
+	Wow! I, I mean, I don't know what to...
+Rodrigo Briscoletti
+	Do you know this man, Nera?
+Rodrigo Briscoletti
+	Hm. Yes, you look like a reliable young fellow...
+Rodrigo Briscoletti
+	Ahem! But only the man who brings me the two rings will have my permission to marry Nera!
+Rodrigo Briscoletti
+	Now, come with me, my bambina.
+*: 
+	Phew! That's a tall order, eh?
+*: 
+	The meeting's over now.
+	Do be careful, won't you?
+*: 
+	Ms Nera is such a kind lady, I'm sure she'd make a wonderful wife.
+Nera
+	Papa's always been a very assertive man.
+Nera
+	Please, don't do anything dangerous for me.
+Nera
+	You don't need to bring me the Circle of Fire or the Circle of Water. Even without them, I'd...
+Nera
+	There's something about you. Something so familiar. Maybe it's your voice...
+Nera
+	Or maybe we met somewhere once before, long ago.
+Rodrigo Briscoletti
+	Hm? Are you still lingering, lad?
+Rodrigo Briscoletti
+	The Circle of Fire is said to be deep in a
+	raging inferno in a cave to the south-east
+	of here. Good luck!
+Rodrigo Briscoletti
+	Remember, I want both rings before I'll consider you worthy of my bambina!
+*: 
+	Once he's made up his mind about something, there's no talking to him.
+*: 
+	I do wish he'd have a bit more consideration for Nera's feelings in the matter, though.
+*: 
+	Welcome to Mostroferrato, ancient stronghold of the Briscoletti family.
+*: 
+	I've heard rumours, you know.
+*: 
+	People say the Briscoletti family shield is actually none other than the legendary Zenithian Shield.
+*: 
+	You're %H0860%Xa traveller%Ytravellers%Z, aren't you? Travellers are cool. Me and my dad are travellers.
+Bingo
+	Aaarf, aaarf...
+*: 
+	If I could've married Nera, I would've expanded the shop, you know.
+*: 
+	But I won't be able to do any expanding if I end up dead, will I?
+*: 
+	If you're still thinking of going, you'll be wanting to stock up on some decent items here before you head off, won't you?
+*: 
+	Who in their right mind would go off hunting
+	for a couple of rings when there are monsters
+	on the prowl?
+*: 
+	I heard the Circle of Fire was in some volcano to the south of here.
+*: 
+	You're hoping to marry Nera, are you?
+	You'll need a stiff drink, then!
+*: 
+	Crispin told me all about it. So you're another of young Nera's suitors?
+*: 
+	But couldn't you just bow out? You must meet lots of young girls on your travels.
+*: 
+	Crispin and Nera have been bosom buddies since they were in nappies, you know.
+*: 
+	Don't listen to my wife. She doesn't know what she's talking about. Marriage is a lottery, my friend. A very risky lottery.
+*: 
+	Stop lazing about and put some tea on,
+	you old waster!
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	My wife manages everything to do with the shop. My job's taking care of the housework.
+*: 
+	It's great being married to someone who's so in control. Although...I can do some things myself.
+*: 
+	Marriage is a blessed union of two souls in the presence of the Goddess.
+*: 
+	She will bestow happiness upon any couple who truly love one another.
+*: 
+	This is Mr Briscoletti's villa. He doesn't get
+	out here much, though. It's just that little bit
+	too far away.
+*: 
+	Welcome to the Briscoletti residence.
+Rodrigo Briscoletti
+	The Circle of Fire is said to be deep in a
+	raging inferno in a cave to the south-east
+	of here. Good luck!
+Rodrigo Briscoletti
+	Remember, I want both rings before I'll consider you worthy of my bambina!
+*: 
+	All this reminds me of my courting days.
+*: 
+	Rodrigo was quite the Romeo himself, you know.
+	He had to put himself in great danger to win my hand in marriage.
+Nera
+	I'm sorry about Papa, %a000090.
+	It's unreasonable to expect anyone to
+	do things like this for me.
+Nera
+	I'm so worried about Crispin. Do you know him?
+	He was at the meeting too.
+Nera
+	He wouldn't say boo to a goose when we were younger. I'm scared he'll push himself too far.
+*: 
+	I was attacked by monsters up in the mountains on my way here and I did my leg in.
+*: 
+	Fortunately a young lady from a nearby
+	village happened to pass by and she dressed
+	the wound for me.
+*: 
+	What an exceptional young woman to be out in the mountains all on her own!
+*: 
+	I lost my wife some time ago. She was killed by monsters while I was away travelling once.
+*: 
+	I wish I'd taken her with me now, even if it can be a bit dangerous at times.
+Bingo
+	Aaarf, aaarf...
+*: 
+	Zzz... Yeah! Come on, Dad!
+	Let's get those monsterzzz...
+	Zzz... Zzz...
+*: 
+	Have a few drinks here and forget all
+	your troubles!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	I've given up on marrying Nera now.
+*: 
+	But Crispin's really going for it. I've got to say,
+	I'm a bit worried for him.
+*: 
+	Aaah! That's some good juice!
+	You want to try some, lad?
+	Go on, just one glass!
+~ %0%a000090 downs the glass! ~
+*: 
+	Hey, are you alright? You looked like you could take it, but maybe I was wrong.
+*: 
+	That's it! You're looking tough now, lad!
+	Hah hah hah!
+*: 
+	No? Listen to me, lad! If you can't take your drink, you'll never have the guts to chat to the ladies.
+*: 
+	You're hoping to marry Nera, are you?
+	You'll need a stiff drink, then!
+*: 
+	Crispin told me all about it. So you're another of young Nera's suitors?
+*: 
+	But couldn't you just bow out? You must meet lots of young girls on your travels.
+*: 
+	Crispin and Nera have been bosom buddies since they were in nappies, you know.
+*: 
+	Ah-phew...
+	Debora...and Crispin...again...
+Crispin
+	I can do this! I'm going to find those two rings!
+Crispin
+	I've even been practising some magic to
+	impress Nera with.
+Crispin
+	...Frizz!
+	There you go!
+Crispin
+	Uh-oh!
+Crispin
+	Cr-Cr-Crack!
+Crispin
+	A-Anyway. You've got yourself some competition,
+	my friend!
+Crispin
+	I can do this! I'm going to find those two rings!
+Crispin
+	So you've got yourself some competition!
+*: 
+	Zzz... Zzz...
+*: 
+	If you don't rub a bit harder, it won't help one little bit, you old waster!
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	Everyone's gone to bed already, I'm afraid.
+	Could you come back in the morning, please?
+*: 
+	Zzzz...
+*: 
+	Be quiet! What is this? Not more men pestering me!
+*: 
+	Sorry to disappoint you all, but I'm perfectly happy as I am. I've no intention of getting married.
+*: 
+	What are you doing down here, Debora?
+*: 
+	These gentlemen aren't here for you. I've invited them on Nera's behalf.
+*: 
+	Stop making a nuisance of yourself and go back to your room!
+Debora
+	For Nera? Huh! Well, good luck with that, Papa.
+Debora
+	I'll go back to my room then, if I'm not needed here. I can't afford to get too tired. It plays havoc with my complexion.
+*: 
+	That girl will be the death of me!
+*: 
+	I must apologise, gentlemen.
+	Please, this way!
+*: 
+	I'm sorry? Why isn't he looking for a match for Debora as well?
+Debora
+	Who do you think you are?
+	Is there a sign on the door saying
+	ⓗscruffbags welcomeⓘ?
+Debora
+	Oh? You heard I was the older sister out of Nera and I, did you?
+Debora
+	So? What of it? If you think that means I'm looking to get married first, you can think again.
+Debora
+	What is it now? Do you want something, or not?
+Debora
+	Can't get enough of me, I suppose? I'm not surprised. Sometimes being so beautiful really is a curse, you know.
+Debora
+	Then stop gawping!
+*: 
+	We couldn't possibly expect anyone to... It would be far too much to expect of anyone.

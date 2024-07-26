@@ -1,0 +1,28 @@
+*: 
+	Welcome to the casino token vending area.
+*: 
+	I'm afraid you're already carrying the maximum permissible number of tokens, %A0110%Xsir%Z%B0110%Xmiss%Z.
+*: 
+	Have a pleasant day!
+*: 
+	You currently have %a000420 token%H0420%X%Ys%Z, %a000120.
+*: 
+	Each casino token costs twenty gold coins.
+	How many would you like to purchase?
+*: 
+	I'm afraid you don't seem to have enough money.
+*: 
+	%a000730 token%H0730%X%Ys%Z?
+*: 
+	That will be %a000700 gold coin%H0700%X%Ys%Z. Is that okay?
+*: 
+	I'm afraid that you can only carry %a000560 more token%H0560%X%Ys%Z, %A0110%Xsir%Z%B0110%Xmiss%Z.
+*: 
+	%a000560 token%H0560%X%Ys%Z?
+	That will be %a000670 gold coin%H0670%X%Ys%Z.
+	Is that okay?
+*: 
+	Thank you, and have a lucky day!
+*: 
+	Ah, you're leaving, are you?
+	Hope to see you again soon!

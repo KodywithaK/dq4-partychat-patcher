@@ -1,0 +1,807 @@
+Bianca
+	That was Briscoletti, wasn't it?
+	He looked a bit serious, though, eh?
+Bianca
+	I wonder what's goin' on.
+	We'd better go and find out.
+Nera
+	Papa must be really troubled to have not even noticed us just then. I'm worried about him.
+	We'd better find out what's happened.
+%0%a001240
+	What do you reckon is going on here?
+	He seemed a bit on edge, didn't he?
+Sancho
+	Qué? You, you know thees señor, friend?
+Sancho
+	He no eseems to be een a good mood, eh?
+	Maybe you eshould ask heem what ees the matter.
+Sancho
+	Qué? Thees señor, he ees señora %a001230's papá?
+Sancho
+	He no eseems to be een a good mood, eh?
+	Maybe you eshould ask heem what ees the matter.
+%0%a001240
+	La Guardia! That's the lookout tower, isn't it?
+	Can we all go together?
+Bianca
+	I never dreamt we'd be walkin' about here
+	together again.
+Bianca
+	...Maybe I'm jumpin' the gun a bit bein' so
+	happy, though.
+%0%a001240
+	We never came here with Sancho when we were looking for you, Dad.
+%0%a001250
+	Really? This is the town where you and Mum got married? How exciting!
+Sancho
+	Ees a very attractive town, you no theenk?
+	Sí. Gotha eshould look like thees.
+Tuppence
+	No!? You had your wedding ceremony here?
+Tuppence
+	Oh, I see. You didn't realise your true status at
+	the time.
+%0%a001240
+	This is where Mum was born, isn't it?
+	Oh! She wasn't actually born here?
+%0%a001240
+	So she travelled around a bit as a kid too, then.
+%0%a001250
+	I really like this town.
+	I bet Mum loves it here too.
+Sancho
+	Ees a very attractive town, you no theenk?
+	Sí. Gotha eshould look like thees.
+%0%a001240
+	Mostroferrato. I'll have to remember that.
+%0%a001240
+	It's where Mum's from, after all.
+%0%a001240
+	It would be a bit weird, seeing a jar glowing red all by itself like that.
+%0%a001250
+	Is there nothing we can do to help out, Dad?
+Sancho
+	Thees ees red, thees ees white... Thees conversation, ees chopping thees way and that more than the barber eshop! Eh heh heh heh.
+Sancho
+	Anda! Ees no time for the laughing, eh?
+Tuppence
+	Sometimes ignorance is bliss.
+Tuppence
+	But it's no use burying your head in the sand when something needs to be dealt with.
+%0%a001240
+	We'd better go and see if we can help out, Dad. That's what friends are for.
+Sancho
+	You know why he can no forget you, friend?
+	Ees because you are a good and
+	honest man!
+Tuppence
+	Fancy saying he looks terrible! That fellow was hardly doing too well in the looks department himself.
+Tuppence
+	Oh, I see. He meant this Briscoletti's in a bad way emotionally, did he? Silly me!
+%0%a001240
+	Dogs are really cool. Can I have a dog when we get back home to Gotha? Please, Dad!
+%0%a001250
+	I really like dogs. They never lie to you, for one thing.
+%0%a001240
+	It's all pretty sizeable here, isn't it?
+%0%a001240
+	I feel sort of grown up when I come into a pub
+	like this.
+%0%a001250
+	Pubs always have a bit of a nasty smell to them.
+	Is it the stuff people are drinking?
+%0%a001250
+	Urrrrgh! He's disgusting!
+	Let's get out of here, Dad!
+Bianca
+	Charmin'!
+%0%a001240
+	Is that man drinking to make himself sick?
+	Why would anyone want to do that?
+Sancho
+	Ees no right to eat hairs from a dog!
+	You no know where the dog has been.
+Bianca
+	It can't be much fun havin' to open up all day and entertain the likes of him.
+%0%a001240
+	I wonder why there's no atmosphere in the daytime. That's weird.
+Tuppence
+	Bunny girls are always so lovely, even when their tails are bit out of joint.
+%0%a001240
+	Do you think coming here makes Mr Briscoletti
+	feel better?
+Sancho
+	You know, your Uncle Sancho espent a lot of time een the pub too, when señor Pankraz, he, he no came home.
+%0%a001240
+	Ha ha! Do you think we really do look alike? I hope so.
+%0%a001250
+	Don't I look more like Mum?
+	Oh... That's a shame.
+Sancho
+	Hmm... Thees old señora, eshe was there at your wedding, friend?
+Sancho
+	I weesh I had been there too.
+	I am eso, eso jealous!
+%0%a001240
+	You know so many people, Dad!
+Tuppence
+	It seems the people here have no idea you're the great King of Gotha.
+%0%a001250
+	Wow! What a lovely big church!
+%0%a001250
+	I bet Mum looked beautiful when she got
+	married here.
+%0%a001240
+	Marriage... That's still a long, long, long way off
+	for me!
+Tuppence
+	Aah, I wonder where the beauty is who I'm destined to marry.
+Bianca
+	I s'pose I could take the odd bit of bein' bossed around by you every now and then, %a000090.
+Bianca
+	I'd rather that than be married to a man who's a
+	wet blanket!
+Nera
+	I don't think it's really necessary to treat one another like that. I'm perfectly happy as we are.
+%0%a001240
+	Ha! That's so cool!
+%0%a001250
+	People like that are mean. You won't start acting like that, will you, Dad?
+Sancho
+	No one knows a man better than hees wife.
+Sancho
+	These two, they must be very happy together.
+Bianca
+	Nera seems even prettier than ever, eh?
+Bianca
+	Huh! Not that now's the time to start gettin' bogged down with things like that, mind.
+%0%a001240
+	They sound like they really need our help, Dad.
+%0%a001250
+	So she's Nera? She's really pretty, isn't she?
+Tuppence
+	Goodness! That wife of Crispin's is a
+	tremendous beauty.
+Tuppence
+	I probably shouldn't say this, but...
+	If someone like him can get someone
+	like her, then there's hope for me yet!
+Nera
+	I would never have expected Crispin to fall for a woman like that!
+Nera
+	If Papa needs help, then of course we'll go to him, won't we, darling? We don't need to be asked twice.
+%0%a001240
+	They sound like they really need our help, Dad.
+%0%a001250
+	What a funny outfit she was wearing just for being around the house! Maybe her husband likes her looking like that.
+Tuppence
+	That wife of Crispin's is burning hot!
+Tuppence
+	I probably shouldn't say this, but...
+	If someone like him can get someone
+	like her, then there's hope for me yet!
+Nera
+	The cheek of it!
+%0%a001240
+	What's wrong, Dad?
+	How come you've gone all red?
+%0%a001250
+	I don't think you should look at Ashlee like that, Dad. Mum might get jealous.
+Tuppence
+	Hmph! Why is it that the women only ever have eyes for you?
+%0%a001250
+	What a huge house! It's almost like a castle.
+%0%a001240
+	We're going to help these people out, right, Dad?
+	Count me in!
+Sancho
+	Anda! Eef ees esometheeng thees señor, he can no tell to hees wife, maybe ees a very beeg problem, no?
+%0%a001240
+	So this is sort of like another home for you,
+	then, Dad?
+%0%a001240
+	We're going to help these people out, right, Dad?
+	Count me in!
+%0%a001250
+	I don't look anything like Grandma, do I?
+	Maybe I do take after you, then, Dad.
+Sancho
+	Anda! Eef ees esometheeng thees señor, he can no tell to hees wife, maybe ees a very beeg problem, no?
+%0%a001240
+	I wonder what sort of monster it is. It must be pretty nasty for Mr Briscoletti to be so wound
+	up about it.
+Sancho
+	You no wanna know more about thees
+	old diary?
+Sancho
+	Maybe ees wrong to read eet before you ask permission, but ees no the time for manners now.
+Bianca
+	ⓗTo those of my heirs unlucky enough to be born one hundred and fifty years after myselfⓘ...?
+Bianca
+	Sounds like we're the unlucky ones, eh?
+Nera
+	I can't believe Papa kept such a big secret to himself all this time.
+%0%a001240
+	A monster so big that his head reached the clouds? Do you think that's really possible?
+%0%a001250
+	It must be an enormous jar if it's got a monster that big inside.
+Sancho
+	I no comprende everytheeng, but I understand enough. Come, we must go.
+Tuppence
+	A b-beast so gigantic, his head p-pierced
+	the clouds?
+Tuppence
+	P-Perhaps it would be better if I sat this one out back in Gotha.
+%0%a001250
+	Is your heart made of stone, Dad? Really?
+Bianca
+	Now's not the time to be teasin' the poor bloke, %a000090! We owe him this at least.
+Bianca
+	He's the one who put on our lovely weddin', remember! And he gave us that great big ship and everythin'!
+Sancho
+	How could you be eso cruel? Your father,
+	he would turn over hees grave eef he esaw
+	thees, friend.
+Bianca
+	I en't really sure what this is all about, but we should just do what he says.
+%0%a001240
+	So all we have to do is find out what colour the jar is? That'll be dead easy!
+%0%a001250
+	If he's that worried about it, why doesn't he go and see for himself?
+Sancho
+	Ees no joke to ask esuch a theeng of esomeone else.
+Sancho
+	I believe thees señor Briscoletti, he ees too escared to esee eet for heemself, no?
+Tuppence
+	This is the perfect opportunity. Briscoletti will be in my debt and...
+Tuppence
+	Er! Nothing! No, I didn't say a word.
+	You must be hearing things.
+Nera
+	We haven't seen each other for years, and yet he barely gave me a second glance.
+Nera
+	And he's still so pushy and heavy-handed.
+	Sorry about all this, darling.
+%0%a001240
+	So all we have to do is find out what colour the jar is? That'll be dead easy!
+%0%a001240
+	Is that man my grandad?
+%0%a001240
+	I wonder if I'll go bald when I'm older too.
+%0%a001250
+	If he's that worried about it, why doesn't he go and see for himself?
+Sancho
+	Ees no joke to ask esuch a theeng of esomeone else.
+Sancho
+	I believe thees señor Briscoletti, he ees too escared to esee eet for heemself, no?
+Tuppence
+	This is the perfect opportunity. Briscoletti will be in my debt and...
+Tuppence
+	Er! Nothing! No, I didn't say a word.
+	You must be hearing things.
+Bianca
+	(yawn) Aaaaaah. ...There's no need to stare at me when I'm yawnin', you know!
+Nera
+	By the time you take into account all the travelling I did and that time I spent at the abbey, I wasn't actually here all that much.
+Nera
+	It's still nice to be back, though.
+%0%a001240
+	I can hear lots of people having fun.
+	Maybe they're in the pub?
+%0%a001250
+	Um, it's night already, isn't it?
+Sancho
+	Ees a very attractive town, you no theenk?
+	Sí. Gotha eshould look like thees.
+%0%a001240
+	Huh! I suppose he thinks he's funny, does he?
+%0%a001250
+	That's really scary. Can we hurry up and find an inn now please, Dad?
+Sancho
+	Sí. Ees true. Een the night, the monsters, they
+	come out to play. Maybe ees a good time for
+	a siesta, no?
+%0%a001240
+	That dog sounds weird.
+	Maybe it's got a cold or something.
+%0%a001240
+	(yawn) I think I might be a bit sleepy.
+%0%a001240
+	It would be a bit weird, seeing a jar glowing red all by itself like that.
+%0%a001250
+	Is there nothing we can do to help out, Dad?
+Sancho
+	Thees ees red, thees ees white... Thees conversation, ees chopping thees way and that more than the barber eshop! Eh heh heh heh.
+Sancho
+	Anda! Ees no time for the laughing, eh?
+Tuppence
+	Sometimes ignorance is bliss.
+Tuppence
+	But it's no use burying your head in the sand when something needs to be dealt with.
+%0%a001240
+	The pub's a bit lively. You have to talk really loud to make yourself heard!
+%0%a001250
+	Yuck! All those smells are making me feel sick.
+%0%a001240
+	I'd like a tasty glass of juice, I think!
+Tuppence
+	Hee hee hee! What a cheeky little minx!
+Bianca
+	I wonder what she'd say if I tried to take her up on her offer.
+%0%a001240
+	Do you think coming here makes Mr Briscoletti
+	feel better?
+Sancho
+	You know, your Uncle Sancho espent a lot of time een the pub too, when señor Pankraz, he, he no came home.
+Bianca
+	It's not so lucky havin' to put up with the likes of him though, eh? What a lout!
+Bianca
+	Well, that told you, eh, %a000090?
+Sancho
+	Sí, sí. Thees ees the truth, you know.
+%0%a001240
+	Does that mean the colour of it's changed
+	just recently?
+%0%a001240
+	I never let the bad stuff get me down in the dumps. It's best to stand up and do something about it.
+%0%a001250
+	We probably shouldn't really just wander around people's houses when they're sleeping. They might think we're burglars.
+%0%a001240
+	We shouldn't wake him up, Dad. Let him sleep.
+Sancho
+	The old señores and señoras, they like to esleep early. You must no wake them up, friend.
+Bianca
+	It's nice that she looks out for her hubbie like
+	that, eh?
+Nera
+	We should probably have a good rest together tonight too, darling.
+Sancho
+	You see? Ees notheeng better than esomeone who loves you.
+Bianca
+	Briscoletti seems pleased, eh? It's good that we've managed to pay him back a bit.
+%0%a001240
+	Oh! We could've fought with Briscoletti if he'd made it to the tower in time. That would've been fun.
+%0%a001250
+	I think that's the first time I've seen Mr Briscoletti smile. He's like a totally different person.
+Sancho
+	Thees ees no the end of our quest.
+	Come, we have muchos, muchos to do.
+Tuppence
+	Aah, another heroic tale to add to my
+	ever-growing portfolio!
+Bianca
+	That was interestin', eh?
+	We should bear it in mind.
+%0%a001240
+	She thinks you learn from me, Dad. That must make me your teacher, then! Ha ha!
+%0%a001250
+	Um, I think you're already a really good dad.
+	You don't have anything to learn.
+Bianca
+	Briscoletti's always worried about the townsfolk, and they're worried about him.
+Bianca
+	It's nice that they all care about one another so much, eh?
+%0%a001240
+	It doesn't look like the people here noticed that huge monster on the prowl. I suppose that's for the best.
+Tuppence
+	Hmph. What a pity the people here weren't able to witness my bravery!
+Bianca
+	Sounds like she's pretty grateful to us, eh?
+%0%a001240
+	This house is huge. Does that mean Mr Briscoletti's really rich?
+%0%a001240
+	Oh! We could've fought with Briscoletti if he'd made it to the tower in time. That would've been fun.
+%0%a001250
+	I think that's the first time I've seen Grandpapa smile. He's like a totally different person.
+Sancho
+	Thees ees no the end of our quest.
+	Come, we have muchos, muchos to do.
+Tuppence
+	Aah, another heroic tale to add to my
+	ever-growing portfolio!
+Nera
+	Papa certainly seems to be in a good mood.
+Nera
+	It's been a long time since I've seen him laughing like that. Thank you, darling.
+%0%a001240
+	Oh! We could've fought with Briscoletti if he'd made it to the tower in time. That would've been fun.
+%0%a001250
+	I think that's the first time I've seen Grandpapa smile. He's like a totally different person.
+Sancho
+	Thees ees no the end of our quest.
+	Come, we have muchos, muchos to do.
+Tuppence
+	Aah, another heroic tale to add to my
+	ever-growing portfolio!
+%0%a001240
+	Yay! We got some pocket money!
+	Can we split it between %a001250 and me?
+%0%a001250
+	There's nothing I want to buy at the moment, so you can just save my share, Dad.
+Nera
+	Mama seems so thrilled to see %a001240 and %a001250.
+Nera
+	I feel quite emotional all of a sudden.
+%0%a001240
+	Grandmama's so kind and gentle.
+%0%a001240
+	I'm going to try really hard to keep everyone safe.
+%0%a001250
+	I don't think it's a shame at all. It's nice that we can all spend time together.
+Nera
+	I still sometimes wonder why someone as young as %a001240 has to be the legendary hero.
+Nera
+	I hope this is all over soon so that we can go home and give him some semblance of a normal childhood.
+Sancho
+	Where I come from, we esay the young ones, they follow een the footsteps of their parents. You weell be a fine papá, friend.
+Tuppence
+	Well, well... I never imagined such a delightful-looking lady could possibly be a grandma already.
+Nera
+	You are quite wonderful, you know, darling. You seem so much stronger now than when you were turned into a statue.
+%0%a001240
+	It doesn't look like the people here noticed that huge monster on the prowl. I suppose that's for the best.
+Tuppence
+	Hmph. What a pity the people here weren't able to witness my bravery!
+%0%a001240
+	If it's your house, then that makes it my house too, right? Yippee!
+%0%a001250
+	He he! A wonderful son-in-law? It's funny to hear someone talk about you like that.
+%0%a001240
+	Looks like there's nothing to worry about here
+	any more.
+%0%a001250
+	He does have quite a laugh on him!
+Sancho
+	You know, eef thees señor, he had no told us about the colour of the jar, maybe we would have been too late, no?
+Sancho
+	He ees like a warrior from the eshadows, no?
+	The sombrero saviour! Qué? Thees no translate?
+%0%a001240
+	It sounds like that man's been to see the jar loads of times. That's nice of him.
+%0%a001240
+	Huh! He's a bit dippy, isn't he?
+%0%a001250
+	It's weird that that man didn't think to check what the noise was about. %0%a001240 would've definitely gone and had a look.
+Bianca
+	It's nice that he cares more about Briscoletti's welfare than he does about his own business, eh?
+Tuppence
+	Mr Briscoletti's a very wealthy man, though.
+	I should imagine he consumed a fair few pints
+	of this man's stock.
+%0%a001240
+	One hundred and fifty years would've felt like just a few days? Do you think time feels different if you're big, then?
+%0%a001250
+	Would everyone have been killed if that monster
+	had made it into town? It's a good job we stopped him, then.
+Bianca
+	No doubt you'll treasure the fact that Nera's prayin' for you, eh, %a000090?
+Bianca
+	What!? No, I didn't mean anythin' funny by it!
+	I was bein' serious!
+%0%a001240
+	Yeah, let's get on our way now, Dad.
+	We're done here.
+Tuppence
+	With a beauty like that praying for me, I suddenly feel like I have the strength of a hundred men!
+Tuppence
+	What a shame she already belongs to another, though. Will the Goddess never grant me the happiness I deserve?
+%0%a001240
+	One hundred and fifty years would've felt like just a few days? Do you think time feels different if you're big, then?
+%0%a001250
+	Would everyone have been killed if that monster
+	had made it into town? It's a good job we stopped him, then.
+Nera
+	DARLING! I'd be grateful if you could avert your eyes from that...lady.
+%0%a001240
+	What's wrong, Dad?
+	How come you've gone all red?
+%0%a001250
+	I don't think you should look at Ashlee like that, Dad. Mum might get jealous.
+Tuppence
+	Hmph! Why is it that the women only ever have eyes for you?
+%0%a001240
+	He's having a good sleep. Probably because he's got nothing to worry about any more.
+%0%a001240
+	The monster's supposed to have been a secret!
+	I wonder how he found out.
+%0%a001250
+	Red does tend to signify danger, I suppose.
+	I wonder how much that man knows exactly.
+Bianca
+	It is pretty late now, I s'pose.
+%0%a001240
+	Does that mean everyone's asleep?
+	But you want to look around anyway?
+Sancho
+	You no comprende? Thees señorita, eshe ees too polite to esay, but we are no welcome een the house because everyone, they are esleeping.
+%0%a001240
+	Are we staying here tonight?
+	Can I sleep in Mum's bed? Yay!
+%0%a001250
+	I'm really tired now. I don't care where I sleep as long as I can sleep soon.
+%0%a001240
+	He looks like he's having a nice sleep. I hope we can get off to bed soon too.
+%0%a001250
+	I have to brush my teeth before I go to bed. Otherwise Sancho will tell me off.
+Nera
+	It feels funny watching Mama and Papa when they're asleep like this.
+Sancho
+	You must no wake up the señora!
+	No. Ees time for us to esleep too.
+%0%a001240
+	Hey! Aren't we sleeping here tonight?
+	I want to sleep here!
+%0%a001250
+	It smells of Mum in here. If I slept in that bed,
+	I'd probably end up crying or something.
+%0%a001240
+	It's cool that we could all stay together like this.
+%0%a001250
+	I'm going to try really, really hard today!
+%0%a001240
+	Oh! Aren't we going to stay? But I'm still only little really. I wanted to sleep in Mum's bed.
+%0%a001250
+	You might still have lots of energy, Dad, but I'm really tired.
+Tuppence
+	Don't you worry about me. You should take all the rest you need.
+Tuppence
+	I can sleep on the edge of the bed.
+	Or the floor, even!
+Debora
+	I wonder what's got Papa in so much of a flap.
+Debora
+	We should probably try and find out.
+Debora
+	You'd never dare speak to me like that, would you, %a000090? Not even by mistake!
+Debora
+	Oh dear. Papa really is a luckless man at times.
+Tuppence
+	So this is Debora's hometown, is it?
+Tuppence
+	That reminds me, Debora has a sister, doesn't she?
+	I can't wait to meet her!
+Debora
+	This place looks just the same as ever.
+Debora
+	I wonder how Nera is.
+Debora
+	Wasn't he having a hair of the dog when we saw him ten years ago too?
+Debora
+	Huh! Some people never learn.
+Debora
+	Then why don't they just not bother opening up during the day?
+Debora
+	Papa comes here a lot? That's odd. This kind of place never used to be his cup of tea.
+Debora
+	So Nera married Crispin in the end.
+Debora
+	He's a bit of a no-hoper, but as long as she's happy, I wish her well.
+%0%a001240
+	Mr Briscoletti is sort of your dad, isn't he, Dad?
+%0%a001240
+	We should make sure we help him then!
+%0%a001250
+	So she's Nera? She's really pretty, isn't she?
+%0%a001250
+	She's Mum's younger sister, isn't she?
+	That must make her my aunt then.
+Tuppence
+	Goodness! That wife of Crispin's is a
+	tremendous beauty.
+Tuppence
+	Er, I mean! I didn't realise she was Debora's little sister. She's very, um, kind-looking!
+Debora
+	I see Papa's still as overbearing as ever.
+Debora
+	There's no arguing with him once he gets like this. You'll just have to go and do what he says, %a000090.
+%0%a001240
+	So all we have to do is find out what colour the jar is? That'll be dead easy!
+%0%a001240
+	Is that man my grandad?
+%0%a001240
+	I wonder if I'll go bald when I'm older too.
+%0%a001250
+	If he's that worried about it, why doesn't he go and see for himself?
+Sancho
+	Ees no joke to ask esuch a theeng of esomeone else.
+Sancho
+	I believe thees señor Briscoletti, he ees too escared to esee eet for heemself, no?
+Tuppence
+	This is the perfect opportunity. Briscoletti will be in my debt and...
+Tuppence
+	Er! Nothing! No, I didn't say a word.
+	You must be hearing things.
+Bianca
+	Debora's just the same as ever, eh?
+	It's quite nice to see she en't changed, though.
+%0%a001240
+	Is that woman your friend, Dad?
+%0%a001240
+	I think she's probably the strangest one I've met
+	so far.
+%0%a001250
+	Dad... That lady's a bit scary.
+Tuppence
+	You know this person, %a000090? Well I never!
+Tuppence
+	She's still single, isn't she?
+	You absolutely must introduce us!
+Nera
+	Debora's just the same as ever.
+Nera
+	Mama and Papa must be really worried about her still not being married yet.
+%0%a001240
+	Is that woman Mum's big sister?
+%0%a001240
+	Then that must make her my aunt!
+%0%a001250
+	That woman looks quite similar to Mum, but her personality seems completely different.
+Tuppence
+	So, %a000090! It seems this is the lovely Nera's older sister.
+Tuppence
+	Ha ha! You do realise that if she and I end up
+	getting married, that would make you and I brothers-in-law?
+Tuppence
+	I'll have to do my utmost to see if I can win
+	her heart!
+Bianca
+	I know she's pretty and all that, but...
+	You dun't really feel anythin' for her, though,
+	do you?
+Nera
+	I can't believe she'd think such a thing of you!
+Nera
+	She's not right, is she?
+	Am I not the woman for you?
+%0%a001240
+	That's not true, is it, Dad?
+	You're glad you chose Mum, right?
+Tuppence
+	It may be too late for you, but perhaps I'm still in with a chance!
+Bianca
+	Maybe Debora's still a bit sore that you picked
+	me, eh?
+Nera
+	I'm afraid that Debora may still be a little hurt that you picked me over her, darling.
+Debora
+	It's so much quieter here at night than it is during
+	the day.
+Debora
+	Papa comes here a lot? That's odd. This kind of place never used to be his cup of tea.
+Debora
+	What? You're not expecting the same kind of treatment from me, are you?
+Debora
+	Ooh, that's quite a windfall!
+	Let's go shopping, %a000090!
+Debora
+	Of course I'd rather that the children weren't involved in our battles.
+Debora
+	It's what they want to do, though.
+	It's important to respect that.
+Debora
+	That goes without saying. I wouldn't have married you otherwise.
+%0%a001240
+	Oh! We could've fought with Briscoletti if he'd made it to the tower in time. That would've been fun.
+%0%a001250
+	I think that's the first time I've seen Grandpapa smile. He's like a totally different person.
+Sancho
+	Thees ees no the end of our quest.
+	Come, we have muchos, muchos to do.
+Tuppence
+	Aah, another heroic tale to add to my
+	ever-growing portfolio!
+Debora
+	I suspect Papa never intended to fight in the
+	first place.
+Debora
+	Still, it's probably for the best. He would only have got in the way if he'd made it anyway.
+%0%a001240
+	Oh! We could've fought with Briscoletti if he'd made it to the tower in time. That would've been fun.
+%0%a001250
+	I think that's the first time I've seen Grandpapa smile. He's like a totally different person.
+Sancho
+	Thees ees no the end of our quest.
+	Come, we have muchos, muchos to do.
+Tuppence
+	Aah, another heroic tale to add to my
+	ever-growing portfolio!
+Bianca
+	She wasn't bothered? This Debora's quite a piece of work, eh?
+Nera
+	I think she's probably just trying to save
+	our feelings.
+%0%a001240
+	How can she not have been bothered, with that huge monster clomping about the place?
+	She must be really brave!
+%0%a001250
+	She's not expressing it very well, but I'm sure she's just trying to be considerate of our feelings.
+Tuppence
+	Dear Debora, I came as fast as I could to check that you weren't injuⓚⓛ Oh. She's not listening.
+Nera
+	Debora always calls people puny-looking when she's trying to pay a compliment. She's just teasing.
+Nera
+	I'm glad that the children seem to get on with her.
+%0%a001240
+	What's the problem with calling her ⓗauntieⓘ, Dad?
+	She is my auntie, isn't she?
+%0%a001250
+	I'm too scared to call her ⓗauntieⓘ.
+	I'll just call her ⓗSignorinaⓘ like she asked.
+Tuppence
+	Ooh, I don't mind calling her ⓗbeautiful Signorina Deboraⓘ! No, not one little bit!
+Debora
+	I suppose that means Crispin's my brother-in-law now that he and Nera are married.
+Debora
+	That should make him even easier to boss around than before!
+%0%a001240
+	One hundred and fifty years would've felt like just a few days? Do you think time feels different if you're big, then?
+%0%a001250
+	Would everyone have been killed if that monster
+	had made it into town? It's a good job we stopped him, then.
+%0%a001240
+	Her sister is Mum, isn't it?
+%0%a001240
+	Aren't sisters supposed to be alike?
+	They don't seem very similar.
+%0%a001250
+	Auntie Nera really seems to care about Mum, doesn't she? You can tell she'd love to see her again.
+Tuppence
+	With a beauty like that praying for me, I suddenly feel like I have the strength of a hundred men!
+Tuppence
+	What a shame she already belongs to another, though. Will the Goddess never grant me the happiness I deserve?
+Debora
+	We were turned into stone for all those years,
+	so the time didn't pass that quickly for us!
+%0%a001240
+	I knew I looked like you, Dad!
+	Everyone says so.
+%0%a001250
+	Nera and Mum are sisters, aren't they?
+%0%a001250
+	I wonder if they fight with each other sometimes like %a001240 and I do.
+Debora
+	Mama, Papa, Nera, they're all the same.
+	Non-stop worriers, the lot of them!
+Debora
+	You seem incredibly pleased that Nera's been praying for you...
+%0%a001240
+	Yeah, let's get on our way now, Dad.
+	We're done here.
+Tuppence
+	With a beauty like that praying for me, I suddenly feel like I have the strength of a hundred men!
+Tuppence
+	What a shame she already belongs to another, though. Will the Goddess never grant me the happiness I deserve?
+Debora
+	Watching Mama sleeping like that makes me feel all sleepy too.
+%0%a001240
+	Hey! Aren't we sleeping here tonight?
+	I want to sleep here!
+%0%a001250
+	It smells of Mum in here. If I slept in that bed,
+	I'd probably end up crying or something.
+%0%a001240
+	It's cool that we could all stay together like this.
+%0%a001250
+	I'm going to try really, really hard today!
+%0%a001240
+	Oh! Aren't we going to stay? But I'm still only little really. I wanted to sleep in Mum's bed.
+%0%a001250
+	You might still have lots of energy, Dad, but I'm really tired.
+Tuppence
+	Don't you worry about me. You should take all the rest you need.
+Tuppence
+	I can sleep on the edge of the bed.
+	Or the floor, even!
+Debora
+	You'll be lucky, Tuppence! It's your turn to stand outside the room on guard all night, remember?
+Tuppence
+	Of, of course. Yes.
+Nera
+	Aah, it's good to be back. This place never changes.
+Nera
+	I wonder how Debora's getting along.
+Tuppence
+	So this is Nera's hometown, is it?
+Tuppence
+	That reminds me, Nera has a sister, doesn't she?
+	I can't wait to meet her!

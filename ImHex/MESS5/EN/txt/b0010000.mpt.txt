@@ -1,0 +1,648 @@
+*: 
+	This is La Guardia, the lookout tower.
+*: 
+	Mr Briscoletti had it built so we'd know if ever monsters were coming to attack Mostroferrato.
+*: 
+	There's an old legend about a man who mastered control of evolution and turned himself into a monster.
+*: 
+	But the great evil within him provoked the anger of the gods, and he was sealed away in the underworld.
+*: 
+	He was known as Grandmaster Nimzo. If the legend's true, he'd be the ruler of the underworld for sure.
+*: 
+	Argh! The heat! It's...impossible to go any further!
+Crispin
+	I see I'm not the only one determined enough to get this far.
+Crispin
+	The Circle of Fire is in these caves somewhere.
+	So...may the best man win!
+Crispin
+	Uuugh... It's so hot...
+	My head feels like it's melting...
+	But I won't give up!
+~ There's a ring buried in the rock, shining like ~
+~ a fiery ember. ~
+~ %0%a000120 obtains the Circle of Fire! ~
+~ %0%a000180 acquires the Circle of Fire. ~
+Crispin
+	If I succeed in becoming a man worthy of Nera, then maybe Debora will begin to respect me too.
+*: 
+	Welcome to Mostroferrato, ancient stronghold of the Briscoletti family.
+*: 
+	I've heard rumours, you know.
+*: 
+	People say the Briscoletti family shield is actually none other than the legendary Zenithian Shield.
+*: 
+	A man called Crispin just crawled into town with really bad burns all over him!
+Bingo
+	Aaarf, aaarf...
+*: 
+	You see? Crispin hurt himself really badly.
+*: 
+	You need to be careful. You'll definitely be wanting to buy a few useful items here before you go off again. It doesn't pay to be parsimonious!
+*: 
+	You got the Circle of Fire?
+	Well you did better than Crispin, then.
+	He came back in a terrible state.
+*: 
+	Mind you, he is being nursed by Nera,
+	so it's not all bad!
+*: 
+	I wouldn't be surprised if you managed to get the Circle of Water too.
+*: 
+	If you change your mind about all this, you can always give me the ring, eh?
+*: 
+	No, I guess that's not going to happen!
+*: 
+	You'd be quite a catch, wouldn't you?
+*: 
+	I bet Nera's having a hard time making up her mind which boy to choose! Hee hee hee!
+*: 
+	So you're another suitor of Nera's, are you?
+	Dear oh dear!
+*: 
+	Crispin suffered some very serious injuries in that cave of molten lava.
+*: 
+	He's caused everyone a lot of worry, including Nera. Honestly, what was he thinking?
+*: 
+	Nera says she feels responsible for what happened to Crispin, so she's been nursing
+	him night and day.
+*: 
+	She's a fine lady, that Nera Briscoletti.
+Nera
+	Oh! %0%a000090...
+Nera
+	Crispin's suffered some terrible burns.
+	His fever just won't drop.
+Nera
+	You're alright, aren't you?
+Nera
+	Oh, thank the Goddess. I'm so glad.
+Nera
+	What!? You're injured too?
+	Oh, no! Where? What's wrong?
+Nera
+	Sorry? You were only joking? That's awful when Crispin's suffering so much!
+Crispin
+	Urgh... Nera...
+	I've...fallen in lava...
+*: 
+	Stop lazing about and put some tea on,
+	you old waster!
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	My wife manages everything to do with the shop. My job's taking care of the housework.
+*: 
+	It's great being married to someone who's so in control. Although...I can do some things myself.
+*: 
+	Marriage is a blessed union of two souls in the presence of the Goddess.
+*: 
+	She will bestow happiness upon any couple who truly love one another.
+*: 
+	This is Mr Briscoletti's villa. He doesn't get
+	out here much, though. It's just that little bit
+	too far away.
+*: 
+	Welcome to the Briscoletti residence.
+Rodrigo Briscoletti
+	Mamma mia! The Circle of Fire!
+	Excellent work, %a000090.
+Rodrigo Briscoletti
+	I'll take it off your hands for now.
+	That's alright with you, I trust?
+~ %0%a000090 hands the Circle of Fire to ~
+~ Mr Briscoletti. ~
+Rodrigo Briscoletti
+	So, all that remains for you to do is to bring me the Circle of Water and marry my bambina!
+Rodrigo Briscoletti
+	Use your brain now, boy. It's called the Circle of Water, so it'll be hidden in a place full of water, wouldn't you say?
+Rodrigo Briscoletti
+	So! I'll give you free use of my ship. It's moored in the laguna just outside of town.
+Rodrigo Briscoletti
+	It's just one of my smaller vessels, of course. A toy, if you will. But it should be plenty large enough for you and your friends.
+Rodrigo Briscoletti
+	Are you saying you'd rather have the Circle of Fire than my daughter's hand in marriage?
+Rodrigo Briscoletti
+	Ha ha ha hah! You enjoy a good capriccio, as my grandfather used to say! Very funny, lad.
+Rodrigo Briscoletti
+	You say you obtained the Circle of Fire?
+Rodrigo Briscoletti
+	But %a000090, my lad, unless I'm very much mistaken, you don't have it with you now.
+Rodrigo Briscoletti
+	Ah! No doubt you've given it to one of your companions, haven't you?
+Rodrigo Briscoletti
+	Well hurry up and get it then.
+Rodrigo Briscoletti
+	Use your brain now, boy. It's called the Circle of Water, so it'll be hidden in a place full of water, wouldn't you say?
+Rodrigo Briscoletti
+	So! I'll give you free use of my ship. It's moored in the laguna just outside of town.
+*: 
+	If you're looking for Nera, she's gone to the Burns's house to look after Crispin.
+*: 
+	All this reminds me of my courting days.
+*: 
+	Rodrigo was quite the Romeo himself, you know.
+	He had to put himself in great danger to win my hand in marriage.
+*: 
+	He injured himself too. And I spent days and days looking after him at his bedside.
+*: 
+	I was attacked by monsters up in the mountains on my way here and I did my leg in.
+*: 
+	Fortunately a young lady from a nearby
+	village happened to pass by and she dressed
+	the wound for me.
+*: 
+	What an exceptional young woman to be out in the mountains all on her own!
+*: 
+	I lost my wife some time ago. She was killed by monsters while I was away travelling once.
+*: 
+	I wish I'd taken her with me now, even if it can be a bit dangerous at times.
+Bingo
+	Aaarf, aaarf...
+*: 
+	Zzz... Yeah! Come on, Dad!
+	Let's get those monsterzzz...
+	Zzz... Zzz...
+*: 
+	You'd be quite a catch, wouldn't you?
+*: 
+	I bet Nera's having a hard time making up her mind which boy to choose! Hee hee hee!
+*: 
+	So you're another suitor of Nera's, are you?
+	Dear oh dear!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	My Goddess! You got it! The Circle of Fire!
+*: 
+	You'll have to take it over to the Briscoletti mansion first thing. Amazing!
+*: 
+	I was going to narry Meraⓚⓛ Hic! To marry Nera, and get rinking stich. Hic! Really, really, rinking stich!
+*: 
+	I was going to get ⓚⓛ Hic! ⓚⓛ stinking rich, and have the biggest item shop on the continent! But instead, I'm just stinking drunk...
+*: 
+	Aaah! That's some good juice!
+	You want to try some, lad?
+	Go on, just one glass!
+~ %0%a000090 downs the glass! ~
+*: 
+	Hey, are you alright, lad? You looked like you could take it, but maybe I was wrong.
+*: 
+	That's it! You're looking tough now, lad!
+	Hah hah hah!
+*: 
+	No? Listen to me, lad! If you can't take your drink, you'll never have the guts to chat to the ladies.
+*: 
+	Crispin suffered some very serious injuries in that cave of molten lava.
+*: 
+	He's caused everyone a lot of worry, including Nera. Honestly, what was he thinking?
+*: 
+	Ah-phew...
+	Debora...and Crispin...again...
+Crispin
+	Urgh... Nera... My heart...burns for you...
+*: 
+	Zzz... Zzz...
+*: 
+	If you don't rub a bit harder, it won't help one little bit, you old waster!
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	Everyone's gone to bed already, I'm afraid.
+	Could you come back in the morning, please?
+*: 
+	Zzzz...
+Bingo
+	Arf! Bau bau!
+Nera
+	Crispin's temperature still won't drop thanks to all the terrible burns he suffered.
+Nera
+	I've been so worried about him, I thought I'd stay a bit longer.
+*: 
+	Oh, my goodness! A coffin!
+*: 
+	Go to the church at once, and pray to the Goddess that this poor person might live again!
+Rodrigo Briscoletti
+	Ah, it's you, %a000090. And still without the Circle of Water, I see.
+Rodrigo Briscoletti
+	But you're the likely lad who brought me the Circle of Fire. I've high hopes for you. Don't let me down!
+Rodrigo Briscoletti
+	Hm? Is this young lady a lover of yours?
+Rodrigo Briscoletti
+	Ha ha hah! You young Casanova! But it's finito with the affairs if you marry my bambina, capice?
+	We don't want a fiasco.
+*: 
+	I was attacked by monsters up in the mountains on my way here and I did my leg in.
+*: 
+	Fortunately a young lady from a nearby
+	village happened to pass by and she dressed
+	the wound for me.
+*: 
+	Good Goddess! It... It was you, wasn't it?
+*: 
+	I see. So you're Bianca? Well, Bianca, thank you once again. You saved my life.
+*: 
+	What was the name of your village again? Stockenbarrel, wasn't it? And you look after the lock, don't you?
+*: 
+	Right. So you're planning to go through the lock and up north in search of the Circle of Water?
+	Well, good luck, then!
+*: 
+	Not like that sister of hers, Debora. What a snake! I'd steer well clear of that young madam if I were you.
+Debora
+	Who do you think you are?
+	Is there a sign on the door saying
+	ⓗscruffbags welcomeⓘ?
+Debora
+	Oh? You heard I was the older sister out of Nera and I, did you?
+Debora
+	So? What of it? If you think that means I'm looking to get married first, you can think again.
+Debora
+	How dare you come barging into my room with that peasant girl in tow! Get out!
+*: 
+	If only she'd have me, I'd personally go for the delicious Debora instead.
+*: 
+	If only she'd have me, I'd personally go for the delicious Debora instead.
+*: 
+	That makes me all the more ashamed of Debora's behaviour. The least she could do is tend to poor Crispin in his hour of need.
+Debora
+	What is it now? Do you want something, or not?
+Debora
+	Ooh! You got the Circle of Fire? And now you're here to brag about it, I suppose. You must have a lot of spare time on your hands.
+Debora
+	Then do me a favour and don't disturb me, okay?
+*: 
+	Welcome to Stockenbarrel!
+*: 
+	The baths are a-cookin', so the place be a bit full of folk just now.
+*: 
+	Purrr!
+*: 
+	That son of mine's only sayin' he wants to be a priest now, of all things!
+*: 
+	I dun't know what he gets up to, shut up indoors all the time.
+*: 
+	Come here up the river, did ya? I'll bet the lock had you scratchin' your head though, eh? There's no obvious way through him.
+*: 
+	Someone here in the village should be able to open him up for you, mind.
+*: 
+	............
+~ She seems to be lost in prayer, and doesn't notice %a000090 standing beside her. ~
+*: 
+	Meow.
+*: 
+	Hello there. I bet you've come to relax in the water, eh?
+*: 
+	Just mind you dun't go soakin' too much.
+*: 
+	Wouldn't want to pass out, eh?
+*: 
+	Please, leave me alone. I'm trying to relax.
+*: 
+	I'll bet you're another one of those uptight fellas here to soak away your cares, en't you?
+*: 
+	Well enjoy it then, the water's lovely and warm!
+*: 
+	Oh well. Maybe next time, eh.
+*: 
+	I hear some folk have even moved here to Stockenbarrel to help 'em recover from illnesses and the like.
+*: 
+	I'm busy studyin' to be a priest, you know.
+*: 
+	There's apparently some kind of religious order out there at the moment collectin' money to build a White King's Paradise or suchlike.
+*: 
+	They say they'll keep you safe even if the end of the world comes and all that.
+*: 
+	That daughter of Whitey's, Bianca, is a real hard worker.
+*: 
+	He's a bit weak now because of some illness or other, so she goes off all over the place takin' care of things for the both of 'em.
+*: 
+	She really has got her head screwed on,
+	that one.
+*: 
+	Sorry, mate.
+	Pub en't open durin' the day.
+~ ⓗSee ya, everyone! I'm off to join that religion and go to that White King's Paradise place!ⓘ ~
+*: 
+	You as well, eh? I don't blame you.
+	The baths here turn up some real beauties.
+*: 
+	I'm talking about these bath crystals, of course!
+	The famous Stockenbarrel scintillating sinter!
+*: 
+	I'm afraid no good things in life come for free, though. What I'd really like is a desert rose.
+*: 
+	You sometimes come across them in the desert. If you could find me one, I'd be more than happy to give you some sinter in exchange.
+*: 
+	Wait a minute! Don't go telling any of the villagers about this, okay? This is just between you and me.
+*: 
+	Oi! What d'you think you're doin', wanderin' about people's homes like you own the place!?
+*: 
+	I'm tryin' to work here. If you en't got no business, then I'd be leavin' if I was you.
+*: 
+	Meow.
+*: 
+	Come here up the river, did ya? I'll bet the lock had you scratchin' your head though, eh? There's no obvious way through him.
+*: 
+	Someone here in the village should be able to open him up for you, mind.
+*: 
+	............
+~ She seems to be lost in prayer, and doesn't notice %a000090 standing beside her. ~
+*: 
+	(splish splash)
+*: 
+	Aaah! You can't beat havin' the baths pretty much to yourself.
+*: 
+	Once, when I travelled upriver long ago, I came across a ginormous cave.
+*: 
+	I was too scared to go inside. More's the pity, because I'll bet there's all sorts of treasure hidden in there.
+*: 
+	I'm busy studyin' to be a priest, you know.
+*: 
+	Goo! Goo!
+*: 
+	That husband of mine! He may as well up sticks and move to the pub, the amount of time he spends there!
+*: 
+	Zzzz...
+*: 
+	Ah-phew...
+*: 
+	Ah-phew...
+	Bianca... Zzzz...
+*: 
+	There's apparently some kind of religious order out there at the moment collectin' money to build a White King's Paradise or suchlike.
+*: 
+	They say they'll keep you safe even if the end of the world comes and all that.
+*: 
+	I dunno, though. I've bin around a bit meself so I'm not so naive as some. The whole thing sounds a bit fishy to me.
+*: 
+	There's a chap called Whitey livin' at the far end of the village. That daughter of his is a real beauty.
+*: 
+	What I'd give to be able to marry that one! My right arm at the very least!
+*: 
+	He's gone an' fallen asleep over his drink again.
+*: 
+	He says it's all for Bianca's sake, but I still say 'e works too 'ard.
+*: 
+	All work an' no play en't no good to no one, that's what I say. A bit of work, then a bit of a drink...everythin' in moderation. Hic!
+*: 
+	Dear, oh dear. The fella from the weapon shop's on his tenth already. His wife'll have his guts for garters when he gets home.
+*: 
+	Purrr...purrr...purrr...
+Whitey
+	(cough cough)
+	Hm? Is someone there?
+Whitey
+	Hello there.
+Whitey
+	Hm? Who are you?
+	Haven't we met somewhere before?
+Whitey
+	No! I dun't believe it!
+	You're Pankraz's boy!
+Whitey
+	Good grief! What a turn-up for the books!
+	You're alive after all these years, %a000090!
+Whitey
+	You haven't half grown as well. You were just a little boy the last time I saw you. I remember you and my Bianca playin' about together.
+Whitey
+	So how's old Pankraz doin' then?
+	Keepin' well, is he?
+%0%a000090
+	............
+Whitey
+	Oh no...
+	What a terrible thing...
+Whitey
+	It must've bin helluva tough for you then, %a000090, all on your lonesome.
+Whitey
+	Things have bin hard on us too since I lost my lovely wife.
+Whitey
+	She was always so much stronger than me.
+	I never expected her to go first.
+Whitey
+	Come to think of it, did you not see Bianca on your way over here?
+Whitey
+	You probably would've passed her tendin' to her mother's grave.
+*: 
+	I'm back!
+Whitey
+	Bianca! Look who's here!
+	It's %a000090!
+Whitey
+	Your old friend %a000090's still alive after all these years!
+Bianca
+	I knew it! %0%a000090!
+	I knew you'd still be alive!
+Bianca
+	And there's %a001210 with you too!
+	Haven't you grown, %a001210!?
+Bianca
+	I heard all about Whealbrook bein' torched and you goin' missin', %a000090.
+Bianca
+	But I always had faith you'd survived it
+	all somehow.
+Bianca
+	You promised we'd have another adventure together one day, after all. I knew you wouldn't go back on that.
+Bianca
+	It's hard to believe it's bin ten years, though.
+Bianca
+	You and I have got a lot to talk about, eh?
+	I hope you're not in any hurry to get away.
+Bianca
+	Eh? You haven't got much time to hang around?
+Bianca
+	Crikey! You have to find some ring called the Circle of Water so you can get married!?
+	Now there's a turn-up!
+~ %3Bianca and %a000090 talk late into the night about all that has happened in the ten years since they last met.%4 ~
+~ %3And then, day breaks...%4 ~
+Bianca
+	Morning, %a000090!
+	Sleep well?
+Bianca
+	I'm just in the middle of gettin' breakfast ready, so you might want to get yourself up before long, eh?
+Bianca
+	Where you off to in such a hurry, %a000090?
+	Breakfast'll be ready in a mo.
+Bianca
+	Feelin' a bit peckish, are you? Ha ha!
+	Just give us a minute, eh, %a000090?
+Whitey
+	Can I have a word, %a000090? Don't go breathin' any of this to Bianca, but...
+Whitey
+	Well, you see, she's not actually my
+	real daughter.
+Whitey
+	And that just makes me all the more protective of her than ever. All I want is for her to be happy.
+Whitey
+	Look at the state of me! I'm weak and frail,
+	and I don't know how much longer I might
+	have in this world.
+Whitey
+	That's why I want to ask you to take care of Bianca for me, %a000090. I could rest in peace knowin' you two were together.
+Bianca
+	Breakfast's up, %a000090!
+	Come and get it!
+Bianca
+	There's somethin' I've bin meanin' to ask you. You can keep eatin' while we chat, though.
+Bianca
+	It's just, I've bin thinkin' about what you
+	said yesterday.
+Bianca
+	And I've decided I want to help you find that Circle of Water!
+Bianca
+	I want you to be happy, see, %a000090. You can't say fairer than that. So, what do you say?
+Bianca
+	Ha ha! It'll be great fun to go on another little adventure together. Just like old times!
+Bianca
+	Make sure you come and get me when you're ready to leave, eh?
+Bianca
+	Oh, go on! You en't gettin' through the lock without me there to open it for you after all,
+	so you have to say yes!
+Whitey
+	Can I have a word, %a000090? Don't go breathin' any of this to Bianca, but...
+Whitey
+	Well, you see, she's not actually my
+	real daughter.
+Whitey
+	And that just makes me all the more protective of her than ever. All I want is for her to be happy.
+Whitey
+	Look at the state of me! I'm weak and frail,
+	and I don't know how much longer I might
+	have in this world.
+Whitey
+	That's why I want to ask you to take care of Bianca for me, %a000090. I could rest in peace knowin' you two were together.
+Bianca
+	Ready to go already, %a000090?
+Bianca
+	I'll have that lock open for you in no time.
+	Come on!
+~ Bianca joins %a000090! ~
+~ %0%a000180 returns to the wagon. ~
+~ But the wagon's already full! ~
+~ Pick someone to send to Monty's monstergarten. ~
+Bianca
+	Oh, go on! You en't gettin' through the lock without me there to open it for you after all,
+	so you have to say yes!
+Bianca
+	Ha ha! It'll be great fun to go on another little adventure together. Just like old times!
+Whitey
+	You'll know how it feels havin' lost your father, %a000090, but my Bianca must be lonely from time to time.
+Whitey
+	I haven't seen her look so happy in ages as she looked when she laid eyes on you again.
+Whitey
+	You take good care of her, won't you?
+Bianca
+	Dad! Shush! You're embarrassin' me!
+*: 
+	Welcome to Stockenbarrel!
+*: 
+	Well, hello there, young Bianca.
+	Lovely weather again today, eh?
+*: 
+	If you go upriver from the lock, you apparently end up at a really big lake.
+*: 
+	Hello there. I bet you've come to relax in the water, eh?
+*: 
+	Just mind you dun't go soakin' too much.
+*: 
+	Wouldn't want to pass out, eh?
+*: 
+	Ooh! It's the lovely Bianca!
+	Come for a bath, have you, darlin'?
+*: 
+	Please, leave me alone. I'm trying to relax.
+*: 
+	Your skin's just so lovely!
+	I wish mine was as soft as that.
+*: 
+	I'll bet you're another one of those uptight fellas here to soak away your cares, en't you?
+*: 
+	Well enjoy it then, the water's lovely and warm!
+*: 
+	Oh well. Maybe next time, eh.
+*: 
+	Wow! You're really pretty!
+	Is that because of the bath water?
+	Nah, in my dreams, right!?
+*: 
+	That daughter of Whitey's, Bianca, is a real hard worker.
+*: 
+	He's a bit weak now because of some illness or other, so she goes off all over the place takin' care of things for the both of 'em.
+*: 
+	She really has got her head screwed on,
+	that one.
+*: 
+	Alright there, Bianca.
+	How's your dad doin'?
+*: 
+	Don't you go wearin' yourself out lookin' after him, eh? Your happiness is important too, you know.
+*: 
+	You as well, eh? I don't blame you.
+	The baths here turn up some real beauties.
+*: 
+	I'm talking about bath crystals, of course!
+	The famous Stockenbarrel scintillating sinter!
+*: 
+	I'm afraid no good things in life come for free, though. What I'd really like is a desert rose.
+*: 
+	You sometimes come across them in the desert. If you could find me one, I'd be more than happy to give you some sinter in exchange.
+*: 
+	Wait a minute! Don't go telling any of the villagers about this, okay? This is just between you and me.
+*: 
+	You as well, eh? I don't blame you.
+	The baths here turn up some real beauties.
+*: 
+	I'm talking about bath crystals, of course!
+	The famous Stockenbarrel scintillating sinter!
+*: 
+	Uh oh! You live here, don't you, love?
+*: 
+	N-Never mind all that I was saying.
+	It was nothing. Ha ha!
+*: 
+	Oi! What d'you think you're doin', wanderin' about people's homes like you own the place!?
+*: 
+	Oh, right. An old friend of Bianca's, you say?
+*: 
+	Dun't you go puttin' her into any danger, d'you hear? Else you'll have me to answer to.
+*: 
+	Dun't you go goin' off too far and makin' that poor old dad of yours worried, will ya, Bianca?
+Bianca
+	I know, I know! There's no need for all the anxiety! Keep up the good work there, eh?
+*: 
+	If you go upriver from the lock, you apparently end up at a really big lake.
+*: 
+	There's a chap called Whitey livin' at the far end of the village. That daughter of his is a real beauty.
+*: 
+	What I'd give to be able to marry that one! My right arm at the very least!
+*: 
+	Oops! B-Bianca!
+	Heh heh heh!
+*: 
+	He's gone an' fallen asleep over his drink again.
+*: 
+	He says it's all for Bianca's sake, but I still say 'e works too 'ard.
+*: 
+	All work an' no play en't no good to no one, that's what I say. A bit of work, then a bit of a drink...everythin' in moderation. Hic!
+*: 
+	He's gone an' fallen asleep over his drink again.
+*: 
+	The carpentry business has bin boomin' since Whitey and Bianca moved here.
+*: 
+	It used to take a good two years to build a house, but Bianca's place was up in no time at all.
+~ The lock is shut tight. ~
+~ There's no way of getting by. ~
+Bianca
+	The lock...
+	No problem. Leave it to me.
+~ Bianca reaches out towards the lock from the ship. ~
+Bianca
+	All we need to do is put this like this...
+Bianca
+	And it's open like a charm!
+	Come on then, on we go!
+Bianca
+	The lock...
+	If only %a000090 was okay, I'd open it up so he could sail on through.

@@ -1,0 +1,203 @@
+Bianca
+	So your mum's alive, and you need to find the Zenithian Equipment to rescue her...
+Bianca
+	What a task! I'll do whatever I can to help you be reunited with her soon, though.
+Bianca
+	You must be so happy to find out your mum's still alive, after all. Mums are so warm and gentle...
+Bianca
+	Sorry. I was gettin' carried away with my memories for a minute there.
+Bianca
+	I, er... I actually went to Whealbrook on my own once, just after the place was attacked.
+Bianca
+	I saw your place burnt to the ground, but I knew you must still be alive somewhere because there
+	was no sign of you there.
+Bianca
+	I dun't know much about the lay of the land beyond this point.
+Bianca
+	There's prob'ly lots of strong monsters about,
+	so we should watch our backs.
+Bianca
+	Sorry if I was a bit quiet for a while back there.
+Bianca
+	I was feelin' a bit overwhelmed at the idea of you goin' off and gettin' married.
+Bianca
+	But, at the end of the day, I just want you to be happy. I mean, you're like a...brother to me, after all.
+Bianca
+	You've done a good job tamin' those monsters who are taggin' along with you, eh?
+Bianca
+	You've always had a bit of a strange air about you. Maybe there's somethin' in that that makes 'em look up to you.
+Bianca
+	Huntin' out that Circle of Water sounds a lot more simple than our ghost-bustin' adventure all them years ago, eh?
+Bianca
+	To tell the truth, I was so scared that time that I thought I'd burst into tears any minute. I'm petrified of ghosts and the dark.
+Bianca
+	You're a lot stronger now than the last time we met. I en't a patch on you no more.
+Bianca
+	You've really filled out in the muscles department, that's for sure. You look quite a lot like Pankraz nowadays.
+Bianca
+	It's a shame you ended up gettin' separated from %a001210. I wonder how he's gettin' on.
+Bianca
+	Looks like we're done with our adventures to
+	find the Circle of Water, eh? That seemed to go
+	by in a flash.
+Bianca
+	I s'pose we'd better get that ring to its intended, eh?
+Bianca
+	If Nera decides she dun't want you, then I'll put my hand up and claim you instead.
+Bianca
+	Ha ha ha! I was only jokin'!
+	You should see your face!
+Bianca
+	Them monsters you got trailin' about after you
+	are pretty strong, eh? You probably didn't really need me.
+Bianca
+	I suppose we won't be able to travel together like this once you're married. I doubt your wife'd be too happy if we did.
+Bianca
+	That's why I insisted on comin' with you, see.
+	Sorry if I was a bit pushy.
+Bianca
+	Walkin' about together of a night like this reminds me of our ghost-bustin' adventure.
+Bianca
+	You were so little back then, but you tried so hard to protect me. It was really cute!
+Bianca
+	Um, it's gettin' late and it's dark already.
+	Shall we stay the night somewhere?
+Bianca
+	Great! But you're almost a married man, so I s'pose we'd better take two separate rooms, eh? Ha ha!
+Bianca
+	Fair enough. I suppose you en't got time to rest, eh?
+Bianca
+	Dun't you think we should go and deliver that ring now, %a000090?
+Bianca
+	Nah, I s'pose they'll all be tucked up in their beds asleep at this time of night, eh?
+Nera
+	It shouldn't even take a day to go and check the colour of that jar just to the north-west of here.
+Nera
+	I find it hard to believe that Papa would allow me to go travelling just for completing such a simple task.
+Nera
+	All we need to do now is tell Papa the colour of the jar, and then I can go travelling with you. I'm starting to feel all nervous!
+Nera
+	That shrine was very strange, don't you think?
+Nera
+	We must both keep the existence of that jar
+	to ourselves.
+Bianca
+	This en't the first time we've bin travellin' together, but it feels different somehow, eh?
+Bianca
+	The idea of bein' with my ⓗbeloved husbandⓘ is goin' to take a bit of gettin' used to, I reckon!
+Bianca
+	Where are we goin', then? Part of me wants to go back and see the shape of things in Whealbrook and Roundbeck.
+Bianca
+	Or we could go and drop in on Harry and Maria. Then again, a bit of a flutter on the old Ventuno casino ship could be a laugh...
+Bianca
+	Briscoletti was on about us takin' a honeymoon,
+	but you probably want to find your mum a bit sharpish, eh?
+Bianca
+	You dun't need to worry about me, okay? So just go wherever it is you want.
+Nera
+	Being able to travel around freely like this is like a dream come true.
+Nera
+	Every time I've been anywhere in the past, it's always been so planned out. But this time I don't even know the destination!
+Nera
+	Hm? Where would I like to go?
+	I think I'd like to visit your hometown.
+Nera
+	No doubt you'd much prefer to visit the Ventuno casino ship, though? He he he!
+Nera
+	Looking at beautiful scenery like this makes it seem impossible that those rumours about the world ending could be true.
+Bianca
+	Where are we off to next, then?
+	You decide, %a000090.
+Bianca
+	It's bin a while since I felt like this. Life in Stockenbarrel was always pretty predictable,
+	you know.
+Bianca
+	......
+Bianca
+	Sorry, it's just I don't feel like chattin' sometimes.
+	It dun't mean anythin's wrong, though.
+Nera
+	This has always been my dream. To be able to travel the world freely with someone dear to me.
+Nera
+	I suppose we can't afford to just let the moment take us, fun though it is.
+Nera
+	No, we need to focus on finding the legendary hero and rescuing your mother.
+Nera
+	Do stop and chat with me every now and then, won't you? I'd like it if we could get to know each other a bit better.
+Bianca
+	I want to go to Gotha.
+	We can go, right, %a000090?
+Bianca
+	I feel like I might find somethin' new out about you if we go there, see.
+Bianca
+	I'm startin' to get used to this man and wife lark. I hope we can keep on travellin' together like this for
+	a long while.
+Bianca
+	You know, I really like chattin' with you, %a000090.
+Bianca
+	I had no idea how talkative I could be until you and I got together!
+Nera
+	Something about the name Gotha really gets my interest piqued for some reason.
+Nera
+	I'd very much like to visit there if you'd like to
+	go too.
+Nera
+	Um, darling...
+	It's okay. Never mind.
+Nera
+	We've been travelling together for a while now,
+	and yet I still sometimes feel all nervous and shy with you.
+Debora
+	So we have to go to the shrine to the north-west of Mostroferrato and... What was it we had to check?
+Debora
+	Ha ha! I know, I know. The colour of the jar, of course. I was just testing you.
+Debora
+	So all we need to do is see what colour the jar is.
+	I can't believe Papa thinks I might not even manage a simple task like that.
+Debora
+	It's true that I often had servants do things for me. That was only because I didn't want to do them myself, though, not because I couldn't.
+Debora
+	We made quick work of that.
+	I don't like to mess around, you see.
+Debora
+	I wonder why Papa's so interested in that jar.
+	I still have no idea.
+Debora
+	Now all we have to do is report back to Papa, and then we can go off travelling together.
+Debora
+	This is going to be so much fun! I've never travelled with just one servant before!
+Debora
+	As it's a bit like a honeymoon, %a000090, I've decided I'm going to let you choose where we go first.
+Debora
+	See! I can be kind and generous when the mood
+	takes me.
+Debora
+	Hm? Where would I like to go?
+Debora
+	Very good, %a000090. It always pays to ask what I want first.
+Debora
+	It's good to travel on foot sometimes.
+	Exercise keeps me looking beautiful for one thing.
+Debora
+	This has always been my dream. To be able to
+	travel the world freely without Papa breathing down my neck.
+Debora
+	To have my own personal slave along with me is just the icing on the cake.
+Debora
+	............
+Debora
+	Sometimes I just don't have anything to say, that's all. It doesn't necessarily mean I'm in a mood.
+Debora
+	I just don't feel like talking to you. Of course, sometimes that's because I am in a mood, so you'd better just stay on your toes.
+Debora
+	Feel free to chat to me whenever you want.
+	I'll chat back if I feel like it.
+Debora
+	Gotha? If you'd like to go, I suppose I'll allow you to escort me.
+Debora
+	It's not often I agree to things so readily, so you'd better make the most of it.
+Debora
+	You're quite an interesting sort. Definitely better than any of the other servants I've had.
+Debora
+	It's funny, because you're not much to look at, and yet I don't get tired of seeing you around. 
+	...That was a compliment. Look pleased!

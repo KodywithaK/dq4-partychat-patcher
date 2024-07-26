@@ -1,0 +1,132 @@
+Bianca
+	I was a bit too casual about this desert lark.
+	If it weren't for this oasis, I'd have prob'ly shrivelled up and died!
+Bianca
+	There's even some greenery here! It really is an oasis in the middle of a desert. Wouldn't want to
+	live here, mind.
+Bianca
+	I reckon I could drink enough water to fill a small lake at the moment! Mustn't drink this place dry, mind.
+Nera
+	I'm okay, r-really. Don't worry about me. I'm fine now we're here at the oasis.
+Nera
+	We should make sure we have some water while we're here so that we can rehydrate a little.
+Nera
+	Do you think people set up home here so that they could help weary travellers like us?
+Nera
+	Whether that's the reason or not, I don't think I could be more grateful to find them here!
+Bianca
+	It must be awful bein' a dog in the heat like this.
+	It's not like it can take its coat off.
+Nera
+	That poor dog! It must be absolutely boiling.
+Bianca
+	It's nice and cool inside the tent. If you can just get out of the sun, it makes a big difference.
+Nera
+	It only looks like a small tent from the outside, but it's surprisingly well-equipped. You could probably live here quite comfortably.
+Bianca
+	Looks like not many people pass by here.
+	Not surprisin', really.
+Bianca
+	I always thought people who live out in the sticks like this would be a bit unfriendly, but he was lovely.
+Nera
+	Helmunaptra to the west and King Dominicus's Dominion to the south-east. That's right, isn't it?
+	I'm terrible at remembering directions.
+Nera
+	You can decide where to go. I'll go along with whatever you choose.
+Bianca
+	He was a bit aggressive at first! I wonder what them desert roses he was talkin' about are.
+Nera
+	I think a desert rose is a special kind of mineral you get around these parts.
+Bianca
+	A museum. That sounds like it could be
+	a bit of a laugh!
+Nera
+	I wonder how long ago that man was here. I'd quite like to visit the museum if it's been built by now.
+Bianca
+	Hah! We've got a desert rose of our own,
+	thanks very much!
+Nera
+	He must have an awful lot of desert roses for him to call it a collection.
+Bianca
+	Brrr. It's quite chilly in the desert of a night, eh?
+Bianca
+	I reckon I might've caught a cold.
+	I'm feelin' a bit feverish.
+Nera
+	Boiling hot in the day and freezing cold at night.
+	The desert is certainly a place of extremes.
+Nera
+	Take care not to catch a cold or anything,
+	won't you?
+Bianca
+	It's not quite as cold inside the tent. Looks like the dog has that figured out too!
+Nera
+	I think that dog's trying to protect the old man,
+	you know. Isn't that sweet?
+Bianca
+	Looks like not many people pass by here.
+	Not surprisin', really.
+Bianca
+	I always thought people who live out in the sticks like this would be a bit unfriendly, but he was lovely.
+Nera
+	Helmunaptra to the west and King Dominicus's Dominion to the south-east. That's right, isn't it?
+	I'm terrible at remembering directions.
+Nera
+	You can decide where to go. I'll go along with whatever you choose.
+Nera
+	Oops! We woke that old man up. We should try to be quiet so that he can get some sleep.
+Debora
+	You know what you have to do now we're at the oasis, right?
+Debora
+	Precisely. Bring me some water. Not just to drink, either. I'm going to have a wash too, so make sure you bring plenty.
+Debora
+	Do I have to spell everything out for you? You have to bring me some water. I want a drink, of course!
+Debora
+	And you'd better bring plenty while you're at it, because I'm going to have a wash as well.
+Debora
+	It's a bit shabby, but at least it should give us a bit of respite from the heat.
+Debora
+	What are you waiting for, %a000090?
+	I'm going in.
+Debora
+	I wish I'd brought my swimming costume now. It would be lovely to have a splash about and cool off.
+Debora
+	It must be unbearably hot with all that fur.
+	It's bad enough for us.
+Debora
+	It's cooler in here than I thought it would be.
+	Aah, just what I needed. Bring me a glass of water, will you, %a000090?
+Debora
+	It doesn't sound like many people make it all the way out here.
+Debora
+	Helmunaptra to the west... King Dominicus's Dominion to the south-east, right? You'd better write it down so I don't have to bother remembering it.
+Debora
+	A museum? For some reason, I always seem to get very drowsy whenever I visit museums.
+Debora
+	His way of greeting people certainly leaves a lot to be desired. What a yob!
+Debora
+	I bet he was actually desperate to show off his collection. Well, I don't want to see it, so there!
+Debora
+	His way of greeting people certainly leaves a lot to be desired. What a yob!
+Debora
+	I bet he was actually desperate to show off his collection. Well, I'm not interested, so there!
+Debora
+	It's getting cold now. There's no happy medium in the desert, is there? You're either too hot or too cold.
+Debora
+	So you'd better take care, %a000090. Make sure you don't let me catch a cold or anything.
+Debora
+	I wonder how Bingo's getting on. He always liked to have company. A bit like me, really. Maybe he's lonely...
+Debora
+	Sorry? Ha! No, I'm fine. I'm not lonely any more.
+	How could I be, with you always hanging around?
+Debora
+	This dog's trying to protect the old man, isn't he? That's what I like about dogs: they always obey their masters.
+Debora
+	What are we standing around for? Let's go!
+	We can't hang around here forever. That poor
+	man will never get any sleep otherwise.
+Debora
+	Helmunaptra to the west and King Dominicus's Dominion to the south-east?
+	I'll just pick one and go there.
+Debora
+	All you have to do is follow.

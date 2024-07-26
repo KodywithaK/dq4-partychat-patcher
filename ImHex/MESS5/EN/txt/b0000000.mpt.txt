@@ -1,0 +1,955 @@
+Chancellor
+	I understand your anxiety, Your Majesty, truly I do.
+Chancellor
+	But might I suggest that you take a seat and try to relax?
+Pankraz
+	Hmph. I suppose so.
+Sancho
+	Señor! King Pankraz!
+	Ees a bebé!
+	A beautiful leettle bebé!
+Pankraz
+	Oh my! Bless the Goddess!
+*: 
+	Congratulations, King Pankraz.
+*: 
+	You have a beautiful baby boy, Your Majesty!
+Pankraz
+	Excellent.
+Mada
+	Darling...
+Pankraz
+	You did wonderfully, my dear.
+	Just listen to him crying away, strong as an ox!
+Pankraz
+	A child with this much character deserves to be named right away.
+Pankraz
+	Now, let's see...
+Pankraz
+	I know! Why don't we call him %a001200?
+Mada
+	What a lovely name!
+	It makes him sound so heroic and wise.
+Mada
+	I had another idea of my own, though.
+Mada
+	I was thinking it might be nice to call him %a000090.
+Pankraz
+	%0%a000090... I'm not sure.
+Pankraz
+	It sounds a little feminine for a boy's name.
+Pankraz
+	But if that's the name you want, then that's the name he'll have!
+Pankraz
+	Dear son of ours, bestowed upon us by the grace of the benevolent Goddess!
+Pankraz
+	From this day forth, you shall be known as %a000090!
+Mada
+	Oh, Pankraz!
+	You really areⓚⓛ
+Mada
+	Gugh!
+	(cough cough)
+Pankraz
+	Goodness! What is it?
+	Are you alright, my dear?
+Pankraz
+	Ah, %a000090, you're awake!
+Pankraz
+	Hm? A dream, you say? Of being in some kind of castle when you were a baby?
+Pankraz
+	Ha ha ha! Don't talk such nonsense, sleepy head!
+Pankraz
+	Why don't you have a little stroll about outside and blow the cobwebs away, eh?
+Pankraz
+	I'll be in here.
+	You go off and enjoy yourself.
+*: 
+	What is it, laddie? If it's the Captain you're after, he's in the cabin there.
+*: 
+	What are you doing here?
+	Not heading for the deluxe suite, I hope.
+*: 
+	I doubt Mr Briscoletti would be best pleased if you went rummaging through his belongings while
+	he was away.
+*: 
+	We'll be docking at Littlehaven before long. Not that there's much there to get excited about, mind you.
+*: 
+	The Captain's cabin is in there. You mustn't just go wandering in and out as you please, do you hear?
+*: 
+	If you want to go to the galley or the sailors' quarters, take the stairs just there and then go down the steps at the rear of the ship.
+*: 
+	I'm Cap'n Blithe, an' I'm the master of this ship, so I am!
+Cap'n Blithe
+	Your father was a big help to me many a time in the past, you know.
+Cap'n Blithe
+	The ship actually belongs to a chap called Rodrigo Briscoletti. It doesn't often carry regular passengers.
+Cap'n Blithe
+	This is a special voyage laid on just for your father.
+Cap'n Blithe
+	You make sure you do what he says, won't you, boy? You'll grow up to be a great man if you do.
+Cap'n Blithe
+	Your father was a big help to me many a time in the past, you know.
+Cap'n Blithe
+	You make sure you do what he says, won't you, boy? You'll grow up to be a great man if you do.
+*: 
+	I hear that you and your father are travelling around together, just the two of you. That's nice.
+*: 
+	Graaargh!
+*: 
+	Hey! You didn't scream or nuffin'!
+	Bit of an 'ard nut, are ya?
+*: 
+	Hello there, laddie!
+	Feeling a bit peckish, are we?
+*: 
+	The food here's not bad, even if I do say so myself. I wonder who's the better cook, me or
+	your pa?
+*: 
+	So your father's travelling the world looking for something, eh?
+*: 
+	Well, I don't know what it is he's after, but I hope he manages to find it soon.
+*: 
+	When I think of Pankraz raising a small boy like you without your mother around...
+*: 
+	He's more of a man than I am, that's for sure.
+*: 
+	We've made port, boys!
+*: 
+	Cast anchor!
+	Lower the sails!
+Cap'n Blithe
+	It looks like we've arrived.
+Cap'n Blithe
+	You couldn't go down below and give your father a shout, could you, boy?
+*: 
+	Take care, laddie!
+*: 
+	Just remember this, eh? Boys should never be screamin' or cryin', no matter wot.
+*: 
+	You look after that father of yours, laddie.
+*: 
+	If only I could own a big ship like
+	the Black Jack here.
+*: 
+	I don't know why I'm telling you that, though.
+	Like you could be of any help! Just ignore me.
+*: 
+	We're off to another port after this one, so this is where we'll bid you farewell.
+*: 
+	We seem to have arrived.
+	And on time, thankfully.
+*: 
+	Hm? Who's that standing at the port? Oh yes!
+	I suppose this is the first time you and Pankraz
+	will have met him.
+*: 
+	That's the owner of the ship, Rodrigo Briscoletti. He's due to come aboard here and sail home.
+*: 
+	I hear that you and your father are travelling around together, just the two of you. That's nice.
+*: 
+	The Captain says the owner of this ship has had to do his fair share of travelling himself to go and meet his daughter.
+*: 
+	You're off, are you, laddie? Don't miss us too much now, will you? Keep a smile on your face, eh!
+Pankraz
+	So we've docked at last!
+Pankraz
+	It must be two years now since we were last home at the village.
+Pankraz
+	You were so small when we left, %a000090, that I doubt you remember it very well at all.
+Pankraz
+	Right then. Ready for the off?
+Pankraz
+	Make sure you haven't left anything behind,
+	won't you, son?
+Cap'n Blithe
+	It looks like it's time for us to bid each other
+	farewell then, boy. Spare me a thought every
+	once in a while, eh?
+Pankraz
+	We'll be disembarking in a minute, %a000090.
+Pankraz
+	Who's that there waiting to get on the ship, Captain?
+Cap'n Blithe
+	Ah! Mr Briscoletti!
+	I hope you haven't been waiting too long.
+Mr Briscoletti
+	Ah, travellers, I see.
+	I must apologise for my daughter's behaviour.
+Mr Briscoletti
+	And here's the maestro of the vessel!
+Cap'n Blithe
+	Good to see you again, Mr Briscoletti.
+	Judging by the look on your face,
+	I'd say you've had an enjoyable trip!
+Mr Briscoletti
+	A smile shows a man is eating well!
+	Now, allow me to introduce my daughters...
+Mr Briscoletti
+	Nera, come here to papa.
+Mr Briscoletti
+	Oh, my poor bambina!
+	Is the step too high for you?
+Pankraz
+	Allow me to give you a hand, my dear.
+Nera
+	Thank you, sir.
+Mr Briscoletti
+	A traveller with manners. Good, good!
+Mr Briscoletti
+	Now, Nera. We've travelled further than a long piece of linguine. You must be exhausted.
+Mr Briscoletti
+	Be a good man and take Nera to my suite so she can get some rest, hm?
+*: 
+	Right away, sir!
+Mr Briscoletti
+	My apologies for holding you up, sir.
+	Please, terra firma awaits you!
+*: 
+	Dear me!
+	I totally forgot to get everything clean and tidy!
+Nera
+	Who are you?
+	Oh! You're travelling around with your father?
+Nera
+	That's funny. I'm here with my father too.
+	And my sister.
+Nera
+	I'm a little bit scared of the sea.
+	It's just so big.
+Mr Briscoletti
+	I'm sorry for delaying you, young man.
+	Take care on your travels, now.
+Cap'n Blithe
+	Ha ha ha! I don't think I've ever seen Mr Briscoletti look so happy!
+Cap'n Blithe
+	Anyway, it looks like it's time for us to bid each other farewell now, boy. Spare me a thought every once in a while, eh?
+*: 
+	Mr Briscoletti may be rich, but it doesn't mean he's forgotten the important things in life.
+	He's a good man, you know.
+*: 
+	His daughters will probably grow up to be the happiest girls in all the world.
+Pankraz
+	Are you sure you've got everything, %a000090?
+	You've checked inside the drawers as well?
+Pankraz
+	Then it looks like our voyage is at an end.
+	Are you ready to disembark?
+Pankraz
+	Well, Captain! Thanks again for everything.
+	Have a safe onward journey!
+*: 
+	Hey! It's Pankraz, isn't it?
+*: 
+	I thought so!
+	So you made it back safely, did you?
+Pankraz
+	Ha ha ha! I may starve and I may go thirsty,
+	but nothing can finish off old Pankraz!
+Pankraz
+	Now then, %a000090. I have some business to
+	do with this gentleman, so why don't you run along and play?
+Pankraz
+	Oh, and while I think of it, I want you to have this.
+~ Pankraz hands the adventurer's map to %a000090. ~
+~ %0%a000090 receives the adventurer's map. ~
+Pankraz
+	That's a very important map.
+	An old friend of mine made it for me long ago.
+Pankraz
+	Make sure you take good care of it and don't lose it.
+Pankraz
+	And don't go off playing too far away.
+Pankraz
+	Feeling a bit sad to leave, are you?
+	Why don't you go and say your goodbyes to everyone? I'll wait for you here.
+Pankraz
+	Off you go. I'll be right here.
+*: 
+	Goodness me!
+	You're Pankraz's little lad, aren't you?
+*: 
+	You've grown an awful lot since the day you left.
+Pankraz
+	Now then, %a000090. I have some business to
+	do with this gentleman, so why don't you run along and play?
+Pankraz
+	And don't go off playing too far away.
+Pankraz
+	Took your time, didn't you?
+	Are you about ready to leave now then?
+*: 
+	It must be two years now since that chap Pankraz set off from here on his travels.
+*: 
+	He said he was going off in search of something important. Took his little boy with him too.
+	I wonder what became of them.
+*: 
+	No! You're the little boy?
+	And Pankraz just arrived back on that ship?
+*: 
+	You shouldn't go about spreading silly rumours, you know, boy!
+~ Pankraz comes to the rescue! ~
+~ Pankraz joins the battle! ~
+Pankraz
+	Are you alright, %a000090?
+~ Pankraz casts Heal. ~
+Pankraz
+	It's too dangerous for you to wander off too far on your own. You must be more careful in future.
+Pankraz
+	Now then, shall we get going?
+Pankraz
+	Are you alright, %a000090?
+~ Pankraz casts Heal. ~
+Pankraz
+	It's too dangerous for you to wander off too far on your own. You must be more careful in future.
+Pankraz
+	Now then, shall we get going?
+*: 
+	You're in my way, old man!
+Mr Briscoletti
+	Or should I say daughter? One of them has rudely gone on ahead.
+*: 
+	Look, this isn't an open house, you know. You can't just wander around like you own the place. That's my job.
+*: 
+	This is my room, got it?
+	So you'd better leave, don't you think?
+~ %0%a000090's wounds are healed! ~
+~ %0%a000090's wounds are healed! ~
+*: 
+	Goodness me! If it isn't old Pankraz!
+	Wherever have you been these past two years?
+*: 
+	Never mind that. It's good to see you back,
+	and that's all that matters.
+*: 
+	I mustn't just stand here chattin' away,
+	though. I need to tell everyone the good
+	news that you're back!
+*: 
+	Attention everyone!
+	Pankraz has returned!
+*: 
+	There you are, Pankraz!
+	So you're still alive!
+*: 
+	My, oh my! That can't be that little lad of yours, surely? Hasn't he grown!
+*: 
+	Anyway, why don't you pop in for a drink at my pub one night, eh, Pankraz?
+*: 
+	I'm sure the regulars would love to hear a few tales about your adventures.
+*: 
+	You're back, Pankraz!
+	Good to see ya, mate!
+*: 
+	I know we didn't always see eye to eye,
+	but I've bin missin' seein' you around.
+*: 
+	Come by when things 'ave calmed down a bit and we'll settle old scores, eh?
+*: 
+	So it's true! You really are back, Pankraz! Welcome home!
+*: 
+	The village was full of gossip about you while you were away, I can tell you!
+*: 
+	Ah, Mr Pankraz, sir.
+	How wonderful it is to see you lookin' so well.
+*: 
+	Praise the Goddess for deliverin' you home to us safe and sound! Glory be to the Goddess!
+*: 
+	I beg your pardon.
+	I seem to have got rather carried away.
+*: 
+	But you're home! You're home! Pankraz is home!
+	I'm so happy! H-A-P-P-Y! Happy!
+Sancho
+	Señor! You have returned!
+	Ees eso good to esee you!
+Sancho
+	I have been waiting for you weeth
+	bated breath.
+Sancho
+	Come! Come eenside, señor.
+*: 
+	Welcome home, Mr Pankraz!
+Pankraz
+	???
+Pankraz
+	And who might this girl be?
+*: 
+	That's my daughter!
+Pankraz
+	Oh yes! I know you! You're old Whitey's wife from the village nearby, aren't you?
+Sancho
+	Sí, Mrs Whitaker, eshe came here from Roundbeck to get the medicine for señor Whitaker, her husband.
+*: 
+	Grown up talk is borin'.
+	Shall we go upstairs and play?
+*: 
+	Come on!
+*: 
+	I'm Bianca. Do you remember me?
+Bianca
+	I wonder...
+Bianca
+	I'm eight, which means I'm two years older than
+	you are.
+Bianca
+	I know! Why don't I read you a story?
+	Hang on a minute...
+Bianca
+	Okay, here we are!
+Bianca
+	Erm... One......hm......up......oh! Upon! No...
+Bianca
+	Oh, this is too hard! How am I supposed to read something this difficult?
+Mrs Whitaker
+	Bianca! It's time we returned to the inn, dear!
+Bianca
+	Comin', Mum!
+Bianca
+	I don't blame you.
+	You were only tiny back then, after all.
+Sancho
+	You are estarting to look just like your madre, %a000090.
+Sancho
+	Mada, eshe was esuch a kind and beautiful señora. I, I... (sniff)
+Sancho
+	I expect you are tired after esuch a long day, eh?
+Sancho
+	Then ees time you went to bed.
+	Buenas noches, friend.
+Sancho
+	Okay, friend. But when you feeling esleepy,
+	you come and tell your Uncle Sancho, sí?
+Pankraz
+	Well, then. I'm going out for a little while.
+	You stay here and make sure you behave, alright?
+*: 
+	Brrrrr. I'm f-f-f-f-freezing! It's supposed to be s-s-summer before long. I don't g-g-get why it's
+	so c-c-cold.
+*: 
+	Alright, kid? You know, just hangin' on to weapons and armour isn't enough.
+*: 
+	No, you have to equip them properly before you can use them, you see.
+*: 
+	So if you come across anythin' useful-lookin' in a cave or wherever, make sure you don't forget to equip it, eh?
+*: 
+	Meow.
+*: 
+	This is the church. If you go inside and confess, you can have them keep a log of your adventures for you.
+*: 
+	This is Whealbrook. If you head west from here, you come to the town of Roundbeck.
+*: 
+	My poor plants are really sufferin' here with this cold. I'm at my wits' end, I am.
+*: 
+	My poor plants are really sufferin' here with this cold. I'm at my wits' end, I am.
+*: 
+	Hey! Where did you get that stone, boy?
+	Find it at the bottom of the well, did you?
+*: 
+	I went huntin' about in the cave back in my younger days, lookin' for some of them famous Whealbrook bluestones.
+*: 
+	Ah, yes. I remember pokin' about them big
+	rocks hopin' for a sign of some ore.
+	It doesn't half take me back.
+*: 
+	My poor plants are really sufferin' here with this cold. I'm at my wits' end, I am.
+*: 
+	It's extremely dangerous outside of the village. You be a good boy now and go back home where you'll be nice and safe.
+*: 
+	You're a good child, aren't you, boy?
+	Then make sure you don't get in the way of that father of yours.
+*: 
+	This here's the cave entrance, you know, boy. Don't expect me to come in after you if you get yourself lost.
+*: 
+	Ah, you've come to.
+*: 
+	I did what I could for you, but you really should go home and get some rest now.
+*: 
+	I hear your poor mother was taken away by the angels when you were still a little baby.
+*: 
+	But you mustn't let that make you lose heart.
+	You have such a wonderfully strong father there to support you, after all.
+*: 
+	I wonder what it could be that Pankraz is
+	lookin' for. Why would he make such long
+	and dangerous journeys?
+*: 
+	I often wonder what sort of life Pankraz led before he came here to Whealbrook.
+*: 
+	He doesn't seem to want to talk about it much,
+	but I'd wager he was no ordinary man.
+	You mark my words!
+*: 
+	You were just a little baby when you and your father came here to live in Whealbrook.
+*: 
+	I can hardly believe how the time's flown by.
+*: 
+	You're Pankraz's son, aren't you?
+*: 
+	It must be a good five years now since Pankraz turned up here in Whealbrook.
+*: 
+	He's a real grafter, your father.
+	Folk here took to him the moment he arrived.
+Mrs Whitaker
+	That man I sent lookin' for herbs still ain't back yet.
+Mrs Whitaker
+	I wish I could send somebody in after him to see he's alright and everythin'.
+Mrs Whitaker
+	But your father seems so busy at the minute.
+Mrs Whitaker
+	And I doubt there's anyone else who'd be willin' to go traipsin' into the depths of the cave for me.
+Mrs Whitaker
+	There's still no sign of that man I sent lookin' for herbs. I'm startin' to get a bit worried now.
+Mrs Whitaker
+	Dearie me! You went into the cave and saved a chap out from under a big rock?
+Mrs Whitaker
+	Good heavens! That must be my man!
+Mrs Whitaker
+	Well, thanks ever so much, boy! That means I'll probably get my medicine by tomorrow mornin'.
+Bianca
+	We live in the town west of here.
+	It's called Roundbeck.
+Bianca
+	Your dad used to bring you over to my house to play lots when you were little.
+*: 
+	Look what we have here!
+	My youngest customer yet, I'd say!
+*: 
+	This is the pub, laddie. You might be gettin' a little bit ahead of your years, don't you think?
+*: 
+	I can't help but worry, you know. It's my
+	old dad. He went off lookin' for herbs and
+	hasn't come back.
+*: 
+	He probably went searchin' for them in the cave here, Whealbrook Adit. I hope he's alright.
+*: 
+	My old dad finally came back with those herbs he was after.
+*: 
+	He'll be gettin' to work on makin' the medicine now.
+	I should think he'll probably have it done and dusted by mornin'.
+Mr Rockefeller
+	Ah! You're the young laddie from the cave, aren't you, boy? You really helped me out of a tight spot back there.
+Mr Rockefeller
+	In fact, I'd say you deserve a reward!
+	Have a look in that drawer just there.
+Pankraz
+	Ah, you're awake, %a000090.
+Pankraz
+	Mrs Whitaker has got the medicine she came for now, so she and Bianca will be going home today.
+Pankraz
+	I'm a bit worried about them travelling
+	on their own, though.
+Pankraz
+	I was thinking I might see them back to Roundbeck safely. Do you want to come along?
+Pankraz
+	Good, good. Let's be off then, shall we?
+Sancho
+	Adiós, señor Pankraz.
+	No get een no trouble, eh!
+*: 
+	Not leaving us already, are you, Pankraz?
+Pankraz
+	Just a short trip to Roundbeck, my man, that's all!
+*: 
+	I see. Well, have a safe journey!
+Pankraz
+	Oh, don't be like that! I'm taking you along anyway. I'm sure you'll enjoy it in the end!
+~ It looks like it might be some kind of warning sign. ~
+~ But %a000090 hasn't learnt how to read yet! ~
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Yikes! I'm such a fool! I got bored not being able to move and ended up fallin' asleep!
+*: 
+	I was just walkin' along mindin' my own business when this huge rock came tumblin' down on me, y'see.
+*: 
+	I don't suppose I could trouble you to give it a shove, could I, boy? It won't take much to get me free.
+~ %0%a000090 investigates the large rock. It looks quite heavy, but it might just be possible to get it moving. ~
+~ Pushing it from this side won't help matters, though. The man trapped underneath would be squashed even more! ~
+~ %0%a000090 investigates the large rock. It looks quite heavy, but it might just be possible to get it moving. ~
+~ Push the rock? ~
+~ %0%a000090 puts all of his strength into pushing the rock. ~
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Yikes! I'm such a fool! I got bored not being able to move and ended up fallin' asleep!
+*: 
+	I was just walkin' along mindin' my own business when this huge rock came tumblin' down on me, y'see.
+*: 
+	Nice work, boy! I'm lucky you come along.
+	The name's Rockefeller, by the way.
+	Pleased to meet you!
+Mr Rockefeller
+	Now I can get that medicine to Mrs Whitaker like she asked.
+Mr Rockefeller
+	Oops! There's no time for idle chit-chat.
+	I'd better get back and start mixin' these herbs.
+~ %0%a000090 gives up on pushing the rock. ~
+*: 
+	Don't be mean to me. I'm not a bad slime, you know. I promise! (slurp)
+*: 
+	I know! I'll let you in on something gooseful.
+*: 
+	When you're croozing around, you'll find there are a lot less monsters out in the open than there are in forests and up mountains.
+~ %0%a000090 examines the rock closely. ~
+~ There's a strange stone glowing in one of the cracks. ~
+~ %0%a000180 acquires a Whealbrook bluestone! ~
+~ %0%a000090 investigates the large rock. ~
+~ There doesn't seem to be anything of note. ~
+*: 
+	Pankraz! What a delight it be to see your face again!
+Pankraz
+	Er, likewise, my man!
+*: 
+	You're back, Mrs Whitaker! Did you manage to get hold of some medicine?
+*: 
+	Well, that's good news, en't it? Mr Whitaker'll be right as rain in no time.
+Pankraz
+	Where is old Whitey, then? I'd like to pop my head around the door if that's okay.
+*: 
+	I hope Mr Whitaker is back on his feet soon.
+Bianca
+	My dad's ill, y'know.
+Pankraz
+	If you're feeling bored, why don't you go for a bit of a walk?
+Mrs Whitaker
+	Why dun't you go off for a little walk with my Bianca?
+Mrs Whitaker
+	Dun't you go off too far on your own, will you, Bianca?
+Bianca
+	No, Mum!
+Mr Whitaker
+	Uurgh! (cough cough)
+	...I'd keep your distance, laddie. I dun't want you catchin' what I've got.
+Bianca
+	D'you want to go for a walk?
+	I'll go with you if you like.
+*: 
+	Long, long ago, a mighty count and a beautiful countess lived over at Uptaten Towers.
+*: 
+	But they were unable to have children, and the place was left deserted and empty after their deaths.
+*: 
+	And yet, night after night, sounds of crying can still be heard coming from within the castle walls.
+*: 
+	The end! What d'you reckon to that, son? Pretty scary stuff, eh!?
+*: 
+	I'd steer well clear of Uptaten Towers if
+	I was you.
+*: 
+	I'm travelling the world collecting unusual tableware and the like.
+*: 
+	I heard that Count Uptaten used to drink tea from something called a ⓗtoff's tea setⓘ. Made of silver, it was.
+*: 
+	This here's Roundbeck. If you head north from here, you come to Uptaten Towers.
+*: 
+	Not you again! You young hooligans will be the death of me!
+*: 
+	Oh, wait a minute! You're not one of the usual little ruffians I have in here.
+*: 
+	But you're still gettin' in my way!
+	Go on, away with you!
+*: 
+	I stand guard here all day and all night makin' sure that no monsters go comin' into town.
+*: 
+	You're a spirited-lookin' young thing, you are. Don't you go thinkin' about wanderin' off outside of town, d'you hear?
+*: 
+	Oi! What d'you want? Can't you see we're busy teasin' this stupid cat!? Get lost!
+*: 
+	It's a pretty weird cat, en't it? Its purr's really funny.
+*: 
+	Go on! Purr again, puss!
+Bianca
+	Leave him alone, poor thing!
+	Give him to me!
+*: 
+	You want him, do you?
+*: 
+	Okay. I'm bored of teasin' him now. If you want him, you can have him.
+*: 
+	Hah! But only after you've gone and defeated the ghosts at Uptaten Towers!
+*: 
+	Yep! That's the deal! You defeat the ghosts, and then you get the cat!
+*: 
+	The cat's yours as soon as you defeat those ghosts over at Uptaten Towers.
+*: 
+	If you want the cat, you'd better get on over to Uptaten Towers and start thinkin' about fightin' ghosts!
+*: 
+	Grrrr!
+*: 
+	Ah, what a diligent young thing you are, comin' along to the church by yourself.
+*: 
+	You remind me of me when I was your age.
+	Ha ha ha!
+*: 
+	Hello there, boy! Come for a booze with your girlfriend, have ya!? Ha ha ha!
+*: 
+	She's not bad neither! She'll be a right looker in a few years' time!
+~ The door seems to be locked from the other side, and it won't open. ~
+*: 
+	That young rascal of mine has gone and got himself a cat.
+*: 
+	I keep tellin' him we can't possibly keep a cat here, but he won't listen. He's a worry sometimes, that boy!
+Pankraz
+	You've been a while, %a000090. The good news is that old Whitey just has some sort of cold or other.
+Pankraz
+	I suppose we'd better start thinking about making tracks for Whealbrook.
+Mrs Whitaker
+	You can't possibly be thinkin' of leavin' now, Pankraz!
+Mrs Whitaker
+	You should stay one night here at the very least.
+Pankraz
+	Well, I suppose you've talked me into it!
+Mrs Whitaker
+	Oh, good! Let me show you to your room.
+Mrs Whitaker
+	Here you go, Pankraz.
+	You have a good night's sleep, eh?
+Pankraz
+	Right. Well, we'd better be on our way early in the morning. Otherwise the folk back in Whealbrook will be wonderin' where we've got to.
+Pankraz
+	We should make sure we get plenty of rest. Goodnight, %a000090.
+*: 
+	Psst! %0%a000090!
+	Wake up!
+Bianca
+	Good. You're awake, %a000090.
+Bianca
+	Come on, let's hurry!
+Bianca
+	What d'you mean, where to!?
+	To Uptaten Towers, of course!
+Bianca
+	We have to give them ghosts the what-for so we can save that poor cat from any more bullyin'.
+Bianca
+	All we have to do is keep headin' north, and we should come to the place eventually.
+Bianca
+	Let's go!
+Bianca
+	Good. You're awake, %a000090.
+Bianca
+	Uptaten Towers is just to the north of here.
+	You know the way.
+Bianca
+	Come on! Let's get goin'!
+Pankraz
+	Zzzz...
+Pankraz
+	Mada... My dear Mada...
+	Our boy %a000090 is growing into a fine lad... Zzzz...
+*: 
+	Long, long ago, a mighty count and a beautiful countess lived over at Uptaten Towers.
+*: 
+	But they were unable to have children, and the place was left deserted and empty after their deaths.
+*: 
+	And yet, night after night, sounds of crying can still be heard coming from within the castle walls.
+*: 
+	The end! What d'you reckon to that, son? Pretty scary stuff, eh!?
+*: 
+	I'd steer well clear of Uptaten Towers if
+	I was you.
+Mrs Whitaker
+	Ah-phew...
+Mr Whitaker
+	Ah-phew, ah-phew... Aaaah-CHOO!
+	Zzzz...
+Bianca
+	Here we are, home sweet home.
+Bianca
+	(yawn) I'm tired.
+	Maybe we should give it a rest for tonight.
+Bianca
+	We'll try again tomorrow, eh, %a000090?
+	'Night!
+Bianca
+	Phew! Here we are, back safe and sound.
+Bianca
+	Are you alright now, %a000090?
+	I think we'd better leave it at that for tonight.
+Bianca
+	We'll try again tomorrow, eh?
+	'Night!
+*: 
+	Waaargh! Help! Help!
+*: 
+	Oh! You're not ghosts!?
+	You gave me quite a scare there!
+*: 
+	Oi! You, monster! Get out of our town!
+	Zzzz...
+*: 
+	You've got quite a nerve, comin' into a pub bein' a young thing like you!
+*: 
+	You remind me of me when I was your age.
+	Ha ha ha!
+*: 
+	Dear, oh dear. Kids of your age shouldn't be out and about playin' at this time of night!
+*: 
+	Hello! Would you like a glass of milk, perhaps? Tee hee hee!
+*: 
+	You know, you really shouldn't come here again until you're a bit older, alright?
+*: 
+	Mmm... You can't beat a good dose of the old juice in a nice-looking cup. It makes all the difference.
+*: 
+	Not that you'd know that yet, though.
+	Eh, young'un? Ha ha ha!
+*: 
+	Awright, sonny! Everythin' goin' okay, is it?
+	Nice! Hic!
+~ It's locked from the inside because it's night-time. ~
+Pankraz
+	Aaaah-choo! Ah-choo!
+	Urgh! My head hurts.
+Pankraz
+	Looks like I must've caught old Whitey's cold.
+	Of all the things!
+Mrs Whitaker
+	I'm afraid it looks like your dad's gone and caught my old man's cold.
+Mrs Whitaker
+	You'll have to both stay here until he feels better again.
+Bianca
+	We're goin' again tonight, right?
+	Maybe we should get some sleep.
+Bianca
+	You have a rest now, okay?
+	I'll come and get you when it's time.
+Bianca
+	Yeah, we should probably stock up on a few things durin' the daytime.
+Bianca
+	Let me know when you get sleepy, though, eh?
+*: 
+	Welcome to the travellers' inn!
+*: 
+	Oh, it's you, boy. Hopefully your dad'll be well again before long, eh?
+Mr Whitaker
+	The last thing we want is for you to catch this wretched cold too, boy. Off with you to the other room, eh?
+*: 
+	Oi! What d'you want? Can't you see we're busy teasin' this stupid cat!? Get lost!
+*: 
+	If you want the cat, you'd better get on over to Uptaten Towers and start thinkin' about fightin' ghosts!
+*: 
+	You on your own today, kiddo?
+*: 
+	What happened to that cute little girlfriend of yours you brought here the other day? You don't wanna lose that one!
+~ %3News of how %a000090 and Bianca defeated the ghosts at Uptaten Towers quickly spread through the town that night.%4 ~
+~ %3Then morning came...%4 ~
+Bianca
+	A promise is a promise!
+	So hurry up and give us that cat!
+*: 
+	I dunno...
+*: 
+	I s'pose we don't have much choice.
+*: 
+	Fine. You did what you said you'd do, after all. Take the stupid cat!
+Bianca
+	Yay! That's good news, en't it, cat?
+	No more bullyin' for you!
+Bianca
+	Come on! Let's get goin'!
+*: 
+	You're pretty brave...I s'pose.
+*: 
+	I didn't think you'd actually go through with it and go off huntin' ghosts like that!
+Bianca
+	I know!
+Bianca
+	We should give the puss a name!
+Bianca
+	Hmm... What d'you think to callin' it Saber?
+Bianca
+	%0%a001210's alright by you, is it?
+Bianca
+	Nice! %0%a001210 it is then!
+~ %0%a001210 joins the party! ~
+Bianca
+	Come on! Just pick a name!
+Bianca
+	No? Hmm... Leo could work.
+Bianca
+	Then how about Spot?
+Bianca
+	Or Mohicat?
+Bianca
+	There's always Tom!
+Bianca
+	Then how about Purrcy?
+Bianca
+	Or just Moggy?
+Bianca
+	We could call it Punk!
+Bianca
+	Pyjamas is quite funny...
+Bianca
+	I know! What about Baumren?
+*: 
+	You may be heroes now you've gone and fought those ghosts, but it dun't mean I'm lettin' you out of town alone!
+*: 
+	Who knows what kind of dangerous monsters might be lyin' in wait!?
+*: 
+	Are you the ones who fought them ghosts?
+	That's pretty impressive for a couple of kids!
+*: 
+	The wailin' I used to hear comin' from Uptaten Towers every night suddenly stopped last night.
+*: 
+	You've done us a big favour there, kids.
+Mrs Whitaker
+	I can't believe the two of you went off fightin' those ghosts all by yourselves.
+Mrs Whitaker
+	I know it went well this time, but you mustn't go off again at night doin' such dangerous things. D'you hear me, Bianca?
+Mr Whitaker
+	You're the town hero, boy! It's easy to see how you take after your father, bein' brave enough to do that!
+Pankraz
+	You're a worry sometimes, %a000090.
+	But at least you're safe.
+	And my cold's all better now too.
+Pankraz
+	We should be getting back to Whealbrook.
+	Have you said all your goodbyes yet?
+Pankraz
+	Now then, shall we get going?
+Pankraz
+	Thanks for everything, Whitey!
+Pankraz
+	Off you go, then.
+	I'll wait for you here.
+Bianca
+	%0%a000090!
+Bianca
+	Looks like we probably won't be seein' each other for a while. Here, have this.
+~ %0%a000090 receives Bianca's ribbon. ~
+Bianca
+	I know! I'll tie it to %a001210!
+Bianca
+	Hopefully we'll have another adventure together sometime, eh, %a000090?
+Bianca
+	See you!
+Pankraz
+	By the way, %a000090...
+Pankraz
+	I have to tell you I was quite impressed by how you took on those ghosts.
+Pankraz
+	But you're still just a young boy. You mustn't put yourself in such danger again, okay?
+Pankraz
+	Right... Time to make a move.
+Pankraz
+	Think you're invincible now then, do you?
+	Never mind. Come on, let's make a move.
+~ %0%a001210 joins the fray! ~
+*: 
+	Oh! You're takin' that cat off our hands, are you? Well, that's a relief!
+*: 
+	You're brave beyond your years, goin' off fightin' ghosts like that!
+*: 
+	You remind me of me when I was your age.
+	Ha ha ha!
+*: 
+	I heard what you did, kids!
+	That's amazin'!
+*: 
+	You should've seen all the kerfuffle last night when people found out what you'd been up to!
+Bianca
+	Oh yeah. I suppose I should've mentioned that my mum's allergic to pets...
+Bianca
+	That means you'll have to be the one who takes care of %a001210. You dun't mind, do you, %a000090?
+Bianca
+	Come on! Let's get goin'!

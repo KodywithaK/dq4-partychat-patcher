@@ -1,0 +1,358 @@
+Rodrigo Briscoletti
+	At last! There you are, %a000090. Stopped off somewhere along the way to enjoy a bit of the dolce vita, did you?
+Rodrigo Briscoletti
+	I've decided the wedding will take place on my casino ship, the Ventuno. It's far, farfalle away in the north-east, but it'll be well worth the trip.
+Rodrigo Briscoletti
+	I was hoping to sail there, but the seas are dangerous these days.
+Rodrigo Briscoletti
+	However, Prince Harry here has just informed me of another way we could get there.
+Harry
+	Hello, %a000090! You look well.
+	I haven't seen you in ages.
+Harry
+	We rushed over here as soon as we received the invitation from Mr Briscoletti here.
+Harry
+	I hope you don't mind that I let on about your magic abilities. We were talking, and it just slipped out that you know how to cast Zoom.
+Maria
+	Congratulations, %a000090!
+	It's wonderful news!
+Maria
+	And what a generous father-in-law. The wedding will be absolutely amazing by the sound of it.
+Rodrigo Briscoletti
+	Ha ha hah! That's right! No expense spared!
+	So, %a000090, will you do the honours?
+Rodrigo Briscoletti
+	Once you get us in the air with your magical extravaganza, I'll be able to direct you.
+Rodrigo Briscoletti
+	Are you all set?
+~ %0%a000090 casts Zoom. ~
+Rodrigo Briscoletti
+	Love of linguine!
+	Now this is alfresco!
+Rodrigo Briscoletti
+	What's the problem, %a000090?
+	Is my daughter to marry a scaramouch!?
+	Cast the spell!
+*: 
+	%0%a000090...
+	Come on, %a000090...
+Debora
+	Finally! You're awake at last. I did tell you how I hate layabouts, didn't I?
+Debora
+	Oh well...
+Debora
+	Just make sure you've got yourself together by the time I walk down the aisle. I'll need you to look stunned, not stewed.
+Rodrigo Briscoletti
+	Ah, back with us at last, are you?
+	Hmph. Well, scusi me for tiring you out, %a000090.
+Rodrigo Briscoletti
+	I don't like to disturb your little siesta like this, but the wedding ceremony is about to start, and the groom is required!
+Rodrigo Briscoletti
+	This good man will explain the plan of action to you.
+*: 
+	Et bien!
+	'Ere we go!
+	Ze big day, eh?
+*: 
+	First of all, you monsieur ⓚⓛ and may I say you look sensational today ⓚⓛ you will take your position before ze priest.
+*: 
+	You will wait zere for your ⓚⓛ Ah! ⓚⓛ
+	exquisite bride!
+*: 
+	Ze bride, she will zen be escorted by 'er father from zis antichambre, down ze aisle, to your proud and masculine side.
+*: 
+	And ze two of you will come together in front of ze altar where ze priest will be standing.
+	Oui! It will be perfection itself!
+*: 
+	After 'e 'as said a few words, you will échange ze rings wiz ze look of passion burning in your eyes! Ze passion of ze newly-weds!
+*: 
+	And zat's it! Voilà! You will be 'itched!
+	Alors. Are you ready to ⓗtake ze plungeⓘ?
+*: 
+	Bien. Follow me, monsieur, and I will take you down ze aisle to ze priest. Keep your 'ead 'eld 'igh, so everyone falls in love wiz you, eh!? (wink)
+*: 
+	Non? It is understandable zat you are nervous when you are to marry such a jewel, eh?
+	Bien. I will explain it once again.
+Priest
+	We are gathered here in the presence of the Goddess, to witness the blessed union of %a000090 and Debora.
+Priest
+	All turn to face the rear of the deck for the entrance of the bride, please!
+Priest
+	Dear Goddess. Thank you for guiding these two souls to meet here, on this most joyous of days.
+Priest
+	May you bless them with your eternal
+	love and happiness.
+Priest
+	Now we will move on to your vows.
+Priest
+	Do you, %a000090, take Debora to be your wife?
+Priest
+	To love and to cherish, in sickness and in health, for as long as you both shall be resurrected from death in the church?
+Priest
+	And do you, Debora, take %a000090 to be
+	your husband?
+Priest
+	To love and to cherish, in sickness and in health, for as long as you both shall be resurrected from death in the church?
+Debora
+	What's it to do with you? I don't see why you're asking me all these questions!
+Priest
+	I, I, er... Well! I...
+	You, you must exchange rings, then...
+~ %0%a000090 and Debora place their wedding rings on each other's fingers. ~
+Priest
+	So, in the presence of the Goddess, you will
+	now demonstrate to everyone here that your
+	union is complete.
+Priest
+	You may kiss the bride!
+Harry
+	Come along, %a000090! Don't be shy!
+	Give her a sloppy one!
+Debora
+	Well? You can kiss me, but make sure you do it properly! Don't embarrass me, %a000090.
+~ %0%a000090 kisses Debora! ~
+Priest
+	Dear Goddess, behold this new union of two of your devoted flock!
+Priest
+	Bless them with your everlasting love and watch over them with your eternal compassion.
+Harry
+	Congrats, %a000090!
+	You two make a great couple.
+Bianca
+	Congratulations, %a000090!
+	You too, Debora. I hope you'll be really happy together.
+Nera
+	Congratulations, Debora!
+	I'm so happy for you.
+Nera
+	And %a000090... I do hope you'll find happiness with my sister.
+~ %3And so %a000090 and Debora are wed.%4 ~
+~ %3Unfortunately, there's no time to enjoy the casino, as %a000090 must transport everyone back to Mostroferrato.%4 ~
+~ %3But the celebrations there continue long into ~
+~  the night...%4 ~
+~ %3And then, day breaks...%4 ~
+Debora
+	Oh, you're awake at last!
+	It's evening already, you know.
+Debora
+	You're almost impossible to rouse once you're asleep, aren't you?
+Debora
+	But I suppose you must've been tired, what with having to Zoom everyone back here straight after the ceremony.
+Debora
+	Well, I hope you enjoyed your lie-in, because from now on, you'll be getting up before me every morning.
+Debora
+	That's why I married you, you know.
+Debora
+	You seem like the kind of man who's willing to do anything for me. Anything and everything I want!
+Debora
+	I expect to be treated like a princess. You'll have to attend to my every need. I won't accept anything less.
+Debora
+	Well? Is that clear? Can I rely on you for absolutely everything...hubby?
+Debora
+	That's what I like to hear! And without a moment's hesitation, either. You've always been besotted with me, haven't you? From the very beginning.
+Debora
+	Right, that's enough chatting. We should be getting on our way soon.
+Debora
+	You're going to carry on travelling in search of your mother, aren't you?
+Debora
+	Well if I stayed at home, how would I be able to tell you what to do?
+Debora
+	So I'm coming with you, darling. I'll be right by your side, watching every move you make. Okay?
+Debora
+	You catch on quickly, don't you? I like that. It's good that you know where you stand.
+Debora
+	I'll tell you now so there's no misunderstanding later. I don't take kindly to being told what to do. That's my job.
+~ Debora joins %a000090! ~
+Debora
+	Right, well... I suppose we'd better go and tell Papa the good news!
+Debora
+	Chop, chop, you!
+Debora
+	Oh? So you think you're going to be deciding what's best for us, do you?
+Debora
+	Well, I'll overlook that little outburst of defiance just this once, but if you try to tell me what to do again, I will not be happy. That's my job.
+Debora
+	Sorry? My ears must still be ringing after all the rapturous applause I received at the wedding ceremony. Let me ask you again...
+Debora
+	Can I rely on you to put my needs ahead of yours, without compromise, and to do absolutely everything I ask?
+Debora
+	That's better. Next time I ask you a question, you'd be wise to agree straight away. It just saves time.
+~ The bag feels unusually heavy. ~
+~ %0%a000090 has a look inside... ~
+~ Wow! There's a pair of sticky honey buns in there. ~
+~ Mr Briscoletti gave them out to everyone in Mostroferrato to mark the special occasion. ~
+Debora
+	Hold on, you!
+Debora
+	I said we have to go and tell Papa we're leaving first, didn't I?
+Debora
+	What? Are you tired? Well I'm not going all the way home now! We'll spend the night here, alright?
+Debora
+	I'm shattered. See you in the morning!
+Debora
+	Come on, rise and shine!
+	It's high time we left.
+Debora
+	Well stop messing around, then! We're leaving!
+*: 
+	I've got to hand it to you, %a000090. I mean, marrying Debora... Phew!
+*: 
+	But that still leaves me with a chance of wooing Nera. Ha ha! Look out lady, here I come!
+Rodrigo Briscoletti
+	Finally, they make an appearance! I was worried,
+	but now that I see you together, I can tell you belong together like spaghetti and Bolognese sauce!
+Rodrigo Briscoletti
+	I'm afraid Prince Harry and his wife had to leave early this morning.
+Rodrigo Briscoletti
+	But he had some very interesting things to say about %O0960%Xyou, you know, %a000090%Y%a000090, you know%Z.
+Rodrigo Briscoletti
+	I hear you're travelling in search of a
+	legendary hero.
+Rodrigo Briscoletti
+	Well, I believe I have just the thing for you.
+Rodrigo Briscoletti
+	You'll find some gifts from me in the two chests behind me here. They're both unlocked. The contents are yours.
+Rodrigo Briscoletti
+	Now then, Debora. While %a000090 is away, Iⓚⓛ
+Debora
+	Yes, about that, Papa. I've decided I'm going to go with him.
+Rodrigo Briscoletti
+	I see... Well, I can't say that I'm surprised. I had a feeling that would be your preference.
+Rodrigo Briscoletti
+	But the sort of adventures %a000090 is embarking on are too dangerous for you. You will stay here with us.
+Debora
+	What!? Well, if %a000090 gets lonely and runs off with another woman, I shall hold you personally responsible, Papa!
+Rodrigo Briscoletti
+	Holy rigatoni! What a thing to say of your faithful husband, Debora! Nevertheless, that wouldn't do at all...
+Rodrigo Briscoletti
+	Ah-ha! I have an idea!
+Rodrigo Briscoletti
+	I own a small shrine on a little island to the west of Stockenbarrel. I call it the Pothold.
+Rodrigo Briscoletti
+	It contains a jar, you see. I've been thinking for some time now that I'd send %a000090 there to check on its condition.
+Rodrigo Briscoletti
+	If you can manage that little errand without getting under %a000090's feet, Debora, I'll allow you to do as you please.
+Rodrigo Briscoletti
+	Well? That's fair, no?
+Debora
+	What a waste of time! If anyone's going to be slowing anyone down, it'll be %a000090, not me. Not that I intend to wait for him if he does, mind you.
+Rodrigo Briscoletti
+	So it's settled? Good! Here you are then, Debora.
+	I'll give you the key to the shrine.
+Rodrigo Briscoletti
+	I'm counting on you, %a000090.
+	Remember, you're family now!
+Rodrigo Briscoletti
+	I just need to know what colour the jar is.
+	It's on an island to the west of Stockenbarrel. Capice?
+Rodrigo Briscoletti
+	You'll find some gifts from me in the two chests behind me here. They're both unlocked. The contents are yours.
+Debora
+	What's the point in this stinking old place?
+Debora
+	Never mind. We'll just do what we came to do and leave as quickly as possible, got it?
+~ Debora unlocks the shrine door. ~
+~ %0%a000120 has a look at the pot. ~
+~ It's glowing with a calm, blue light. ~
+Rodrigo Briscoletti
+	Ah! Welcome back!
+	So it all went well, then?
+Rodrigo Briscoletti
+	I see. The jar was blue.
+	Well, that's a weight off my mind.
+Rodrigo Briscoletti
+	Anyway. Never mind about that now!
+Rodrigo Briscoletti
+	So, %a000090... Was my daughter able to assist you?
+Rodrigo Briscoletti
+	Really? You wouldn't be lying to me now, would you? Telling me prosciutto-pies?
+Debora
+	Look, Papa. You heard %a000090. He said I helped him, so what's the problem?
+Debora
+	You know, if you keep on worrying like this all the time, you'll go bald.
+Rodrigo Briscoletti
+	I...I...
+	You have hurt your Papa, Debora.
+Rodrigo Briscoletti
+	Fine! Do as you please. This discussion is finito! Just don't get under %a000090's feet!
+Debora
+	Why would I get under his feet? I never got under yours.
+Rodrigo Briscoletti
+	You neverⓚⓛ!? Ahem!
+	We're wasting time now. %0%a000090, you must leave now to find this legendary hero you seek.
+Rodrigo Briscoletti
+	Oh, yes. One of my ships is in dock at Lodestar Harbour at the moment. Take it! I've got plenty more!
+Rodrigo Briscoletti
+	It's to sea-faring vessels what tiramisu is to desserts ⓚⓛ the best there is! Ready for any voyage you care to embark on. So make use of it soon!
+Rodrigo Briscoletti
+	Take care, now.
+	Don't do anything crazy!
+Rodrigo Briscoletti
+	And come home if you get tired. Your family's always here for you.
+Rodrigo Briscoletti
+	Once the world's safe again, we'll all settle down and make a good life for ourselves here, hm?
+Rodrigo Briscoletti
+	I'm not surprised! Debora can't even wield a sword, can she?
+Debora
+	Hey! That's enough, Papa!
+Rodrigo Briscoletti
+	Now everything's settled, you must get going.
+	The Bolognese won't make itself, eh?
+	You have a legendary hero to find, %a000090.
+Rodrigo Briscoletti
+	Although it's a shame for a newly-wed couple not to take some time for a little amore before setting off on such a difficult journey.
+Rodrigo Briscoletti
+	Do you know the island just east of
+	Lodestar Harbour?
+Rodrigo Briscoletti
+	That's where the Ventuno is moored.
+	My casino ship, where you were married.
+Rodrigo Briscoletti
+	That whole extravaganza was so hectic, you didn't have any time to enjoy yourselves.
+	Why don't you take a short break there now?
+Rodrigo Briscoletti
+	Just mention my name to the man who runs the
+	ferry over to the ship, and he'll see that you're shown around.
+Rodrigo Briscoletti
+	If you carry on sailing south from there, you'll come to a place called Helmunaptra.
+Rodrigo Briscoletti
+	You can start your main journey from there.
+	But remember, be careful!
+Romana
+	I'm so happy to have gained such a wonderful son.
+Romana
+	You can think of me as your own mama.
+	I'll always be there for you.
+Romana
+	Debora, you be nice to %a000090.
+	Don't take advantage of his kind personality.
+Debora
+	No, Mama...
+Nera
+	I have to confess to being ever so slightly envious at the wedding. You both looked so happy.
+Nera
+	Well...this is your house now too, %a000090. You will always be welcome here.
+Nera
+	And Debora... Please be careful.
+Debora
+	If you're tired already, I suppose it'd be okay for you to have a rest here. Well? Do you want to?
+Debora
+	Alright. But the bed's far too narrow for two.
+	You can sleep on the floor.
+Debora
+	You're awake now, are you?
+	Right then, let's get going.
+Debora
+	Just so long as you're not too tired. I don't want you collapsing while we're travelling. I could really damage my nails dragging you to an inn.
+Nera
+	Zzz... Zzz...
+Debora
+	Mind you, the rougher you look, the more dazzling I'll be!
+Debora
+	Just mind your own business and get on with it. Hurry up and get all your holy babble out of the way!
+Harry
+	And, er...can I just have a word in your ear, %a000090? That is one good-looking bride you've found!
+Debora
+	I suppose you did fly us all here. I'll let you off this time.
+Rodrigo Briscoletti
+	No... But it would slow you down far too much to take Debora with you, %a000090. Hmm...

@@ -1,0 +1,521 @@
+*: 
+	The Kingdom of Coburg lies beyond this point.
+*: 
+	The Queen Dowager has ordered that no outsiders are to pass through unless they have explicit permission to do so.
+Prince Harry
+	............
+*: 
+	The Kingdom of Coburg lies beyond this point.
+*: 
+	The Queen Dowager has ordered that no outsiders are to pass through unless they have explicit permission to do so.
+*: 
+	Ouch!
+Harry
+	Listen to you, putting on airs like that, Frank!
+Frank O'Phobe
+	Ow ow ow! How dare you flick me, you insolent fool!? Who are you? How do you know my name!?
+Harry
+	Still scared of frogs, are you?
+Harry
+	Ha! You were frightened to death that time I put the frog in your bed!
+Frank O'Phobe
+	............
+	No... I don't believe it!
+Harry
+	That's right, Frank. It's me, Harry!
+Frank O'Phobe
+	Y-You're still alive!
+Frank O'Phobe
+	It's been so many years! Those were happy days, looking back. The kingdom is in a terrible state now...
+Harry
+	Enough, Frank. You mustn't speak badly of your country. A soldier like you could get into a lot of trouble for that.
+Frank O'Phobe
+	Yes, sir!
+Harry
+	Will you let us pass, Frank?
+Frank O'Phobe
+	Of course! With pleasure!
+Frank O'Phobe
+	I never dreamt I'd be seeing your face again, Prince Harry.
+Frank O'Phobe
+	You were certainly a bit of a prankster in your time, but it all seems quite funny in hindsight.
+Frank O'Phobe
+	Ah, you're a friend of Prince Harry's, aren't you? Please go ahead and pass on through!
+*: 
+	I used to love this kingdom.
+*: 
+	But without us citizens realising it, we've suddenly been overrun with increasingly heavy-handed laws.
+Harry
+	Wait a minute, %a000090.
+Harry
+	If we carry on to Coburg now, we probably won't be able to come back this way for a while.
+Harry
+	It sounds like the people of Whealbrook have had a terrible time of it, don't you think?
+Harry
+	Maybe it would be worth trying to find the thing your father hid away and seeing if it can be of any help?
+Harry
+	He's supposed to have hidden something away in the cave in Whealbrook, right?
+Harry
+	Let's go back and see if we can find it.
+Harry
+	Wait a minute, %a000090.
+Harry
+	He's supposed to have hidden something away in the cave in Whealbrook, right?
+Harry
+	Let's go back and see if we can find it.
+Harry
+	You know, we still haven't dropped in on Whealbrook.
+Harry
+	I'm sure there must be people there who'd like to know you're safe, %a000090. Maybe we should pay them a visit first?
+~ %0%a000090 senses the voice of his late father Pankraz calling out to him... ~
+~ Perhaps some of Pankraz's belongings are still hidden in Whealbrook Adit... ~
+*: 
+	You're still young. You can see for %H0860%Xyourself%Yyourselves%Z how things really are.
+*: 
+	If this land means anything to you, I'm sure you'll find a way to make things right.
+*: 
+	This is the Kingdom of Coburg.
+*: 
+	I don't know what your business is here, young man, but I'd recommend you steer clear of the castle if you know what's good for you.
+*: 
+	Have mercy on me, good sir. I ain't eaten in three days. Could ya maybe spare a few bob?
+~ %0%a000120 gives the woman five gold coins. ~
+*: 
+	Thanks so much, sir.
+	I'll never forget ya.
+*: 
+	Uuurgh. So hungry...
+*: 
+	My old man used to work over at the castle. But then the Queen Dowager had him thrown in jail for bein' disrespectful.
+*: 
+	It's bin eight years now.
+	I dunno what's become of him. 
+*: 
+	I'm starvin'!
+*: 
+	Grrrr!
+~ ⓗGlory to the Kingdom of Coburg! ~
+~ All that we are and do is for the kingdom!ⓘ ~
+~  ~
+*: 
+	I came along here because I heard that they're paying lots of money to enlist foreign soldiers and build up their army.
+*: 
+	It looks like the folk here are suffering for it, though. The tax they have to pay to cover the army's wages is sending them all broke.
+Harry
+	Hang on a minute.
+Harry
+	I think it'd be better if we kept my identity here a secret. Just until we know what's going on.
+Harry
+	Let's just pretend I'm no one special. Okay?
+Harry
+	I say! You're not planning on just turning back, are you!?
+Harry
+	Hmph. But I suppose there's not much choice if we simply can't get by.
+Harry
+	Wait a minute!
+Harry
+	I'm sure there was some kind of passage into the castle from the outside.
+Harry
+	I just can't remember where the entrance to it was. I seem to recall some kind of waterway...
+*: 
+	Legend has it that long ago, a castle came falling from the sky.
+*: 
+	Apparently, it's since that day that monsters have been terrorising mankind again.
+*: 
+	Only those summoned by the Queen Dowager are permitted beyond this point. Now, leave!
+	Go on!
+*: 
+	Hm? The Queen Dowager asked to see you?
+*: 
+	Very well. But when your business here is done, you mustn't linger in the castle.
+*: 
+	Very well. But when your business here is done, you mustn't linger in the castle.
+*: 
+	The Queen Dowager is quite a ⓚⓛ Clank! ⓚⓛ ruler.
+*: 
+	It will not be long now before the Kingdom of ⓚⓛ Clank! ⓚⓛ Coburg rules the world! Wa ha ha!
+*: 
+	Awright, mate? You 'ere to join the army an' all, are ya? This place rocks!
+*: 
+	All you gotta do is fight, an' they give ya bags o' dosh! An' ya can eat all the grub ya like!
+*: 
+	You can't beat this as a place to live.
+*: 
+	The Chancellor and his crew are such a lily-livered bunch. We get our own way with everything. He he he!
+*: 
+	I can't help but feel that some of the soldiers the Queen Dowager has employed of late are a bit unsavoury.
+*: 
+	Oh! Oh dear! What am I doing, blurting out such foolish things? I take it all back!
+*: 
+	No! Argh!
+	Oh, I was just dreaming.
+*: 
+	But it really did happen...
+	If only I could just put it out of my mind.
+*: 
+	I know the Queen Dowager ordered it, but I feel so guilty for destroying that village when they'd done nothing to deserve it.
+*: 
+	These are Darwin the Psarologist's quarters.
+*: 
+	Hello there. The name's Darwin. I spend my time researching all about living things.
+Darwin
+	How have humans and other creatures evolved in the way they have? And could they ever develop into something more powerful?
+Darwin
+	It seems there was once a secret that unlocked these mysteries of evolution. Perhaps it was the hand of the Goddess.
+*: 
+	Is somebody there?
+*: 
+	I've been down here so long now that my eyes and ears have stopped working on me.
+*: 
+	But my mouth works just fine, so let me tell you this!
+*: 
+	The person responsible for Prince Harry's death is none other than the Queen Dowager!
+*: 
+	And yet she put on a good show of being distressed by the whole thing and then laid all of the blame squarely on Pankraz's shoulders!
+*: 
+	The cheek of the woman! She even took it so far as to destroy Pankraz's village, Whealbrook.
+*: 
+	I've never seen a woman so cruel and cold-hearted. The Goddess will punish her for this!
+~ There's no response. ~
+~ It's just a corpse. ~
+*: 
+	Oh! What a relief it is to see a friendly face!
+*: 
+	I'm the Queen Dowager, don't you know?
+	You must help me to escape from this cell at once!
+Queen Dowager
+	What is it? Why are you dilly-dallying? Don't you believe I am who I say I am? Oh, blast!
+Queen Dowager
+	It is I. I'm the one who left Prince Harry for dead all those years ago, I tell you!
+Queen Dowager
+	But I was just doing what was best for my son,
+	so that my dear Wilbur could become king.
+Queen Dowager
+	I know now that what I did was wrong.
+Queen Dowager
+	So I implore you, please get me out of here!
+*: 
+	I don't believe I've seen you before. Are you new in town? Then allow me to give you a tip.
+*: 
+	King Wilbur is the ruler of our kingdom,
+	but it's really his mother, the Queen Dowager, who pulls all the strings.
+*: 
+	You'd be wise not to get on her wrong side.
+	She'll have your head on a platter if you do.
+*: 
+	The Queen Dowager always used to dote on her son Wilbur.
+*: 
+	But as soon as he became king and her role changed from Queen Consort to Queen Dowager, it was like a sudden change came over her. 
+*: 
+	Now she acts as if he's nothing more than a nuisance getting in her way.
+*: 
+	I just can't fathom what's going on inside her head.
+*: 
+	Another poor fellow who dared to rebel against the current state of affairs was condemned to death today.
+*: 
+	I know the Queen Dowager must have her reasons, but surely this kind of thing can't continue.
+Chancellor
+	Do you have some kind of business here?
+	I'm afraid King Wilbur is feeling a little
+	under the weather at present.
+Chancellor
+	I must request that you come back at another time.
+King Wilbur
+	...............
+King Wilbur
+	...............
+King Wilbur
+	I believe my chancellor has explained the situation.
+King Wilbur
+	I'm not in the mood to speak with anyone today.
+	You must leave.
+~ Harry whispers in response. ~
+Harry
+	But a lackey should always listen to his master, wouldn't you say?
+King Wilbur
+	............!
+King Wilbur
+	Oh...!
+	Good heavens!
+King Wilbur
+	I say, Chancellor! I wish to speak with this fellow in private. Make yourself scarce!
+Chancellor
+	Er... Y-Yes, Your Majesty!
+King Wilbur
+	Harry! My brother, Harry!
+	You're alive!
+Harry
+	Indeed I am! Sorry I was gone so long.
+	The thing is...
+King Wilbur
+	No! Mother is in jail!?
+Harry
+	Shh! Keep your voice down!
+King Wilbur
+	Hm, now I come to think of it...
+King Wilbur
+	I remember reading a story once about a mysterious mirror.
+King Wilbur
+	I think the book I read it in was in the castle vault.
+King Wilbur
+	Here. Take this key and go and see for yourself.
+	I'm sure it'll be of use to you.
+~ %0%a000120 receives the Key to Coburg. ~
+~ %0%a000180 acquires the Key to Coburg. ~
+King Wilbur
+	Try not to put yourself in any danger.
+King Wilbur
+	I remember reading a story once about a mysterious mirror.
+King Wilbur
+	I think the book I read it in was in the castle vault.
+King Wilbur
+	Try not to put yourself in any danger.
+King Wilbur
+	If only I was as brave and adventurous as you are, Harry.
+King Wilbur
+	Maybe I never did really have what it takes to become a good king.
+Chancellor
+	What does King Wilbur think he's doing, ordering me to leave like that!?
+Chancellor
+	If only the Queen Dowager was in charge, our land would be peaceful again!
+*: 
+	These are the Queen Dowager's ⓚⓛ Clank! ⓚⓛ quarters. Were you summoned here?
+*: 
+	How dare you lie to me!? I've received no word of your visit!
+*: 
+	You must ⓚⓛ Clank! ⓚⓛ leave! The Queen Dowager will only meet those who are truly worthy of her presence.
+~ %0%a000120 examines the bookshelves. ~
+~ There's an ancient-looking diary! %0%a000120 takes the diary from the shelf and reads. ~
+~ ⓗThis day, I betook myself through the castle teleportal to the southern land. ~
+~ ⓗIn the southern land, there lies an ancient tower. Legend has it that a mirror with the power to show the truth is hidden within it. ~
+~ ⓗBut the tower doors would not open for me. The key, it is said, lies in the hands of monks.ⓘ ~
+*: 
+	The kingdom is getting richer and richer, but its people are getting poorer by the day.
+*: 
+	Who can drame a man for blinking at a time like this!? Hic!
+*: 
+	It's been nine years now since King James passed away, Goddess rest his soul.
+*: 
+	Before he died, he tried to make arrangements so that his first son, Prince Harry, would become king when the time came.
+*: 
+	But then the Prince mysteriously disappeared.
+*: 
+	And so the second son, Wilbur, ended up taking the throne in his place.
+*: 
+	I'm a trader, travelling the world in search of unusual items.
+*: 
+	I heard there was a book here somewhere that makes mention of some kind of curiosity.
+*: 
+	My big sister used to run a shop here years ago, but then the taxes became too much for her.
+*: 
+	She ended up moving to Fortuna. People used to be much better off here in the past, but those days are gone.
+*: 
+	You wish to travel through the Arboreas Teleportal? But it's too soon for you yet,
+	my boy.
+*: 
+	If you pass through this teleportal, you'll be instantly transported to a land far, far away.
+*: 
+	But I couldn't possibly allow you to do that at this time of night.
+~ The cat is enjoying prancing about the place. ~
+Nun of the Above
+	This is Heaven's Above Abbey. We have many lost and suffering sheep finding their way to our door.
+Nun of the Above
+	Ah! I remember you.
+Nun of the Above
+	What a delight to see you here again!
+	I'm sure Maria will be thrilled.
+Nun of the Above
+	This is Heaven's Above Abbey. We have many lost and suffering sheep finding their way to our door.
+Nun of the Above
+	You're searching for your mother, isn't that right, %a000090?
+Nun of the Above
+	I'll be praying that you find her safe and sound soon.
+Nun of the Above
+	This is Heaven's Above Abbey. We have many lost and suffering sheep finding their way to our door.
+Nun of the Above
+	I pray that %a000090 is finding you a ray of hope, my dear Maria.
+*: 
+	I'm here 'cos I ran away from my husband.
+	He's a mean old ruffian, so he is.
+*: 
+	You've got kind eyes, though, you have.
+	You'll make someone a nice husband, my lovely!
+Nun of the Above
+	I'd like you to have this statue of the Goddess as a good luck charm for your safe onward journey.
+~ %0%a000120 receives a crude image. ~
+~ %0%a000180 acquires a crude image. ~
+Nun of the Above
+	That statue was carved with love and prayers by we nuns of Heaven's Above Abbey.
+Nun of the Above
+	It doesn't have any special powers or anything like that, but I hope it will at least make a nice keepsake of your time here.
+Nun of the Above
+	We make all of our own clothes and grow our own food here at the abbey, you see.
+Nun of the Above
+	We treat things with the utmost care, and we have a great love for the land. Those are two of the main principles of our order.
+*: 
+	Maria is just so pretty!
+*: 
+	But all she ever does is pray, and she looks so sad and lonely sometimes.
+*: 
+	Make sure you don't let Maria come to any harm, do you hear?
+Maria
+	Welcome. This is a place for people to pray to the Goddess and learn better ways to live their lives.
+Maria
+	Oh! The Goddess has answered my prayers!
+Maria
+	I've been hoping with all my heart to see you again, %a000090. And you, Harry!
+Maria
+	I'm doing well, thank you. Everyone here has treated me so nicely.
+Nun of the Above
+	I don't believe I've ever seen you before.
+	Ah, a friend of %a000090's, are you?
+Nun of the Above
+	Then you must ask %a000090 to come and show his face here once in a while. 
+	It'd be lovely to see him again.
+Nun of the Above
+	Ah! I didn't expect to see you today! Oh dear, but you look so sad. Is something the matter?
+Nun of the Above
+	Oh! You need to get inside Abovitall Tower to find a mysterious mirror? Dear me!
+Nun of the Above
+	Only a maiden of the Goddess has the power to open the doors.
+Nun of the Above
+	But no girl could possibly travel there with all those monsters around.
+Maria
+	I'll go!
+Nun of the Above
+	Maria!
+Maria
+	These people have been extraordinarily good to me in the past, sister. Now it's my turn.
+Maria
+	Besides, I'd like to see for myself whether the Goddess will recognise me and allow me to open the doors.
+Nun of the Above
+	I see. Very well. If you feel that determined, then it's not my place to try and stop you.
+Nun of the Above
+	Please take Maria with you and see she comes to no harm, %a000140.
+Maria
+	I'll try my best not to slow you down or be any trouble.
+Maria
+	Shall we go?
+Nun of the Above
+	Well, that's good to hear. Feel free to rest here as long as you wish.
+Nun of the Above
+	Make sure you take good care of Maria. See that she isn't put in danger's way any more than need be.
+Abbess Abovall
+	I hear you're planning to visit Abovitall Tower to the south of here.
+Abbess Abovall
+	It's said that tower was built by the Goddess as a means of testing us.
+Abbess Abovall
+	Those who are too proud to believe in things they cannot see will doubtless not receive the blessing of the Almighty.
+Abbess Abovall
+	Only those who step forward with courage and belief are bestowed with Her mercy.
+Abbess Abovall
+	I wish you a safe journey.
+Nun of the Above
+	This is the visitors' lodgings. It's rather cramped, but would you like to rest for a while?
+Nun of the Above
+	Very well. I wish you pleasant dreams.
+Nun of the Above
+	Good morning! It's another beautiful day outside.
+Nun of the Above
+	We value every guest we have here at the abbey extremely highly. I do hope we'll make your acquaintance again.
+Nun of the Above
+	I wonder how that young girl is who was here for her domestic goddess training a little while ago.
+Nun of the Above
+	I do hope the things she learnt here will be of some use to her in later life.
+Nun of the Above
+	Good heavens! A monster in our peaceful sanctuary!
+Nun of the Above
+	Oh, I see. You're with %a000090, are you? Well, I'm glad to hear you're working for a worthy cause.
+*: 
+	The poor girl probably needs a father.
+*: 
+	Ah-phew... Daddy...
+	Zzzz...
+Nun of the Above
+	Ah-phew...
+Nun of the Above
+	Zzzz...
+~ The cat is sleeping peacefully. ~
+Maria
+	Welcome. This is a place for people to pray to the Goddess and learn better ways to live their lives.
+Maria
+	Oh! The Goddess has answered my prayers!
+Maria
+	I've been hoping with all my heart to see you again, %a000090. And you, Harry!
+Maria
+	I'm doing well, thank you. Everyone here has treated me so nicely.
+Nun of the Above
+	I don't believe I've ever seen you before.
+	Ah, a friend of %a000090's, are you?
+Nun of the Above
+	Then you must ask %a000090 to come and show his face here once in a while. 
+	It'd be lovely to see him again.
+Nun of the Above
+	Ah! I didn't expect to see you today! Oh dear, but you look so sad. Is something the matter?
+Nun of the Above
+	Oh! You need to get inside Abovitall Tower to find a mysterious mirror? Dear me!
+Nun of the Above
+	Only a maiden of the Goddess has the power to open the doors.
+Nun of the Above
+	But no girl could possibly travel there with all those monsters around.
+Maria
+	I'll go!
+Nun of the Above
+	Maria!
+Maria
+	These people have been extraordinarily good to me in the past, sister. Now it's my turn.
+Maria
+	Besides, I'd like to see for myself whether the Goddess will recognise me and allow me to open the doors.
+Nun of the Above
+	I see. Very well. If you feel that determined, then it's not my place to try and stop you.
+Nun of the Above
+	Please take Maria with you and see she comes to no harm, %a000140.
+Maria
+	I'll try my best not to slow you down or be any trouble.
+Maria
+	Shall we go?
+Nun of the Above
+	Well, that's good to hear. Feel free to rest here as long as you wish.
+Nun of the Above
+	Make sure you take good care of Maria. See that she isn't put in danger's way any more than need be.
+Abbess Abovall
+	I hear you're planning to visit Abovitall Tower to the south of here.
+Abbess Abovall
+	It's said that tower was built by the Goddess as a means of testing us.
+Abbess Abovall
+	Those who are too proud to believe in things they cannot see will doubtless not receive the blessing of the Almighty.
+Abbess Abovall
+	Only those who step forward with courage and belief are bestowed with Her mercy.
+Abbess Abovall
+	I wish you a safe journey.
+Nun of the Above
+	This is the visitors' lodgings. It's rather cramped, but would you like to rest for a while?
+Nun of the Above
+	Very well. I wish you pleasant dreams.
+Nun of the Above
+	Good morning! It's another beautiful day outside.
+Nun of the Above
+	We value every guest we have here at the abbey extremely highly. I do hope we'll make your acquaintance again.
+~ %0%a000120 tries to open the doors, but they won't budge an inch! ~
+~ %0%a000120 tries to open the doors, but they won't budge an inch! ~
+~ Maria looks up at the tower and begins to speak. ~
+Maria
+	So this is Abovitall Tower.
+	I've never been here before.
+Maria
+	I hope I'll be able to help you.
+~ Maria puts her hands together and kneels down to pray to the Goddess. ~
+~ And then...the doors open! ~
+Maria
+	Oh! What a relief!
+	Shall we go in, %a000140?
+~ Maria puts her hands together and kneels down to pray to the Goddess. ~
+~ The doors open again! ~
+Maria
+	Oh! Was somebody there just now?
+Maria
+	It is said that this tower contains memories of  people's souls.
+Maria
+	And that that's why there's a mirror here that can see through everything.
+Maria
+	Maybe the vision just then was a memory of souls that have been and gone in our world.

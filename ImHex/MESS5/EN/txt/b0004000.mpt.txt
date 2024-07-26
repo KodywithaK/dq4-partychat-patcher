@@ -1,0 +1,1124 @@
+*: 
+	Hey! Stop your dawdling!
+	Hurry up and get that rock moved!
+*: 
+	Oi! Stop yer slackin'! It'll be a whippin' for you if you don't move the next rock a bit smartish.
+*: 
+	What's that look on your face?
+*: 
+	Slaves are supposed to have eyes like the dead!
+*: 
+	You make me sick!
+	Get back to work!
+~ There's a large wheel turning as the slaves walk. ~
+*: 
+	Ohhh... That wretched Order of Zugzwang...
+	Before they came along, we were just peacefully getting on with our lives.
+*: 
+	Now we have no freedom whatsoever. They won't even let us carry on worshipping the Goddess.
+*: 
+	Haah...haah...
+*: 
+	Don't slow me down, mate.
+	I don't want a whipping.
+*: 
+	Ugh! How many more rocks do we have to move before we can get a rest?
+*: 
+	Haah...haah... I reckon we need to move at least another thousand rocks before they let us rest.
+*: 
+	I'm the water girl. Can I offer 
+	you a drink, handsome?
+*: 
+	Here you are.
+*: 
+	Okay. Just come and find me
+	when you get thirsty, then.
+*: 
+	Come on! Get movin'!
+*: 
+	I'll have to smash your face in with this rock if you don't get back to work!
+*: 
+	Get these bags of stones carried upstairs! The leader of the Order is getting impatient for the temple to be finished.
+*: 
+	Keep working! Keep working!
+	Work until you drop dead for all I care!
+*: 
+	For mother's sake...
+	Yaaah!
+*: 
+	Chip away, chip away, chip away some more...
+*: 
+	..................
+~ There's no response. ~
+~ He doesn't seem to be in the mood to chat. ~
+*: 
+	Haah... Haah... Maybe I should marry a soldier.
+	Maybe then I wouldn't have to be a slave any more.
+*: 
+	Haah... Haah...
+*: 
+	Haah... Haah...
+*: 
+	Haah... Haah...
+	Don't get in my way!
+*: 
+	It's a disgrace, I say! It's just pure evil to force a poor old man like me to carry heavy sacks about like this.
+*: 
+	You're not plotting another escape bid, are you? You can count me out this time if you are.
+*: 
+	I still haven't recovered properly from the whipping I got when they caught me the last time.
+*: 
+	Haah... Haah...
+*: 
+	..................
+~ There's no response. ~
+~ He doesn't seem to be in the mood to chat. ~
+*: 
+	Haah... Haah...
+*: 
+	Please... Don't talk to me now...
+	I'm just too tired.
+~ She looks like she's really struggling. ~
+~ It might be best not to disturb her. ~
+*: 
+	There's going to be a big statue here of the deity that the Order of Zugzwang worship.
+*: 
+	That probably means they'll end up destroying those stairs leading down just there.
+*: 
+	I reckon they'll do away with us as soon as the whole thing's finished too.
+*: 
+	We have to find a way to escaⓚⓛ
+	Oops! I must keep my voice down!
+*: 
+	This isn't good enough! We need more rocks!
+*: 
+	Ha ha ha. You slaves are lucky, lucky people.
+*: 
+	What better way to spend your entire lives than working to build the exalted White King's Paradise?
+*: 
+	It must be more than twenty years now since I was first made a slave.
+*: 
+	And you were just a young boy when you were brought here.
+*: 
+	It can't have been an easy childhood for you, eh?
+*: 
+	Keep working! Keep working!
+	Working is the key to happiness!
+*: 
+	Hurgh... Hurgh...
+	It's too heavy. I can't move it.
+*: 
+	This is just between you and me, but...
+*: 
+	When the temple is finished, our great ruler says he will set all of you slaves free.
+*: 
+	Naturally there's a condition, which is that you all become followers of the Order of Zugzwang, but that's no hardship.
+Harry
+	Look out, %a000090! We can't loaf about here, otherwise we'll be in for another whipping.
+Harry
+	Or did you want to talk about yet another escape plan!? We've been stuck here for ten years already, after all.
+Harry
+	I still feel terrible about what
+	happened to your father.
+Harry
+	I'm sure you took his last words to heart and you want to set about finding your mother.
+Harry
+	I envy you. There's nothing left for me out there.
+	My brother will have been made king by now.
+Harry
+	Still, there's no use feeling sorry for myself.
+	Better get back to work.
+*: 
+	What do you think you're doing!? Get back to your work area immediately!
+*: 
+	And don't even think for one second about trying to escape!
+*: 
+	What!? You want to help that geezer 'cos he's movin' rocks there all by himself?
+*: 
+	Ha ha ha! You've got a nerve! I'd shut up if I were you, else you'll soon regret tryin' to tell us how to run the place!
+*: 
+	Don't disturb me, mate.
+*: 
+	I'm the only one manning this bit, so I can't afford to waste any time.
+*: 
+	The leader of this place is saying stuff about saving the world.
+*: 
+	That's all well and good, but it doesn't justify destroying an ancient temple and forcing us folk to build a new one in its place.
+*: 
+	Would you like some water? You know, there are monsters around all over the place outside. At least we can feel safe here.
+*: 
+	And it's all thanks to the great ruler.
+*: 
+	Please. Please keep the noise down.
+	This is my only chance for a rest.
+Soldier
+	This is terrible...
+	They made my little sister Maria a slave.
+Soldier
+	I wish there was something I could do, but I can't possibly act against the great ruler.
+Soldier
+	Er, oh dear! I really shouldn't have said all that to one of the slaves!
+~ It's an old grave. ~
+~ There don't seem to be any new crosses here. ~
+~ So what can have become of the slave that died ~
+~ just the other day? ~
+~ The jail door is locked shut. ~
+*: 
+	Damn it! Let me out of here!
+	This cult tells nothing but lies!
+~ The jail door is locked shut. ~
+*: 
+	Right! That's enough for today!
+*: 
+	Off to your cells, everyone.
+	It'll be an early morning again tomorrow!
+Harry
+	Awake at last, are you, %a000090?
+Harry
+	You seemed a bit agitated. You weren't having another bad dream about being whipped, were you?
+Harry
+	You bring it on yourself most of the time, you know. We slaves have to keep our heads down if we want an easy life.
+Harry
+	...Who'd have thought I'd ever turn out to be the obedient one, eh? Ha ha ha!
+~ The door won't open. It seems to be locked from the other side. ~
+Harry
+	It was your father's death that made me change my tune and become more serious and submissive.
+Harry
+	I can't believe it's been ten years already. Time flies when you're having fun, eh?
+*: 
+	Ugh, don't wake me up! I need every minute of sleep I can get!
+*: 
+	Morning, %a000090.
+*: 
+	I hear it's been ten years now since you were brought here as a kid and forced into slavery.
+*: 
+	Sounds like you've had a pretty tough time of it, eh? Poor thing.
+*: 
+	Yikes! Sorry! I won't slack off any more, I promise. Please don't whip me again!
+*: 
+	Zzzz...
+*: 
+	Ugh. This used to be our sacred place of worship before the Order of Zugzwang came along.
+*: 
+	I still have faith, though, even after all that's happened to us. I know we'll all be saved, I believe it in my heart.
+*: 
+	Have you heard the gossip? Apparently, when the temple is finished, we're all going to be set free.
+*: 
+	I've never heard such rubbish! You'd have to be a complete fool to believe that.
+*: 
+	It's just propaganda that they put about to make us work harder, that's all.
+*: 
+	But they said it's true...
+*: 
+	Honestly! There's no helping some people. Did they tell you ⓗgullibleⓘ has been removed from the dictionary too!?
+*: 
+	Hah, it's you! You're the one whose old man was killed by one of the people of this temple, eh?
+*: 
+	Y'know, you must never forget the pain you felt that day.
+*: 
+	It's strong feelings like that that make the difference between life and death here.
+*: 
+	I have to tell you something.
+*: 
+	See that girl over there, Maria? She was a follower of the Order, but then they made
+	her into a slave.
+*: 
+	Something about her going against orders and trying to protect a child slave or suchlike.
+*: 
+	Her brother is a soldier for the Order as well, would you believe? I can't believe they'd treat her so harshly.
+Maria
+	I've, er...always found it a little bit difficult to get along with the Order's philosophies.
+Maria
+	So it's actually quite a good thing that I angered him and was made into a slave.
+Maria
+	Now I can see how so many people have been forced into working for the good of the Order.
+Maria
+	I've also heard talk that the Order of Zugzwang is being controlled by some kind of terrifying power.
+Maria
+	The question is, who's going to
+	stand up and confront it?
+~ %0%a000090 examines the pot. ~
+~ Urgh! What a smell! It looks like it must be what the slaves use as their toilet! ~
+~ %0%a000090 examines the pot. ~
+~ There'll be no fixing this if it gets smashed. ~
+~ It might be better not to throw it. ~
+*: 
+	Get to work! Or do you want to feel 
+	my whip again?
+*: 
+	Not you again! You've certainly got some nerve, causing trouble all the time.
+*: 
+	Get out of my sight!
+*: 
+	This isn't your work area! Get to your correct position at once!
+*: 
+	The great ruler says that the era of darkness will soon be upon us.
+*: 
+	When the time comes, the Order of Zugzwang will save us all.
+*: 
+	We should all be eternally grateful
+	for this blessing.
+*: 
+	You looking for someone? If it's Harry you're after, he's right down below. They moved him down there today.
+*: 
+	Will you really be freed when the temple is completed? Yes, of course you will!
+*: 
+	So just focus on that and put your back into your work, do you hear?
+*: 
+	I doubt I'll still be alive by the
+	time this temple's finished.
+*: 
+	But at least they won't be able to whip me when I'm dead. My body and spirit will be free at last.
+~ What a shock! One of the slave girls is being whipped! ~
+*: 
+	You stupid girl! How dare you make my shoes dirty!? You need some sense beating into you!
+Maria
+	I-I'm so sorry! Please forgive me!
+*: 
+	Never! You've only just become a slave,
+	haven't you, girl?
+*: 
+	So maybe it's best that I hammer it home to you what your new life's going to be like!
+Maria
+	Aaargh...!
+Harry
+	Huh! That cretin!
+*: 
+	..................
+~ There's no response. ~
+~ He doesn't seem to be in the mood to chat. ~
+*: 
+	That poor girl, being whipped so much!
+*: 
+	This is terrible. Somebody should do something.
+Harry
+	Hey, %a000090! Where did you appear from all of a sudden?
+Harry
+	I don't think I can stand to watch this any longer.
+*: 
+	Yaah!
+Harry
+	I can't put up with this a minute longer!
+	Come on, %a000090!
+*: 
+	Hey! You want a piece of the action too, do you? I'd be more than happy to oblige!
+Maria
+	You mustn't get involved like this! Please don't get yourselves into trouble on my account.
+*: 
+	Don't make a fuss, mate! They'll punish us all if you're not careful.
+*: 
+	You mustn't go against the establishment.
+	Just keep your head down. That's the only way
+	to survive this place.
+*: 
+	Oi! Nothin' to see here!
+	Just get back to work!
+Soldier
+	What's going on here?
+	What's all this fuss about?
+*: 
+	Huh! These two boys just came and attacked me for no reason!
+Soldier
+	And the girl?
+*: 
+	Er, y-yes. She was making a fuss too, see...
+Soldier
+	..................
+	...Very well.
+Soldier
+	See that she's given medical treatment at once!
+*: 
+	S-sorry? ...Er, yes, sir. Right away!
+Soldier
+	And throw these two boys in jail!
+*: 
+	Yes, sir!
+*: 
+	Let's go!
+Harry
+	This is bad news. Still, I suppose it's better than getting a whipping! Ha ha ha!
+Harry
+	I suppose there's nothing much we can do. May as well just relax and enjoy the break, eh?
+Harry
+	Hm. I wonder how long they're
+	planning on keeping us in here.
+Harry
+	Hey! It sounds like someone's coming!
+Harry
+	What do you suppose that was all about?
+	Let's go and have a look!
+Maria
+	Thank you so much for coming to my rescue before.
+Harry
+	Oh, you'reⓚⓛ
+Maria
+	Come this way.
+Soldier
+	I can't thank you enough for helping my little sister, Maria. My name's Joshua.
+Joshua
+	I've thought this of you before, but you
+	seem different from the other slaves. Your
+	eyes are alive, somehow.
+Joshua
+	And that's why I've chosen you to ask this favour of. Will you hear me out?
+Joshua
+	You see, it's just a rumour but...
+Joshua
+	Well, there are whispers that all of the slaves will have to be killed when the temple is finished to keep what happened here a secret.
+Joshua
+	The thought of that happening to my beloved Maria!
+Joshua
+	So I'm begging you, please take her away from here!
+Joshua
+	When you were brought here all those
+	years ago, your money and belongings
+	were dumped in that barrel.
+Joshua
+	This place... This is where slaves are brought when they die. The barrels are used for floating their bodies away from here.
+Joshua
+	I know it must sound like a horrible idea, but if you float away in one of those barrels, you may just make it out alive.
+Joshua
+	But you have to hurry! Get inside the barrel quick before someone finds us here!
+Joshua
+	Well, I'm going to tell you anyway.
+Maria
+	.....................
+~ Maria is hanging her head down in silence and won't reveal what she's thinking. ~
+*: 
+	Oi! Take me with ya, mate!
+~ Joshua undoes the chain around the barrel and, closing his eyes in prayer that it makes it to safety, sets it free. ~
+Harry
+	What are you waiting for, %a000090? We can't pass up a chance like this!
+Harry
+	Come on! Let's get inside that barrel!
+Harry
+	What are you doing, %a000090!? Hurry up and get inside the barrel before someone comes along and finds us!
+~ Something terrible's happening to a girl who looks a lot like Maria. It would be cruel to just abandon her! ~
+Nun of the Above
+	Ah! What a relief to see you awake at last!
+	You must have been exhausted, child.
+Nun of the Above
+	You've been sound asleep for five days now. I was starting to worry that you'd never wake up.
+Nun of the Above
+	I still can't get over the shock of how you got here, in a barrel of all things!
+Nun of the Above
+	Your companion's been telling me all about it. You escaped from the most awful-sounding place, you poor child.
+Nun of the Above
+	This is Heaven's Above Abbey, and we sisters here are all nuns of the Order of the Above.
+	Please rest here until you feel well again.
+Nun of the Above
+	Oh yes. We found those clothes in amongst your belongings.
+Nun of the Above
+	The things you had on were in such a state that we thought it would be best if you were spruced up a bit.
+Harry
+	%0%a000090! You're finally awake!
+Harry
+	And you've changed and everything! Oh yes, you did bring a few things with you.
+Harry
+	Look at me, though, still every bit the slave! I suppose it doesn't really matter.
+Harry
+	Much more important is that Maria's going to take part in some kind of baptism ceremony so that she can live here from now on!
+Harry
+	You're probably not really in the mood having just woken up, but we should go along and watch.
+Nun of the Above
+	We will now call upon the Goddess to bestow her blessing on our new friend, Maria.
+Nun of the Above
+	We thank the Goddess that you found your way here to us at Heaven's Above Abbey, dear friend Maria.
+Nun of the Above
+	And we call upon the Almighty One to grant you her blessing on this day.
+~ Abbess Abovall pours ruby-coloured liquid slowly from the glass and hands it to Maria. ~
+Nun of the Above
+	With this symbolic drink, we pray that the protection of the Goddess now flows within and around you.
+Nun of the Above
+	Henceforth, you will dedicate yourself to your studies such that the beauty of your blessed soul may never be sullied.
+Nun of the Above
+	This concludes our ceremony. Now, let us all return to our duties.
+Nun of the Above
+	You're one of the fellows who was washed up here in that barrel with Maria, aren't you?
+Nun of the Above
+	The more I speak with that dear girl, the more I can't fail to be impressed by how sweet she is in her nature.
+Nun of the Above
+	It's almost as if she was born solely for the purpose of serving the Goddess.
+Maria
+	Oh! You're finally up and about again! It's such a relief to see you looking well.
+Maria
+	I haven't really thanked you properly for bringing me to safety like my brother asked.
+Maria
+	It's so awful to imagine him and all those other poor slaves still stuck there in that wretched place.
+Maria
+	I feel truly blessed to be here and to be free.
+	The Goddess must have had a hand in my good fortune.
+Maria
+	Um, my brother gave me this and I want you to have it, %a000090.
+~ %0%a000090 receives one thousand gold coins! ~
+Maria
+	I hope it'll come in useful. I have faith that the courage you and Harry have will be like a beacon to guide our troubled world into the light.
+Maria
+	I haven't really thanked you properly for bringing me to safety like my brother asked.
+Maria
+	It's so awful to imagine him and all those other poor slaves still stuck there in that wretched place.
+Maria
+	I hope it'll come in useful. I have faith that the courage you and Harry have will be like a beacon to guide our troubled world into the light.
+*: 
+	I wish I could go out and play!
+*: 
+	Hey! Did you know that there's a big town to the north of here? It's amazing. There's so much to do there.
+Nun of the Above
+	Oh yes. We found those clothes in amongst your belongings.
+Nun of the Above
+	The things you had on were in such a state that we thought it would be best if you were spruced up a bit.
+Nun of the Above
+	I'd like you to have this statue of the Goddess as a good luck charm for your safe onward journey.
+~ %0%a000090 receives a crude image. ~
+~ %0%a000180 acquires a crude image. ~
+Nun of the Above
+	That statue was carved with love and prayers by we nuns of Heaven's Above Abbey.
+Nun of the Above
+	It doesn't have any special powers or anything like that, but I hope it will at least make a nice keepsake of your time here.
+Nun of the Above
+	We make all of our own clothes and grow our own food here at the abbey, you see.
+Nun of the Above
+	So we're used to making things for ourselves.
+*: 
+	I'm here 'cos I ran away from my husband. He's a mean old ruffian, so he is.
+*: 
+	Eh? You run away from somewhere an' all, did you? It's a small world!
+Nun of the Above
+	I've heard all about what happened to you, you poor thing. A slave for ten years! But now you're free at last.
+Nun of the Above
+	I'm sure there will never again come a time when you are forced to submit to the will of another.
+Nun of the Above
+	Your father is an angel in heaven now.
+Nun of the Above
+	So it's for you and you alone to decide what the future holds, where you'll go and what you'll do.
+Nun of the Above
+	But don't let this overwhelm you. This freedom is the essence of life, and you must savour it.
+Nun of the Above
+	I heard talk of the Order of Zugzwang a little while ago when I was staying at a town on my travels.
+Nun of the Above
+	It seems they want to create some kind of utopia where everyone can live in happiness and peace.
+Nun of the Above
+	It would be wonderful if this ideal world was possible, but the happiness of one's family and friends has to be one's first priority.
+Nun of the Above
+	If people could just ensure that much, then everyone would end up happy that way too!
+Nun of the Above
+	This room is set aside for when we receive important lady guests.
+Nun of the Above
+	We had a young rich girl here until just the other day undergoing her domestic goddess training.
+Nun of the Above
+	She was such a beautiful and kind-hearted girl. I think we probably learnt more from her than she did from us!
+Nun of the Above
+	First we were blessed with her presence, and now we have your Maria. We're so lucky to have such delightful people around us.
+Harry
+	Sorry I came out without saying anything just then, %a000090.
+Harry
+	I knew Maria all that time when we were slaves, and yet I never noticed until today how beautiful she is.
+Harry
+	I wonder if she's planning on staying here forever. It's not as if we could even stay with her if we were inclined to.
+Harry
+	Oh well. I'm not sure what I'm going to do from here. Let me know when you're leaving, won't you?
+Harry
+	Are you ready to go now?
+Harry
+	It's about time you set off in search of your mother, I suppose.
+Harry
+	I don't really have anywhere special to go.
+	Can I tag along with you?
+Harry
+	Brilliant! Now that's decided, let's get going!
+Harry
+	I'll go and tell everyone we're leaving.
+	You wait here!
+Harry
+	Well, that's just charming!
+Harry
+	Anyway, if I remember rightly, you're supposed to be my lackey, aren't you?
+Harry
+	So you'd better start listening to your master, understood?
+Harry
+	Oh...
+Harry
+	Still, we were ever so lucky making it here alive, don't you think?
+Harry
+	I'd almost given up hope back there in the barrel.
+	I was despairing, and then I heard a noise like a bell ringing.
+Harry
+	It relaxed me somehow, made me stop worrying. Now I come to think of it, it was probably the bell from this abbey.
+~ The cat is walking happily through the grass. ~
+Nun of the Above
+	So you're leaving us. I hear you're embarking on a journey in search of your mother.
+Nun of the Above
+	Perhaps you might be able to find some clues at the large town to the north of here.
+	Take care, my child.
+Maria
+	Thank you so much for everything.
+Maria
+	I'm going to pray here every day for all of those poor slaves still imprisoned at the temple.
+Maria
+	And I shall also be praying that you manage to find your mother, %a000090. Please take care on your travels. I'll never forget you.
+Abbess Abovall
+	You're a grown man now, %a000090.
+Abbess Abovall
+	It's up to you to find your own way through the journey of life.
+Abbess Abovall
+	But you must never feel alone. Remember that the Goddess is watching over you, always.
+Abbess Abovall
+	I'll be praying for Her to guide you on your journey.
+Harry
+	Time for the off!
+~ Harry joins %a000090! ~
+Abbess Abovall
+	You're a grown man now, %a000090.
+Abbess Abovall
+	It's up to you to find your own way through the journey of life.
+Abbess Abovall
+	But you must never feel alone. Remember that the Goddess is watching over you, always.
+Abbess Abovall
+	I'll be praying for Her to guide you on your journey.
+Maria
+	Thank you so much for everything.
+Maria
+	I'm going to pray here every day for all of those poor slaves still imprisoned at the temple.
+Maria
+	And I shall also be praying that you manage to find your mother, %a000090. Please take care on your travels. I'll never forget you.
+Nun of the Above
+	If you travel north from here, you'll come to the large town of Fortuna.
+Nun of the Above
+	A lot of travellers pass through the place, so there's a good chance that you'll pick up some useful information there.
+~ The cat is playing happily. ~
+~ The cat is chasing insects in the grass. ~
+Nun of the Above
+	I'd like you to have this statue of the Goddess as a good luck charm for your safe onward journey.
+~ %0%a000120 receives a crude image. ~
+~ %0%a000180 acquires a crude image. ~
+Nun of the Above
+	That statue was carved with love and prayers by we nuns of Heaven's Above Abbey.
+Nun of the Above
+	It doesn't have any special powers or anything like that, but I hope it will at least make a nice keepsake of your time here.
+Nun of the Above
+	We make all of our own clothes and grow our own food here at the abbey, you see.
+Nun of the Above
+	So we're used to making things for ourselves.
+*: 
+	I'm here 'cos I ran away from my husband.
+	He's a mean old ruffian, so he is.
+*: 
+	You've got kind eyes, though, you have.
+	You'll make someone a nice husband, my lovely!
+Nun of the Above
+	This is Heaven's Above Abbey. We have many lost and suffering sheep finding their way to our door.
+Nun of the Above
+	And you're among them. So young and yet you've seen so much suffering! Oh, dear Goddess, have mercy!
+Nun of the Above
+	This is Heaven's Above Abbey. We have many lost and suffering sheep finding their way to our door.
+Nun of the Above
+	I can see that even you, a monster, have some sadness in your heart. Be strong, my child.
+*: 
+	Maria is just so pretty!
+*: 
+	But all she ever does is pray, and she looks so sad and lonely sometimes.
+Maria
+	It was always just my brother and I, even when I was really small.
+Maria
+	Life was hard and we were living on the edge most of the time.
+	㈡
+	Then we found out about the Order of Zugzwang, and Joshua decided to become one of their soldiers.
+Maria
+	I was lucky enough to be able to study under Bishop Ladja, and we were so grateful for the opportunity to pull ourselves out of the mire.
+Maria
+	But I can never come to terms with the idea of sacrificing so many people just to build a grand temple.
+Maria
+	I'm so worried about what's become of Joshua. But there's nothing I can do apart from sit here and pray for him each day.
+*: 
+	Good heavens! You're fighting alongside %a000090, you say?
+Maria
+	What a noble cause for a monster! Make sure you do your best and give him all the help he needs!
+Nun of the Above
+	This is the visitors' lodgings. It's rather cramped, but would you like to rest for a while?
+Nun of the Above
+	Very well. I wish you pleasant dreams.
+Nun of the Above
+	Good morning! It's another beautiful day outside.
+Nun of the Above
+	We value every guest we have here at the abbey extremely highly. I do hope we'll make your acquaintance again.
+Nun of the Above
+	The more I speak with that dear girl, the more I can't fail to be impressed by how sweet she is in her nature.
+Nun of the Above
+	I know it's wrong to doubt people...
+Nun of the Above
+	But I find it hard to believe that any spiritual leader who'd turn that lovely soul into a slave could ever be good enough to save the world.
+Nun of the Above
+	This room is set aside for when we receive important lady guests.
+Nun of the Above
+	We had a young rich girl here until just the other day undergoing her domestic goddess training.
+Nun of the Above
+	She was such a beautiful and kind-hearted girl. I think we probably learnt more from her than she did from us!
+Nun of the Above
+	First we were blessed with her presence, and now we have your Maria. We're so lucky to have such delightful people around us.
+Nun of the Above
+	Good heavens! A monster in our peaceful sanctuary!
+Nun of the Above
+	Oh, I see. You're with %a000090, are you? Well, I'm glad to hear you're working for a worthy cause.
+*: 
+	Ah-phew... Daddy...
+	Zzzz...
+*: 
+	The poor girl probably needs a father.
+Nun of the Above
+	Zzzz...
+Nun of the Above
+	Ah-phew, ah-phew...
+~ The cat is sleeping peacefully. ~
+Nun of the Above
+	This is the visitors' lodgings. It's rather cramped, but would you like to rest for a while?
+Nun of the Above
+	Very well. I wish you pleasant dreams.
+Nun of the Above
+	Good morning! It's another beautiful day outside.
+Nun of the Above
+	We value every guest we have here at the abbey extremely highly. I do hope we'll make your acquaintance again.
+Maria
+	I really regret the involvement I had with the Order of Zugzwang.
+Maria
+	But the one good thing to come out of it was meeting you and Harry, %a000090. I wouldn't change that for the world.
+Nun of the Above
+	That's odd. Maria's gone all red. I wonder what's the matter.
+*: 
+	This here's the town of Fortuna, the land of hope and glory!
+*: 
+	Oh, man! I lost again. I guess there's just no such thing as a quick buck in this life.
+*: 
+	Why don't ya take a stroll outside town for a while? You'll soon pass the time till evenin'.
+*: 
+	I'm tellin' ya, the place sure looks different
+	of a night.
+*: 
+	I came here because I'd always dreamt of becoming a dancer.
+*: 
+	I'm going to do it! I won't let anyone put me off.
+	I'll be the smoothest swinger in town!
+*: 
+	Meooow...
+*: 
+	I came to Fortuna here because I heard of an amazing shop selling the most unusual items.
+	But it's closed during the day, apparently.
+*: 
+	I came to Fortuna here because I heard of an amazing shop selling the most unusual items.
+	But it's closed during the day, apparently.
+*: 
+	What!? You bought a wagon there? Dear Goddess! Forgive me for my overwhelming jealousy!
+*: 
+	I'd love to head over there and buy one
+	myself, but my wife makes a terrible fuss
+	if I go out after dark.
+*: 
+	I came to Fortuna here because I heard of an amazing shop selling the most unusual items.
+	But it's closed during the day, apparently.
+*: 
+	What!? You bought %a040100 there? I had no idea anything like that was even for sale!
+*: 
+	I'd love to head over there and buy one
+	myself, but my wife makes a terrible fuss
+	if I go out after dark.
+*: 
+	Welcome!
+*: 
+	Ya can read, right? Like the sign says, customers only through here.
+*: 
+	You want something, mister?
+*: 
+	I'm kinda busy right now.
+	I'm playing hide-and-go-seek.
+	We can talk later, okay?
+*: 
+	Hey, mister! Can't you go talk to someone else?
+	He's gonna find me!
+~ ⓗNo passage without purchase! ~
+~ Store customers only, please!ⓘ ~
+~ ⓗThe Old Curiosity Shop. Your one-stop source of all things curio, served with a city-wide smile.ⓘ ~
+*: 
+	Do you know about the Old Curiosity Shop?
+*: 
+	Even the shop curtain is a really rare item. It's a Fortuna slime curio!
+*: 
+	Apparently it's the only one of its kind, so the storekeeper won't consider selling it to you unless you're a very special customer.
+*: 
+	No? It's a real strange place, on the far west side of town.
+*: 
+	No way! You bought the slime curio?
+*: 
+	That's amazing! If I was you, I'd put it on display in a museum or something. I mean, it's like, ultra-rare!
+*: 
+	Hello. You look like %H0860%Xa fellow traveller%Yfellow travellers%Z.
+	I'm a travelling salesman, you know.
+*: 
+	I came here from the north-west. Passed a dismal-looking town on the way. It looked really
+	run-down.
+*: 
+	I couldn't believe people were actually living in a place like that.
+*: 
+	Well, hi there.
+	Know what I just heard?
+*: 
+	Apparently there's a spell called Peep that tells ya all kinds of stuff about items and things.
+*: 
+	Hi there. Oh, you're one of my husband's pals?
+	What do you make of it, then?
+*: 
+	He keeps talkin' about going to do business in this big castle town way up in the north-east.
+*: 
+	But I've heard some pretty scary things about that place. I don't know if it's such a great idea.
+*: 
+	Want somethin' to drink, my friend?
+	What's that? Ya don't drink alcohol?
+	Most people your age just love the stuff!
+*: 
+	I might be way off base here, but I'm guessin' ya come from a pretty down-and-out kinda background, huh? Am I right?
+*: 
+	I gotta get dinner on the table before my old man and son get home.
+*: 
+	You look like %H0860%Xa traveller%Ytravellers%Z to me.
+	Don't you miss having a home to
+	go back to in the evening?
+*: 
+	No, I guess you're too young to feel
+	like that yet, huh?
+*: 
+	Yee-ha... Yee-phew...
+	Yee-ha... Yee-phew...
+*: 
+	Time don't stop for no one, you know.
+	It just keeps marchin' on.
+*: 
+	Fortuna was just a tiny little village when I was growin' up, but ever since they made that bridge to the north, folk have been flockin' in.
+*: 
+	Must be ten years now since it was made, I guess.
+Mystic Mridula
+	Kah ha ha hah! Well-well, well-well!
+	I am Mystic Mridula, please. The Fortuna
+	fortune-teller of fortunes! Kah ha ha ha hah!
+Mystic Mridula
+	I am very sorry, please, but I am only telling fortunes at night. Unless you would be a bit of handsome young totty, of course! Kah ha hah!
+Mystic Mridula
+	Kah ha ha hah! Well-well, well-well!
+	I am Mystic Mridula, please. The Fortuna
+	fortune-teller of fortunes! Kah ha ha ha hah!
+Mystic Mridula
+	Usually, I am only telling fortunes at night. But for a handsome young lovely like you, I will be doing it any time of day! Kah ha ha hah!
+Mystic Mridula
+	Yesss... The big-big hand of evil is casting a whopper of a shadow over the world.
+Mystic Mridula
+	Kah ha ha ha hah! Believe it if you will. Or don't if you will not. I am telling only what I see.
+*: 
+	I'm Monty, the famous monster monitor. But I'm sure you've heard of me, haven't you?
+Monty
+	Hmm... There's a twinkle in your eye that I like, %A0120%Xmister%Z%B0120%Xlady%Z%C0120%X%Z! A kind twinkle, and a sharp one at that.
+Monty
+	I wouldn't mind betting you could tame monsters and get them to join your party, you know.
+Monty
+	What? How would you go about that?
+	Ah-ha! Let me explain...
+Monty
+	First, you need to get hold of a wagon.
+Monty
+	Then you need to fight the monsters. But not
+	with any malice in your heart. No, you need to
+	feel the love!
+Monty
+	When the monsters feel your compassion, they'll ask if they can join your party.
+Monty
+	But they only respect adversaries who are
+	stronger than them. Which means you need
+	to defeat them first.
+Monty
+	Well? Did you follow all that?
+Monty
+	Good! I bet someone like you could befriend dozens of monsters!
+Monty
+	Of course, having a wagon will let you take a lot
+	of monsters around with you, but even then, there are limits.
+Monty
+	And that's where I come in!
+	I can look after your surplus, if you like.
+Monty
+	Then I'll explain it again...
+Monty
+	Huh? You haven't heard of me?
+	Oh, well...
+*: 
+	Hi! I'm, like, Monty's assistant, Carla.
+Carla
+	Ya know, if you, like, wanna get monsters to do
+	what you say, you've gotta wait until they're, like, way wise.
+Carla
+	If you can get their wisdom up to, like, twenty or more, they should pretty much do what you tell them.
+Carla
+	Guess you better, like, leave them in your wagon or something until they wise up.
+*: 
+	This is the town prison. If you wanna talk to the inmates, better do it through the bars.
+*: 
+	I still can't believe I got found out.
+	I've been cheatin' in that casino for years.
+*: 
+	I guess I peaked too soon. Nothing's gonna beat the days when I used to kidnap people and sell them to the highest bidder!
+*: 
+	Hi there! Welcome to the casino. We've got all kinds of games in here, but everything works with tokens.
+*: 
+	You can buy tokens from the cashier over there.
+*: 
+	They never give you gold back, no matter how many tokens you win.
+*: 
+	The best way to enjoy the fun's to buy tokens with any leftover gold you have, but not to break the bank.
+*: 
+	Listen to this!
+*: 
+	See that monster? It's such a long shot, they're offering odds of twenty to one! Can you believe it!?
+*: 
+	Go on! That's the way!
+*: 
+	I just don't seem to be winning at all today...
+*: 
+	Oops! That's another day's wages down the drain. Oh, well!
+*: 
+	These performers aren't bad.
+*: 
+	That's weird. How come nothing's coming out, huh?
+*: 
+	How's it goin', pal?
+	Are ya winnin'?
+*: 
+	Yeah? Go for it, then! You gotta go for it when you're on a winnin' streak!
+*: 
+	No? Don't worry, it'll come. Your luck's gotta change sometime, right?
+*: 
+	Folks are all talkin' about this darkness that's gonna destroy the world.
+*: 
+	But we've all gotta die sometime, right?
+	Gotta enjoy life while you can, I say.
+	Let the good times roll!
+*: 
+	There's people from all walks o' life in this here town. The good, the bad and the ugly.
+*: 
+	When ya get to my age, them's the kinda things that keep y'alive. Ha ha ha ha.
+*: 
+	Have ya heard about the legendary hero?
+	Everyone's speculatin' about whether he's
+	gonna show or not.
+*: 
+	I've got a thousand G down that says he does!
+Tylbert
+	Shall I compare thee to a winter's day?
+	Thou art more cold and more harsh to me.
+Tylbert
+	Yet o, how I love thee!
+	How I dote on thee, Rometta!
+Tylbert
+	Curse Julian! How bitter a thing it is to look into happiness through another man's eyes!
+	Off with his head!
+Rometta
+	O Julian, Julian, wherefore art thou Julian?
+	I do digest the poison of thy flesh.
+Rometta
+	Yet to bear a poison, I would temper it, for thou art lovely. More fairer than fair!
+Julian
+	O, woe is me! The miserable have no other medicine but only hope.
+Julian
+	Rometta! With joy Tylbert will embrace you,
+	for he's honourable.
+Julian
+	Though love is blind, and lovers cannot see, I will wear my heart upon my sleeve for you to peck at, my love!
+Julian
+	Would then thou follow me? Or should I be like one lost in a thorny wood alone?
+*: 
+	La la la lah... Ⓡ
+	Tragic tra-ge-di-sing... Ⓠ
+	Tragical tragedy... Ⓡ
+*: 
+	The light...of darkness... Ⓠ
+	Spewing forth... La la la lah! Ⓡ
+*: 
+	This is our changing room.
+	Don't go peekin' in the closets, okay?
+*: 
+	The boss said he's gonna let that travellin' theatre group take the stage durin' the day.
+*: 
+	Hey! You ain't allowed in here when we're changin'! Even if you are a casino customer.
+*: 
+	What? These are the results?
+	Unbelievable!
+*: 
+	You just can't get a handle on these slimes,
+	no matter how much you study their form.
+	They're slippery ones, that's for sure.
+*: 
+	Boing, boing! (slurp)
+*: 
+	I'm a hopping slurpsation when I goo for it.
+*: 
+	You want me to tell you something good?
+	Err... I know! The weather gloopcast!
+	Today might be %a001220...
+*: 
+	Hmm... Do I go this way around,
+	or that way around?
+*: 
+	Hah hah hah! Fell off too, did ya?
+	So, you're a ⓗfell-aⓘ then, are ya? Hah hah hah!
+*: 
+	I've never got to the end of this T 'n' T board.
+	Not even once.
+*: 
+	I enjoy seeing other people fall off, though.
+	I've got a great joke about it!
+*: 
+	You're in Fortuna now! Everyone's welcome, and everyone can enjoy the fun!
+*: 
+	Ha-hah!
+	I won big today!
+*: 
+	Gambling's all about knowing when to quit, I guess.
+*: 
+	Purrr...purrr...purrr...
+*: 
+	I've been hearin' rumours about this place they call the White King's Paradise, where all folk are as happy as can be.
+*: 
+	I'd sure like to pay the place a visit if that's the truth an' all.
+Mystic Mridula
+	Kah ha ha ha hah!
+	I am mystic-mystic Mystic Mridula. And I don't like this person who is leading your party.
+Mystic Mridula
+	If you are giving to me a man of my liking, I will gladly look into a crystal ball, poke my finger in dirty tea leaves, whatever you are wanting...
+Mystic Mridula
+	Kah ha ha hah! Welcome to Mystic Mridula's super-duper fortune-telling mumbo-jumbo bonanza!
+	You wanna give it a go, no?
+Mystic Mridula
+	Okey-dokey! You're such a handsome cookie,
+	I'll do it for free!
+Mystic Mridula
+	Yesss... Yesss... Kah ha ha hah!
+	You are looking for something, no?
+	I am seeing a woman who is very close to you.
+Mystic Mridula
+	But in your heart, you are all in a quandary.
+Mystic Mridula
+	Kah ha ha hah!
+	Have no fearings! This woman is alive and kicking, and she is waiting for the day to meet you again.
+Mystic Mridula
+	You should be going to north.
+	There you will be finding something juicy-juicy!
+	Kah ha ha ha hah!
+Mystic Mridula
+	Oh... You are saying that you want to find your own way? Kah ha ha hah! Be my guest! Ka ha ha ha hah!
+*: 
+	According to what I've heard, there's a king somewhere who collects those mini medals that
+	crop up all over the place.
+*: 
+	Apparently, he's so delighted if you take them to him, he gives you little prizes and things!
+*: 
+	And I've already got twenty of the little blighters myself! Who knows what I'll get? Ha ha ha ha!
+*: 
+	My wife's taking a bath at the moment. She deserves it after a hard day at work.
+*: 
+	Aaaah! You surprised me!
+*: 
+	You should be careful, sneaking up on people like that.
+*: 
+	But I've finished my bath already, and I'm dressed again now, so no harm done.
+*: 
+	My kids have started playin' outside of town just recently. It's kind of a worry.
+*: 
+	I wish the world was a more peaceful place,
+	and we didn't have to think about monsters the
+	whole time.
+*: 
+	Ah-phew...
+*: 
+	Folks are complainin' a lot these days.
+	It ain't good for business.
+*: 
+	Hey, handsome! Sit down and enjoy a drink, huh?
+*: 
+	The drinks are okay here, but the food's humdingingly bad. Here, try it.
+*: 
+	Huh? You think it's good?
+*: 
+	You must've been livin' on some pretty rotten meals till now, that's all I can say!
+*: 
+	I'm just the owner of a little armour store right now, but I've got dreams. Yes sir, I'm aimin' for the ⓚⓛ Hic! ⓚⓛ big time!
+*: 
+	That's why I wanna head off to that big castle town in the north-east and start taking some
+	serious orders.
+*: 
+	But my wife ⓚⓛ Hic! ⓚⓛ ain't too happy about the idea. I dunno why she won't let me go. Hic!
+*: 
+	Uuurgh, my 'ead! Hic!
+*: 
+	There's nothing like having your family
+	around you!
+*: 
+	Zzz... Zzz...
+	You won't find me next time!
+	Zzz... Zzz...
+*: 
+	Is Grandpa at the bar again?
+	Oh boy, he's gonna be in trouble!
+*: 
+	You want to talk to Grandma?
+*: 
+	She'll be around town somewhere telling
+	people's fortunes.
+*: 
+	Zzz... Zzz...
+	Like, zzz...
+*: 
+	Hi! I'm, like, Monty's assistant, Carla.
+Carla
+	Ya know, if you, like, wanna get monsters to do
+	what you say, you've gotta wait until they're, like, way wise.
+Carla
+	If you can get their wisdom up to, like, twenty or more, they should pretty much do what you tell them.
+Carla
+	Guess you better, like, leave them in your wagon or something until they wise up.
+*: 
+	Ah-phew, ah-phew.
+*: 
+	Ah-phew... Ah-phew...
+*: 
+	So, Your Majesty, the deal's done.
+	Ah! It's the bosszzz...
+	Ah-phew... Ah-phew...
+*: 
+	You %H0860%Xa traveller, pardner%Ytravellers, pardners%Z?
+	Then you'll be needin' %H0860%Xyourself%Yyourselves%Z a wagon so's you can take more folk around with you.
+*: 
+	I wanna say three thousand gold coins for a wagon like this, but I just can't resist givin' you a discount! So how does three hundred sound?
+*: 
+	Yee-haw! You got yourself a deal! I'll put your wagon outside, and you have yourself a mighty fine trip, pardner.
+*: 
+	Oh, just before you saddle up and move out,
+	you might wanna stop in on old Monty, the
+	monster monitor.
+*: 
+	He's a regular crackerjack when it comes to usin' wagons. He's the expert, if you're lookin' for advice.
+*: 
+	Okay, pardner. You're the boss!
+*: 
+	Sorry, pardner, but you look to be a little
+	short of cash.
+*: 
+	Yee-haw! You got yourself a deal!
+	I'll put your wagon outside, and you have yourself a mighty fine trip, pardner.
+*: 
+	Howdy there, %H0860%Xpardner%Ypardners%Z! Ain't you %H0860%Xone of the ones%Ythe ones%Z I sold that there wagon to a while back?
+*: 
+	I'll be puttin' up more unusual items for sale
+	once they come in. So you be sure to drop by
+	again, y'hear?
+*: 
+	Hiya! Welcome to the casino. Relax, play some games, and have %H0860%Xyourself%Yyourselves%Z a great time!
+*: 
+	They never give you gold back, no matter how many tokens you win.
+*: 
+	The best way to enjoy the fun's to buy tokens with any leftover gold you have, but not to break the bank.
+*: 
+	Listen to this!

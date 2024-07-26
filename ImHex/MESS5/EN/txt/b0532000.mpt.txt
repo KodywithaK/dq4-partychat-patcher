@@ -1,0 +1,260 @@
+%0%a001240
+	Is this a mountain? Or is it a village?
+	Whatever it is, it's pretty amazing!
+%0%a001250
+	This place feels all familiar for some reason.
+	I like it here.
+Sancho
+	Thees place ees the birthplace of señora Mada. Ees esometheeng like magic een the air, no?
+Tuppence
+	It's easy to get lost in a place like this if you
+	don't pay attention. Now, let's see. Which way
+	did we come from?
+%0%a001250
+	The forgotten ones? It'd be horrible to be forgotten. You won't forget me, will you, Dad?
+Sancho
+	Qué? The forgotten ones?
+	What has happened to señora Mada?
+%0%a001240
+	I never forget places I've been, even if I've only been once. I wonder who the people here have
+	been forgotten by.
+Sancho
+	Your Uncle Sancho ees no eso young, you know? But estill, een all of my life, I never esee a village een a place like thees unteel now.
+%0%a001240
+	Sounds like we're the first visitors they've had here in a while.
+%0%a001240
+	Um, I didn't get a birthday present or anything from you in all those years, right?
+%0%a001240
+	So I was thinking... It'd be great if you could get me that flying carpet!
+%0%a001250
+	I thought flying carpets only existed in folk tales
+	and books!
+Sancho
+	Eef we had the flying carpet when I am
+	travelling weeth señor Pankraz, everytheeng would be eso much easier.
+Tuppence
+	It seems the flying carpet is quite a precious item.
+	I wonder how much one could sell something like
+	that for.
+%0%a001240
+	I love being in high places. If we find that tower, I'm going to climb right to the top and look down over the whole world!
+%0%a001250
+	Do you think that tower was built so people could get up to Zenithia? How strange!
+Sancho
+	No... I no remember esuch a tower from the time when I travel the world weeth señor Pankraz.
+%0%a001240
+	We're not bothered about truth and reason, right? We just want to find out more about Grandma.
+Sancho
+	You know, ees very high up here.
+	Thees village, ees een a scary place, sí?
+%0%a001250
+	It's not fair! There are loads of monsters about who aren't evil. They can't help it if some of them get ordered to do bad things.
+Sancho
+	Sí. Ees true. After thees, señor Pankraz, he decided to leave on the quest to find her.
+Sancho
+	The quest from which he never
+	would return...
+Sancho
+	Hahh...hahh... Hahh...hahh...
+	I never esee the place weeth eso many ups and eso few downs!
+%0%a001240
+	Wow! Look! Just look at how far you can see from up here!
+%0%a001250
+	I'm too scared to look down!
+Tuppence
+	I wonder if anyone's plummeted to their death from up here.
+%0%a001250
+	Was Grandma really so powerful? It must've been pretty awful when she decided to leave here, then.
+%0%a001240
+	All this talk about the Goddess and the underworld is a bit complicated, isn't it?
+Sancho
+	You see how great a man señor Pankraz was? He fell een love weeth thees señorita, but eshe ees no ordinary señorita. No, no, no.
+Tuppence
+	Do you think it's true that they were chosen by the Goddess? Maybe they just assume that because they have these special powers.
+%0%a001240
+	Wow! What an amazing key!
+	It's glowing a really strange colour.
+%0%a001250
+	That's the magic key that opens all sorts of doors, right? Hmm, now where was it you can use it again?
+%0%a001240
+	Is this the flying carpet? Do you think it's the real thing? Is it, Dad? Is it real? Can we have a ride on it? I'm so excited!
+%0%a001250
+	It looks just like a normal bit of carpet to me.
+	Do you think it can really fly?
+Tuppence
+	It looks like rather an ancient piece of carpet. Do you think it'll stand up to us all trying to ride on it?
+Sancho
+	Ees okay eef you want to keep eet esafely away een your bag, but you must take eet out esometimes for the airing.
+Sancho
+	Eh! You no worry about eet, friend! Your Uncle Sancho, he can do these chores for you.
+%0%a001250
+	If we stay here, maybe we'll dream about Grandma. That'd be nice. I'd really like to see her.
+%0%a001240
+	I wonder if Grandma ever stayed here.
+%0%a001240
+	Oh, I suppose not. If she lived in the village, then she wouldn't need a room at the inn. Silly me!
+Sancho
+	Even here, there are weapon and armour eshops.
+	But they no eseem to go well here, you no theenk?
+%0%a001240
+	There's a proper shopkeeper and everything, but I wonder if there are ever any customers.
+%0%a001240
+	It sounds like the people here don't often visit the outside world. That must be a bit lonely.
+Sancho
+	Eh! Who ees thees brazen buckaroo!?
+	Señora Mada, eshe was eso happy
+	married to señor Pankraz.
+%0%a001240
+	That's Grandpa Pankraz!
+	Good for him!
+Tuppence
+	Hopefully it won't be too long for me now...
+	Er, nothing. Never mind.
+%0%a001240
+	No way! There's a flying carpet here somewhere? Wow! We'd better find it, Dad!
+%0%a001240
+	Ha! We've already got it.
+	We've already got the flying carpet!
+%0%a001250
+	We can't prove that we're related to Grandma, though. Do you think it matters?
+%0%a001250
+	Sancho said we should always beware of people who try to give us things for free. Does that mean we shouldn't trust that man?
+Tuppence
+	If only I were a relative of hers, then the flying carpet would be mine. Hmph!
+%0%a001240
+	Dad! You mustn't tell fibs, you know.
+	You should tell him the truth.
+Sancho
+	You are no just a relative of señora Mada, friend.
+	You, you are her eson!
+Sancho
+	The people here, they are good to you because you are her child.
+Sancho
+	Ees a miracle! We have found the missing craftsman of Gotha! I never expected to find heem here!
+%0%a001240
+	It's nice to meet people who like Grandpa Pankraz and Grandma Mada so much.
+%0%a001250
+	But Grandpa Pankraz is definitely dead, right? Killed right before your very eyes... Oh! (sob)
+Tuppence
+	Aah! So that's the famous craftsman from Gotha!
+	Well, well, well!
+Sancho
+	Ees a miracle! We have found the missing craftsman of Gotha! I never expected to find heem here!
+%0%a001240
+	Yay! I can't wait until tomorrow!
+%0%a001250
+	Do you think he can really turn a plain old stone into something beautiful? Really!?
+Tuppence
+	So we'll soon see the work of a famous
+	craftsman. I don't know that I'll be able to
+	get a wink of sleep tonight.
+Sancho
+	Ees a miracle! We have found the missing craftsman of Gotha! I never expected to find heem here!
+Tuppence
+	Goodness! That's incredible! Who'd have thought that an old bit of rock like that could be transformed into something so exquisite?
+Sancho
+	Sí, sí! Thees ees a true craftsman.
+	When you esee the fine work like thees, you no feel like the artisans, they are dying, eh?
+%0%a001250
+	It's so pretty! Do you think this was hidden inside the stone all along? Wow!
+%0%a001240
+	That was worth doing, wasn't it, Dad? It's
+	very pretty. You should probably use it to
+	decorate something.
+Sancho
+	Sí, sí... Señor Pankraz, he was loved by everyone.
+	He was, was... (sob)
+Sancho
+	The artist from Lofty Peak...?
+	Eef he was taken by the Goddess...
+Sancho
+	Thees means ees no possible to complete the locket of señora Mada.
+%0%a001240
+	So someone here pledged allegiance to Grandpa?
+	I would've liked to have met him.
+%0%a001240
+	The world's divided into three realms?
+	Did you know that, Dad? I always thought
+	there was only one world!
+%0%a001250
+	If only there was a world where humans and monsters could play together nicely.
+Sancho
+	Sí, I believe these elders, they would feel eso
+	angry to lose señora Mada because eshe had
+	esuch estrong powers.
+Sancho
+	But ees no the fault of you, friend. Or your
+	father, señor Pankraz. You no can tell love to go away when he comes.
+Tuppence
+	I'm prepared to travel to the ends of all three worlds with you, Your Majesty!
+%0%a001250
+	So if we go to the world of the monsters, does that mean we'll find Grandma?
+Sancho
+	Sí. Señor Pankraz, he knew esometheeng about thees. But he no want for me to be eenvolved.
+Sancho
+	You know, he never tell me anytheeng about thees. I, I... (sob)
+Tuppence
+	They may call themselves ⓗEldersⓘ, but they're actually quite young and splendid-looking.
+	How odd!
+%0%a001240
+	So they're losing their powers? And it's just Grandma who still has them?
+%0%a001250
+	Does that mean Grandma's being forced by the bad people to open the gates? Poor Grandma!
+Tuppence
+	I see. Guarding those gates must be quite
+	a responsibility. Rather different from your
+	run-of-the-mill soldiering.
+Tuppence
+	Er...um...dearie me! What a complicated situation we seem to have found ourselves in.
+%0%a001240
+	If the Grandmaster of the Underworld comes here, he'll start destroying the place. We have to go and stop him before he gets here!
+Sancho
+	Ees no esounding good, eh? Maybe een the end, ees thees Grandmaster of the Underworld we must fight, sí?
+%0%a001250
+	So this was Grandma's room. It's nice and big, but it's got a bit of a lonely feel to it.
+Sancho
+	Ees a book of psalms? A book your madre, señora Mada, eshe used to read, sí? You must
+	keep thees memento esafe, friend.
+%0%a001240
+	Did you notice that this room's the highest room in
+	the village?
+%0%a001240
+	It's a bit like in faerie stories where they have the princess locked up in the highest room of a tower!
+Tuppence
+	A book of psalms? I'm sure it will be of use to us in times of need. If only those up on high would be there for us...
+%0%a001250
+	So this was Grandma's room. It's nice and big, but it's got a bit of a lonely feel to it.
+Sancho
+	Sí. Señora Mada, eshe has the beeg heart.
+	Beeg, estrong and beautiful.
+%0%a001240
+	What does she mean by light in your heart?
+	Is that the same as just being light-hearted?
+%0%a001240
+	It's a bit scary in the dark when it's all quiet. Can we please go and stay at the inn now, Dad?
+%0%a001240
+	It's always so quiet here in Grandma's village.
+	It makes me feel a bit sleepy.
+%0%a001250
+	I'm so sleeeepy...
+Sancho
+	Ees late, sí? We no go for the siesta yet?
+	Early to bed, early to rise. Thees ees the best way, you know.
+Tuppence
+	Aah, I'm rather tired today.
+	Er, no, no! I'm fine! Fit as a fiddle!
+%0%a001240
+	I wonder what the food's like here.
+	I'm absolutely starving!
+%0%a001250
+	The forgotten ones? It'd be horrible to be forgotten. You won't forget me, will you, Dad?
+Sancho
+	Sí, sí. The elder peoples, they are always going to bed early. We come back een the morning, okay?
+%0%a001250
+	Sancho said it's rude to visit people too late in
+	the evening.
+%0%a001240
+	I'm not scared of night-time! I don't wet the bed any more, so what's there to be afraid of?
+	...I don't wet it, honest!
+%0%a001250
+	I know how he feels. Scary creatures come out at night. You can hear their footsteps...

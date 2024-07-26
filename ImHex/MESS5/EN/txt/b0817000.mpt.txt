@@ -1,0 +1,51 @@
+*: 
+	Welcome to Rainbow's End Gold Bank, protectin' yer hard-earned gold from the likes of monsters and criminals.
+*: 
+	Here at Rainbow's End we only deal in units of a thousand gold coins. That goes for deposits an' withdrawals alike.
+*: 
+	And we don't even charge ye any fees!
+*: 
+	So, %a000120...
+	What can we be doin' fer ye?
+*: 
+	I'm terribly sorry, %A0110%Xsir%Z%B0110%Xma'am%Z, but it seems the vault's full already. We can't be acceptin' any more deposits, like.
+*: 
+	Sure an' we'd be happy to accept yer gold, but we only deal in units of a thousand coins. So... How much would ye be leavin' with us today?
+*: 
+	I don't mean to be rude or nuttin', but ye don't have that much on ye, so ye don't.
+*: 
+	I'm sorry, but there's barely any space left in the vault at the moment. The most we can accept is %a000520 gold coins.
+*: 
+	Would ye be happy to deposit that amount, would ye? %a000520 gold coins, that is.
+*: 
+	Well that's grand! Another %a000520 gold coins fer the vault, so it is. 'Twill be nice an' safe in there.
+*: 
+	%a000490 gold coins, is it?
+	Right, we'll lock it up in the vault straight away. Ye've no need to worry.
+*: 
+	I-I'm sorry, %A0110%Xsir%Z%B0110%Xma'am%Z, but ye don't appear to have even one gold coin deposited with us at the moment.
+*: 
+	Yer current balance is %a000480 gold coins.
+	So how much will ye be lookin' to withdraw today, %A0110%Xsir%Z%B0110%Xma'am%Z?
+*: 
+	Sure an' that'd be a fine sum, so it would!
+	But ye don't have that much in the bank, y'eejⓚⓛ
+	Ahem! I mean, %A0110%Xsir%Z%B0110%Xma'am%Z...
+*: 
+	I'm sorry. That's more gold than a %A0110%Xfeen%Z%B0110%Xwan%Z can be carryin'.
+*: 
+	So it'll be %a000550, will it?
+	Aye, well. Here y'are...
+*: 
+	Ye've changed yer mind, have ye?
+	Not to worry. Rainbow's End Gold Bank'll be here fer ye when ye need it.
+*: 
+	At the moment, ye've %a000480 gold coins safely tucked away in our vault. Thank you very much.
+*: 
+	We're not keepin' any gold fer yerself at the moment, %a000110, but we look forward to servin' ye again in the future.
+*: 
+	Welcome to Rainbow's End Gold Bank.
+*: 
+	Yer current balance with us is %a000480 gold coins, %a000120. And how can we be helpin' ye today, then?
+*: 
+	We don't have any gold of yerself's in the vault at the moment, %a000110, but can we be helpin' ye still an' all, perhaps?

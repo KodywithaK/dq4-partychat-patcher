@@ -1,0 +1,501 @@
+%0%a001240
+	Yippee! It's Dad! It's Dad! It's Dad!
+%0%a001240
+	You look quite a lot like me, Dad.
+%0%a001250
+	We knew you'd probably be tired, so we decided to leave you be until you woke up.
+%0%a001250
+	There's so much we want to talk about with you!
+%0%a001250
+	It's been a long time since you were last here in the castle, hasn't it, Dad? But don't worry, I can show you around.
+%0%a001240
+	Don't worry about her, she always bursts into tears at the drop of a hat.
+%0%a001240
+	ⓗPrince %a001240 can climb that pillar all by himself (sob).ⓘ ⓗPrince %a001240 can break chairs (sob).ⓘ You know the kind of thing.
+%0%a001250
+	%0%a001240 always plays pranks on her and tries to give her a fright one way or another.
+%0%a001250
+	I nearly had a heart attack once when I heard
+	her shrieking about him walking along the edge
+	of the veranda.
+Tuppence
+	A lowly soldier like me in the great %a000090's bedroom, of all places! The thought of it makes me go weak at the knees.
+%0%a001240
+	The people of Gotha treat you like some kind of idol, Dad! Isn't that amazing?
+%0%a001250
+	People really were on tenterhooks waiting for you to come back. That's why we tried so hard to find you as fast as we could.
+%0%a001240
+	You've never been to Grandma's birthplace
+	have you, Dad?
+%0%a001240
+	Neither have I. So I was thinking that maybe it'd be fun if we could go together!
+%0%a001250
+	We wanted to visit Lofty Peak, but we had to find you first, Dad.
+%0%a001250
+	We knew you'd definitely want to go with us to Grandma's birthplace.
+%0%a001240
+	Uncle Bertie's really kind. He always gives us secret stashes of sweets.
+%0%a001250
+	Uncle Bertie really wants grandchildren, but Cousin Gertie says she's never getting married.
+%0%a001250
+	It's all a bit of a puzzle, really.
+Sancho
+	Sí, ees true...
+	Everytheeng, eet estarts when señor Pankraz, he was lost and he estumbled upon Lofty Peak.
+Tuppence
+	Prince Albert is a cheery, kind-hearted man.
+	Yes, he's very popular with the people.
+%0%a001240
+	We don't have Stolos' staff any more.
+%0%a001240
+	But I'm sure we'll still be able to rescue Mum and Grandma if we put our minds to it!
+%0%a001250
+	We're eight years old already, Dad. That means we can do lots of things to help you.
+%0%a001240
+	Sancho's pretty strong, you know.
+%0%a001240
+	He does get out of breath quite quickly
+	nowadays, though.
+%0%a001250
+	We travelled all over with Sancho, and he taught us all sorts of things.
+%0%a001250
+	We were with him that time we found Stolos'
+	staff too.
+Tuppence
+	Sancho's quite a hero here in Gotha, you know.
+	A loyal royal servant!
+Tuppence
+	The previous king placed great trust in him, apparently. I hope I have a reputation like that one day too.
+%0%a001250
+	If there's no castle up in the sky any more, does
+	that mean it fell down? What if it broke into lots of little pieces?
+Sancho
+	Sí. One Zenithian señorita, eshe came here to the castle when eshe was lost. Thees ees why señor Pankraz ordered the researches to be done.
+Sancho
+	You know, thees Zenithian señorita, eshe estay here een Gotha because eshe no know how to go home. Ees, ees eso esad...
+%0%a001240
+	I can never get that soldier to play with me. He always just stands there on guard, and he won't stop concentrating even for a second.
+%0%a001240
+	I'm not supposed to come up here because
+	it's dangerous.
+%0%a001240
+	But you're with me today, so no one can tell me off.
+%0%a001250
+	I used to like sneaking up here to look at the view.
+%0%a001250
+	I'd stand here and wonder where in the world you and Mum might be.
+Tuppence
+	I adore this kingdom, you know. I'd do absolutely anything to defend it if I had to.
+%0%a001240
+	I had a go at climbing the castle walls a while back to see how high I could get.
+%0%a001240
+	But, just as I cleared the second floor, I was spotted and told to get down.
+%0%a001250
+	I like being indoors too, but I really love
+	being outside.
+%0%a001250
+	It's such good fun hearing all the little birds chatter away to each other.
+Sancho
+	I remember the time señor Pankraz, he leave thees castle to go and look for señora Mada.
+Sancho
+	And now ees, ees my friend's turn...
+	Thees ees fate, sí? And ees my fate to
+	go weeth you.
+Tuppence
+	It used to be my duty to patrol the castle grounds. Before I was assigned to travel with you, that is.
+Tuppence
+	I must admit that I am rather nervous. I do hope that I'll be of some use to you.
+%0%a001240
+	Um, you don't have all that much money, right, Dad? So don't worry about buying anything for me,
+	will you?
+%0%a001250
+	The kingdom's money comes from the kingdom's people and it has to be used for them, apparently.
+%0%a001250
+	If we ever wanted anything for ourselves, we always had to save up and buy it with our own money.
+%0%a001240
+	Brilliant! It'll be fun travelling around together
+	again, Dad.
+%0%a001250
+	Yay! Thanks, Dad. I won't let you down.
+Sancho
+	Gracias, friend. Ees eso good to be travelling together again. Olé! Let's go!
+Tuppence
+	It's an honour to be summoned, Your Majesty.
+	I'll endeavour not to be a burden to you.
+%0%a001240
+	Sancho says he's really strong when it comes to drinking. Does that man's head hurt because he's
+	too weak?
+Tuppence
+	Honestly! Does the man have no shame, admitting to such a thing in the presence of His Majesty!?
+%0%a001250
+	If that's what happens, then there's no way I'm ever going to drink, even when I'm all grown up.
+%0%a001240
+	Chancellor Jeeves was a bad man, wasn't he?
+	...No way! He was killed!? That's a bit unlucky.
+%0%a001250
+	I thought this was Uncle Bertie's room from ages ago.
+Tuppence
+	It's been as peaceful as can be here at the castle ever since that debacle with the Chancellor.
+%0%a001240
+	I didn't used to hang out much here, but %a001250 would come and play here quite often.
+%0%a001250
+	I often used to get Cousin Gertie to tell me what it was like before she became a princess. We had lots of fun chatting!
+Tuppence
+	Princess Gertrude is actually not far from being my ideal woman. What man wouldn't find such a candid, lively beast attractive?
+Sancho
+	The truth ees, señorita Gertrude, eshe makes eso much trouble for señor Albert.
+Sancho
+	Ees good for heem eef we finish our quest esoon. Then he can have the siesta, sí?
+%0%a001240
+	If there are so few people left, do you think it's okay for us to just leave the castle?
+%0%a001240
+	I suppose we can't worry about that. It's more important that we go after the baddies and sort them out first.
+Sancho
+	Esome people, they just go missing. Others,
+	they leave because they eso worried
+	about everytheeng.
+Sancho
+	Now Gotha has once again eets king, maybe the good times, they estart again.
+%0%a001240
+	There was a gemstone in the village you used to live in? I want to go and find it!
+%0%a001250
+	I wonder if we'd find this famous craftsman if we went to Whealbrook. Maybe he's already moved
+	on somewhere else.
+%0%a001240
+	It'd be nice to bring the old man home to his son one day, wouldn't it?
+%0%a001250
+	It's nice that he knows his dad's alive now. I can understand what a big relief that must be.
+%0%a001240
+	You must be desperate to find your mum, just like I'm desperate to find mine.
+%0%a001250
+	Grandma was good at making friends with monsters, right, Dad? Just like you are.
+%0%a001250
+	I really want to meet her.
+Sancho
+	Ees a fine idea, friend! Please, you do thees for your Uncle Sancho, sí?
+%0%a001240
+	That woman usually lives up in the sky, doesn't she? She's really pretty.
+%0%a001250
+	We used to visit that lady every once in a while,
+	but she'd never talk to us.
+%0%a001250
+	I'm really happy that she will now.
+Tuppence
+	I had no idea that there was a Zenithian living in the castle until you brought me here, Your Majesty.
+Tuppence
+	I should imagine most other folk don't realise, either. A beautiful woman like that would be surrounded by admirers if they did!
+Sancho
+	The first time %a001240, he took the Zenithian Sword, I, I was eso moved!
+Sancho
+	As esoon as he can walk, %a001240 ees holding thees esword, and waving eet around.
+Sancho
+	Now I know. Thees ees why the esword, eet came to be een my hands.
+%0%a001240
+	%0%a001250's really friendly with animals and monsters, you know.
+%0%a001240
+	So are you, right, Dad? It's nice that you've got that in common.
+Sancho
+	Eh, friend! Are you ready to leave yet?
+	You no forget the medicinal herbs and the chimaera wings, no?
+Sancho
+	You know, ees always a good idea to check your baggages one more time before you go.
+Tuppence
+	When you're striving towards a goal, it's always good to think about what you might want to do
+	once you've achieved it, right?
+Tuppence
+	My first task when the world's peaceful again will be to find myself a beautiful bride.
+Tuppence
+	Hang on a minute! Why bother waiting? I could hunt her out during my world-saving travels and kill two birds with one stone!
+%0%a001240
+	Uncle Bertie got everyone together for
+	your sake, Dad.
+%0%a001250
+	I really love Monty the monster monitor. Any friend of monsters is a friend of mine.
+%0%a001240
+	There aren't any other children of our age here, so we don't really have any friends.
+%0%a001240
+	It's lucky that %a001250 and I are twins and have each other.
+%0%a001250
+	Everyone here in the castle is really kind.
+	And yet...I still always felt a bit lonely.
+Tuppence
+	I do love Gotha, but I've always found the place has a rather lonely feel to it. It needs more young women and children.
+Tuppence
+	Maybe I'll have to take matters into my own
+	hands and bring back a lovely bride to have
+	lots of children with!
+Sancho
+	Thees castle, eet ees the playground for %a001240 and %a001250 esince they are the leettle bebés.
+Sancho
+	And eef thees terrible theeng no happen
+	to señora Mada, maybe you would have the
+	childhood like thees too, friend.
+%0%a001240
+	You were born in this castle like I was, right, Dad? So we're the same!
+%0%a001250
+	We're not supposed to talk to the soldiers too much because it disturbs them from their work.
+Tuppence
+	I can't help feeling some of my fellow soldiers glaring at me somewhat. They must be jealous that I get to travel with His Majesty.
+%0%a001240
+	That dog really loves %a001250. He wags his tail much more when he sees her than when he sees me.
+%0%a001240
+	%0%a001250 reckons she can understand what animals are saying, you know.
+%0%a001250
+	I love animals! All animals!
+Tuppence
+	That dog's been around ever since I was a young boy. He must be a fair old age by now.
+%0%a001240
+	Um, Dad... Was it lonely being on your own as a statue for all those years?
+%0%a001240
+	I'm the big brother, so I was okay, but %a001250 seemed really sad and upset about it all.
+Sancho
+	Ees really eight years? Esometimes eet feels long, and esometimes eet feels eshort.
+Sancho
+	When I theenk what happened to señor Pankraz...
+	And how, how hard eet ees for you, friend...
+	I, I... (sob)
+%0%a001250
+	We found out you and Mum had been turned to stone when a little bird told us on our travels.
+%0%a001250
+	Then we went looking for Stolos' staff, and then finally we found you.
+%0%a001250
+	I don't remember what Mum looks like, either.
+%0%a001250
+	But I can remember her feeling all warm and
+	smelling nice.
+Tuppence
+	I can only vaguely remember how she looked, but I do know Queen %a001230 was a real beauty.
+Tuppence
+	I do envy you, Your Majesty. I hope I manage to find myself such a stunning wife one of these days.
+Sancho
+	Thees Tuppence, he no eseem like a bad señor, no?
+	Why don't you ask heem to accompany you?
+%0%a001240
+	Tuppence is one of the guards who's always patrolling the castle. I remember his name because
+	it sounds a bit funny!
+%0%a001240
+	I quite like Tuppence. We should take him along with us again!
+Sancho
+	You see, friend. You are loved by everyone.
+	Thees señor, he knows how great you are.
+Sancho
+	You eshould ask heem to accompany you again, no?
+Sancho
+	I ask myself, ⓗWhy you no esee thees chess no more, Sancho?ⓘ, and now I know. Ees because señor Tuppence, he has eet all the time.
+Sancho
+	And ees true. Sí, sí. I remember the look een the men's eyes when they play thees chess.
+	Esometheeng was no right.
+%0%a001250
+	I find that chess set a bit scary for some reason. You won't leave me alone with it, will you, Dad?
+%0%a001240
+	I didn't wet the bed today, Dad! Ahem!
+%0%a001250
+	You sleep all nice and quietly, Dad. %0%a001240 moves about all the time and makes a terrible noise.
+Tuppence
+	It's quite amusing staying in one's own home under these circumstances.
+%0%a001240
+	We never really stayed here very much.
+	We should say yes next time.
+%0%a001250
+	You seem a bit tired, Dad. Are you alright?
+	You must rest every now and then, you know.
+Tuppence
+	If you don't mind the place being rather cramped and shabby, then please do avail yourself of it whenever you wish.
+Tuppence
+	It's the given duty of a soldier to protect the people of his land.
+Tuppence
+	And it's the given duty of a man to protect his family. Isn't that right, Your Majesty?
+%0%a001240
+	Tuppence is right. I wouldn't have expected him to come out with something so deep, though.
+%0%a001250
+	That nun used to be our teacher.
+%0%a001240
+	%0%a001250's really clever. She can do all the three Rs.
+%0%a001240
+	I'm... Well, I'm not quite so clever. But I do try hard!
+Sancho
+	The Goddess, eshe always watches over Gotha.
+	When you are no here, friend, the monsters, eso many times they come flying to the castle...
+Sancho
+	But when they come, the Sword of Zenithia, eet makes the bright light and drives them away.
+Sancho
+	Now I remember thees, eet was very estrange.
+	Maybe ees the work of the Goddess.
+%0%a001240
+	Has that old man been old even since you were little?
+%0%a001240
+	Wow! Then he must be ancient!
+Tuppence
+	Oh dear! I do hope he lives to see the day when things are peaceful again.
+Sancho
+	For your Uncle Sancho, I hope to esee the day when you and your family, they are all happily together again.
+Sancho
+	For thees we must work, friend!
+Sancho
+	Sí. I believe thees too.
+	Señora Mada and señora %a001230, they are both of them alive.
+%0%a001240
+	Well, we know that much! We're hardly just going to leave Mum and Grandma to die, right!?
+%0%a001240
+	We used to stay here every now and then. It's more fun than sleeping at the castle.
+%0%a001250
+	Sancho always used to make us a delicious paella whenever we came to stay here.
+%0%a001250
+	But if I ever woke up at night, I'd catch him looking really miserable, so it was a bit worrying sometimes.
+Sancho
+	Eef you would like to be esafe eenside the castle, you must keep watching outside.
+Sancho
+	Señor Albert, he ask me to estay eenside, but ees my duty to be on guard here.
+%0%a001240
+	Do you think it's okay for guards to be asleep?
+Tuppence
+	I should imagine that he's no longer on duty for
+	the day.
+Tuppence
+	But he's probably sleeping out here instead of his quarters so that he can be quick to notice if there's trouble afoot.
+Sancho
+	Ees no eso many people here een Gotha these days.
+	The guards, they are working too hard.
+Sancho
+	Maybe the guards, they are working too much, no? They no have the time for enough siesta.
+%0%a001250
+	That soldier's really sleepy, but he's still working hard to guard the people of Gotha. What a good man!
+Tuppence
+	It may be arduous for me sometimes during our travels together, but it's hard work for the soldiers left behind at the castle too.
+Tuppence
+	I must try my absolute hardest to do my bit!
+%0%a001240
+	I'm really sleepy, Dad.
+%0%a001250
+	I don't care where we stay, Dad. Just as long as
+	I can get some sleep soon.
+Tuppence
+	Do make yourself at home if you wish, Your Majesty.
+%0%a001250
+	That dog says I look a lot like Grandma Mada.
+%0%a001250
+	Do you think he's been living here in the castle long enough to know?
+%0%a001240
+	Looks like everyone's asleep. We'd better keep quiet. We wouldn't want to wake people up.
+Tuppence
+	Aah! The end of another good day's work!
+%0%a001250
+	The castle's a bit scary of a night. People say it was night-time when Mum was kidnapped.
+%0%a001250
+	That old man always seems to be asleep, even during the day.
+%0%a001250
+	When we've finished travelling and
+	everywhere's peaceful again, it'd be
+	nice to take him out somewhere.
+%0%a001240
+	It was a bit tricky finding Stolos' staff, but we all pulled together and got it in the end.
+%0%a001240
+	It's a good job you have clever kids like us, eh, Dad? Ha ha ha!
+Sancho
+	You know, %a001240 and %a001250, they work very hard for their papá.
+Sancho
+	Ees notheeng makes you more proud than having the wonderful children, sí?
+%0%a001240
+	That man used to be rubbish at singing, but then he practised and got a lot better. Anything's possible!
+Tuppence
+	My home's not too far away from here, so that man's songs were like lullabies to me in my younger years.
+Tuppence
+	I sometimes heard him cry out in his sleep too,
+	mind you!
+%0%a001240
+	Don't worry, I won't fall asleep before I get to bed.
+%0%a001240
+	I was thinking we could have a bath first, anyway.
+	(yawn)
+Sancho
+	Eh, friend. You come weeth me to Patty's pub?
+	We dreenk and have esome laughs, eh?
+Sancho
+	Eh! No, no!
+	Thees we do after we esave señora %a001230 and señora Mada.
+Tuppence
+	Patty the party planner is a provocative peach. It gives me palpitations just looking at her.
+%0%a001250
+	I'm friends with him, but his best human friend is Grandma Mada.
+Sancho
+	Sí. Ees late. Everyone ees esleeping now. Maybe ees time for us to esleep esoon too, no?
+Tuppence
+	There's no one about now. I could probably get away with a little sit on the royal throne...
+Tuppence
+	Er! Um! Nothing! I was just mumbling.
+%0%a001240
+	I'm pretty tired now. My feet are killing me.
+%0%a001250
+	A bath? I'm old enough to have a bath on my own now. It's embarrassing if anyone comes in with me!
+%0%a001240
+	Loads of people seem to talk in their sleep.
+	I wonder what kinds of things I say.
+%0%a001250
+	No one seems to know where the Dragon God's gone. The monsters and the animals don't know, either.
+%0%a001240
+	Sancho always nagged us to clean our teeth
+	before bed.
+%0%a001240
+	He said you used to do it every night without being asked. Is that true, Dad?
+%0%a001250
+	Hm? What is it...Dad? Zzzz...
+Sancho
+	Friend! You no forget now! You clean your teeth and do a wee-wee before you go to bed, okay?
+Sancho
+	You have the children now.
+	They must learn from their papá.
+%0%a001240
+	That woman looked after us lots.
+%0%a001250
+	She took care of us like we were her own children, but it wasn't quite the same.
+%0%a001250
+	Even if we were bad, she never scolded us.
+	I bet our real mum would've done.
+Tuppence
+	Fancy being able to sleep with His Majesty in the royal quarters! Ah, life's good!
+%0%a001240
+	It'd be cool if we could all sleep here together!
+	Oh, but there's only one bed...
+%0%a001250
+	We heard lots of stories here in this house.
+	Stories from Sancho's past.
+%0%a001250
+	I think we probably know everything there is to know about Grandpa Pankraz!
+Sancho
+	After I left Gotha weeth señor Pankraz, every day I make the dinner.
+Sancho
+	Ees no easy to look after the young friend when you no used to eet, but when I look back now, ees, ees eso happy times... (sob)
+%0%a001250
+	Sancho calls out in his sleep sometimes. He always sounds really upset.
+%0%a001250
+	I really like staying here, but I've seen him call out like that loads of times and it's not very nice.
+%0%a001240
+	Is Grandpa Pankraz really dead? Can't he come back to life somehow? Poor Sancho seems so sad.
+%0%a001240
+	Are we leaving Sancho behind? I'd rather he came along with us.
+%0%a001250
+	It's a bit lonely without Sancho...
+%0%a001250
+	Oh, but that doesn't mean I'm not happy to have you around, Dad. Sorry!
+Tuppence
+	Sancho must be getting on a bit, mustn't he?
+	He's still very full of beans, though.
+Sancho
+	You know, your father, he never let you out of hees esight.
+Sancho
+	Maybe you eshould take %a001240 weeth you, no?
+%0%a001250
+	We have to take %a001240 with us, Dad!
+	He's the hero, right!?
+Tuppence
+	It feels rather incongruous for me to be joining you when %a001240 is being left behind.
+%0%a001240
+	How come you want me but you don't want %a001250, Dad? It'd be much more fun if we all went off together.
+Sancho
+	I understand how you feel. You worry about her. But ees eso lonely for her eef you leave
+	her behind.
+Sancho
+	You no reconsider, friend?
+	As a favour for your Uncle Sancho?
+Tuppence
+	%0%a001250 seems rather disappointed...

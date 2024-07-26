@@ -1,0 +1,15 @@
+Bianca
+	Wow...
+	What a mysterious-lookin' place.
+Bianca
+	This may well be the domain of the royal family, but it en't no castle. Let's go to the castle, %a000090.
+Nera
+	What a pretty place. I wonder where the light's coming in from.
+Nera
+	This place feels sort of like a sanctuary.
+	I wonder what it's here for.
+Debora
+	It's very pretty here, just like a starry night sky. But it's still a cave, and it reeks of mould.
+	Urgh! My clothes are going to stink.
+Debora
+	I wonder where the little chinks of light are coming from. It doesn't look like they're fireflies.

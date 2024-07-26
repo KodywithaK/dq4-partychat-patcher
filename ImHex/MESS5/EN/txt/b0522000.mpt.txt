@@ -1,0 +1,161 @@
+Bianca
+	Pretty lucky that that performance of mine got us a free night's lodgin', eh?
+Bianca
+	Ha ha! Only jokin'. I'm ready to go now, so we'd better say thanks to the innkeeper.
+Nera
+	It's probably the thin air up here that made me feel faint yesterday.
+Nera
+	They had a stretcher here, after all, so
+	I'm probably not the first visitor to fall
+	foul of the climate.
+Bianca
+	They carried me here on a stretcher, right?
+	Huh. I'd have much rathered you carried me, %a000090!
+Nera
+	That man helped carry me inside, didn't he?
+Nera
+	I feel so embarrassed. The thought of imposing on total strangers like that!
+Bianca
+	I may have collapsed when we got here, but I feel better than ever now. I won't be doin' that again!
+Nera
+	I wonder if that woman moved here from the town below. That would just go to prove that love conquers all.
+Bianca
+	This village is certainly in a precarious old place, eh? It feels like it's about to go rollin' off down the mountain any minute!
+Bianca
+	The villagers seem to steer well clear of
+	the edges, eh? We should stick to the inner
+	paths too.
+Nera
+	The air up here is so fresh, and the view is incredible. I just wish I had the courage to
+	look at it!
+Nera
+	It's scary that there are no fences anywhere.
+	I wonder if any of the villagers ever fall over the edge...
+Bianca
+	There've bin monsters about for as long as I can remember. It's hard to imagine a time when there weren't any.
+Nera
+	Even if there weren't any monsters around, it would take a certain determined type of person to make his way all the way up here.
+Bianca
+	So that's Gotha. It's hard to tell from up here whether it's far away or not.
+Nera
+	So the castle inside those walls is Gotha Castle.
+Bianca
+	Ha ha! He must have a scary old grandma to be gettin' that wound up!
+Nera
+	Hm? Did you say something?
+Nera
+	Sorry. I was concentrating on trying to
+	get across that bridge without panicking
+	about the height.
+Bianca
+	I love cats. I could stand here watchin' that one all day!
+Nera
+	I don't understand why so many people choose between being a ⓗcat personⓘ and a ⓗdog personⓘ.
+	I adore them both.
+Bianca
+	If you change how you prepare somethin', folk'll often eat things they swear they dun't like.
+Nera
+	She's obviously trying her hardest to get her son to eat well. You have to admire her for that.
+Bianca
+	There's lots of foods you dun't like, en't there, %a000090?
+Bianca
+	Ha ha! You en't changed a bit since you were a little lad!
+Bianca
+	You've changed then! I remember you leavin' lots of food when you came to stay at our house all them years ago.
+Nera
+	It must be a terrible bind bringing food all the way up here. No wonder she's angry about him leaving things.
+Bianca
+	I feel all embarrassed when people say things like that!
+Nera
+	Why do you look so troubled, darling?
+Nera
+	I'm really glad I married you and I don't
+	regret it one bit. We'll always be happy
+	together, you and I.
+Bianca
+	Sorry you got told off! I'm sure she meant well.
+Nera
+	I'm so sorry, darling. It's my fault that I fainted, so she shouldn't have scolded you like that.
+Nera
+	She didn't mean anything by it, I'm sure. She may have been a bit blunt, but her heart was in the right place.
+Bianca
+	Little does he know that Pankraz will never be returnin' home now...
+Nera
+	If both the King and Queen of Gotha are missing, I wonder who's ruling the kingdom.
+Bianca
+	One year!? That Batten binnacle had best be worth waitin' for then!
+Nera
+	Papa collected all sorts of things on his
+	travels, but I don't remember him ever
+	having one of those compasses.
+Bianca
+	It shouldn't take one year even if they are handmade. I reckon whoever's makin' them must be takin' a few too many breaks!
+Nera
+	We're so lucky, receiving such a sought
+	after item for nothing. That old lady
+	really was generous.
+Bianca
+	Your mother's full name was Madalena, wasn't it, %a000090? I dun't reckon that's just a coincidence neither.
+Bianca
+	I always feel calm and at peace when you look at me, %a000090.
+Nera
+	I've always felt relaxed around you, %a000090. I realise now that it's because of the way you look at me.
+Nera
+	If only I had that skill myself. Then I could look at you and make you feel nice and calm too.
+Debora
+	So I was carried here on a stretcher?
+	What a shame I don't remember!
+	It was my first time.
+Debora
+	I don't suppose...
+	You wouldn't carry me around on a stretcher for the rest of our trip, would you?
+Debora
+	He helped carry me inside, didn't he? You'd better make sure you thank all these people on my behalf, %a000090.
+Debora
+	I caused a bit of a fuss collapsing like that.
+	I'd planned that you'd be attending to me, not half the village!
+Debora
+	Snow all year round? That's no good. I'd never have the chance to wear a skirt and high heels.
+Debora
+	It could be dangerous if you ended up getting a bit tipsy here.
+Debora
+	It'd be far too easy to go tumbling off the edge if you didn't have your wits about you.
+Debora
+	That old man has no idea!
+Debora
+	Even if there weren't any monsters, this isn't exactly the easiest place in the world to reach.
+Debora
+	So that's Gotha. It's a lot more impressive than I expected. It's still out in the sticks, though.
+Debora
+	Grr. Of all the irritating things!
+Debora
+	What do you mean, ⓗwhatⓘ!? The stupid bridge, of course! Why build something so flimsy so high up?
+	It's just ridiculous!
+Debora
+	I wonder if that cat wants to come along with us...
+	What? ⓗNot likelyⓘ? You don't have a clue, do you?
+Debora
+	Ah yes, the tedious art of cooking...
+	What kind of gourmet meals are you going to make for me, %a000090?
+Debora
+	What's up? Are you a bit on the fussy side too? Hmm, I'll bear that in mind.
+Debora
+	Well... I wouldn't have married you if I didn't think you'd take care of me.
+Debora
+	Absolutely. She's quite right.
+Debora
+	You're very lucky to have married so far above your station. You should take better care of me. That's an order.
+Debora
+	This is really starting to get on my nerves now!
+	Why does Gotha have to be stuck out in the back end of nowhere?
+Debora
+	It's a good job that we're not in too much of a hurry. There's clearly no quick way to get there.
+Debora
+	One year!? They certainly take their time making those, don't they? I'd get fed up with waiting.
+Debora
+	Ooh, this is quite a precious thing to have.
+	Maybe we should take a walk around the village and show it off to make people jealous!
+Debora
+	Look deeeep into my eyes...
+	Come on, don't be shy!
+	Why won't you look at me?

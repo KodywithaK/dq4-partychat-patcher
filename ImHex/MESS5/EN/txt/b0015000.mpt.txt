@@ -1,0 +1,1398 @@
+*: 
+	If you cross these mountains, you'll reach the Kingdom of Gotha.
+*: 
+	But the path there is treacherous. If you're just doing it for the fun of it, I'd suggest you turn back.
+*: 
+	If you cross these mountains, you'll reach the Kingdom of Gotha.
+*: 
+	But the path there is treacherous. If you're just doing it for the fun of it, I'd suggest you turn back.
+Bianca
+	Look, %a000090! I can see your homeland!
+Bianca
+	I don't care if the path's treacherous. We're so close now, we couldn't possibly turn back.
+*: 
+	If you cross these mountains, you'll reach the Kingdom of Gotha.
+*: 
+	But the path there is treacherous. If you're just doing it for the fun of it, I'd suggest you turn back.
+Nera
+	We're finally within sight of your birthplace, %a000090.
+Nera
+	I don't mind if the path is treacherous,
+	I'm sure it will all be worthwhile!
+*: 
+	Ah-ha! You must be Miss %a001230's husband.
+*: 
+	And there you are too, %a001230.
+*: 
+	Excellent. I was sent out by Mr Briscoletti on a bit of a mission, you see.
+*: 
+	Huuurgh-up!
+*: 
+	To give you this. There, I've done it now.
+	Goodbye!
+*: 
+	Heh heh heh. What have we here?
+	Lost your way, have you?
+*: 
+	Dear, oh dear! Perhaps you'd like to stay here the night, then?
+*: 
+	You just have a good rest.
+	I'll be upstairs if you need me. Heh heh heh.
+*: 
+	No? I see. Well, safe travels, then.
+	Heh heh heh.
+Bianca
+	Hey, %a000090!
+	Do you hear that noise?
+Bianca
+	It sounds just like a knife bein' sharpened!
+Bianca
+	I think it's comin' from upstairs.
+	Can you go and have a look?
+Bianca
+	Be careful, eh!
+Bianca
+	Yeah, you're probably right.
+	I'm sure it's nothin' to worry about.
+Nera
+	Wake up, %a000090!
+	I can hear a funny noise.
+Nera
+	It sounds almost like a knife being sharpened!
+	I think it's coming from upstairs.
+Nera
+	It's making me feel rather frightened. If it's not too much trouble, would you go up and have a look?
+Nera
+	Be careful, won't you?
+Nera
+	Of course. I'm sure you're right. As long as you're by my side, I have nothing to worry about.
+~ %0%a000090 is suddenly awoken by a ~
+~ strange noise. ~
+~ It sounds just like a knife being sharpened. ~
+~ Go upstairs and investigate? ~
+~ %0%a000090 decides it's nothing to worry about and goes back to sleep. ~
+~ Oh no! %0%a000090 can't seem to move! ~
+*: 
+	Ooh. Awake, are you?
+*: 
+	I cast a spell on you so you'd sleep like
+	the dead, but it looks like it wasn't quite
+	strong enough.
+*: 
+	Heh heh heh. Have a look at this!
+*: 
+	I've been sharpening your weapon for you.
+~ %0%a000090's strength increases by five! ~
+*: 
+	It's still the middle of the night, though.
+	You should go back and get some rest.
+*: 
+	Sleep well, did you?
+	It's morning already.
+*: 
+	Have a safe onward journey.
+	Heh heh heh.
+*: 
+	Heh heh heh.
+*: 
+	I know I laugh a bit strangely. I can't help it. Try not to let it bother you.
+*: 
+	Heh heh heh.
+*: 
+	I am a travelling priest. It can sometimes
+	be rather lonely without any company along
+	the way.
+*: 
+	Oh dear!
+	What a terrible thing!
+~ The priest offers up a prayer to the Goddess. ~
+~ %0%a000090 is resurrected! ~
+~ %0%a001230 is resurrected! ~
+*: 
+	Travelling in today's world can be a dangerous affair. Do take care, won't you?
+*: 
+	Ah-ha! You're %H0860%Xa friend of %a001230's%Yfriends of %a001230%Z, aren't you?
+*: 
+	Ah-ha! You're %a001230, aren't you?
+*: 
+	If you cross these mountains, you'll reach the Kingdom of Gotha.
+*: 
+	But the path there is treacherous. If you're just doing it for the fun of it, I'd suggest you turn back.
+Debora
+	I didn't realise Gotha was so far out of the way.
+Debora
+	So you're a bit of a country bumpkin then, are you, %a000090? Suddenly everything becomes clear! Ha ha!
+Debora
+	Hey, you! What are you doing asleep?
+	Wake up! Wake up, I tell you!
+Debora
+	Oh... Are you awake?
+Debora
+	Can you hear that? Of course you can!
+	It sounds a bit like a knife being sharpened...
+Debora
+	You'd better go and have a look.
+Debora
+	If there's something weird going on, you head whoever it is off while I get away, okay?
+Debora
+	Don't be such a coward!
+	Huh! Once a wimp, always a wimp.
+*: 
+	Oh dear! Is everything alright? That lady friend of yours there is looking a bit off-colour.
+Bianca
+	It's nothin'. I'm fine.
+Bianca
+	I just feel a bit...
+Bianca
+	Woo㈢ooozy...
+Nera
+	I'm alright, really. Just a bit tired.
+Nera
+	There's no need for concern.
+Nera
+	I'll ㈢be ㈢fiⓚⓛ
+*: 
+	Oh no!
+*: 
+	We must get her to bed immediately!
+	She can come to our inn.
+*: 
+	I say! There's a woman fainted here!
+	Somebody come and give us a hand!
+Priest
+	Hmm. She doesn't seem to have a fever.
+	It seems to just be a case of exhaustion.
+Priest
+	She should rest here for today at least.
+Priest
+	Now, if you'll excuse me.
+*: 
+	Thank the Goddess there's nothing serious wrong with the poor thing!
+*: 
+	Oh! She's your wife, is she?
+	She's certainly a beauty!
+*: 
+	You should take good care of that one.
+	Don't wear her out so much in future.
+Bianca
+	Sorry for makin' you worry like that, %a000090.
+Bianca
+	I feel fine now. Although I am still a bit sleepy...
+Bianca
+	I think ㈢I might just have ㈢a little bit more of a ㈢rest. 'Night, %a000090.
+Bianca
+	Mornin', %a000090!
+	I feel right as rain again now!
+Bianca
+	How couldn't I? I'm so excited about finally bein' so close to your hometown!
+Bianca
+	Come on, then!
+Nera
+	Sorry for giving you such a fright, darling.
+Nera
+	I feel much better now. Just a little bit sleepy, that's all.
+Nera
+	If you ㈢don't mind, I'll just ㈢sleep a little longer.
+	㈢Goodnight, darling.
+Nera
+	Good morning! Sorry again about yesterday.
+Nera
+	I really do feel back to normal again now.
+Nera
+	It won't be long before we reach your homeland.
+	How exciting!
+Nera
+	Off we go!
+*: 
+	Oh good! I'm ever so glad to see you looking better.
+*: 
+	There's no need to thank me. I just did what any good person would do. Ha ha ha!
+*: 
+	I came here with my husband too. It's hard work climbing all the way up here, that's for sure.
+*: 
+	It's good to see you better, dear.
+*: 
+	This is the village of Battenberg.
+	We have snow here all year round.
+*: 
+	It never used to be anywhere near as hard
+	to get here in the past, before all the monsters came along.
+*: 
+	Have you been across the bridge yet?
+*: 
+	Then you must've got a view from there of
+	the castle.
+*: 
+	That's the Kingdom of Gotha.
+	Pretty impressive, isn't it?
+*: 
+	If you cross the bridge and descend down through the cave, you'll eventually come to the Kingdom of Gotha.
+*: 
+	Uh-oh! I'm in a lot of trouble now. I broke the compass that my granny made for me.
+*: 
+	She'll probably give me a right earful for this!
+	Oh! I don't want to go home and face her!
+*: 
+	Meow.
+*: 
+	This little boy will be the death of me.
+	He won't eat a bite.
+*: 
+	And after all the effort I went to, making
+	a soup to disguise the carrots he says he hates so much!
+*: 
+	Come on now! If you don't eat it all up, you'll be kidnapped by monsters just like the poor Queen of Gotha!
+*: 
+	Urgh. I hate carrots!
+*: 
+	It's not easy for a woman living up in the mountains like this.
+*: 
+	Maybe that's why the menfolk here are so good to us all! Ha ha!
+*: 
+	You're married, aren't you? You can tell straight off. You really suit each other.
+*: 
+	Living in the mountains isn't easy on
+	a woman, but I reckon your wife would be
+	just fine.
+*: 
+	She's the sort who'd go anywhere for the man she loved, right?
+*: 
+	Then you'd better not take her for granted.
+	Take good care of her, won't you?
+*: 
+	You're married, aren't you?
+	Marriage can be a tricky old business.
+*: 
+	Your life can change unbelievably depending on who you decide to tie the knot with.
+*: 
+	I suppose the strong person in the relationship doesn't feel it quite so much, though.
+*: 
+	It's the weaker one of the two who tends to find they experience the odd doubt or worry every now and then.
+*: 
+	You should make sure you take good care of your wife, anyway.
+*: 
+	Tsk, tsk, tsk!
+*: 
+	Fancy losing a precious Batten binnacle!
+	I despair sometimes.
+*: 
+	Hm? Oh, you're the fool who pushed his wife to the point of collapse, aren't you?
+*: 
+	I suppose you lost your way in the mountains and wore her out, eh? You'd better have this.
+~ %0%a000120 receives a Batten binnacle! ~
+~ %0%a000180 acquires a Batten binnacle! ~
+*: 
+	That should help you find your way better in future. Take care of that wife of yours.
+*: 
+	Tsk, tsk, tsk!
+*: 
+	Fancy losing a precious Batten binnacle!
+	I despair sometimes.
+*: 
+	The King of Gotha set out to rescue his wife years ago now, but there's been no sign of either of them since.
+*: 
+	It's hard to see a bright future for Gotha with its rulers missing for so long.
+*: 
+	The King of Gotha was a man named Pankraz. He was an incredible man.
+*: 
+	I remember him visiting our village not long after he took to the throne.
+*: 
+	He stood on the bridge outside and looked off at Gotha Castle in the distance. What a sight!
+*: 
+	I came here to buy a Batten binnacle, but they're all sold out at the moment.
+*: 
+	They're handmade, you see, so they can't make big batches of them. If I order one now, the earliest I'll get it is in a year's time!
+*: 
+	Hey! Isn't that a Batten binnacle you've got there!?
+*: 
+	You lucky thing! You'll really find it comes in handy when you need to navigate your way through caves and the like.
+*: 
+	Queen Mada of Gotha apparently had some kind of power to communicate with the underworld, Nadiria.
+*: 
+	I don't know exactly what kind of power it was, but there was certainly something unusual about the way she'd look at you.
+*: 
+	When she fixed her eyes on you, it was like your whole mind and body could instantly relax.
+*: 
+	That's funny! I'm getting the same kind of feeling from you...
+*: 
+	I say! What's this all about!?
+Debora
+	How rude! My complexion is always the colour of a beautiful rose.
+Debora
+	Wait... I feel a bit dizzy.
+	Everythingⓚⓛ
+Debora
+	Everything's spinning round and round and round...
+Debora
+	Have you been there all this time, %a000090?
+	My heart melts...
+Debora
+	Ha! As if! I'm sure you just couldn't bear to be away from my exquisite beauty.
+Debora
+	In fact, that's probably what distracted you and stopped you from catching me when I fainted.
+Debora
+	That's why I still feel so rough. I think I'll ㈢㈢sleep a bit longer, okay?
+Debora
+	I'm awake now, %a000090. And there you are, looking as wimpish as ever.
+Debora
+	I had a dream, you know. Of being a doting wife who wakes her husband up with a beaming smile.
+Debora
+	Ha! More like a nightmare, if you ask me.
+	I know you prefer me just the way I am.
+Debora
+	We'd better get going on to your hometown.
+	I'm looking forward to seeing just how rough it is.
+Debora
+	Come on, then, %a000090!
+	What are you waiting for?
+*: 
+	You're married, aren't you?
+	I could tell the minute I laid eyes on you.
+*: 
+	You look so happy, Miss, being with a man who takes good care of you.
+*: 
+	And you seem to be the kind of man who'd be loving and understanding even if his beloved was having a selfish moment.
+*: 
+	You've obviously got a good thing going between you, so make sure you nurture it and you're sure to live happily ever after.
+*: 
+	Thank the Goddess you bumped into me before going any further!
+*: 
+	I'd turn back if I were you. It's far too dangerous in here.
+*: 
+	I've been livin' here in these mountains
+	for nigh on one hundred years now, I'll have
+	you know.
+*: 
+	Now, I come across this T 'n' T ticket
+	just over there and I was wonderin' if it
+	might be yours.
+*: 
+	I'd best be givin' it you back then.
+~ %0%a000120 receives a T 'n' T ticket! ~
+~ %0%a000120 puts the T 'n' T ticket in the bag. ~
+*: 
+	Then maybe this mini medal I found is yours?
+*: 
+	I'd best be givin' it you back then.
+~ %0%a000120 acquires a mini medal! ~
+*: 
+	How about this flowing dress then?
+	Is that yours?
+*: 
+	I'd best be givin' it you back then.
+~ %0%a000120 receives a flowing dress! ~
+~ %0%a000120 acquires the flowing dress. ~
+*: 
+	Hmm... You know, it's not often you meet folk as honest as your good self.
+*: 
+	Honesty like that deserves to be rewarded!
+	Here, take it all!
+~ %0%a000120 receives a T 'n' T ticket! ~
+~ %0%a000120 puts the T 'n' T ticket in the bag. ~
+~ %0%a000120 acquires a mini medal! ~
+~ %0%a000120 receives a flowing dress! ~
+~ %0%a000120 acquires the flowing dress. ~
+*: 
+	You have a safe journey now, won't you?
+*: 
+	I've been livin' here in these mountains
+	for nigh on one hundred years now, I'll have
+	you know.
+*: 
+	Folk seem to be gettin' more and more dishonest nowadays. It's a sad and sorry trend.
+*: 
+	I wonder if that man made it safely to where he was going or not.
+*: 
+	It was a while back now, but a man called Sancho passed through here on his way to Gotha.
+*: 
+	He seemed so sad and at a loss that he really struck a chord with me.
+~ Mini medals are kept separately from other items. ~
+~ If you want to see how many mini medals you've collected, open the Attributes menu and move the cursor to the wagon symbol. ~
+~ Mini medals are kept separately from other items. ~
+~ If you want to see how many mini medals you've collected, open the Attributes menu and move the cursor to the wagon symbol. ~
+~ %0%a000120 places %a020100 in the bag. ~
+*: 
+	I'm sorry. The only people allowed to enter here without express permission from the King are members of the royal family.
+*: 
+	You're not royalty, are you?
+*: 
+	Ha ha ha ha hah! Nice try! That's a good one! Someone like you, royalty? Ha ha hah!
+*: 
+	Then I must ask you to go away.
+*: 
+	This is the King's chamber.
+	But His Majesty is resting at the moment.
+*: 
+	I must ask you to come back at another time.
+*: 
+	Mistress Gertrude doesn't listen to a word I say!
+Gertrude
+	I never asked to be a princess.
+Gertrude
+	It's only because my father's become King of Gotha. It doesn't matter what I think. I don't have any say in it!
+Gertrude
+	It's not fair.
+	I just want to play.
+*: 
+	I remember all those long days I stood here, waiting for King Pankraz to return.
+*: 
+	Then finally one day, I spotted Mr Sancho approaching the castle.
+*: 
+	I can't tell you how happy I was to see him!
+*: 
+	But however many times and however hard I looked, King Pankraz wasn't with him.
+*: 
+	I can't tell you how sad I was not to see him!
+*: 
+	Welcome to Gotha!
+*: 
+	This is the castle town of Gotha.
+*: 
+	Our old king, King Pankraz, was a very sharp ruler, you see.
+*: 
+	That's why he decided that all Gothans
+	should live within the castle walls, to protect
+	us from our enemies.
+*: 
+	Arf! Arf, arf!
+*: 
+	We had a long spell here without a king at all.
+	He was away travelling, you see.
+*: 
+	We were all waiting for him to return, but...
+	Well, he never did in the end.
+*: 
+	Now his brother, Prince Albert, is our new king.
+	He took the throne quite a few years ago now.
+*: 
+	There was once a master craftsman who lived here in the castle, you know. Known as a god among jewellers, he was.
+*: 
+	But after King Pankraz left the castle, he left too.
+*: 
+	His son still lives here, though.
+	He runs the weapon shop upstairs.
+*: 
+	When I grow up, I'm going to be a soldier, and I'm going to guard Gotha to the end!
+*: 
+	My dad's a soldier. Soldiers are cool!
+*: 
+	I hope the world's a more peaceful place by the time my little boy grows up.
+*: 
+	That's another day Mr Sancho hasn't been in. I wonder what's happened.
+*: 
+	He used to come to church to pray every single day.
+*: 
+	Mr Sancho's getting on a bit now, I suppose...
+~ %3ⓗ10000G reward to be paid to anyone who locates King Pankraz and Queen Mada. ~
+~ By order of the King.ⓘ%4 ~
+*: 
+	King Pankraz dead?
+	Pah! I don't believe a word of it!
+*: 
+	Every time I shut my eyes I see his valiant figure standing proud and tall. So how can he possibly be gone, hm?
+*: 
+	I was more of a fan of King Pankraz than his brother Albert, to be honest.
+*: 
+	King Pankraz had vision. He had dreams!
+*: 
+	Sadly, now we'll never know what those dreams were. But he had them, and that's what counts!
+*: 
+	You are %H0860%Xa traveller%Ytravellers%Z, I believe. I too roamed the world prior to my arrival here in Gotha.
+*: 
+	King Pankraz was most kind and helpful.
+*: 
+	But were it not for the fate befallen unto Madalena, I have no doubt King Pankraz would
+	still be...
+*: 
+	No. I have said too much. Such vain wishes shall not bring him back.
+*: 
+	Don't beat me to a pulp! I'm gooey enough as it is.
+	And I'm not a bad slime, you know! Really! I promise!
+*: 
+	It's a long time agoo now, but I uoozed to be Queen Mada's pet slime once.
+*: 
+	In here are the soldiers' quarters.
+	Castle staff only, I'm afraid.
+*: 
+	I was instructed by King Pankraz, the former king, to research the legendary castle of a place known as Zenithia.
+*: 
+	The problem is, now that His Majesty is no longer around, I don't know if there's any point in continuing my research.
+*: 
+	Oh, bother! I lost again. Thruppence is just too good for me, I suppose.
+*: 
+	Hm? What am I talking about? What's everyone talking about!? Monster chess of course! Everyone's crazy about it at the moment.
+*: 
+	The Chancellor found all these chess pieces in the vault recently, you see.
+*: 
+	Ever since then, all us soldiers have been completely hooked on it. It's all we think about now!
+Sister
+	Oh, it looks like you have %H0860%Xa visitor%Yvisitors%Z.
+Sister
+	I'll be leaving, then.
+Sister
+	Oh, dear Goddess! A coffin!
+	That won't do, will it?
+~ The nun begins to pray... ~
+~ %0%a000180 is resurrected! ~
+Sister
+	Good luck on your travels.
+	May the Goddess be with you.
+Sancho
+	Hola?㈢㈢
+	Do I know you, señor?
+Sancho
+	Eh?㈢㈢
+	No...
+Sancho
+	Ees eet...?
+Sancho
+	No. Ees no possible!
+Sancho
+	Friend! Ees eet you?
+	Ees eet my %a000090?
+Sancho
+	Sí! I know eet!
+	Eet ees you, friend!
+Sancho
+	You, you, you are alive!
+Sancho
+	Let me esee your face, friend.
+Sancho
+	Sí... Just like your father...
+	You are a man now.
+	A strong, macho man!
+Sancho
+	And tell me, who ees thees beautiful young señorita you are weeth?
+Bianca
+	It's me, Sancho! Dun't you recognise me?
+	It's Bianca!
+Sancho
+	Anda, no! You are Bianca? I remember you when you were just a leettle girl.
+Bianca
+	We're married now, you know.
+	Eh, %a000090?
+Sancho
+	You two are married?
+	Ees... Ees... Ees too much...
+Sancho
+	I... (sob)
+Bianca
+	Oh, Sancho, you big softie!
+Sancho
+	You must tell Prince Albert that you
+	have returned.
+Sancho
+	Maybe you know thees already, but your father, he was the King of thees place, friend.
+	The great King of Gotha!
+Sancho
+	But now hees brother, Prince Albert, he ees our king.
+Sancho
+	Come, friend. I eshow you.
+Sancho
+	Uf! You no trick your Uncle Sancho, friend!
+	I know ees you.
+Sancho
+	Hola? Do I know you, señor?
+Sancho
+	Eh? No...
+Sancho
+	Ees eet...?
+Sancho
+	No. Ees no possible!
+Sancho
+	Friend! Ees eet you?
+	Ees eet my %a000090?
+Sancho
+	Sí! I know eet!
+	Eet ees you, friend!
+Sancho
+	You, you, you are alive!
+Sancho
+	Let me esee your face, friend.
+Sancho
+	Sí... Just like your father...
+	You are a man now.
+	A strong, macho man!
+Sancho
+	And tell me, who ees thees young señorita?
+Nera
+	I'm Nera. It's wonderful to meet you. I...
+Sancho
+	Qué? You... You are %a000090's wife?
+Sancho
+	I, I no believe my leettle friend, he ees married!
+Sancho
+	I theenk I no ever see you again, and now...
+	Now you are home weeth a wonderful wife!
+	Ees... Ees... Ees too much...
+Sancho
+	I... (sob)
+Nera
+	Oh, dear. Please, don't cry.
+Sancho
+	You must tell Prince Albert that you
+	have returned.
+Sancho
+	Maybe you know thees already, but your father, he was the King of thees place, friend.
+	The great King of Gotha!
+Sancho
+	But now hees brother, Prince Albert, he ees our king.
+Sancho
+	Come, friend. I eshow you.
+Sancho
+	Uf! You no trick your Uncle Sancho, friend!
+	I know ees you.
+Guard
+	Hello, Sancho.
+	Can I help you?
+Sancho
+	I, I must esee the King! Rápido!
+	I have important news to tell heem.
+Guard
+	Yes, sir!
+Prince Albert
+	Ah, Sancho, you old dog! You look tickled pink!
+	Good news, is it?
+Sancho
+	Sí, señor!
+	The wonderful news!
+	Thees ees...
+Prince Albert
+	Good Goddess! You mean, Pankraz's son?
+	%0%a000090...is alive?
+Prince Albert
+	By Jove, it is you, %a000090!
+	Those eyes! They're just like Mada's.
+Prince Albert
+	Well, whoever would've guessed it? I never
+	imagined that bawling baby would turn into
+	such a fine young fellow!
+Prince Albert
+	Listen to me! I haven't even introduced myself, have I? I'm your uncle. Your father, Pankraz, was my older brother.
+Prince Albert
+	And who's this fine young specimen at your side?
+Bianca
+	Nice to meet you, Your Majesty.
+	I'm %a000090's wife, Bi㈢, Bianⓚⓛ Ugh...
+Prince Albert
+	Steady on there, old girl!
+	Are you alright?
+Sancho
+	Bianca!
+Sancho
+	Thanks to the Goddess.
+	Bianca, eshe ees awake again.
+Sister
+	I don't know what she was thinking of, travelling in her condition.
+Sister
+	She said she collapsed in Battenberg on the way here too.
+Sister
+	What did she think she was going to do if the
+	worst happened?
+Sancho
+	Ees eserious, Sister?
+	Eshe ees very esick?
+Sister
+	Sick? I don't think you could call it sick.
+Sister
+	Not something as wonderful as this.
+Sancho
+	Qué?
+Sister
+	Congratulations, %a000090.
+	Are you ready to be a father?
+Sister
+	Yes. Your wife is with child. There's absolutely nothing wrong with her. She just needs rest.
+Sister
+	She's hardly showing at all yet, but according to what she's told me, I'd say she's already quite well progressed.
+Sancho
+	Thees ees wonderful!
+Sancho
+	A bebé! My friend's bebé! You and Bianca...
+	Sí, eet weell be esuch a beautiful child.
+Sister
+	Well, I'll leave you alone now. Take care. And remember, your wife is in a delicate state now.
+Sister
+	Well, no doubt you need some time to get used to the idea. It's all very sudden.
+Bianca
+	Sorry for not tellin' you before, %a000090.
+Bianca
+	I thought about it, but I was worried you'd call off the whole trip on my account, you see.
+Bianca
+	I'll stop bein' so selfish now, though. I'm not goin' to insist on travellin' about with you no more.
+Bianca
+	Nope, I'll stay here and rest, and be sure to give you a nice, healthy baby at the end of it all.
+Bianca
+	I love you, %a000090.
+Sancho
+	Felicitations, friend!
+Sancho
+	I... I thought you were dead.
+Sancho
+	But now you are back. And you breeng me a beautiful wife and now a beautiful bebé too!
+Sancho
+	Ees... Ees the most happy day een my life!
+	I, I, I... (sob)
+*: 
+	It's wonderful news.
+	Congratulations.
+*: 
+	I know the King's a kind man, but he wouldn't just let any old passers-by stay here.
+*: 
+	You must be someone special.
+*: 
+	I'm glad it was nothing to worry about.
+*: 
+	His Majesty is waiting for you downstairs.
+	Please, go ahead.
+Prince Albert
+	Ah, Sancho, you old dog! You look tickled pink!
+	Good news, is it?
+Sancho
+	Sí, señor!
+	The wonderful news!
+	Thees ees...
+Prince Albert
+	Good Goddess! You mean, Pankraz's son?
+	%0%a000090...is alive?
+Prince Albert
+	By Jove, it is you, %a000090!
+	Those eyes! They're just like Mada's.
+Prince Albert
+	Well, whoever would've guessed it? I never
+	imagined that bawling baby would turn into
+	such a fine young fellow!
+Prince Albert
+	Listen to me! I haven't even introduced myself, have I? I'm your uncle. Your father, Pankraz, was my older brother.
+Prince Albert
+	And who's this young gem you've brought with you?
+Nera
+	Pleased to meet you, Your Majesty.
+	I'm Nera, %a000090's w㈢, %a000090's wi...
+Prince Albert
+	Steady on there, old girl!
+	Are you alright?
+Sancho
+	Nera!
+Sancho
+	Thanks to the Goddess.
+	Nera, eshe ees awake again.
+Sister
+	I don't know what she was thinking of, travelling in her condition.
+Sister
+	She said she collapsed in Battenberg on the way here too.
+Sister
+	What did she think she was going to do if the
+	worst happened?
+Sancho
+	Ees eserious, Sister?
+	Eshe ees very esick?
+Sister
+	Sick? I don't think you could call it sick.
+Sister
+	Not something as wonderful as this.
+Sancho
+	Qué?
+Sister
+	Congratulations, %a000090.
+	Are you ready to be a father?
+Sister
+	Yes. Your wife is with child. There's absolutely nothing wrong with her. She just needs rest.
+Sister
+	She's hardly showing at all yet, but according to what she's told me, I'd say she's already quite well progressed.
+Sancho
+	Thees ees wonderful!
+Sancho
+	A bebé! My friend's bebé! You and Nera...
+	Sí, eet weell be esuch a beautiful child.
+Sister
+	Well, I'll leave you alone now. Take care. And remember, your wife is in a delicate state now.
+Sister
+	Well, no doubt you need some time to get used to the idea. It's all very sudden.
+Nera
+	I'm so sorry, %a000090.
+	I know I should have told you, but...
+Nera
+	I know you. You're so kind and considerate. If I'd told you, you would have stopped your quest.
+	And I know how much that means to you.
+Nera
+	But I won't take any chances now. I know I can't carry on travelling with you.
+Nera
+	I'll stay here and rest, and make sure I can give you the wonderful, healthy child you deserve.
+Nera
+	I love you, %a000090.
+~ Prince Albert must be extremely worried. ~
+~ Better set his mind at ease first. ~
+Prince Albert
+	Congratulations, you old devil!
+	Old penguin features told me the news.
+Prince Albert
+	Actually, there's something I want to talk to you about. Would you come over here, %a000090?
+Prince Albert
+	The thing is, %a000090, I've decided to hand over the reins to you. I've rather had my fill of the old kinging game.
+Chancellor Jeeves
+	Your Majesty! It is considered traditional to discuss such matters with one's chancellor first.
+Prince Albert
+	Now now, Jeeves. Don't get your knickers in a twist. It makes perfect sense.
+Prince Albert
+	I mean, I'm a good sport and all that, but I'm hardly kingly material, am I?
+Prince Albert
+	Now that my brother's son has returned, it would be a trifle ungentlemanly of me not to hand over the throne to its rightful heir.
+Chancellor Jeeves
+	As you wish, sir.
+Chancellor Jeeves
+	Of course, there is the small matter of Riteof Passage. It is required that any would-be king undertake the trial there.
+Prince Albert
+	Oh, come now, Jeeves! The place is positively riddled with monsters these days. It's not like it used to be. Times have changed, you know.
+Chancellor Jeeves
+	Indeed, sir. Nevertheless, one is bound by tradition, is one not?
+Prince Albert
+	Hmph. Yes, well...
+	I suppose...
+Prince Albert
+	%0%a000090.
+	Did you follow all that?
+Prince Albert
+	If it was up to me, I'd just say, ⓗListen up, chaps! This is the new King of Gotha.ⓘ
+Prince Albert
+	But I'm afraid you're going to have to go to
+	the cave known as Riteof Passage and get
+	the Royal Insignia.
+Prince Albert
+	It's tradition, you see. To prove you're up to the job, or some such rot. Anyway, do that, and I can give you the throne.
+Prince Albert
+	You'll find Riteof Passage in the forest to the east of the castle.
+Prince Albert
+	But you must be pretty much done in for today, I should think.
+Prince Albert
+	You should rest now, and crack on with the job first thing tomorrow morning!
+Bianca
+	Mornin', %a000090. We slept like babies last night, eh? Ha ha!
+Bianca
+	Yeah, I'm feelin' okay now.
+	Much better than yesterday.
+Bianca
+	It's a bit of a surprise findin' out you're prince of this place, eh?
+Bianca
+	If you become king, then I suppose that'll make our baby a prince or princess.
+Bianca
+	Not that I really care about that kind of thing, mind.
+Bianca
+	Nah, I'm perfectly happy with things just
+	as they are.
+Bianca
+	It's good to see you back, %a000090.
+Bianca
+	You turnin' in for the night now?
+Bianca
+	Sleep well, eh?
+Bianca
+	Mornin', %a000090.
+Bianca
+	Lovely day today, en't it?
+Bianca
+	We both slept like babies again last night.
+Bianca
+	You look ever so funny when you're zonked like that.
+Bianca
+	Not that I can talk, prob'ly! Ha ha!
+Bianca
+	I wish I could tag along with you, but I can't just go thinkin' about myself any more, eh?
+Bianca
+	I have to make sure I give you a healthy baby, after all. I can't wait to see the look on your face when the little one arrives!
+Bianca
+	I wish I could tag along with you, but I can't just go thinkin' about myself any more, eh?
+Bianca
+	I have to make sure I give you a healthy baby, after all. I can't wait to see the look on your face when the little one arrives!
+Nera
+	Good morning, darling. I had a wonderful night's sleep last night.
+Nera
+	Yes, I'm feeling much better now.
+Nera
+	I had no idea you were a prince!
+Nera
+	Although I always knew there was something different about you. Something special.
+Nera
+	I hope I can be worthy of a prince.
+	I don't want to let you down, %a000090.
+Nera
+	Oh, you're back for the day, are you, %a000090?
+Nera
+	Are you tired? Do you want to rest?
+Nera
+	Good night then, darling.
+Nera
+	Good morning, darling.
+Nera
+	It's a glorious day today. The weather's fantastic.
+Nera
+	You slept like a baby last night, didn't you?
+Nera
+	I didn't. I had a terrible dream.
+Nera
+	You... You won't leave me, will you, %a000090?
+Nera
+	I want to be right by your side always, but I know that's selfish. I have to think of our child too.
+Nera
+	I can't imagine anything better than seeing your smiling face after our baby is born.
+Nera
+	I want to be right by your side always, but I know that's selfish. I have to think of our child too.
+Nera
+	I can't imagine anything better than seeing your smiling face after our baby is born.
+*: 
+	His Majesty the King's asked you to do something for him, hasn't he?
+*: 
+	Well don't you worry about a thing, pet.
+	I'll look after your wife. She's in safe hands with me!
+*: 
+	I know the King's a kind man, but he wouldn't just let any old passers-by stay here.
+*: 
+	You must be someone special.
+*: 
+	I won't tell anyone, don't you worry! I don't know you're part of the royal family. I don't know anything about it!
+*: 
+	The Chancellor made it very clear that anyone who spills the beans will be in serious trouble.
+Prince Albert
+	If it was up to me, I'd just say, ⓗListen up, chaps! This is the new King of Gotha.ⓘ
+Prince Albert
+	But I'm afraid you're going to have to go to
+	the cave known as Riteof Passage and get
+	the Royal Insignia.
+Prince Albert
+	It's tradition, you see. To prove you're up to the job, or some such rot. Anyway, do that, and I can give you the throne.
+Prince Albert
+	You'll find Riteof Passage in the forest to the east of the castle.
+Chancellor Jeeves
+	I think it would be prudent if we remained discreet about your relation to King Pankraz, sir.
+Chancellor Jeeves
+	Your excursion to Riteof Passage could be rather dangerous. One never knows what might happen.
+Chancellor Jeeves
+	It would be most unfortunate were the people of Gotha to celebrate prematurely.
+*: 
+	Take care, sir.
+*: 
+	I know. It's all hush-hush, right?
+	That you're part of the royal family, I mean.
+*: 
+	The Chancellor would have our guts for garters if we let the cat out of the bag.
+*: 
+	I was instructed by King Pankraz, the former king, to research the legendary castle of a place known as Zenithia.
+*: 
+	The problem is, now that His Majesty is no longer around, I don't know if there's any point in continuing my research.
+*: 
+	Oh, bother! I lost again. Thruppence is just too good for me, I suppose.
+*: 
+	Hm? What am I talking about? What's everyone talking about!? Monster chess of course! Everyone's crazy about it at the moment.
+*: 
+	The Chancellor found all these chess pieces in the vault recently, you see.
+*: 
+	Ever since then, all us soldiers have been completely hooked on it. It's all we think about now!
+*: 
+	I didn't realise you were a friend of Sancho's.
+*: 
+	I hope you weren't turned away from here before. Strangers aren't usually allowed in, you see.
+*: 
+	Mistress Gertrude doesn't listen to a word I say!
+Gertrude
+	I never asked to be a princess.
+Gertrude
+	It's only because my father's become King of Gotha. It doesn't matter what I think. I don't have any say in it!
+Gertrude
+	It's not fair.
+	I just want to play.
+*: 
+	I remember all those long days I stood here, waiting for King Pankraz to return.
+*: 
+	Then finally one day, I spotted Mr Sancho approaching the castle.
+*: 
+	I can't tell you how happy I was to see him!
+*: 
+	But however many times and however hard I looked, King Pankraz wasn't with him.
+*: 
+	I can't tell you how sad I was not to see him!
+*: 
+	You're a friend of Sancho's, aren't you?
+	You're free to enter.
+*: 
+	His Majesty, the great Prince Albert, just does whatever the ⓚⓛ Hic! ⓚⓛ Chancellor tells him.
+*: 
+	It's tard to hell which one of ⓚⓛ Hic! ⓚⓛ them is running the place sometimes.
+*: 
+	Prince Albert is a great man. A truly
+	kind-hearted soul.
+*: 
+	Of course, I do worry sometimes that he's a bit too kind-hearted. He could be a bit of a soft touch.
+*: 
+	This is the barracks bar.
+	It's for the soldiers, see.
+	But you don't look like one of them.
+*: 
+	I'm a bit worried about them, actually.
+	They've all gone mad about this new
+	monster chess craze.
+*: 
+	It's all they think about now. I hope they're paying enough attention to their work.
+*: 
+	Come on, Thruppence! It must be here somewhere!
+	I just counted them and all the pieces were here, but there's one missing now.
+Thruppence
+	What am I going to do? You can't play monster chess without all the pieces!
+~ There's a small, slime-shaped stone on the floor. ~
+~ Let Thruppence know? ~
+Thruppence
+	There it is! You found it for me.
+Thruppence
+	...Just a minute...
+Thruppence
+	That's the first time I've looked up from my board in ages. I haven't been thinking about anything other than monster chess.
+Thruppence
+	It's funny, you know. Once you start, you just
+	can't stop.
+Thruppence
+	All the other soldiers are the same.
+	It's got so bad, they're neglecting their duties.
+Thruppence
+	It was only when I lost this piece that I finally snapped out of it.
+Thruppence
+	I think it's time I packed it in. I couldn't ask you
+	to take it off my hands, could I? You'd be doing
+	me a favour.
+Thruppence
+	These chess sets come from the castle vault, you know. It's sealed up usually, so it'll make a rare souvenir of the place.
+Thruppence
+	I'm scared I'll end up getting sucked back into the game by the men if I hang onto it.
+Thruppence
+	Will you take it?
+~ %0%a000120 receives a monster chess set! ~
+~ %0%a000180 takes the monster chess set. ~
+Thruppence
+	Thanks! Now I can start concentrating on work again at last!
+Thruppence
+	Please! You'd really be helping me out.
+~ %0%a000120 pretends %A0110%Xhe%Z%B0110%Xshe%Z didn't find anything. ~
+Thruppence
+	Those monster chess pieces are really well-made though, aren't they?
+Thruppence
+	People say they were sculpted by a master craftsman who used to live here.
+Thruppence
+	Hell's bells! Talking about it makes me want to get back into it again!
+*: 
+	Apparently King Pankraz's wife, Queen Mada, had some special power.
+*: 
+	Some people even think that's the reason
+	she was snatched.
+*: 
+	Queen Mada isn't dead.
+*: 
+	That's what I believe, anyway.
+*: 
+	This is the Chancellor's chamber.
+	I'm under strict orders not to let anyone inside.
+*: 
+	Oh? Is that a Whealbrook bluestone you've got?
+*: 
+	My dad would've been really excited to see that.
+	What a pity he's not around any more.
+*: 
+	My father was a craftsman, you see. A jeweller.
+	He used to work here in the castle.
+*: 
+	Then one day he just left without telling anyone where he was going, and no one's seen him since.
+*: 
+	When King Pankraz set off to find Queen Mada,
+	a lot of soldiers here tried to go with him.
+*: 
+	But he wouldn't let them. He said it wasn't fair to ask them to come when he didn't know how long or where his journey would take him.
+*: 
+	In the end there were just three of them.
+	King Pankraz, his baby boy and his right-hand
+	man, Sancho.
+*: 
+	I don't like that Chancellor fellow. As soon as King Pankraz left, he became completely full of himself.
+*: 
+	I don't trust him.
+~ ⓗGotha Castle Assembly Hall ~
+~ Authorised members of staff only.ⓘ ~
+*: 
+	You are %H0860%Xa traveller%Ytravellers%Z, I believe. I too roamed the world prior to my arrival here in Gotha.
+*: 
+	King Pankraz was most kind and helpful.
+*: 
+	But were it not for the fate befallen unto Madalena, I have no doubt King Pankraz would
+	still be...
+*: 
+	No. I have said too much. Such vain wishes shall not bring him back.
+*: 
+	Don't beat me to a pulp! I'm gooey enough as it is.
+	And I'm not a bad slime, you know! Really! I promise!
+*: 
+	It's a long time agoo now, but I uoozed to be Queen Mada's pet slime once.
+*: 
+	Welcome to Gotha!
+*: 
+	This is the castle town of Gotha.
+*: 
+	Our old king, King Pankraz, was a very sharp ruler, you see.
+*: 
+	That's why he decided that all Gothans
+	should live within the castle walls, to protect
+	us from our enemies.
+*: 
+	Woof! Woof, woof, woof!
+*: 
+	We had a long spell here without a king at all.
+	He was away travelling, you see.
+*: 
+	We were all waiting for him to return, but...
+	Well, he never did in the end.
+*: 
+	Now his brother, Prince Albert, is our new king.
+	He took the throne quite a few years ago now.
+*: 
+	There was once a master craftsman who lived here in the castle, you know. Known as a god among jewellers, he was.
+*: 
+	But after King Pankraz left the castle, he left too.
+*: 
+	His son still lives here, though.
+	He runs the weapon shop upstairs.
+*: 
+	When I grow up, I'm going to be a soldier, and I'm going to guard Gotha to the end!
+*: 
+	My dad's a soldier. Soldiers are cool!
+*: 
+	I hope the world's a more peaceful place by the time my little boy grows up.
+Sister
+	There's something very warm and familiar about you... I don't know, maybe I'm just imagining it.
+*: 
+	King Pankraz dead?
+	Pah! I don't believe a word of it!
+*: 
+	Every time I shut my eyes I see his valiant figure standing proud and tall. So how can he possibly be gone, hm?
+*: 
+	I was more of a fan of King Pankraz than his brother Albert, to be honest.
+*: 
+	King Pankraz had vision. He had dreams!
+*: 
+	Sadly, now we'll never know what those dreams were. But he had them, and that's what counts!
+Sancho
+	When your father decided to leave Gotha,
+	he planned to leave you behind.
+Sancho
+	But you cried eso hard, friend.
+Sancho
+	Een the end, we had to breeng you weeth us.
+Sancho
+	But no one, they deedn't know what would
+	happen to us.
+Sancho
+	Your father, he asked me to no tell you that you were a prince.
+Sancho
+	I'm esorry, friend! I promised I would no
+	tell you!
+Sancho
+	Forgeeve me. Forgeeve your Uncle Sancho!
+Sancho
+	And now you must do as Prince Albert, he ees asking you. You must become the King of Gotha.
+Sancho
+	Otherwise, I cannot look your father een the eyes when I am meeting heem een heaven.
+Sancho
+	Qué? Chancellor Jeeves, he has placed an embargo on the castle at night?
+Sancho
+	Even for you? But you are the eson of the
+	great King Pankraz! Thees Chancellor,
+	he ees a renegado!
+Sancho
+	Heh! You estay here weeth me tonight, friend.
+Sancho
+	Like the old days, eh? When I used to
+	look after you.
+Sancho
+	Buenas noches, friend.
+	Esleep well.
+Sancho
+	Buenos días, friend.
+	I hope you eslept well.
+Sancho
+	You must go to esee your wife now.
+	Maybe eshe ees worrying about you.
+Sancho
+	So, esoon you weell be a papá, eh, friend?
+Sancho
+	The days, they go eso fast, no?
+*: 
+	You're Sancho's friend, aren't you?
+*: 
+	It would be better if you could stay with him tonight and come back in the morning.
+*: 
+	The castle gates stay shut of a night.
+	Chancellor's orders.
+Sancho
+	Hola?㈢㈢
+	Do I know you, señor?
+Sancho
+	Eh?㈢㈢
+	No...
+Sancho
+	Ees eet...?
+Sancho
+	No. Ees no possible!
+Sancho
+	Friend! Ees eet you?
+	Ees eet my %a000090?
+Sancho
+	Sí! I know eet!
+	Eet ees you, friend!
+Sancho
+	You, you, you are alive!
+Sancho
+	Let me esee your face, friend.
+Sancho
+	Sí... Just like your father...
+	You are a man now.
+	A strong, macho man!
+Sancho
+	And tell me, who ees thees young señorita?
+Debora
+	And tell me, %a000090, who is this old sinful eater? I'm %a000090's wife, if you must know.
+Sancho
+	Qué? You... You are %a000090's wife?
+Sancho
+	I, I no believe my leettle friend, he ees married!
+Sancho
+	I theenk I no ever see you again, and now...
+	Now you are home weeth a beautiful wife!
+	Ees... Ees... Ees too much...
+Sancho
+	I... (sob)
+Debora
+	............
+Sancho
+	You must tell Prince Albert that you
+	have returned.
+Sancho
+	Maybe you know thees already, but your father, he was the King of thees place, friend.
+	The great King of Gotha!
+Sancho
+	But now hees brother, Prince Albert, he ees our king.
+Sancho
+	Come, friend. I eshow you.
+Sancho
+	Uf! You no trick your Uncle Sancho, friend!
+	I know ees you.
+Prince Albert
+	Ah, Sancho, you old dog! You look tickled pink!
+	Good news, is it?
+Sancho
+	Sí, señor!
+	The wonderful news!
+	Thees ees...
+Prince Albert
+	Good Goddess! You mean, Pankraz's son?
+	%0%a000090...is alive?
+Prince Albert
+	By Jove, it is you, %a000090!
+	Those eyes! They're just like Mada's.
+Prince Albert
+	Well, whoever would've guessed it? I never
+	imagined that bawling baby would turn into
+	such a fine young fellow!
+Prince Albert
+	Listen to me! I haven't even introduced myself, have I? I'm your uncle. Your father, Pankraz, was my older brother.
+Prince Albert
+	And who's this bally bombshell of a girl you've brought with you, eh?
+Debora
+	Hmph. You're the King? You're not very imposing for a king, are you? My papa does a better job of looking pompous than you.
+Prince Albert
+	Steady on there, old girl!
+	Are you alright?
+Sancho
+	Debora!
+Sancho
+	Thanks to the Goddess.
+	Debora, eshe ees awake again.
+Sister
+	I don't know what she was thinking of, travelling in her condition.
+Sister
+	She said she collapsed in Battenberg on the way here too.
+Sister
+	What did she think she was going to do if the
+	worst happened?
+Sancho
+	Ees eserious, Sister?
+	Eshe ees very esick?
+Sister
+	Sick? I don't think you could call it sick.
+Sister
+	Not something as wonderful as this.
+Sancho
+	Qué?
+Sister
+	Congratulations, %a000090.
+	Are you ready to be a father?
+Sister
+	Yes. Your wife is with child. There's absolutely nothing wrong with her. She just needs rest.
+Sister
+	She's hardly showing at all yet, but according to what she's told me, I'd say she's already quite well progressed.
+Sancho
+	Thees ees wonderful!
+Sancho
+	A bebé! My friend's bebé! You and Debora...
+	Sí, eet weell be esuch a beautiful child.
+Sister
+	Well, I'll leave you alone now. Take care. And remember, your wife is in a delicate state now.
+Sister
+	Well, no doubt you need some time to get used to the idea. It's all very sudden.
+Debora
+	What? Didn't I know?
+Debora
+	Of course I knew, you wally!
+	But if I'd let on, everyone would've tried to make me go back home to boring old Mostroferrato.
+Debora
+	Oh, well. I suppose you had to find out eventually.
+Debora
+	Don't worry. I won't kick up a fuss. I've decided I'm going to stay in Gotha and have the baby here.
+Debora
+	I know you'll be lost without me by your side, but, well...get over it!
+Debora
+	Oh, you're awake. I like these castle beds. Yes, I deserve a bed like this. You'll have to buy me one.
+Debora
+	Right, well... Don't just stand around here. You're in my way. Run along and get on with the adventuring.
+Debora
+	So, you're a prince, then... And this castle is basically yours...
+Debora
+	Yes, I am a great judge of character. I mean, you look like a total wimp, but when you got the Circle of Fire and the Circle of Water, I knew.
+Debora
+	But just because you're Prince %a000090 and I'm ⓗjustⓘ your wife...
+Debora
+	You've got time to kill, have you?
+	I don't think so!
+Debora
+	Or are you tired? I suppose a little thing like you gets tired easily.
+Debora
+	Fine. Rest then, if you need to.
+Debora
+	Morning, lazy. You're going to have to start getting up earlier, you know.
+Debora
+	What? Breakfast?
+	Yes, they brought something.
+	I was hungry, so I ate it all.
+Debora
+	Well, go on then. That's more than enough rest.
+	Go and get on with things.
+Debora
+	And another thing: you're a really noisy sleeper. You woke me up Goddess knows how many times last night.
+Debora
+	I'm completely exhausted thanks to you.
+Debora
+	You know, I didn't think I'd enjoy living in a castle quite so much.
+Debora
+	The servants are very capable. Yes, I'm starting to like Gotha a lot.
+Debora
+	You know, I didn't think I'd enjoy living in a castle quite so much.
+Debora
+	The servants are very capable. Yes, I'm starting to like Gotha a lot.
+Debora
+	I'm Debora. %0%a000090 is my husband.
+	Which naturally means we'll be getting some very special treatment here, does㈢, doesn't㈢...it...?
+Debora
+	...it doesn't mean you're more important than me, got it?

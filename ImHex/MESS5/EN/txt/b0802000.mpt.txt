@@ -1,0 +1,88 @@
+~ %0%a020010's wounds heal! ~
+~ %0%a020010 wakes up. ~
+~ %0%a020010 is no longer poisoned. ~
+~ %0%a020010 is no longer paralysed. ~
+~ %0%a020010 returns to %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z senses. ~
+~ Does %a000432 %H0432%Xpoint%Ypoints%Z of damage to %a020010. ~
+~ %0%a020010 takes %a000432 %H0432%Xpoint%Ypoints%Z of damage! ~
+~ %0%a020180 musters %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z strength. ~
+~ But nobody shows up. ~
+~ %0%a020010 uses a MIMIC STONE. ~
+~ %0%a020010 uses a BLARNEY STONE. ~
+~ %0%a020180 is already confused! ~
+~ The enemy look happy. ~
+~ Does %a000432 %H0432%Xpoint%Ypoints%Z of damage to %a020010. ~
+~ %0%a020010 is defeated. ~
+~ %0%a020010 takes %a000432 %H0432%Xpoint%Ypoints%Z of damage! ~
+~ %0%a020010 collapses! ~
+~ %0%a020010 takes %a000432 %H0432%Xpoint%Ypoints%Z of damage! ~
+~ %0%a020010 dies! ~
+~ %0%a020010 scatters some of the sands of time around %A0010%Xhimself%Z%B0010%Xherself%Z%C0010%Xitself%Z. ~
+~ Time starts to flow backwards! ~
+~ %0%a020010 tosses and turns violently in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z sleep. ~
+~ %0%a020010 bursts into tears! ~
+%0%a000010
+	WAAAAAH!
+	(sniff)
+~ Tears well up in %a020010's eyes. ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z just doesn't know what to do any more! ~
+%0%a000010
+	%O0975%XHola, imbecil!%YOi, ugly!%Z
+%0%a000010
+	%O0975%XYou know who you talking to!? I, I throw my paella at you!%YJust who do you think you're dealing with here? You've got a nerve!%Z
+%0%a000010
+	%O0971%XHey! What are you playin' at?%YHey, pea-brain!%Z
+%0%a000010
+	%O0971%XYou'll be sorry if you do me any damage!%YBe careful of my skin!%Z
+	
+	
+*: 
+	Hocus Pocus, Hocus Pocus...
+~ %0%a020010's voice just echoes fruitlessly in the air. ~
+~ Heavens! Rocks start falling from the ceiling! ~
+~ What's this!? %0%a020130 gets up and looks over as if %A0130%Xhe%Z%B0130%Xshe%Z%C0130%Xit%Z wants to join the party! ~
+~ Allow %a020130 to join the party? ~
+~ %0%a020180 is swallowed up by the wave! ~
+~ Mini medals aren't kept with the rest of your items. ~
+~ You can find out how many you've managed to collect by going to the ⓗAttributesⓘ section of the ~
+~ menu and moving the cursor to the wagon icon. ~
+~ %0%a020180 metamorphoses into an enormous dragon! ~
+~ But %a020180 stands firm! ~
+~ %0%a020010 picks up a pebble at %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z feet and hurls it at the enemy! ~
+%0%a000010
+	%O0975%XYou! You no mock Sancho!%YHa! Take that! Ha ha!%Z
+~ %0%a020010 picks up a pebble at %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z feet and hurls it at the enemy! ~
+%0%a000010
+	...
+~ %0%a020010's defence decreases by %a000820! ~
+~ %0%a000120 doesn't appear to have a party to change the line-up of! ~
+~ %0%a000120 doesn't have any companions whose tactics he can change! ~
+~ %0%a020010 picks up a pebble at %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z feet and hurls it at the enemy! ~
+%0%a000010
+	Ha! Take that! Ha ha!
+~ %0%a020010 raises the Zenithian Sword above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ A bright light shines on %a020180! ~
+~ %0%a020010 raises the Zenithian Sword above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ A bright light shines on %a030130! ~
+~ Going into battle with a party full of coffin-dwellers would be suicide! ~
+%0%a000010
+	Heal. Heal! ...HEAL!
+~ But the incantation just sounds silly! ~
+~ %0%a020010's wounds heal rapidly! ~
+~ %0%a000010 doesn't have any battle abilities to speak of! ~
+~ %0%a000120 opens the chest. ~
+~ %0%a020010 casts Heal on the enemy! ~
+~ Oof! %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z trips on something and falls flat on %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z face! ~
+%0%a000180
+	Urgh! Get off!
+~ %0%a020180 is not impressed! ~
+%0%a000180
+	Aaah! Stop it! Stop it!
+~ %0%a020180 is not impressed! ~
+%0%a000180
+	!?
+~ %0%a020180 is not impressed! ~
+~ %0%a020182 smoothly dodges the attack! ~
+~ %0%a020010 flies past %a020182 and crashes to earth some distance away. ~
+~ %0%a001280 is resurrected! ~
+~ %0%a020010 wanders off. ~

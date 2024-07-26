@@ -1,0 +1,613 @@
+Bianca
+	Who in their right mind would plan a town out to
+	be this complicated? It must be an impossible place
+	to live.
+Bianca
+	You couldn't afford to get a bit doddery on
+	your feet in your old age if you lived here,
+	that's for sure.
+Nera
+	It's so nice to be able to walk around freely, even in a place as tricky to navigate as this.
+Nera
+	The person who designed the town layout here must have had a whale of a time!
+%0%a001240
+	This place is cool! Is it a path? Is it a wall?
+	Who can tell? It's like a maze!
+%0%a001240
+	First turn, then go up the stairs, then... Um... Is this where you're supposed to go down?
+%0%a001240
+	Ha ha! I'm just trying to figure out the shortest way to do a circuit around town.
+%0%a001250
+	This place has a sort of magical air to it, I think.
+%0%a001250
+	Can you look back once in a while and make sure I'm still with you, Dad? I'm worried I might get lost.
+Sancho
+	Thees place, ees loco! First you esee a wall, but then ees a path. Now you esee a path, but ees a dead end!
+Sancho
+	Ees no the kind of town you can run around rápido. You must take eet eslowly, sí? Mañana, mañana.
+Tuppence
+	There's no need to worry. If we get really lost,
+	we can just knock a hole in the wall and tunnel
+	our way out.
+Bianca
+	En't this the place you learnt a new spell off that old man, %a000090?
+Nera
+	Mama and Papa say they brought me here when I was little, but I don't remember a thing.
+%0%a001240
+	I don't think we came here when we were travelling about with Sancho.
+Bianca
+	There used to be smoke billowin' about the place all day long in the old days. It was quite a sight, eh?
+Nera
+	It's a worry about Professor Toilen Trubble.
+	I do hope he's alright.
+%0%a001240
+	I wonder what kind of research Professor Toilen Trubble was doing that caused all that smoke.
+%0%a001240
+	Oh, you know all about it? Huh!
+Sancho
+	Thees professor, señor Trubble, he ees your
+	friend, no?
+Sancho
+	You must visit heem and esee how he ees doing.
+Bianca
+	Once a rumour like that gets about,
+	there's no stoppin' it.
+Nera
+	We can only pray that not too many people have been taken in by that kind of talk.
+%0%a001250
+	That's not true, right? The Goddess doesn't show favouritism like that, does She?
+Sancho
+	I hear many rumours about thees Order of Zugzwang these days. The world, ees no esuch a nice place no more.
+Tuppence
+	Some people seem to thrive on the idea that the world may be coming to an end. The Order of Zugzwang are a prime example.
+Bianca
+	That en't no rumour. We know it's the truth, eh?
+Nera
+	Are you alright, darling? You look a bit troubled.
+%0%a001240
+	What's wrong, Dad? You've gone a bit green.
+%0%a001250
+	I hate the idea of slavery! Anyone who turns people into slaves must be really, really wicked!
+Bianca
+	It looks like people who weren't at the Crocodilopolis that time are still brainwashed.
+Nera
+	But the Order of Zugzwang is finished. It looks like she still hasn't heard.
+%0%a001250
+	That woman's eyes are scary. Can we hurry up and get away from her?
+Sancho
+	Thees book you have purchased, My Majesty, ees eet to help us on our quest?
+Tuppence
+	No, if anyone's going to bring peace back to the world, it's you, %a000090. Ha ha!
+Bianca
+	For your own good!? She really has bin taken in by the whole thing, eh?
+%0%a001240
+	Three thousand gold coins for a book of drivel
+	like that? She's got to be joking!
+Sancho
+	You are right, friend. Eef you buy these theengs from the followers of the Order of Zugzwang, they gonna have more money for their evil plans.
+Tuppence
+	That woman's about the same age as my mother,
+	and yet there she is, extolling the virtues of Korol
+	of all people!
+%0%a001240
+	You can't go spending three thousand gold coins on a book like that, Dad! What a waste!
+%0%a001250
+	I love books, but I wouldn't want to read that one. You don't need to worry about buying it, okay, Dad?
+Sancho
+	Anyone can esee what thees señora ees doing.
+	She ees a book barracuda, eh, friend? Feeding
+	on the hungry bookworms.
+Bianca
+	Hang on a minute! Are we lost too?
+Bianca
+	Huh, I thought as much. If only we could just jump down off the walls, it'd be dead easy.
+Bianca
+	Phew. That's a relief. I'm countin' on you, okay, %a000090?
+Nera
+	I wouldn't get lost even if I walked around with my eyes closed.
+Nera
+	I have you to look after me and guide me in the right direction, after all!
+%0%a001250
+	He he he! It's funny to see that an adult
+	can get lost too!
+Tuppence
+	That man's armour is fairly rusty. And his facial hair is totally out of control.
+Tuppence
+	Yep, I'd say he must've been wandering about lost for at least five years now!
+Bianca
+	Yeah, there is a lovely breeze blowin' here all the time, eh?
+Nera
+	The view here is incredible. I can imagine it's a very relaxing spot.
+%0%a001240
+	He's right, it is a nice breeze. Maybe it's always windy here, judging by all the windmills they have.
+Bianca
+	City!? Dun't look much like a city to me!
+%0%a001240
+	If they think this place is big, I wonder what
+	they'd make of somewhere like Fortuna or
+	Lodestar Harbour!
+Sancho
+	These men, they are travellers like us, sí?
+Nera
+	How odd! I wonder why they're so worried about people finding out they're from the country.
+%0%a001250
+	I love the country! It's so much more relaxing than being in a town, and there are lots of lovely rivers and fields to play in.
+%0%a001240
+	You'd have thought you'd be able to see a tower that tall from anywhere. I suppose the world's bigger than you'd think.
+Bianca
+	I can understand him wantin' a drink, but he must be pretty desperate to be hangin' about waitin' here on his own.
+Nera
+	He must really love to drink if he's waiting for the pub doors to open!
+%0%a001240
+	If he needs a drink that badly, then why doesn't he just have some water? I don't get it!
+Bianca
+	If only he could channel his enthusiasm for the drink into somethin' more useful, eh?
+Nera
+	I seem to remember the same thing happening before.
+%0%a001250
+	He wasn't very happy, was he?
+Tuppence
+	How rude! Fancy accosting the ruler of a kingdom and treating him like a lowly barman!
+Bianca
+	Smell that booze in the air! I reckon you could get a bit tipsy just from breathin' in this place!
+Nera
+	Do you think they can really get through that much drink in one night?
+Bianca
+	Hmm. I can't help feelin' like he's hidin' somethin'.
+Nera
+	Don't you think he looked a little shifty? Almost as if he was fibbing to us for some reason.
+%0%a001240
+	Sounds a bit fishy to me.
+Sancho
+	Ees better eef we no ask too many questions, My Majesty. Eet eseems like a delicate esituation.
+Bianca
+	When people have a drink that tasty, they usually try to make money out of it.
+Bianca
+	The folk here must love the old booze an awful lot if they decided to keep it a secret and enjoy it by themselves instead!
+%0%a001240
+	Don't drink any of the Zoomshine here will you, Dad. If you wait until I grow up, we can drink it together.
+Sancho
+	Uf, I weesh I could try esome of thees Zoomshine...
+	But ees, ees yours, no mine...
+	(mutter mutter)
+Tuppence
+	If it tastes as good as he says, I should imagine it would fetch a fair old price.
+Bianca
+	It's interestin' to see a town full of so many different types of folk again, eh?
+Nera
+	It must be fun living with lots of people like they do here. Never a dull moment!
+Tuppence
+	How sweet she looks when she sleeps!
+	Perhaps we should go to sleep too, %a000090!
+Sancho
+	No, friend! Ees wrong to approach a señorita when eshe ees esleeping.
+Bianca
+	Parents just can't seem to help worryin', eh?
+Nera
+	Children are so adorable. I wish I'd been able to see our children more when they were tiny.
+%0%a001240
+	Why does it mean she won't get grandchildren just because her son's a worry? I don't get it!
+Tuppence
+	I hope I manage to produce grandchildren for
+	my mother before long. Better find a wife first,
+	I suppose!
+Bianca
+	If that's what floats his boat, then who are we
+	to argue?
+Nera
+	The thing that makes me happiest is being with my family. Wouldn't you agree, %a000090?
+%0%a001240
+	I'm happiest when I'm playing! Especially when it's with you, Dad!
+%0%a001250
+	That man's a bit scary. I'm sure he'd gobble me up if I got too close!
+Sancho
+	For me, the happiness, ees, ees, ees, ees...
+	Ees difficult to esay...
+Tuppence
+	I'd say I'm at my happiest when I imagine how much more respected I'll be in the future.
+Tuppence
+	Roll on the day when people are bowing and scraping at my feet. ⓗYes, Mr Tuppence! No, Mr Tuppence!ⓘ ...That kind of thing.
+Bianca
+	You already know where the doors to the underworld are, right, %a000090? I suppose we'd better hurry on over there.
+Nera
+	What a terrible burden %a001240 has on his shoulders. We must do all that we can to support him.
+%0%a001240
+	I'll do my best, don't worry. Then, once the world's
+	all peaceful and everything, I can play as much as I like, right?
+%0%a001250
+	%0%a001240's doing his best, but it is really hard on him. It's a bit of a worry.
+Sancho
+	The Goddess, what plan does eshe have for us all?
+	Ees no right for one eso young to have esuch weight on hees eshoulders.
+Tuppence
+	It's certainly a big responsibility, being trusted with something so important. I'm not sure I'd manage it
+	if it were me.
+Bianca
+	I imagine it'd frighten away the customers too, if it's as bad as it sounds.
+Bianca
+	Seems like the folk here like to have a bit of fun where the old Zoomshine's concerned. Let's just
+	keep quiet, eh?
+Nera
+	Why would it be their famous brew if it tastes
+	so terrible?
+Nera
+	There's no need for him to be quite so vocal.
+	It's not like we'd wipe the town out of its supplies
+	or anything!
+%0%a001240
+	That old man's pretty determined, isn't he? He really doesn't want us to get hold of any.
+Sancho
+	Weeth esuch a dreenk, our journey, ees gonna be easy, no?
+%0%a001240
+	Ooh! You're not supposed to run about
+	in church, are you?
+Sancho
+	Een thees loco town, ees no possible to run around outside. Ees too dangerous for the young ones.
+%0%a001240
+	That kid doesn't seem to care about being told off.
+%0%a001250
+	That boy's stupid! I'm worried he's going to
+	bang into me.
+Bianca
+	I dun't know much about magic research, but it looks like it must be hard work.
+Nera
+	Oh dear! What an awful cough! We should make
+	sure we drop in on him from time to time to check
+	he's alright.
+%0%a001240
+	Hocus Pocus...
+%0%a001240
+	Just the name of it is enough to send tingles down my spine. It must be a pretty powerful spell!
+Sancho
+	Ees no right to make thees old señor esit up
+	een hees condition! You must be considerate
+	of the elderly.
+Tuppence
+	Hocus Pocus!
+Tuppence
+	Hocus Pocus! Hocus Pocus!
+	Hocuuuus Poooocus!
+Tuppence
+	...Hmph! Nothing happened!
+	Is that old man having us on?
+Bianca
+	We must do somethin' to repay old Professor
+	Toilen Trubble for all his hard work once
+	everythin' calms down.
+Nera
+	I'll be keeping Professor Toilen Trubble in my
+	prayers and asking the Goddess to grant him
+	a speedy recovery.
+%0%a001240
+	Is that old man alright?
+	He doesn't look very well to me.
+%0%a001250
+	That old man's really clever. You can almost smell the magic brewing here in his house.
+Tuppence
+	I wonder how much that old man really knows about all this. I can't help but feel a bit doubtful.
+Bianca
+	Oh, I get it! So that's what it's all about. We'd better not go guzzlin' it down if it's that valuable, then!
+Nera
+	I don't think even Papa knew about this Zoomshine. We must make sure we look after it carefully.
+Sancho
+	Your Uncle Sancho, he has eseen many different espirits een hees time. But thees one, no.
+Bianca
+	Crikey! Did I imagine it, or did that cat just talk to us!? Maybe they learn how to do it as they get older.
+Nera
+	Our dog Bingo chatters away to me sometimes when we're alone, you know. He he he!
+%0%a001250
+	I've seen plenty of slimes now that can speak, but I've never seen a talking cat before! How sweet!
+Tuppence
+	Yikes! That cat must be possessed or something!
+Bianca
+	Who in their right mind would plan a town out to
+	be this complicated? It must be an impossible place
+	to live.
+Bianca
+	You couldn't afford to get a bit doddery on
+	your feet in your old age if you lived here,
+	that's for sure.
+Nera
+	It's so nice to be able to walk around freely, even in a place as tricky to navigate as this.
+Nera
+	The person who designed the town layout here must have had a whale of a time!
+%0%a001240
+	This place is cool! Is it a path? Is it a wall?
+	Who can tell? It's like a maze!
+%0%a001240
+	It's pitch black and the town's made like a maze. Being in Zoomingale is like being in a cave!
+%0%a001250
+	This place has a sort of magical air to it, I think.
+%0%a001250
+	Can you look back once in a while and make sure I'm still with you, Dad? I'm worried I might get lost.
+Sancho
+	Thees place, ees loco! First you esee a wall, but then ees a path. Now you esee a path, but ees a dead end!
+Sancho
+	Ees fortunate that the inn, ees eso close to the town entrance, sí?
+Tuppence
+	There's no need to worry. If we get really lost,
+	we can just knock a hole in the wall and tunnel
+	our way out.
+Tuppence
+	You can see light coming through the window there, and yet what a pain it is to try and actually get there! So near and yet so far.
+Bianca
+	It's bin another tirin' day, eh? Maybe we should think about gettin' some sleep before long.
+Nera
+	I think we should call it a day today, and rest now until tomorrow.
+Bianca
+	It's nice to see people happy, eh?
+Nera
+	If anything's love, this is! My feelings for you are second to none! ...Um, or words to that effect.
+%0%a001240
+	Is anything bothering you at the moment, Dad?
+	Or is everything okay because I'm with you?
+Sancho
+	Okay, friend, ees time to go!
+	We no want to get een the way, uh?
+Tuppence
+	It doesn't look like the feeling's mutual, I have to say! Still, that's his problem, I suppose.
+Bianca
+	Just how long has that soldier bin lost!?
+Nera
+	I don't mind travelling even the most complicated and frustrating of roads as long as I'm with you.
+%0%a001250
+	He he he! It's funny to see that an adult
+	can get lost too!
+Tuppence
+	That man's armour is fairly rusty. And his facial hair is totally out of control.
+Tuppence
+	Yep, I'd say he must've been wandering about lost for at least five years now!
+Bianca
+	It dun't look all that fancy to me. Still, I suppose anythin's fancy after a hay bale, eh?
+Nera
+	I don't have that problem. I can get to sleep in
+	an instant, no matter what kind of pillow I lay
+	my head on!
+%0%a001240
+	Big, fluffy pillows are the best in my opinion.
+	But any pillow's better than a hay bale!
+Bianca
+	Dun't look like he's enjoyin' his sleep much there.
+%0%a001250
+	He looks like he's having a nightmare, poor man.
+Bianca
+	I doubt there's many a place you'd see a priest worse for wear like that, eh?
+Nera
+	Oh dear. How can a priest possibly give guidance to people when he feels like that?
+%0%a001240
+	If he feels that way, then why does he spend his days praying? I don't get it!
+Sancho
+	I, I feel esorry for thees poor padre.
+	Eet hurts when you feel all alone...
+Bianca
+	It must be hard work tryin' to look after a drunk.
+%0%a001240
+	It's funny how you don't mind us coming in here.
+%0%a001240
+	Sancho would never let us into pubs when
+	we were travelling just with him. He said
+	they weren't for children.
+Tuppence
+	I wouldn't mind a bit of TLC from that dancing girl myself, you know!
+Bianca
+	That en't no rumour. We know it's the truth, eh?
+Nera
+	Are you alright, darling? You look a bit troubled.
+%0%a001240
+	What's wrong, Dad? You've gone a bit green.
+%0%a001250
+	I hate the idea of slavery! Anyone who turns people into slaves must be really, really wicked!
+%0%a001240
+	I didn't realise you were allowed to sleep over in pubs too. I'll have to remember that!
+%0%a001250
+	Urgh! He smells of drink!
+%0%a001240
+	If it's an ancient legend, then the tower must've been around a long time. I wonder when it was built.
+%0%a001240
+	That man works here, but his face was all red.
+%0%a001240
+	Does that mean people who work behind bars have to drink just like their customers?
+Sancho
+	Mmm... Esuch a sweet esmell...
+	I wonder what kind of espirit thees ees...
+%0%a001250
+	He doesn't seem to be all that good...
+	Or should I not say that?
+Tuppence
+	Hmm, it doesn't seem like the most appropriate song for a pub, does it?
+Bianca
+	I can see why she can't sleep with that awful
+	noise comin' from next door! The pub downstairs
+	en't quiet neither.
+Nera
+	That poor woman. There's nothing more frustrating than not being able to get to sleep.
+%0%a001240
+	I can sleep through anything, no matter how noisy!
+%0%a001250
+	I'm a bit sleepy now myself. You'd think an innkeeper would be able to get a decent night's sleep.
+Bianca
+	I'm surprised he can sleep in here! He dun't seem to have any ear plugs or nothin'.
+Bianca
+	Maybe he exhausted himself durin' the day from playin' so much. That must be it.
+%0%a001240
+	Looking at him snoozing like that
+	makes me feel sleepy too.
+Tuppence
+	Fancy being able to sleep in a room like this!
+	That boy will go far, you mark my words!
+Bianca
+	So that's the noise we've bin hearin' since we come in this buildin'! What a racket!
+Nera
+	He won't have any teeth left if he keeps grinding them at that rate!
+%0%a001240
+	What an awful noise he's making! I think I'd wake myself up if I was snoring that loudly!
+Sancho
+	How about me when I am esleeping? Am I making thees noise, like the castanets? When you hear esomeone else, you estart to worry...
+Bianca
+	I wonder how long the poor woman's had to put up with his snorin'.
+Nera
+	Even if you snored really loudly, I'm sure I'd be able to think of it as a lullaby sending me off to sleep...
+%0%a001240
+	Sancho tends to snore every now and then, but I've never heard him make that much of a racket!
+Bianca
+	The lucky thing! Sounds like he's really enjoyin' that.
+Nera
+	I always like to drink a nice glass of cold milk after I've had a bath.
+%0%a001240
+	I'd quite like a bath and a nice, cold juice myself!
+Sancho
+	Be careful, My Majesty. Thees dreenking after the bath, ees a recipe for the round estomach. And you no wanna have a round estomach, eh, friend?
+Sancho
+	Do you esmell that delicious escent?
+	Maybe ees coming from the pot over there, no?
+Tuppence
+	I wonder what it is he's drinking that's so good.
+	Hmm, I feel like I'm missing out here!
+Bianca
+	Hey! Maybe this place was built like a maze so they could protect their precious Zoomshine! Surely not!?
+%0%a001240
+	Adults are cheeky!
+%0%a001250
+	This room makes my head hurt. Can we go somewhere that doesn't smell of drink?
+Tuppence
+	You wouldn't have thought it would hurt to give us a little taste, given that we're in on the secret.
+%0%a001250
+	We're not outsiders, are we?
+	That makes me feel all sad.
+Tuppence
+	I wonder why he's in such a state.
+	Hm, it's a mystery.
+Debora
+	This town's like a maze. I never lose my way, but I'm a bit worried that you might, %a000090.
+Debora
+	I like this place. I'd like to climb up to the highest point and look down on all the people.
+Debora
+	I got lost here once when I was little.
+Debora
+	Mama and Papa were absolutely frantic that they couldn't find their beautiful little princess.
+Debora
+	I knew studying was bad for you. Better just to relax and keep yourself young and beautiful like me.
+Debora
+	What an idiot. As long as I'm alive, there's no way the world's going to come to an end.
+Debora
+	There's a big difference between having someone as your servant and having them as your slave. I find the latter very distasteful.
+Debora
+	What are you doing, buying a book like that without my permission? Remember who controls the purse strings around here!
+Debora
+	Quite right. You mustn't buy a book like that.
+	Your possessions can speak volumes about what kind of person you are, you know.
+Debora
+	You only said yes because you knew we couldn't afford it. We don't need a book like that, though.
+	It's pure poison, that's what it is.
+Debora
+	What a useless excuse for a soldier he is!
+	He wouldn't be much good as a servant, either, getting lost that easily.
+Debora
+	Mind you, it's quite funny watching him dithering about like that.
+Debora
+	Yes, it's nice here because it's the highest spot.
+	I can look down on the townspeople and imagine they're all my servants.
+Debora
+	Just so you know, you had an expression on your face just like that on the day of our wedding. Ha ha!
+Debora
+	He could do with a change of clothes for a start.
+Debora
+	He must have plenty of time on his hands to be just standing around here waiting for the place to open.
+Debora
+	I can't stand rowdy men like him. If you ever want to drink, %a000090, I don't mind being your partner and keeping you in check.
+Debora
+	They have quite a lot of decent drinks here.
+Debora
+	I've never drunk much myself, but I know what I'm talking about because I borrowed one of Papa's books. See, I'm studious!
+Debora
+	That man's lying. He can't pull the wool over my eyes that easily.
+Debora
+	Oh dear. I'm afraid I'm not very good at keeping things to myself. When I find out a secret, I get this urge to blurt it out to all and sundry.
+Debora
+	She looks quite sweet when she's asleep.
+Debora
+	Hmmm... Maybe not. She actually looks like she's been slapped across the face over and over! Let's go.
+Debora
+	I know our children won't disappoint us like that.
+	And our grandchildren will call me Signorina Debora and they'll love me to pieces!
+Debora
+	That poor misguided man. Maybe I should show him true happiness and allow him to become one of my servants.
+Debora
+	Ha ha! There's no way our children will lose to the likes of Nimzo!
+Debora
+	That's a shame. I was looking forward to
+	seeing your face if it tasted foul, but it's
+	actually quite nice.
+Debora
+	That sounds like a fun spell! Hocus Pocus...
+	You'll have to use it lots. That's an order, got it?
+Debora
+	Don't go forgetting your place, %a000090.
+	You're my servant first and foremost.
+Debora
+	A precious brew that tastes just wonderful...
+	I suppose I'd better save you a mouthful or
+	two then.
+Debora
+	I always knew you were weird, but jumping down wells and chatting away with cats is pushing it even for you!
+Debora
+	This town's like a maze. I never lose my way, but I'm a bit worried that you might, %a000090.
+Debora
+	I like this place. I'd like to climb up to the highest point and look down on all the people.
+Debora
+	Aaaaah. I'm tired all of a sudden.
+	Let's stop for a rest soon.
+Debora
+	You must be the happiest man alive. You married me, after all. So you'd better devote yourself to me one hundred percent, got it?
+Debora
+	Ugh! He smells a bit, don't you think?
+	Surely he could at least find his way to the inn!
+Debora
+	You do have my special pillow with you, don't you?
+	I can't possibly sleep without my own pillow.
+Debora
+	You have nightmares sometimes, don't you?
+	I wonder what they're about.
+Debora
+	How pathetic! He's had too much to drink and he's making a show of himself.
+Debora
+	ⓗAgainⓘ!? So this is a regular thing?
+	He needs a good talking to, he does.
+Debora
+	There's a big difference between having someone as your servant and having them as your slave. I find the latter very distasteful.
+Debora
+	I'd go and shut everyone up if it were me.
+	Then I'd be able to get a good night's sleep.
+Debora
+	What a din! I can't bear men with such
+	uncouth habits.
+Debora
+	You don't snore, do you?
+	Not that I'd allow you to.
+Debora
+	There's no need for him to make quite such a meal of it. I've a good mind to take it off him.
+Debora
+	It is quite a frustrating place to navigate.
+	I wonder if the people here ever get lost
+	on their way to the shops.
+Debora
+	It's certainly a pleasant spot. Maybe I'll have a little snooze. You'll keep watch, won't you, %a000090?
+Debora
+	Ha! He thought you worked in the pub!
+	Just goes to show that you look like the
+	serving type, %a000090.
+Debora
+	Surely he doesn't mean that all of those bottles are for just one night!?
+Debora
+	Well, that explains it. This town is full of drunks, and that's why the streets are so manic. They designed the layout when they were squiffy.
+Debora
+	People say that cats start to talk when they get old, and it's true. That's so creepy.
+Debora
+	Come to think of it, Nera was always chattering away to our dog Bingo. I'm sure he never understood a word, though.
+Debora
+	I'd hate having to sleep in a place like this.
+	No doubt you could've guessed that, though.
+Debora
+	It's sad that people want to drink something that's supposed to be so evil it frightens monsters away.
+Debora
+	If we manage to get hold of some, you'll have to taste it first and make sure it's good enough for me.

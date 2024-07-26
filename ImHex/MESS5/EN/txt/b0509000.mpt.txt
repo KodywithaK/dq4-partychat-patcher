@@ -1,0 +1,176 @@
+Bianca
+	It's a bit on the small side, but it
+	looks a lot like a castle to me.
+Bianca
+	Hey! Am I seein' things or is that a slime over there?
+Nera
+	A tiny little castle tucked away
+	on a southern island...
+Nera
+	Do you see that slime over there?
+	Whatever is it doing?
+Bianca
+	You can't knock him for bein' ambitious, but can slimes even make themselves bigger through trainin'?
+Nera
+	How funny to see a slime in training! But if it wants to be like the one on the roof, I'd say eating a lot would be the answer.
+Bianca
+	En't powjamas supposed to be some kind of warrior pyjamas? They dun't sound like they can be all that strong to me, mind.
+Bianca
+	Those chocolate medalliyums sound nice.
+	I quite fancy givin' them a go.
+Nera
+	I think you'd need to be quite brave to wander about in your pyjamas all the time.
+Nera
+	Papa absolutely adores chocolate medalliyums.
+	I'm fairly sure he bought them at the inn here.
+Bianca
+	Um, d'you reckon the bank here's above board, %a000090? It smells a bit fishy to me.
+Nera
+	He seems like a trustworthy fellow. It's nice to know he takes such good care of his customers' money.
+Bianca
+	Blimey! What a delicious-smellin' chocolate! That smell alone is enough to send you wobbly!
+Nera
+	Seeing this chocolate medalliyum reminds me of Papa.
+Nera
+	He used to be really skinny when he was younger, apparently. But then he developed a taste for these and there was no looking back.
+Bianca
+	I could eat these chocolate medalliyums until the cows come home, but I suppose we shouldn't be too frivolous, eh?
+Nera
+	We mustn't overindulge in these chocolate medalliyums, otherwise we'll get fat. Let's not buy too many.
+Bianca
+	Uh-oh. Looks like we en't bin managin' our finances all that well if we can't even afford to buy chocolate.
+Nera
+	We can buy some chocolate the next time we're here.
+Bianca
+	The lanterns look so pretty, dun't you think?
+	All elegant, like.
+Nera
+	Those lanterns were probably made to commemorate departed slimes, don't you think?
+Bianca
+	It dun't look like hard work to me.
+Nera
+	That poor old man, having to come out
+	at this time of night to do that.
+Bianca
+	D'you reckon there really is some
+	great treasure hidden here?
+Bianca
+	We could try askin' around and
+	seein' if we get any clues.
+Nera
+	I don't imagine we'll be able to acquire this
+	ⓗgreat treasureⓘ all that easily.
+Nera
+	It would be a lovely thing to add to the museum's collection. Let's see if we can find it.
+Bianca
+	It's almost like that bloke's not from 'round here.
+	I s'pose it's fair enough that he dun't know, though.
+Nera
+	It looks like this treasure we're looking for isn't something that everyone knows about.
+Bianca
+	Puzzling little thing? I wonder what it is!
+Nera
+	He gave it to the woman at the inn? It can't be that great a treasure if he just gave it away!
+Bianca
+	She must be talkin' about the treasure we heard about, eh, %a000090?
+Bianca
+	We should try and find the thing now we've trailed after it this far!
+Nera
+	It sounds like this treasure is really doing the rounds. I'm so curious about what it is!
+Bianca
+	He dumped it!? D'you think it's really that worthless?
+Nera
+	Hm. I'm not sure about going after something that's been thrown out, but I suppose we should go and find it after all this.
+Bianca
+	Crikey! Is it me or is that medal talkin'!?
+Nera
+	It sounds like someone's squashed underneath.
+	We must help them!
+Bianca
+	Fancy that poor slime bein' squashed like that!
+Bianca
+	This must be this so-called ⓗgreat treasureⓘ we've bin hearin' so much about.
+Bianca
+	I've gotta say, it's a bit of a let-down.
+Nera
+	Well. I, er, suppose we've found the
+	ⓗgreat treasureⓘ then.
+Nera
+	That old man will probably be pleased with it,
+	at any rate. We should hurry up and take it to him.
+Bianca
+	It is pretty solid, I suppose. Maybe it could be used as a shield, after all! I wonder...!
+Nera
+	I think maxi medals are quite pretty too, personally. Papa would love to see it.
+Bianca
+	So it was in the fountain. No wonder
+	Old Man Nick Knack couldn't find it.
+Nera
+	Ah, that must be why it has that funny smell to it, because of being in the water all that time.
+Bianca
+	Blimey! I hope no one was too badly hurt. So much for treasure bein' good!
+Nera
+	Goodness! What a huge-scale treasure hunt that would have been. Papa would've loved it.
+Debora
+	That castle is quite sweet-looking.
+	I can think of worse places to live.
+Debora
+	There's a little thing bouncing about over there. Is it a slime?
+Debora
+	Looks like there are hard-working sorts even in the monster world.
+Debora
+	I've been basically perfect since the day I was born, though, so there's no need for me to make an effort.
+Debora
+	Powjamas? Yuck!
+	I bet they smell of sweat.
+Debora
+	So they sell chocolate medalliyums here. I love them! You'd better buy me some.
+Debora
+	Ah yes, the chocolate medalliyum.
+	Papa's always loved these.
+Debora
+	He's just like chocolate himself. If I turn on the charm, I can make him melt and do whatever I want!
+Debora
+	What? You're not buying any chocolate medalliyums? You've got some nerve, disobeying a direct order!
+Debora
+	You can't afford one measly chocolate medalliyum? Then you'd better sell something and get some cash. Something of yours, naturally.
+Debora
+	Oh! Those lanterns must be for slimes who've passed away. What a lovely sight!
+Debora
+	...Can't you take a hint, %a000090? This is where you're supposed to say that I'm far lovelier.
+Debora
+	I know you're interested in what people are up to, but you'll be an old man yourself if you stand here much longer.
+Debora
+	A great treasure... Hmm. As long as it's not just his imagination that's great.
+Debora
+	You're going to have to find it, %a000090. I'm not very good when it comes to looking for things.
+Debora
+	What are you waiting for? You should go and speak to the King. He's bound to know something.
+Debora
+	Puzzling little thing?
+	What's that all about, I wonder.
+Debora
+	But what is it!? Hmph. My curiosity has the better of me now. You're going to have to find it.
+Debora
+	One man's rubbish is another man's treasure.
+	Just like there are bound to be women out there who'll take on the men whose hearts I've broken.
+Debora
+	You're not just going to turn a blind eye are you, %a000090? Have some compassion!
+Debora
+	Do you think this is it? The elusive ⓗgreat treasureⓘ? You can see how it might be hard to keep tabs on. Unlike you.
+Debora
+	We'd better get back to the old man and give him what he's been waiting for then, %a000090.
+Debora
+	I suppose it could come in handy as a shield if you were desperate. But I have you if needs be, so I'm fine.
+Debora
+	It does smell a bit nasty. But I suppose we should just be grateful it's not still lying at the bottom of the fountain.
+Debora
+	Flying maxi medals?
+	That sounds a bit lethal!
+Debora
+	I'm sure Nera would deposit her money here without a second thought. How about you?
+Debora
+	Ha ha! You don't mind taking the odd risk every now and then, do you?
+Debora
+	Hmph. I didn't expect you to be so cautious.
+	How dull.

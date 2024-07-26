@@ -1,0 +1,14 @@
+*: 
+	Hey! You%H0860%X%Y guys%Z sure are early! Not that I blame ya. The food and beds here are the best you'll ever get!
+*: 
+	Gee, you look really beat. Don't sweat it, though. Stayin' here will have ya feelin' on top o' the world again in no time!
+*: 
+	And all for only %a000510 bucks a night. I'm pretty much givin' it to ya for free, huh? Whaddya say? You wanna stay, right?
+*: 
+	Way to go! I'll show you your room.
+*: 
+	Mornin', %H0860%Xpal%Yguys%Z! And what an awesome mornin' it is too! I sure hope you'll stay with us here again soon.
+*: 
+	Dang! Looks like you shoulda been a bit more careful with the ol' spondulicks.
+*: 
+	Huh! Well, don't come cryin' to me if ya go an' get %H0860%Xyourself%Yyourselves%Z deaded!

@@ -1,0 +1,27 @@
+Bianca
+	It dun't seem right somehow, havin' a big lookout tower like this next to a peaceful town.
+Bianca
+	If they feel the need for a big thing like this to keep watch, maybe Mostroferrato is in some kind of danger.
+Nera
+	This tower was built before I was born.
+Nera
+	All my father's told me is that he built the tower so we'd be prepared for monsters attacking.
+	He never said anything more than that.
+Bianca
+	That Mr Briscoletti sounds like a bit of a worrier. I've never heard anythin' about Mostroferrato bein' a target for monsters.
+Nera
+	It hardly bears thinking about, but I suppose this lookout tower's a symbol of the possibility that monsters might actually attack us one day.
+Bianca
+	A man who turned himself into a monster? Is that even possible? I certainly hope not!
+Nera
+	When I was a little girl, I used to love climbing this tower so I could look out and imagine what life must be like in faraway towns and castles.
+Debora
+	What are we doing at the tower?
+	There's nothing to see here.
+Debora
+	Papa comes here from time to time.
+	I wonder what for.
+Debora
+	It's just crazy talk saying that monsters will come and attack us one day. Papa's constantly worried about it. I suppose that makes him crazy!
+Debora
+	Ugh! I'd never want to turn myself into a monster. For one thing, monsters can't dress themselves up and look pretty.

@@ -1,0 +1,10 @@
+~ ⓗDANGER! Poisonous swamp. ~
+~ KEEP OUT!ⓘ ~
+~ ⓗBeware of beasts! ~
+~ South of here lies the village of Hay.ⓘ ~
+~ ⓗOpening the lock without permission is strictly prohibited. If you need it opened, please notify someone in Stockenbarrel village to the north-east.ⓘ ~
+~ ⓗSouth of here lies the desert queendom of Helmunaptra.ⓘ ~
+~ %0%a000120 tries to read the sign... ~
+~ But %A0110%Xhe%Z%B0110%Xshe%Z doesn't know how to read yet! ~
+~ %0%a000120 examines the sign. ~
+~ But %A0110%Xhe%Z%B0110%Xshe%Z's standing on the wrong side of it and can't read what it says! ~

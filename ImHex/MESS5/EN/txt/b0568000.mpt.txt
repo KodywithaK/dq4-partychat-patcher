@@ -1,0 +1,396 @@
+Bianca
+	After all them years I spent away from you as a statue, I can really understand how painful it must be for your mum to have bin snatched away.
+Nera
+	So Grandmaster Nimzo is right before us.
+	The time has finally come.
+%0%a001240
+	Grandma must be in here somewhere, right?
+	I know she is. I can sort of sense it.
+%0%a001250
+	I'm getting the feeling that there are scary
+	monsters all around us, just waiting for their
+	chance to pounce.
+Sancho
+	You must estand on your toes.
+	Thees mountain, ees full of dangers.
+Tuppence
+	So here we are at last. Who would've thought
+	that I, Tuppence, would be part of such a
+	momentous event?
+Bianca
+	I wonder how many more times we'll have to tread this path before Nimzo's defeated, eh?
+Bianca
+	Here's hopin' this is the last.
+Nera
+	On we go! We must succeed this time, and bring peace to the world!
+%0%a001240
+	The monsters here are really strong, so we'd better be extra careful this time.
+%0%a001250
+	I'm getting the feeling that there are scary
+	monsters all around us, just waiting for their
+	chance to pounce.
+Sancho
+	You must estand on your toes.
+	Thees mountain, ees full of dangers.
+Tuppence
+	So here we are again. Who would've thought
+	that I, Tuppence, would be part of such a
+	momentous event?
+Bianca
+	I dun't mind goin' fast, %a000090, but it could be dangerous to hurry too much.
+Nera
+	This place is so cold. The air here has a very sinister feel to it.
+%0%a001240
+	I'm alright. I'm not scared of anything. 
+	I'm your son, so I have no fear!
+%0%a001250
+	That big statue looks like it's staring at us.
+Sancho
+	You must remember the way as we go.
+Sancho
+	Ees no gonna be just one time we travel along these paths.
+Tuppence
+	I reached a point once where I felt rather disappointed at the uneventful sort of life I saw stretching out before me.
+Tuppence
+	And yet look at me here today! I never imagined I'd be involved in something so momentous.
+Bianca
+	Not long now, %a000090. It won't be long before we find your mum at last.
+Nera
+	It can't be much longer now. I'm sensing that your mother isn't far away.
+%0%a001240
+	Hang on a minute... What floor are we on now?
+%0%a001250
+	I'm sensing something really sinister lying in wait for us, but I can also feel a benevolent force in the air.
+Sancho
+	Are you tired, My Majesty?
+Sancho
+	Then you turn back esometimes, okay?
+	The lives of all of us, they are een your hands.
+Sancho
+	You, you are amazing, friend!
+	I weesh your papá, he could esee you now.
+Tuppence
+	Come on, you no-good monsters!
+	Come and give it your best shot!
+Tuppence
+	I won't let any of them lay a claw on you, %a000090. Even if I have to lay my own life on the line to stop them.
+Bianca
+	I can't get used to this place, no matter how many times we come.
+Nera
+	Now your mother's no longer here, the only thing left on this mountain is an aura of evil.
+%0%a001240
+	Hang on a minute... What floor are we on now?
+%0%a001250
+	We've made Ladja pay for hurting Grandma, but Nimzo still has to be put in his place.
+%0%a001250
+	If it wasn't for him, Grandma would never have ended up here.
+Sancho
+	Are you tired, My Majesty?
+Sancho
+	Then you turn back esometimes, okay?
+	The lives of all of us, they are een your hands.
+Sancho
+	You, you are amazing, friend!
+	I weesh your papá, he could esee you now.
+Tuppence
+	Come on, you no-good monsters!
+	Come and give it your best shot!
+Tuppence
+	I won't let any of them lay a claw on you, %a000090. Even if I have to lay my own life on the line to stop them.
+Bianca
+	D'you hear that, %a000090? I swear I can hear the sound of someone prayin'.
+Nera
+	This is it, darling! Listen!
+	It sounds like someone praying.
+%0%a001240
+	Is this the top of the mountain?
+	It's bigger than I expected.
+%0%a001250
+	Hang on in there, Grandma!
+	We'll all be there to rescue you soon.
+Sancho
+	Qué? Ees...
+	I feel esometheeng eso familiar...
+Sancho
+	Ees estrange een a place like thees, but...you
+	no feel eet too? I no have the right words to explain eet.
+Tuppence
+	I'm rather curious about what that nasty-coloured mist swirling around our feet is.
+Tuppence
+	Though perhaps this is one of those occasions where ignorance is bliss.
+Bianca
+	Pankraz, Mada...
+	Please watch over us and keep us safe.
+Nera
+	Pankraz, Mada... I implore you to watch over us and keep us safe.
+Bianca
+	Pankraz, dear Pankraz...
+	And poor Mada...
+Bianca
+	We're so thankful to have seen you both again, even just for a short time.
+Bianca
+	Please watch over us. I know your good wishes will be enough to keep us all safe.
+Nera
+	No... Don't go, Mada!
+Nera
+	Just once... If only you could've held %a000090 just once!
+%0%a001240
+	Grandpa! Grandma!
+%0%a001240
+	It's not fair! We only just found you.
+	It's just not fair!
+%0%a001250
+	(sob) Waah... (sniff)
+Sancho
+	You, you must feel proud, friend. Proud that you are the eson of señor Pankraz and señora Mada. You never forget thees, okay?
+Sancho
+	Ees all your Uncle Sancho can esay to you now. Ees all I can... I can... (sob)
+Tuppence
+	I'll never forget the events that have unfolded before me today.
+Tuppence
+	The love that King Pankraz and Queen Mada have for each other is truly breathtaking to behold.
+Bianca
+	This place has a different sort of air to it.
+	And it's not a nice one.
+Nera
+	There's a nasty feel to this place. This is probably the true face of the mountain.
+%0%a001250
+	Yikes! Dad! The wall... It looks like someone's face!
+Bianca
+	This kind of place really irritates me. I hate not bein' able to walk where I want.
+Nera
+	We have to plan out our route carefully and try not to hurry too much. It's the only way to get through a place like this.
+%0%a001240
+	I'd usually be having a right laugh in a place like this, sliding about on the floor.
+%0%a001240
+	I just can't seem to get in the mood today, though.
+%0%a001250
+	There's so much I wanted to say to Grandma.
+	And I wanted to play lots of games together too.
+%0%a001250
+	I kept imagining us going home to Gotha together. Haa...
+Sancho
+	Ees no need to worry about señora Mada. Eshe ees weeth señor Pankraz. Notheeng can hurt her.
+Sancho
+	Ees time to feel happy, sí? We pummel thees desperado, Ladja. And now, we gonna pummel the Grandmaster of the Underworld!
+Tuppence
+	I don't suppose we'll be lucky enough to reach
+	our destination if we just slide about the place willy-nilly, will we?
+Bianca
+	Mada!? It sounds like your mum is watchin' over us, %a000090! That's the best encouragement we could hope for.
+Nera
+	Was that... Was that your mother's voice?
+	Oh, darling! So she's still nearby, looking out for us!
+%0%a001240
+	What's aspi...aspa...aspersorium?
+	And where do you get it?
+%0%a001250
+	We don't have an aspersorium, do we, Dad?
+	It would be good if we could find one nearby.
+%0%a001250
+	The aspersorium is full of really clear and
+	pure water.
+%0%a001250
+	Maybe I'll use it one day to water some of my favourite plants.
+Sancho
+	Ees, ees the voice of señora Mada!
+	All the way from the heavens!
+Bianca
+	This place is absolutely enormous. I wonder where Nimzo could be lurkin'.
+Bianca
+	Imagine what would happen if Nimzo unleashed his evil powers on our world...
+Bianca
+	We have to hurry, %a000090! I can't stand to see folk sufferin' even one minute longer.
+Nera
+	This is a big place, isn't it? You'd never know you were inside a mountain.
+Nera
+	Maybe it's an indication of just how powerful Nimzo really is.
+%0%a001240
+	I'm going to take up the challenge where Grandpa and Grandma left off...and I'm going to succeed!
+%0%a001240
+	Nimzo... I doubt I'll ever forget that name for the rest of my life.
+%0%a001250
+	Dad... I'm going to do my best, you know.
+	I'm going to make sure we win.
+%0%a001250
+	We already defeated Ladja, but now we have to defeat Nimzo too. As long as he's still around, the nasty monsters won't go away.
+Sancho
+	You no become confused now, okay?
+	Ees just one theeng we must do.
+Sancho
+	You know, sí, friend? I no need to espell eet out for you.
+Tuppence
+	It's good that we can see all around, but this place is a little on the large side. We'll have to be careful not to lose our way.
+Tuppence
+	As representative of the soldiers of Gotha, I will take on the evil Nimzo and bring him to justice!
+Bianca
+	Um, %a000090...
+Bianca
+	Never mind. There'll be plenty of time for us to
+	talk later.
+Nera
+	Um, darling...
+Nera
+	No, never mind. Sorry to trouble you.
+%0%a001240
+	I'm glad I turned out to be the hero. I'm sure that's the reason why I've been able to become so strong.
+%0%a001240
+	That's all I ever wanted, right from when we first met. I just wanted to become strong so that I could help you, Dad.
+%0%a001250
+	The sinister air in here is becoming gradually thicker...
+Sancho
+	Egh! I no know why, but I can no estop theenking about the past.
+Sancho
+	About the time señor Pankraz, he ordered for me to accompany heem on hees journey to find señora Mada.
+Tuppence
+	I must say that I'm ever so grateful you chose me as your companion here, %a000090.
+Tuppence
+	When we return home to Gotha, I'll be able to tell everyone how even a lowly character like me can
+	do anything if he puts his mind to it.
+Bianca
+	What is this place? It all looks totally confusin' if you ask me.
+Bianca
+	I'm rubbish at figurin' out things like this. I'll have to leave it to you, I'm afraid, %a000090.
+Nera
+	I see! We have to go like this, and then like that, and then... No, wait a minute...
+%0%a001240
+	This room's really weird. The monsters who thought this up must be pretty pleased with themselves.
+Bianca
+	All this nasty air is startin' to make me dizzy.
+	But we can't let this place get the better of us.
+Nera
+	Being at this sort of height makes you feel all dizzy, doesn't it? We won't let it stop us now, though.
+%0%a001250
+	I'm scared. I don't want to look down!
+	Is this what a bottomless pit looks like?
+Sancho
+	I, I esure ees gonna be okay, but...you be
+	careful where you put your feets, okay?
+	I no gonna esave you eef you fall!
+%0%a001240
+	I'll bet the ancient legendary hero felt a bit scared when the time came to do battle with the
+	Lord of the Underworld.
+%0%a001240
+	So it doesn't mean anything that I'm a bit nervous.
+	I'm definitely going to win!
+%0%a001250
+	I'm actually really scared, but being with you makes it a little bit easier, Dad.
+%0%a001250
+	I'm really glad I was born your daughter. Sorry...
+	I don't know how to say what I mean very well.
+Sancho
+	Sí. Ees time...
+Sancho
+	Ees time for your Uncle Sancho to finish what señor Pankraz, he estarted. Thees Nimzo,
+	he no gonna be around much longer.
+Tuppence
+	I trust you've been enjoying these little chats with me along the way, %a000090?
+Tuppence
+	Oh good! That is nice to hear. I couldn't have wished for a better answer.
+Tuppence
+	Oh, er... I see. What a pity. I put so much effort into trying to keep you entertained.
+Bianca
+	Um, %a000090...
+Bianca
+	This could be the last chance we have to talk,
+	so there's somethin' I want to say.
+Bianca
+	D'you remember the vows we made back
+	in Mostroferrato?
+Bianca
+	We stood there in that church and promised to love each other forever.
+Bianca
+	If we die here, it looks like we'll be dyin' together at least. But we have to try to get through this and go home to Gotha hand-in-hand.
+Nera
+	I must apologise to you, darling. I haven't been a good wife or mother, and I know I've caused you lots of stress.
+Nera
+	When we were married and we left Mostroferrato together, I tried my very hardest so I'd be able to keep up with you.
+Nera
+	I'll always be grateful to Mama and Papa for bringing me up, but being chosen by you like
+	that was when I first knew true happiness.
+Nera
+	I felt as if we were destined to be together, to have a family together, and I couldn't have been happier.
+Nera
+	We owe it to our love to make sure we come out of this alive and return home to live in peace in Gotha.
+Nera
+	Then we can finally give %a001240 and %a001250 the childhood they deserve.
+Debora
+	Your mother is in here somewhere, %a000090.
+	We should hurry up and rescue her.
+Debora
+	This is the last time I'm coming here. We're going to defeat Nimzo once and for all, and go home to our proper lives.
+Debora
+	To think that I'm going to challenge the Grandmaster of the Underworld! I would never have imagined it back when I was living at home.
+Debora
+	It's not exactly the kind of thing you daydream of,
+	is it?
+Debora
+	It won't be long now, %a000090. Your mother's not far away, I can sense it.
+Debora
+	I don't want to be here any longer than we have 
+	to. Surely you don't either? I can't stand places
+	like this.
+Debora
+	Over here, %a000090!
+	I can hear someone praying!
+	You know what this means...!
+Debora
+	Your poor mother and father...
+	I'm going to avenge their deaths, %a000090.
+	Just you wait and see.
+Debora
+	You heard what your father said. They'll be watching over us. They'll be by our side forever.
+Debora
+	............
+Debora
+	Well, I'm not going to disappoint them!
+	They can watch over us as much as they like, and they won't find fault with me!
+Debora
+	I don't want to be here any longer than we have to. Neither do you, right? I can't stand places like this.
+Debora
+	This is starting to get really old! I'm fed up with not being able to go where I'm trying to go.
+Debora
+	Surely that voice...!?
+	Your mother really is incredible, %a000090.
+Debora
+	This place is annoyingly big. Just another sign of Nimzo's power, I suppose. He certainly likes to
+	show off.
+Debora
+	Maybe it's on account of my anger, but I'm feeling great surges of power stirring deep within me.
+Debora
+	Watch out, Nimzo! It's all coming your way!
+	You'd better steel yourself for the fight of your life!
+Debora
+	Um, %a000090...
+Debora
+	Actually, forget it. Let's push on.
+	There'll be plenty of time to talk later.
+Debora
+	Just looking at this place winds me up.
+	You can figure this one out, %a000090.
+Debora
+	We're quite high up here. But it'll take a lot more than that to stop me in my tracks!
+Debora
+	Um, %a000090...
+	You probably know this already, but...
+Debora
+	Actually, maybe you don't know.
+	Well, I may as well come out with it...
+Debora
+	%0%a000090...
+	Do you believe in fate?
+Debora
+	You see, when we first met, I felt something.
+	It was like a shiver running down my spine.
+Debora
+	It's lucky that you're adventurous, otherwise you would never have chosen me. And I am grateful that you chose me, even if I don't always show it.
+Debora
+	That's all I wanted to say. Come on, let's go!
+	Before long we'll be returning home safe and sound to Gotha.
+Tuppence
+	Oh, for the Goddess' sake, this place is driving me
+	to distraction.
+Debora
+	You don't need to tell me, Tuppence!
+	I couldn't agree more.
+	I'm about to rip my hair out here!

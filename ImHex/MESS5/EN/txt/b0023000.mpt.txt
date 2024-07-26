@@ -1,0 +1,668 @@
+*: 
+	This is the Neverglade, said to be the gateway to the Realm of the Faeries.
+*: 
+	But this isn't a forest for normal folk.
+	You'll get lost.
+*: 
+	Unless you can see faeries, of course.
+	That would be a different matter altogether.
+*: 
+	I saw a faerie once when I was a little girl.
+	But that was a long time ago now.
+%0%a001240
+	Hey! There's someone over by that bonfire, Dad.
+%0%a001250
+	Hey! There's someone over by that bonfire, Dad.
+*: 
+	Aaah!
+*: 
+	Aaah!
+%0%a001240
+	Wait! Who are you?
+*: 
+	Do you...? Do you mean you can see me?
+%0%a001240
+	Of course I can see you!
+*: 
+	Oh. Well, what do you want, anyway?
+%0%a001240
+	We want to get to Faerie Lea in the
+	Realm of the Faeries.
+*: 
+	..................
+*: 
+	Okay. You look kind of sweet, I suppose.
+	I'll take you there. Follow me! Hee hee hee!
+%0%a001240
+	It's this way, she said, Dad.
+	Come on!
+*: 
+	Aaah!
+%0%a001240
+	Wait! Who are you?
+*: 
+	Do you...? Do you mean you can see me?
+%0%a001240
+	Of course I can see you!
+*: 
+	Oh. Well, what do you want, anyway?
+%0%a001240
+	We want to get to Faerie Lea in the
+	Realm of the Faeries.
+*: 
+	..................
+*: 
+	Okay. You look kind of sweet, I suppose.
+	I'll take you there. Follow me! Hee hee hee!
+*: 
+	Oh, you're %H0860%Xone of the humans%Ythe humans%Z I showed to Faerie Lea before.
+*: 
+	I expect you want to meet with Treacle again, don't you?
+*: 
+	Just go through the teleportal in the shrine
+	over there. The leaves are still in the lake for
+	you to walk over.
+*: 
+	Aaah!
+%0%a001250
+	Wait! Who are you?
+*: 
+	Do you...? Do you mean you can see me?
+%0%a001250
+	Of course I can see you!
+*: 
+	Oh. Well, what do you want, anyway?
+%0%a001250
+	We'd like to go to Faerie Lea in the Realm of the Faeries.
+*: 
+	..................
+*: 
+	Okay. You look kind of sweet, I suppose.
+	I'll take you there. Follow me! Hee hee hee!
+%0%a001250
+	It's this way, Dad.
+	Come on! Let's follow her!
+*: 
+	Aaah!
+%0%a001250
+	Wait! Who are you?
+*: 
+	Do you...? Do you mean you can see me?
+%0%a001250
+	Of course I can see you!
+*: 
+	Oh. Well, what do you want, anyway?
+%0%a001250
+	We'd like to go to Faerie Lea in the Realm of the Faeries.
+*: 
+	..................
+*: 
+	Okay. You look kind of sweet, I suppose.
+	I'll take you there. Follow me! Hee hee hee!
+*: 
+	Wow! %H0860%XA gooman%YGoomans%Z!
+*: 
+	The last time goomans came here was ages agoo.
+*: 
+	Hey, have you been north yet?
+	The old dwarf's made a super-squishy
+	playground there.
+*: 
+	Ah, let me see now... Yes, I'd say it's been about twenty years since the last human visitor came to Faerie Lea.
+*: 
+	What? It was you!? Well slap me round the face with a metal king slime!
+*: 
+	This is Faerie Lea. Treacle's in charge of everything here.
+*: 
+	What? A gold orb?
+	Tee hee! I don't know!
+	You'd better ask Treacle about that.
+*: 
+	This is Faerie Lea. Treacle's in charge of everything here.
+Treacle
+	Syrup of figs! %0%a000090?
+	It's been so many years!
+Treacle
+	You did such a lot for us then.
+	We're still in your debt.
+Treacle
+	Is there something I can do to help you?
+~ %0%a000090 explains the situation... ~
+Treacle
+	I see. It seems at last the time has come when I can fulfil the promise I made and repay you.
+Treacle
+	I will give you this horn, %a000090.
+Treacle
+	With it, you will be able to call upon the aid of our queen, Queen Caramel.
+~ %0%a000120 receives the faerie horn! ~
+~ %0%a000180 takes the faerie horn. ~
+~ %0%a000090 explains the situation... ~
+Treacle
+	I see. Well, why don't you try to find this Stairway to Zenithia or the castle itself, then?
+Treacle
+	I'm sure everything will become clear if you seek them out.
+Treacle
+	The faeries are your friends.
+Treacle
+	You are always welcome to call on us here when you are in trouble.
+Treacle
+	So you've just come for a visit?
+	That's so sweet of you!
+	I hope you enjoy being here.
+Treacle
+	Syrup of figs! Aren't you %H0860%Xa friend%Yfriends%Z of %a000090's? It's been so many years.
+Treacle
+	%0%a000090 did such a lot for us in the past.
+	We're still in his debt.
+Treacle
+	Is there something I can do to help you?
+~ %0%a000140 explains the situation... ~
+Treacle
+	I see. It seems the time has come at last when I
+	can fulfil the promise I made to %a000090 and repay you.
+Treacle
+	I will give you this horn, %a000140.
+Treacle
+	With it, you will be able to call upon the aid of our queen, Queen Caramel.
+~ %0%a000120 receives the faerie horn! ~
+~ %0%a000180 takes the faerie horn. ~
+~ %0%a000140 explains the situation... ~
+Treacle
+	I see. Well, why don't you try to find this Stairway to Zenithia or the castle itself, then?
+Treacle
+	I'm sure everything will become clear if you seek them out.
+Treacle
+	The faeries are your friends.
+Treacle
+	You are always welcome to call on us here when you are in trouble.
+Treacle
+	So you've just come for a visit?
+	That's so sweet of you!
+	I hope you enjoy being here again.
+Treacle
+	We too will pray to the Goddess that Zenithia is restored to the skies, and the world knows peace once more.
+Honey
+	I know it's you %a000090.
+	You can't fool me!
+Honey
+	Wow. It's been ages, hasn't it?
+Honey
+	If you want to know how to find Queen Caramel, you should speak to Sherbet downstairs in the library.
+Honey
+	Good luck, %a000090!
+	Tee hee hee!
+Honey
+	Oh, are you %H0860%Xa friend%Yfriends%Z of %a000090?
+	Tee hee hee! I haven't seen him in ages!
+Honey
+	I've never forgotten him, though.
+	He was so sweet.
+Honey
+	If you want to know how to find Queen Caramel, you should speak to Sherbet downstairs in the library.
+Honey
+	Play a trick on %a000090 for me when you see him, okay? Tee hee hee hee!
+Honey
+	Neverglade and the Faerie Palace are the two places where the faerie world and the human world meet.
+Honey
+	But even faeries can't just go into the Faerie Palace whenever they like. Queen Caramel has to give you permission first.
+Honey
+	Otherwise I'd really like to go too.
+	But I can't. Tee hee.
+Sherbet
+	Welcome to Faerie Lea's library. I'm Sherbet. Do I understand you're looking for the Faerie Palace?
+Sherbet
+	Well, the Faerie Palace is normally invisible to humans.
+Sherbet
+	But if you blow the faerie horn when you're near it, you should be able to see it too.
+Sherbet
+	You must find a lake in the middle of a dense forest surrounded by mountains. That's where you need to blow the horn.
+*: 
+	We're all praying for Zenithia to climb back up into the sky, and for peace to rain down on the world.
+Sherbet
+	Welcome to Faerie Lea's library.
+	Oh, do you have a question for me?
+Sherbet
+	I see, you need a faerie quill, do you?
+Sherbet
+	Well, alright, then. I'm sure I can rely on you to use it wisely.
+Sherbet
+	Here you are. One faerie quill for you!
+~ %0%a000120 receives a faerie quill! ~
+~ %0%a000180 takes the faerie quill. ~
+Sherbet
+	Anything you write with a faerie quill will vanish as soon as you take it out of the Realm of the Faeries.
+Sherbet
+	Except if you use a special ink made from an eyevory tusk-tusk. Then you'll be able to see it wherever you are.
+*: 
+	Dwight's grandad got sick and went all hard.
+*: 
+	It's becouze Dwight always made him worry
+	all the time.
+*: 
+	You're a funny gooman having Dwight in
+	your party.
+*: 
+	But his grandad would go all gooey knowing that you'd become goo friends with his grandson.
+Dwight
+	Who are you? And whadda you wand wid Dwight, de White Dwarf?
+Dwight
+	Ged lost!
+Dwight
+	Ah! Ahchoo!
+	You're %a000090, aren'd you?
+Dwight
+	Don'd say you've forgodden Dwight,
+	de White Dwarf!?
+Dwight
+	Oh, so you've, you've, you've ⓚⓛ Ahchoo! ⓚⓛ been travellig the world since then, have you?
+Dwight
+	Ever since you bead me, I've been livig here as a law abidig citizen.
+Dwight
+	I know! I'll join your party and go travellig wid you.
+Dwight
+	Well? I could be like one of your monsters.
+	Whadda you say? 
+Dwight
+	Yesss! De White Dwarf reigns supreme!
+~ Dwight Dwarf, the White Dwarf, joins the party! ~
+~ With a disappointed expression on his face, Dwight gives up the idea of joining the party. ~
+Dwight
+	Whad!? You're a cold, cold, cold ⓚⓛ Ahchoo! ⓚⓛ %A0110%Xman%Z%B0110%Xlady%Z!
+Dwight
+	Oh, loog! Id's %O0960%XCaptain %a000090 and his pardy%YCaptain %a000090's pardy%Z again.
+Dwight
+	You're back to enlist de services of de White Dwarf?
+Dwight
+	Yesss! De White Dwarf reigns supreme!
+~ Dwight Dwarf, the White Dwarf, joins the party! ~
+~ With a disappointed expression on his face, Dwight gives up the idea of joining the party. ~
+Dwight
+	Whad!? You're a cold, cold, cold ⓚⓛ Ahchoo! ⓚⓛ %A0110%Xman%Z%B0110%Xlady%Z!
+~ ⓗIf you're not invited, get out!ⓘ ~
+~ Dwight Dwarf, the White Dwarf, sprints off happily towards the wagon. ~
+~ But the wagon's already full! ~
+~ Which party member do you want to send off to Monty, the monster monitor? ~
+~ Give up on recruiting Dwight? ~
+~ Send %a000180 to Monty? ~
+~ Dwight Dwarf, the White Dwarf, sprints off happily in the direction of the monstergarten! ~
+~ %0%a000180 heads off to the monstergarten and Dwight joins the party! ~
+*: 
+	After the Winter Queen passed and the Winter Palace disappeared, something very unusual took
+	its place.
+*: 
+	When the Winter Palace melted to nothing, it left a big hole in the earth behind.
+*: 
+	I fell in it by accident and couldn't get out, so I decided to make this T 'n' T board to pass the time.
+*: 
+	Tee hee hee hee hee!
+	Welcome! Welcome to the Faerie Palace!
+*: 
+	It's not a secret, so I suppose I can tell. Tee hee! %O0967%XYou're%Y%0%a001230's%Z the descendant of a Zenithian%O0967%X, %a001230%Y%Z.
+*: 
+	The blood of the Loftinians runs through %O0960%Xyour veins, %a000090%Y%a000090's veins%Z.
+*: 
+	The legendary hero was born of %O0960%Xyour%Y%a000090's%Z Loftinian and %O0967%Xyour%Y%a001230's%Z Zenithian blood.
+*: 
+	All part of the Goddess's sweet recipe of life!
+	Hee hee hee!
+*: 
+	Queen Caramel would like to speak with %O0960%Xyou%Y%a000090%Z first%O0960%X, %a000090%Y%Z.
+*: 
+	You may pass.
+*: 
+	We know! We know! Tee hee hee! We know the legendary hero's already been born!
+*: 
+	May the Goddess send sweet, sugar-plum blessings down on %O0968%Xyou, %a001240%Y%a001240%Z!
+*: 
+	Welcome. I've been expecting you.
+	Treacle said you would be coming.
+*: 
+	But I don't see %a000090.
+	Where is he?
+*: 
+	Welcome. I've been expecting you.
+	Treacle said you would be coming.
+*: 
+	I am Queen Caramel. You wish to know about the two orbs in Zenithia? Yes, we faeries crafted them.
+Queen Caramel
+	But that was then. We don't have that power
+	any more.
+Queen Caramel
+	Look...
+~ Queen Caramel produces a gold bauble. ~
+Queen Caramel
+	You see, we've already tried to make an orb.
+Queen Caramel
+	I know it looks like an orb, but this bauble doesn't have the power to hold Zenithia in the heavens.
+Queen Caramel
+	But you, %a000090... Maybe you do.
+Queen Caramel
+	So I'm giving you this gold bauble.
+~ %0%a000120 receives the gold bauble. ~
+~ %0%a000180 takes it. ~
+Queen Caramel
+	Now, go up the stairs at the back! And hurry!
+	The faerie there will tell you what to do.
+Queen Caramel
+	We faeries don't have the power to alter the passage of time.
+Queen Caramel
+	But you, %a000090, may be able to. You may have the power to change the course of history.
+Queen Caramel
+	Now, go up the stairs at the back! And hurry!
+	The faerie there will tell you what to do.
+Queen Caramel
+	We faeries don't have the power to alter the passage of time.
+Queen Caramel
+	But the picture welcomed you, %a000090.
+	You must have that power.
+Queen Caramel
+	Go now. The time has come.
+	Return the gold orb to its rightful place.
+*: 
+	I'm writing a complete history of the entire world.
+*: 
+	It's a very valuable record, you know.
+	That's why I'm using the ink of an eyevory
+	tusk-tusk. It never fades, you see.
+*: 
+	Hm? A pen and ink whose writing doesn't fade for years and years, you say?
+*: 
+	Well, obviously you're referring to the ink of the eyevory tusk-tusk. Yes, you should visit the church known as Northminster for that.
+*: 
+	As for a pen, you can't beat a faerie quill. As
+	far as I'm aware, they're still being made in Faerie Lea's library.
+*: 
+	I'm afraid I can't give you mine, because I only have the one set left.
+*: 
+	These are faerie treasures.
+	Everyone loves treasures, don't they?
+*: 
+	But boo hoo. They won't bring about peace.
+	You can have them if you want. Tee hee!
+*: 
+	May the Goddess blow candy kisses down on you and your party.
+*: 
+	This is a special picture. It shows what's in the heart of whoever looks at it.
+*: 
+	You must bring the gold bauble that Queen Caramel made for you. And it must be in %O0960%Xyour own hands, %a000090%Y%a000090's hands%Z.
+*: 
+	This is a special picture. It shows what's in the heart of whoever looks at it.
+*: 
+	It can take you to places far away in
+	your memory.
+*: 
+	Stand in front of the picture, and open up
+	your heart.
+~ %0%a000090 stands before the picture on the wall and opens his heart... ~
+~ %0%a000120 stands before the picture on the wall and opens %A0110%Xhis%Z%B0110%Xher%Z heart... ~
+~ But %A0110%Xhe%Z%B0110%Xshe%Z doesn't feel anything happening. ~
+*: 
+	This picture was painted to celebrate the birth of the legendary hero.
+*: 
+	This picture was a present from the
+	Zenith Dragon.
+*: 
+	If you stand in front of it and open your heart, %a000090, I'm sure you'll meet someone dear to you.
+*: 
+	I know something you don't!
+	I know something you don't!
+	But okay, I'll tell you. Tee hee hee!
+*: 
+	The picture in the upstairs room on the east side of the palace gets changed every now and then.
+*: 
+	But it's only just been changed for a picture to celebrate the birth of the legendary hero, so it probably won't be changed again for a while.
+*: 
+	Ssshhh!
+	Don't say anything!
+*: 
+	I'm not really a cat. I'm a magician.
+	I'm studying the faeries here.
+*: 
+	Disguising myself like this was the only way I could get in here. Don't give me away!
+*: 
+	Meow! Meow! Meow!
+~ It's a picture illustrating the tale of the legendary hero's birth. ~
+*: 
+	Hm? Haven't seen you around these parts before. Our village chief, Pankraz, is ever so strong, I'll have you know!
+*: 
+	I wouldn't go causin' any trouble if you know what's good for you.
+*: 
+	My poor plants are really sufferin' here with this cold. I'm at my wits' end, I am.
+*: 
+	Brrrrr. I'm f-f-f-f-freezing! It's supposed to be s-s-summer before long. I don't g-g-get why it's
+	so c-c-cold.
+*: 
+	This here's Whealbrook. We only ever get nice and friendly folk visitin' our village.
+*: 
+	Meow! Meow! Meow!
+*: 
+	Have you heard the news? Apparently Pankraz's young lad went off ghost-huntin' of all things!
+*: 
+	That boy'll grow up to be a fine fighter at this rate, I'd say!
+*: 
+	On your travels, are you?
+*: 
+	I wouldn't go snoopin' about the village too much if you don't want folk to start suspectin' you.
+%0%a000090
+	Oh! You must be the one who the sister in the church was talking about.
+%0%a000090
+	What? You want to look at my gold orb?
+%0%a000090
+	Well, I suppose that's okay.
+	You don't look like a bad sort.
+%0%a000090
+	But you have to give it back in a sec, okay?
+~ %0%a000090 hands the gold orb to %a000090. ~
+~ Switch the gold orb with the gold bauble? ~
+~ %0%a000090 switches the gold orb ~
+~ with the gold bauble! ~
+~ %0%a000090 hands the gold bauble to %a000090. ~
+%0%a000090
+	It's pretty amazing, don't you think?
+%0%a000090
+	Yeah, I won't give up...no matter how hard it gets. Just like you say.
+%0%a000090
+	Come on, %a001210!
+~ %0%a000090 returns the gold orb to %a000090. ~
+%0%a000090
+	It's pretty amazing, don't you think?
+%0%a000090
+	Yeah, I won't give up...no matter how hard it gets. Just like you say.
+%0%a000090
+	Come on, %a001210!
+%0%a000090
+	Hey! I don't think I can have heard you right...
+%0%a000090
+	Yeah, I won't give up...no matter how hard it gets. Just like you say.
+%0%a000090
+	Come on, %a001210!
+%0%a001210
+	Grrrr!
+*: 
+	The village chief, Pankraz, came home from his travels just the other day. He was away for two years, you know.
+*: 
+	It must've been a tirin' journey for him, travellin' about all that time with a young lad in tow.
+*: 
+	There's nobody here and yet I feel like
+	I can sense someone.
+*: 
+	Pankraz's boy was just standin' there chattin' away to himself as if someone was right in front of him too.
+*: 
+	It's all very odd.
+*: 
+	I had a few drinks with a chap called Pankraz in the pub last night.
+*: 
+	He really made an impression on me. So much hardship, and yet so much strength in the face of it. He's no ordinary man!
+*: 
+	Dear me! I turn my head for a second, and come back to find the pot practically licked clean!
+*: 
+	The old man should just speak up
+	if he's that hungry.
+*: 
+	I didn't eat it, I tell you!
+*: 
+	Honestly! That old dragon of a wife of mine treats me like a child sometimes!
+*: 
+	That Pankraz! He spends two years away travelling, and then he's straight off again to Roundbeck just like that!
+*: 
+	He's certainly a busy man, that much is for sure.
+*: 
+	I'm not sure if this is true or not, but people say Pankraz's wife was snatched away by monsters.
+*: 
+	I pity poor %a000090. A boy that small needs his mother around.
+*: 
+	Ooh, what a splendid-lookin' fella!
+*: 
+	Oh dear! Listen to me, sayin' things like that!
+*: 
+	We don't have much to offer here in Whealbrook, but you just make yourself at home and enjoy your stay, lad.
+Mr Rockefeller
+	Pankraz has been summoned to Coburg Castle.
+Mr Rockefeller
+	I'm not sure why, but I can't help havin' a bad feeling about this somehow.
+Sancho
+	Hola? Have we met before, señor?
+Sancho
+	Ah! You are one of señor Pankraz's amigos, sí?
+Sancho
+	Eef you are looking for heem, he ees upstairs now.
+Pankraz
+	Hm? Do I know you? Is there something you're wanting to discuss?
+Pankraz
+	What did you say!? You're my son!?
+Pankraz
+	Ha ha ha hah! I only have one son, and that's my boy %a000090!
+Pankraz
+	Was there something else?
+Pankraz
+	Hmm... I shouldn't go to Coburg, you say?
+Pankraz
+	Well, you've certainly done your homework to know I've been summoned there, at any rate.
+Pankraz
+	Oh, I see! You're some kind of prophet, are you?
+Pankraz
+	Sorry, but I don't believe in that sort of thing.
+Pankraz
+	Your eyes really remind me of my wife's eyes, you know. ...I suppose it wouldn't hurt for me to at least bear your advice in mind.
+Pankraz
+	Well, if that's all... I'm rather busy at the moment, so if you could excuse me...
+Pankraz
+	I'm afraid I have no idea what you're talking about.
+Pankraz
+	Never mind, anyway. I'm busy.
+	Perhaps you'll excuse me.
+Pankraz
+	Then maybe you could stop disturbing me from my work. I'm in the middle of investigating something.
+Dr Agon
+	Well if that doesn't put the 'whili' in 'gee whilikers'! You've found me an orb!
+~ %0%a000120 hands the gold bauble to Dr Agon. ~
+Dr Agon
+	I'll just pop it up here on the pedestal, and...
+Dr Agon
+	That should do-diddly-ooh-diddly it!
+Dr Agon
+	............
+Dr Agon
+	I wonder what the problem is. It doesn't look like this orb has what it takes to put us back in orb-it!
+Dr Agon
+	It's no darn-diddly use to me.
+	You'd better take it back...
+~ %0%a000120 receives the gold bauble. ~
+Dr Agon
+	I don't know what happened exactly, but I think you'd better take a trip back to the Faerie Palace.
+Dr Agon
+	Well if that doesn't put the 'whili' in 'gee whilikers'! You've found me an orb!
+~ %0%a000120 hands the gold orb to Dr Agon. ~
+Dr Agon
+	I'll just pop it up here on the pedestal, and...
+Dr Agon
+	That should do-diddly-ooh-diddly it!
+	Follow me!
+Dr Agon
+	It's finally time! Zenithia's going airborne again!
+	Standby for take-off, passengers!
+Dr Agon
+	And it's all thanks to %O0960%Xyou and your party, %a000090%Y%a000090 and co.%Z!
+Dr Agon
+	Take a good look, %H0860%Xfriend%Yfriends%Z!
+Dr Agon
+	Well, that didn't get us up quite as ⓗon highⓘ as I was expecting.
+Dr Agon
+	But you know what they say: grumbling's a grievance of the devil! Mind if I leave things
+	up to you for a while?
+Dr Agon
+	Now the water's drained away, I'm off to do a tour of the castle and make sure everything's okely-dokely-doo!
+Dr Agon
+	See you later, prestidigitator!
+Dr Agon
+	By the grace of the Goddess, many of my fellow Zenithians survived the flooding.
+Dr Agon
+	You can't beat a bit of clock-stopping hibernation to get you out of a drop of the old hot water!
+Dr Agon
+	I'm so happy to see my old friends, I've counted way past seventh heaven...I'm on cloud nine!
+*: 
+	Hail, %H0860%Xfriend%Yfriends%Z! We are saved! Zenithia is saved,
+	by your mercy. What words could justly express our gratitude?
+*: 
+	What didst thou say? A Zenithian called Dr Agon?
+*: 
+	But there is no Zenithian by such a name,
+	my %H0860%Xfriend%Yfriends%Z.
+*: 
+	How long it has been since we did gaze down upon the world from our heavenly domain!
+*: 
+	Lo, if thou wouldst have us descend, thou canst do so at the touch of a button: the A Button, the B Button or the X Button.
+*: 
+	But have a care! The terrain must be flat %H0860%Xshouldst thou%Yshould you%Z wish Zenithia to descend. %H0860%XThou%YYou%Z must find plains or desert or some such similar surface.
+*: 
+	Long have we awaited this day.
+*: 
+	Prithee, hasten and tell the old man in the rearward chamber the glad tidings!
+*: 
+	Behold! My sapling of the Great World Tree, Yggdrasil, still lives!
+*: 
+	Zenithia is saved, thanks be to %H0860%Xthy good self%Yyour good selves%Z.
+	Pray, take this as a gift.
+~ %0%a000120 receives an Yggdrasil sapling! ~
+~ %0%a000120 puts it in the bag. ~
+*: 
+	Forsooth, the Great World Tree, Yggdrasil, belongeth on the ground below.
+*: 
+	But the power of Nimzo doth grow more briskly than we feared. The darkness spreadeth apace.
+*: 
+	I believe it wise to nurture Her in this pot for
+	the nonce.
+*: 
+	Tee hee hee!
+	Thank you!
+*: 
+	This is a present for you. Help yourself to some  Yggdrasil dew!
+*: 
+	You can't have more than one drop of Yggdrasil dew at a time. That would be naughty! Tee hee!
+*: 
+	But it heals everyone at once. And you can come back for more after you've used it too.
+*: 
+	What!? Zenithia's taken to the skies again?
+	That's wonderful news!
+*: 
+	Now we just need to bring about the resurrection of the Zenith Dragon, and everything will be back on track.
+*: 
+	The powers of the Zenith Dragon are said to be sealed in a place called Talon Tower, on an island to the west of Helmunaptra.
+*: 
+	You can have what's in that chest of drawers over there to take with you. It might come in
+	useful, you know.
+*: 
+	When peace still reigned over the world, the Zenith Dragon did look down over His earthly dominion and speak to us thus...
+*: 
+	ⓗHumans are a noble breed.ⓘ
+*: 
+	And with these words, He did vanish and conceal Himself.
+*: 
+	Alack! Who would have foretold the demise of Zenithia centuries later? That it should crash so to the ground?
+*: 
+	Were it not for such a tristful pass ⓚⓛ had
+	Zenithia remained aloft ⓚⓛ the world might
+	still now know peace.
+~ %0%a000120 examines the pedestal... ~
+~ A silver orb is glowing faintly. ~
+~ A gold orb is glowing faintly. ~

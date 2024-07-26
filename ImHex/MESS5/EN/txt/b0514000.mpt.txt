@@ -1,0 +1,550 @@
+Nera
+	It's such an old building, but whenever we come,
+	it always looks so neat and tidy.
+%0%a001240
+	This is your knick-knackatory now, Dad, isn't it?
+	It gets more amazing every time I look at it!
+%0%a001250
+	I love this building. It's got a really warm and comforting feel about it.
+Sancho
+	Sí. Ees muchos fresh here. The air, ees clear.
+	Eet makes you ready for the siesta, no?
+Tuppence
+	This really is a cracking place. It's like the outside world's just stopped, and you can forget all
+	about everything!
+Bianca
+	It's nice and tidy considerin' it was off the beaten track all that time. The old man must've taken care
+	of the place.
+Nera
+	It's so still, isn't it? It's the perfect atmosphere for enjoying the exhibits.
+%0%a001240
+	What a huge room! My voice is echoing off the ceiling.
+%0%a001250
+	Who do you think put up such an enormous building? Was it Old Man Nick Knack, do you think?
+Sancho
+	Thees place ees beeg like the rooms een
+	Gotha Castle.
+Tuppence
+	I wouldn't mind a place this big one day.
+	It'd make a fine castle for King Tuppence!
+Bianca
+	It's good to see so many visitors in the place.
+Nera
+	You always put on your curator face when we come here. It makes you look so handsome!
+%0%a001240
+	It's still really quiet, even though there are loads of visitors. Is that what these places are always like?
+%0%a001250
+	Seeing more and more visitors coming makes me want to work even harder at making the place special.
+Sancho
+	You know, at first I no believe the people are gonna come eso far to esee the knicks and
+	the knacks.
+Tuppence
+	Do you think Old Man Nick Knack handles the upkeep of the place all by himself? It must be a lot of work, what with the place being as big as it is.
+Bianca
+	This place dun't feel like a museum at the minute. There's somethin' funny in the air.
+Nera
+	All these scary exhibits... I feel like they're screaming at me. And it makes me want to scream back!
+%0%a001240
+	The people here at the moment aren't like the normal visitors we get, are they?
+%0%a001250
+	Dad, don't you think we should put some different things on display?
+Sancho
+	Ees no feeling like the museum at the moment, you know.
+Tuppence
+	I get the feeling a lot of these visitors aren't
+	here simply to look at the exhibits, if you know
+	what I mean.
+Bianca
+	There's only one spot to put somethin' on display in here. It'll have to be somethin' really special.
+Nera
+	It's like a special display room up here, isn't it?
+	I suppose we'd better find an exhibit that fits the setting, hadn't we?
+%0%a001240
+	This room must be smaller than the ones below,
+	but it feels really big.
+%0%a001250
+	There's something special about this room.
+	It feels different somehow.
+Sancho
+	Ees a very beautiful room. Eet must take a
+	long time and a lot of work to make thees
+	place, eh?
+Tuppence
+	You want to put something on display here that really leaves an impression on people before
+	they leave.
+Bianca
+	It's a bit creepy in the dark in here, eh?
+Nera
+	So this is where the exhibits that aren't on display are kept.
+%0%a001240
+	It's nice and cool down here, isn't it?
+%0%a001250
+	It's a shame for the exhibits down here, don't you think? I mean, it's so dark and cold.
+Sancho
+	You esmell the water down here?
+	Sí. There ees muchos moisture een the air.
+Tuppence
+	It's a big storeroom, isn't it?
+	As big as a castle vault, this.
+Bianca
+	I'll bet the old man planned on sleepin' here and runnin' the museum himself.
+Nera
+	This is a very neat room, isn't it? I thought there'd be more things in here to do with the exhibits.
+%0%a001240
+	Cool! This is like a secret room, hidden away under the stairs.
+%0%a001250
+	I bet you can hear whenever people go up and down the stairs.
+Sancho
+	Thees room, ees easy to clean, eh? Sí, your Uncle Sancho, he knows about esuch theengs.
+Tuppence
+	Everything in this room certainly seems to be shipshape and Bristol fashion, eh?
+	Nothing in here that shouldn't be.
+Bianca
+	It's a bit scary bein' in a museum of a night, but it's got a special sort of feel to it too.
+Nera
+	It's even quieter at night, isn't it?
+%0%a001240
+	The exhibits look different in the middle of the night, don't they?
+%0%a001250
+	I wouldn't like to look at any of the scary
+	exhibits now!
+Sancho
+	Now we are een the place at night, I feel eet even more. That you are really the curator
+	now, friend.
+Tuppence
+	Every step you take echoes through the whole place at night, doesn't it? It's... Well, it's a bit scary!
+Debora
+	If you must pursue all this knick-knack nonsense,
+	I suppose I'll allow it. But all the cleaning and polishing and things will be completely down to you, got it?
+Debora
+	He says we can do things how we want now, but I get the feeling he's going to be sticking his oar in at every available opportunity. Hmph. Men!
+Debora
+	How much is the entrance fee, actually?
+	I bet this place is seriously overpriced.
+Debora
+	Finally! How long does it take a ghost to woo a guard these days anyway? Too long, it seems!
+Debora
+	Well it'll be a step up from having that wishy-washy old blabbermouth on reception, that's for sure.
+Debora
+	Why do men always want to take on young women when they're recruiting? Papa's the same. I just can't see the attraction.
+Debora
+	But what in the name of the Goddess does she see in all this...this junk!?
+Debora
+	Well, she's full of it, isn't she? ...Enthusiasm, I mean. Papa would snap her up in an instant if he saw her in action.
+Debora
+	ⓗHaaaⓘ to you too, old man. Maybe you haven't got any visitors because you're so haaard to please!
+Debora
+	Who does he think he is? Come on, let's find something to put on display just to shut him up!
+Debora
+	It'll be a real pain having to lug things around if you put them in the wrong places. Think it through before you do anything.
+Debora
+	No one's going to come to a tiny island stuck out in the middle of nowhere like this. But I suppose it'd be alright to stay here a bit longer.
+Debora
+	Wasn't he the one who said we could display whatever we wanted? He's very opinionated for a ghost, isn't he?
+Debora
+	Wasn't he the one who said we could display whatever we wanted? He's very opinionated for a ghost, isn't he?
+Debora
+	Wasn't he the one who said we could display whatever we wanted? He's very opinionated for a ghost, isn't he?
+Debora
+	My Goddess! How much complaining can one ghost do? I wish someone would chuck him and his precious knick-knacks in a coffin where they belong.
+Debora
+	Right! That's it! It's time we gathered every knick-knack and souvenir in the world, so he won't have anything more to grumble about.
+Debora
+	Just who does he think he is, talking to me like that?
+Debora
+	No one gives me orders! Especially not a ghost!
+Debora
+	Now we've built up such a collection, I want to see it finished. Go on, %a000090, off you go!
+Debora
+	Can't he just be satisfied? The pedestals are full, for heaven's sake! He's always making us jump through smaller and smaller hoops.
+Debora
+	Shouldn't go sticking your nose in!? It's none of your business, and even if it was, I wouldn't want your opinion, old man!
+Debora
+	Oh, yes. I believe him! He's practically coming back to life, he's so bothered by our display. He just can't help meddling.
+Debora
+	Why doesn't he just tell us what his grand plan is? Then at least we'd know what not to do!
+Debora
+	Er... Do you think maybe ⓚⓛ just maybe ⓚⓛ it would've been a good idea to tell us that earlier?
+	Or did the senile old spook just forget, hm?
+Debora
+	Hmm... Switch things around, he says...
+	Perhaps we could have a display of pretty jewellery... Or a display all about me!
+Debora
+	I wish he wouldn't say things like that. Now I want to know what he means.
+Debora
+	He seems like a doddery old fool, doesn't he?
+	But he's got hidden depths, it seems.
+Debora
+	It is very relaxing. I need to relax, you know. It's very important for me. Let's rest here for a while.
+Debora
+	I'm thrilled that everyone else is having a whale of a time, but what about me?
+Debora
+	I'm rather more sophisticated than the average knick-knack anorak. I need more entertainment
+	than this.
+Debora
+	Looking at everything that's on display, it makes you think what a peculiar world we live in, doesn't it?
+Debora
+	Well obviously! I've been helping out, so of course we've done a grand job.
+Debora
+	She seems like a very capable woman. Much like
+	me, only not as pretty. Her talents are wasted on this place.
+Debora
+	Seems like the old man's got a bit of a crush, writing notes to the receptionist!
+Debora
+	New articles? Well how do we go about finding
+	them, then?
+Debora
+	I thought he seemed unusually quiet. He's been grumbling on paper instead, it seems.
+Debora
+	Good luck. It seems the ghost's got plans for you.
+Debora
+	I like it as it is. It's unusual.
+Debora
+	He'll be on the fast track to Nadiria if he carries on telling us he's leaving things to us and then cursing us when we don't do what he wants.
+Debora
+	I hate slow and steady. It's boring.
+Debora
+	Don't waste any time, %a000090. Hurry up and make the place into something I can be proud of.
+Debora
+	Thank the Goddess! Hurry up and find the last few souvenirs we need, %a000090. I've had about as much knick-knackery as I can handle.
+Debora
+	Know-how about knick-knacks is know-how you don't need no how!
+Debora
+	He certainly seems to keep Sue abreast of his ideas.
+Debora
+	But he should keep his ideas about Sue's ⓚⓛ Ahem! ⓚⓛ to himself!
+Debora
+	ⓗMy knick-knackatoryⓘ!? I don't think so! He gave it to you, %a000090, so it's mine now. What's yours is mine, after all.
+Debora
+	If he bothered to write down what he was bothered about, we'd at least know what he wanted. Honestly, he's a hopeless diary writer!
+Debora
+	Are you having a good bash at it?
+Debora
+	I suppose it doesn't really matter. I mean, as long as I'm with you, you can't fail to impress.
+Debora
+	Oh dear. You've started to think like the old dodderer himself. I thought you'd started to look a bit wrinkly.
+Debora
+	Hm? Why don't I bake a cake or something?
+	Not likely! Do I look like a servant?
+Debora
+	What isn't how he'd be liking it?
+Debora
+	Now I come to think of it, why did that beast give us a trophy? Isn't that a bit...odd?
+Debora
+	Well you are trying, it's true. Very trying indeed!
+	No, sorry. I really mean it. You are.
+Debora
+	Where does that girl live, anyway? She's not here all the time, is she? That would just be too sad.
+Debora
+	What a spineless coward! It's just empty, that's all. It's not creepy.
+Debora
+	It's too...dull. The place needs livening up,
+	otherwise no one's ever going to bother coming.
+	I know I wouldn't.
+Debora
+	Oh dear! A bumpkin. I suppose a building like this would look grand to a bumpkin.
+Debora
+	All that man's interested in is how creepy the place does or doesn't feel. He gives me the creeps.
+Debora
+	That sounds like a complaint! Doesn't he know the lengths we've gone to in order to put all these things on display?
+Debora
+	Well, he's got something right at least. That's what souvenirs are after all... Things to remind you of places you've been.
+Debora
+	A man is nothing without proper guidance, though. Isn't that right, %a000090? You couldn't have done it without me.
+Debora
+	The rarer the item? Why don't I just climb up on that pedestal then? There could be no rarer beauty.
+Debora
+	It would be a pain if you had to live here, but it's a good location for a museum, I suppose. If you like that kind of thing.
+Debora
+	ⓗChicⓘ? Oh dear. That word is so out of fashion!
+Debora
+	Coming to a museum to do research is a bit...lazy, isn't it? He should be out there discovering things himself, not profiting from our hard work!
+Debora
+	A stunning exhibit? Look no further. Nothing is more stunning than what you see before you now.
+Debora
+	Only a bumpkin would feel nervous in a place like this. Poor thing.
+Debora
+	Absolutely! What a place to bring your bride!
+Debora
+	No, I don't. I wouldn't be fobbed off with a visit to a ridiculous knick-knackatory for my honeymoon!
+Debora
+	Which exhibit? If he wants us to believe him, he should be able to make us another one then,
+	shouldn't he?
+Debora
+	What's he talking about? The room's completely empty.
+Debora
+	The truth!? He's lying through his teeth!
+Debora
+	Honestly! Fancy being so wrapped up in your own thoughts that you'd take your eyes off your child!
+Debora
+	That's just not what being a mother is all about.
+	...What is it, %a000090? Why are you staring at me like that? Can't believe how beautiful I am?
+Debora
+	I don't know what kind of a craftsman that man is, but I think he'd be only too happy to make whatever it is he makes for me, don't you?
+Debora
+	Fancy not being able to stay away from here!
+	He must be a bit strange.
+Debora
+	I hope he's planning on thanking me, seeing as how my museum's helped him get back on track again.
+Debora
+	What a weirdo! Who in their right mind would want to relax here?
+Debora
+	Isn't this room just full of the things that aren't worth putting on display upstairs? Do you think he needs his eyes tested?
+Debora
+	I didn't see that coming! I didn't think there was anyone out there who'd understand your quirky knick-knackery habits.
+Debora
+	Hang on, Zenithians can't just leave Zenithia whenever they feel like it, can they?
+Debora
+	A museum is such a boring place for a honeymoon. ...Come to think of it, where's my beach and 
+	candlelit dinner?
+Debora
+	It's a husband's duty to keep his wife happy.
+	Don't forget that, will you?
+Debora
+	What about woman's potential? My potential knows no bounds. That's all you need to know.
+Debora
+	How can you comment on how successful the place is without even a word of thanks to the woman who made it all possible? Very odd.
+Debora
+	That's why I don't like to show my face around here too much, you see. All the pretty knick-knacks just look dull next to me.
+Debora
+	Just so long as it's not something that'll go all mouldy and disgusting after a while.
+Debora
+	If it's something worthy of display, I suppose I could think about it. We'll see...
+Debora
+	I don't know what she's so pleased about. Presumably she's on holiday, but this is hardly a great place to relax.
+Debora
+	It's high time I had a place to relax, %a000090. You must build me a villa. No, a hotel, just for me! No...you couldn't build a hovel, let alone a hotel.
+Debora
+	Coming to a museum to do research is a bit...lazy, isn't it? He should be out there discovering things himself, not profiting from our hard work!
+Debora
+	There isn't a souvenir shop here, is there?
+Debora
+	So if you saw something you liked, you'd have to go all the way to goodness-knows-where to buy yourself one. What a pain!
+Debora
+	Whatever's the matter with that poet? He's boring, but he doesn't know it! Bursting into rhyme all the time... It's a crime!
+Debora
+	What part of the world does that man come
+	from exactly?
+Debora
+	Unlikely for a plain thing like you, I'm afraid.
+Debora
+	Just what you'd expect from a bumpkin. They always come out with funny stuff like that.
+Debora
+	Don't ask me! I haven't got the first idea how anyone could get engrossed in all this knick-knack nonsense.
+Debora
+	It's a good point. The world is peculiar.
+Debora
+	I bet he's surprised that such a thing could become a famous knick-knack.
+Debora
+	I'm sure it's all fine and wonderful for bumpkins here, but it doesn't suit me.
+Debora
+	I'm sure having detailed discussions about knick-knacks is the perfect accompaniment to a drink in
+	the pub.
+Debora
+	Don't ask me! I haven't got the first idea how anyone could get engrossed in all this knick-knack nonsense.
+Debora
+	Whatever's the matter with that poet? He's boring, but he doesn't know it! Bursting into rhyme all the time... It's a crime!
+Debora
+	What sort of establishment does she think this
+	is exactly?
+Debora
+	%0%a000090! You're not...looking at her, are you!?
+	No, you'd know better than that, wouldn't you?
+Debora
+	This place seems to do that to people...
+	It makes them go a bit loopy.
+Debora
+	What's there to be scared about?
+Debora
+	Still, I can see you're not entirely comfortable with it either, %a000090, so I'll escort you if we ever have to come here at night.
+Debora
+	No need to worry. The curator is most definitely off-limits. But for the record, this is the worst honeymoon destination in history!
+Debora
+	A certain beauty? Could he be talking about me?
+	I'm certainly a beauty.
+Debora
+	How can he just stand there and say that!?
+	Doesn't he know the hardships I've been through
+	to collect all these, these...things?
+Debora
+	He must have swum across the ocean to end up looking as terrible as that!
+Debora
+	They're not all frightening...
+Debora
+	Although, having been blinded by my beauty, everything else probably looks awful.
+Debora
+	I hate to break it to you, but you're not the most trustworthy-looking man yourself.
+Debora
+	With so many shifty-looking types loitering about the place, it's impossible to tell who you need to look out for and who you don't.
+Debora
+	Who in the name of the Goddess is that?
+	Has he been possessed by a monster, do you think?
+Debora
+	If you're going to let people like that into the place, you're asking for trouble, you know.
+Debora
+	You think you're imagining these things, but ask the experts and they'll tell you... They're real!
+Debora
+	Who is that bumpkin, and how does he know about the Catas Trophy?
+Debora
+	It doesn't quite fit, it's true. But what would be the right exhibit, I wonder...
+Debora
+	An expert in knick-knacks? Then he must be rich!
+	Not as rich as Papa, of course, but still...
+Debora
+	Huh! He's forever hanging about here doing nothing, and he has the cheek to claim that he's the busy one!
+Debora
+	An amateur!? That's practically praise for you, isn't it? Better than being called ignorant or something. Still, I don't like his tone...
+Debora
+	Pah! He's transparent! He hasn't got a clue if it's well-made or not. He's just a ship in a bottle freak. Or he's on the bottle. One or the other.
+Debora
+	But this is a gem cut by a super-famous jeweller.
+Debora
+	I bet the ones you have at home weren't, were they?
+Debora
+	They're famous, and that's all there is to it. Does he have to whinge about everything?
+Debora
+	%0%a000090! Why are you putting exhibits on display that aren't up to scratch?
+Debora
+	You'll polish them tonight, got it?
+Debora
+	And I'd say the set I use at home is a little better than yours, you big show-off!
+Debora
+	Papa is rich and owns lots of things too, but he doesn't feel the need to own the biggest and best of everything. Perhaps this man's...lacking somehow.
+Debora
+	How can he just stand there in the presence of such beauty and not acknowledge it? I'm deeply hurt.
+Debora
+	ⓗWhat a shameⓘ? He's trying to sound sincere, but, well...failing miserably.
+Debora
+	I don't know what craftsman he has in mind, but there's no way he'll be able to make something that beats ours.
+Debora
+	I can't say that I really believe in the Goddess and all those religious ramblings really, either.
+	But I don't think ⓗshabbyⓘ is the right word...
+Debora
+	I remember now. Papa talked about that slime
+	curio too.
+Debora
+	I don't know why rich people always seem to want such strange things.
+Debora
+	ⓗA reasonable amount of goldⓘ!?
+	Don't they sell for a thousand gold coins each?
+	He hasn't got a clue, has he?
+Debora
+	ⓗA frightful pestⓘ? Takes one to know one!
+	...Sorry, %a001210!
+Debora
+	I thought you could only lay your hands on Zoomshine if the people of Zoomingale took a
+	shine to you. Isn't that why it's called ⓗZoomshineⓘ?
+Debora
+	He'll never get a case if that's the case.
+Debora
+	Papa likes to flash his gold about the place too, but he never makes things difficult for other people.
+Debora
+	Let's take him to the desert and leave him there. What do you say, %a000090?
+Debora
+	Then he'll find out how much hard work it is...
+	How it damages your skin. And how your nails get broken. And how your hair gets matted. And, and...
+Debora
+	Even so, who's he to tell us that?
+Debora
+	Papa never gave me one of them, so they must be very hard to come by indeed.
+Debora
+	I know they can be useful all over the place, not just up in the mountains, but...what's he hoping to achieve by giving one to everybody he employs?
+Debora
+	That was a rather uneasy laugh. Do I detect a hint of a lie? Checkmate, Fatso.
+Debora
+	ⓗGaudyⓘ? I don't think so. The man wouldn't know beauty if it slapped him in the face. And if he keeps on annoying me, it's about to!
+Debora
+	If you have enough of anything, it's worth something. That's what Papa used to say.
+Debora
+	Urgh! I detest men who don't realise what's right in front of their eyes!
+Debora
+	I get the impression he'd still say faeries were a figment of the imagination even if there was one
+	right in front of him!
+Debora
+	I'd love to take him to Nadiria and prove it to him.
+	I'm sure he'd enjoy it there!
+Debora
+	I don't like the way he's talking to us, but he's absolutely right. It's very important to recycle.
+	Using it as scrap paper is a good idea.
+Debora
+	He must have stayed there a fair few nights, then. Perhaps he didn't get the hint in the name of
+	the place...
+Debora
+	Sounds like he doesn't have any himself.
+	Ha ha! I win!
+Debora
+	If you think it's ridiculous, give it a try.
+	I'll cover my ears...
+Debora
+	Your mother and father invited this man to
+	their wedding!?
+Debora
+	It hardly sounds likely, but how else would he know about the locket?
+Debora
+	He's acting as if he's moved to tears now!
+	What's this man's story?
+Debora
+	I think Nadiria would suit him down to the ground.
+	Or should I say ⓗdown under the groundⓘ?
+	He's a selfish, greedy heathen!
+Debora
+	I hope he's doing his job properly. I've invested an awful lot of time and energy in this place.
+Debora
+	How much is the entrance fee if this is our cut?
+Debora
+	ⓗEarned the rightⓘ? He's got a cheek! We've done more than our fair share of earning already!
+Debora
+	He wants us to rearrange things now?
+	He's going to have to start paying us more...
+Debora
+	Where's he going to sleep if he stays the night here?
+Debora
+	He just doesn't seem like a ghost. I mean, do ghosts normally snore? Or is he grumbling in his sleep now?
+Debora
+	He's going to be in the way when the cleaners turn up if he stays here. Shall I turf him out?
+Debora
+	It's very quiet here. Yes, this could be the perfect spot for my villa.
+Debora
+	It's very well furnished, isn't it?
+Debora
+	Perhaps the old fogey was a man of means before he popped his clogs.
+Debora
+	For a tiny, isolated island, this place is surprisingly accessible, isn't it?
+Debora
+	It feels more like a shock-horrortory than a knick-knackatory now.
+Debora
+	This room is even more lavishly decorated than
+	the others.
+Debora
+	An exhibit for display in here would need to
+	be lavish too. I can help with that. I'm very good
+	at lavish.
+Debora
+	It's a bit strange that there are pedestals in the storeroom, isn't it? Still, we can put all the second-rate junk down here, I suppose.
+Debora
+	So this is where the old dodderer livesⓚⓛ
+	I mean, died...
+	I mean...rests in peace...
+Debora
+	He's still using it, by the look of it. It's immaculate. Just like me!
+Debora
+	You can't put out the lights just because it's night-time, you know.
+Debora
+	Dazzling as I am, I couldn't light up a whole museum!
+Tuppence
+	Well, I'm a man and I've got potential!
+	I'm...almost sure of it!
+Debora
+	Don't worry, Tuppence. You do have potential.
+Tuppence
+	Really!? I knew it! Thank you, Debora!
+	Er, what...sort of potential?
+Debora
+	Potential to be a good servant, of course!
+	Why else would I care?
+Tuppence
+	Of, of course. Yes.
+Debora
+	Well, I agree that they're hardly the greatest of wedding presents...
+Debora
+	...but I don't enjoy this old man talking about my honey buns one little bit.

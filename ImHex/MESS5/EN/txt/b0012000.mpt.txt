@@ -1,0 +1,995 @@
+Crispin
+	You'll see. Soon I'll be the knight in shining armour that Nera deserves.
+Crispin
+	I'll transform myself into a superman!
+	One, two! One, two!
+*: 
+	Zzz... Zzz...
+*: 
+	If you don't rub a bit harder, it won't help one little bit, you old waster!
+*: 
+	Oh! You're not my husband!
+	I, I do apologise.
+*: 
+	Everyone's gone to bed already, I'm afraid.
+	Could you come back in the morning, please?
+*: 
+	Zzz... Zzz...
+Debora
+	What do you want? Sorry to break it to you, but I'm not interested in other women's husbands.
+Debora
+	So do me a favour and leave me alone, alright?
+Rodrigo Briscoletti
+	At last! There you are, %a000090. Stopped off somewhere along the way to enjoy a bit of the dolce vita, did you?
+Rodrigo Briscoletti
+	I've decided the wedding will take place on my casino ship, the Ventuno. It's far, farfalle away in the north-east, but it'll be well worth the trip.
+Rodrigo Briscoletti
+	I was hoping to sail there, but the seas are dangerous these days.
+Rodrigo Briscoletti
+	However, Prince Harry here has just informed me of another way we could get there.
+Harry
+	Hello, %a000090! You look well.
+	I haven't seen you in ages.
+Harry
+	We rushed over here as soon as we received the invitation from Mr Briscoletti here.
+Harry
+	I hope you don't mind that I let on about your magic abilities. We were talking, and it just slipped out that you know how to cast Zoom.
+Maria
+	Congratulations, %a000090!
+	It's wonderful news!
+Maria
+	And what a generous father-in-law. The wedding will be absolutely amazing by the sound of it.
+Rodrigo Briscoletti
+	Ha ha hah! That's right! No expense spared!
+	So, %a000090, will you do the honours?
+Rodrigo Briscoletti
+	Once you get us in the air with your magical extravaganza, I'll be able to direct you.
+Rodrigo Briscoletti
+	Are you all set?
+~ %0%a000090 casts Zoom. ~
+Rodrigo Briscoletti
+	Love of linguine!
+	Now this is alfresco!
+Rodrigo Briscoletti
+	What's the problem, %a000090?
+	Is my daughter to marry a scaramouch!?
+	Cast the spell!
+*: 
+	%0%a000090...
+	Can you hear me, %a000090?
+Nera
+	Thank goodness!
+	You've finally come round.
+Nera
+	You must have exhausted yourself bringing us all here with that spell.
+Nera
+	I don't suppose you remember, do you? You collapsed the moment we touched down here
+	on the Ventuno.
+Nera
+	I'm sorry Papa asked you to overexert yourself like that. If anything were to happen to you, I, I...
+Rodrigo Briscoletti
+	Ah, back with us at last, are you?
+	Hmph. Well, scusi me for tiring you out, %a000090.
+Rodrigo Briscoletti
+	I don't like to disturb your little siesta like this, but the wedding ceremony is about to start, and the groom is required!
+Rodrigo Briscoletti
+	This good man will explain the plan of action to you.
+*: 
+	Et bien!
+	'Ere we go!
+	Ze big day, eh?
+*: 
+	First of all, you monsieur ⓚⓛ and may I say you look sensational today ⓚⓛ you will take your position before ze priest.
+*: 
+	You will wait zere for your ⓚⓛ Ah! ⓚⓛ
+	exquisite bride!
+*: 
+	Ze bride, she will zen be escorted by 'er father from zis antichambre, down ze aisle, to your proud and masculine side.
+*: 
+	And ze two of you will come together in front of ze altar where ze priest will be standing.
+	Oui! It will be perfection itself!
+*: 
+	After 'e 'as said a few words, you will échange ze rings wiz ze look of passion burning in your eyes! Ze passion of ze newly-weds!
+*: 
+	And zat's it! Voilà! You will be 'itched!
+	Alors. Are you ready to ⓗtake ze plungeⓘ?
+*: 
+	Bien. Follow me, monsieur, and I will take you down ze aisle to ze priest. Keep your 'ead 'eld 'igh, so everyone falls in love wiz you, eh!? (wink)
+*: 
+	Non? It is understandable zat you are nervous when you are to marry such a jewel, eh?
+	Bien. I will explain it once again.
+Priest
+	We are gathered here in the presence of the Goddess, to witness the blessed union of %a000090 and Nera.
+Priest
+	All turn to face the rear of the deck for the entrance of the bride, please!
+Priest
+	Dear Goddess. Thank you for guiding these two souls to meet here, on this most joyous of days.
+Priest
+	May you bless them with your eternal
+	love and happiness.
+Priest
+	Now we will move on to your vows.
+Priest
+	Do you, %a000090, take Nera to be your wife?
+Priest
+	To love and to cherish, in sickness and in health, for as long as you both shall be resurrected from death in the church?
+Priest
+	And do you, Nera, take %a000090 to be
+	your husband?
+Priest
+	To love and to cherish, in sickness and in health, for as long as you both shall be resurrected from death in the church?
+Nera
+	I do.
+Priest
+	Then we shall now move on to the exchange of the wedding rings...
+~ %0%a000090 and Nera place their wedding rings on each other's fingers. ~
+Priest
+	So, in the presence of the Goddess, you will
+	now demonstrate to everyone here that your
+	union is complete.
+Priest
+	You may kiss the bride!
+Harry
+	Come along, %a000090! Don't be shy!
+	Give her a sloppy one!
+Nera
+	Oh, %a000090...
+~ %0%a000090 kisses Nera! ~
+Priest
+	Dear Goddess, behold this new union of two of your devoted flock!
+Priest
+	Bless them with your everlasting love and watch over them with your eternal compassion.
+Harry
+	Congrats, %a000090!
+	You two make a great couple.
+Bianca
+	Congratulations, %a000090!
+	You too, Nera. I hope you'll be really happy together.
+*: 
+	(wolf whistle)
+	That's one hot bride you've got there, %a000090! You treat her right!
+~ %3And so %a000090 and Nera are wed.%4 ~
+~ %3Unfortunately, there's no time to enjoy the ~
+~ casino, as %a000090 must transport ~
+~ everyone back to Mostroferrato.%4 ~
+~ %3But the celebrations there continue long into ~
+~  the night...%4 ~
+~ %3And then, day breaks...%4 ~
+Nera
+	Good morning, %a000090ⓚⓛ
+	I mean, darling!
+Nera
+	You must have been absolutely exhausted.
+	It's evening already, you know.
+Nera
+	Mind you, you did bring us all back here straight after the ceremony. Casting Zoom for so many
+	people must be a terrible strain.
+Nera
+	I can't apologise enough for Papa.
+	He really shouldn't have pushed you so hard.
+Nera
+	But I'm so happy! Being together like this, just the two of us, is like a dream come true!
+Nera
+	And from now on, we'll always be together,
+	won't we?
+Nera
+	Listen, darling. I've been thinking...
+Nera
+	I want to come with you and help you on your quest.
+Nera
+	I mean, you're still going to carry on looking for your mother, aren't you?
+Nera
+	I couldn't bear just waiting around at home for you to come back.
+Nera
+	Please. Say you'll let me come with you.
+Nera
+	Oh, thank you, darling!
+	Thank you!
+~ Nera joins %a000090! ~
+Nera
+	We'll have to talk to Papa too, of course.
+Nera
+	Come along, darling. Let's go and ask him right now.
+Nera
+	I know I'm asking a lot. I know it's not fair of me.
+	But please...
+~ The bag feels unusually heavy. ~
+~ %0%a000090 has a look inside... ~
+~ Wow! There's a pair of sticky honey buns in there. ~
+~ Mr Briscoletti gave them out to everyone in Mostroferrato to mark the special occasion. ~
+Nera
+	Wait, %a000090.
+Nera
+	We can't just leave without telling Papa.
+Nera
+	Are you still tired, darling?
+	Shall we stay here another night?
+Nera
+	Alright, then.
+	Good night...husband!
+Nera
+	Good morning, darling.
+	Shall we get going now?
+Nera
+	No, you're right. We have our own room in myⓚⓛ
+	I mean, in our house, don't we?
+*: 
+	Well, I missed out on Nera. But I'll find myself a bride, you'll see. And she'll be a beauty too!
+*: 
+	I still can't believe Crispin ventured into that cave all by himself. He's not the bravest boy, you know.
+*: 
+	Perhaps he's finally growing up. Becoming a real man at last. And it's all thanks to Nera!
+Crispin
+	No doubt Nera thinks I'm an utter dunce, now.
+Crispin
+	All I managed to do was make a complete fool of myself and cause her to worry, getting so badly burnt like that.
+Crispin
+	But I'll make a man of myself yet!
+	I'll prove I'm worthy of her love!
+Crispin
+	Nera... I'm sure you'll be very happy.
+Nera
+	Thank you, Crispin.
+	I'm sure you will be too.
+*: 
+	Good morning, sir! How does it feel to be a young newly-wed, then?
+*: 
+	Ms Whitaker left early this morning to get back
+	to Stockenbarrel.
+*: 
+	She said she'd left all her things behind for you in your bag.
+*: 
+	Welcome to the Briscoletti resiⓚⓛ
+*: 
+	Well, no. I suppose this is your home now too,
+	isn't it?
+Rodrigo Briscoletti
+	Ah-ha! The happy duo! You look fine together.
+	Yes, very fine!
+Rodrigo Briscoletti
+	Prince Harry and his wife left early this morning.
+Rodrigo Briscoletti
+	He had some very interesting things to say about %O0960%Xyou, you know, %a000090%Y%a000090, you know%Z.
+Rodrigo Briscoletti
+	I hear you're travelling in search of a
+	legendary hero.
+Rodrigo Briscoletti
+	Well, I believe I have just the thing for you.
+Rodrigo Briscoletti
+	You'll find some gifts from me in the two chests behind me here. They're both unlocked. The contents are yours.
+Rodrigo Briscoletti
+	Now then, my bambina. I know you'll be lonely while %a000090's away, but you'll have me and Mama to keep you company.
+Nera
+	Actually, Papa. We wanted to talk to you about that. You see, I... I was hoping to go with %a000090.
+Rodrigo Briscoletti
+	What!? Has your mind turned to macaroni!?
+Nera
+	But when I think about what might happen to %a000090... The idea that I wouldn't be by his side is, is...
+Rodrigo Briscoletti
+	Hmm... My bambina is a romantic like her Papa!
+Rodrigo Briscoletti
+	Very well. This is what we will do.
+Rodrigo Briscoletti
+	I own a small shrine on a little island to the west of Stockenbarrel. I call it the Pothold.
+Rodrigo Briscoletti
+	It contains a jar, you see. I've been thinking for some time now that I'd send %a000090 there to check on its condition.
+Rodrigo Briscoletti
+	If you can manage that little errand without getting under %a000090's feet, Nera, I'll allow you to do as you please.
+Rodrigo Briscoletti
+	Well, my bambina? That's fair, no?
+Nera
+	Yes, Papa. I won't get in %a000090's way.
+	I'll do everything I can to help him.
+Rodrigo Briscoletti
+	Good! Here you are then, Nera. I'll give you the key to the shrine.
+Rodrigo Briscoletti
+	I'm counting on you, %a000090.
+	Remember, you're family now!
+Rodrigo Briscoletti
+	I just need to know what colour the jar is.
+	It's on an island to the west of Stockenbarrel. Capice?
+Rodrigo Briscoletti
+	You'll find some gifts from me in the two chests behind me here. They're both unlocked. The contents are yours.
+Nera
+	I wonder why Papa would have a shrine built in a place like this.
+Nera
+	Oh well, I suppose we should unlock the door and see what's inside.
+~ Nera unlocks the shrine door. ~
+~ %0%a000120 has a look at the pot. ~
+~ It's glowing with a calm, blue light. ~
+Rodrigo Briscoletti
+	Ah! Welcome back!
+	So it all went well, then?
+Rodrigo Briscoletti
+	I see. The jar was blue.
+	Well, that's a weight off my mind.
+Rodrigo Briscoletti
+	Anyway. Never mind about that now!
+Rodrigo Briscoletti
+	So, %a000090... Was my bambina able to
+	assist you?
+Rodrigo Briscoletti
+	Really? You wouldn't be lying to me now, would you? Telling me prosciutto-pies?
+Nera
+	Papa, please! Going with %a000090 this time only made me more sure.
+Nera
+	I must be by his side! It's my place as his wife.
+	Please, Papa. Say you'll let me go.
+Rodrigo Briscoletti
+	Hm... It seems you won't take no for an answer.
+	Just like your Papa, eh? Very well, then. I agree.
+Rodrigo Briscoletti
+	But don't overdo it! You know how much your papa dislikes things being overdone, and not just your mama's pasta!
+Nera
+	Oh, thank you, Papa!
+	Thank you, thank you!
+Rodrigo Briscoletti
+	Now everything's settled, you must get going.
+	The Bolognese won't make itself, eh?
+	You have a legendary hero to find, %a000090.
+Rodrigo Briscoletti
+	Oh, yes. One of my ships is in dock at Lodestar Harbour at the moment. Take it! I've got plenty more!
+Rodrigo Briscoletti
+	It's to sea-faring vessels what tiramisu is to desserts ⓚⓛ the best there is! Ready for any voyage you care to embark on. So make use of it soon!
+Rodrigo Briscoletti
+	Take care, now.
+	Don't do anything crazy!
+Rodrigo Briscoletti
+	And come home if you get tired. Your family's always here for you.
+Rodrigo Briscoletti
+	Once the world's safe again, we'll all settle down and make a good life for ourselves here, hm?
+Rodrigo Briscoletti
+	I'm not surprised! Nera can't even wield a sword, can she?
+Rodrigo Briscoletti
+	Now everything's settled, you must get going.
+	The Bolognese won't make itself, eh?
+	You have a legendary hero to find, %a000090.
+Rodrigo Briscoletti
+	Although it's a shame for a newly-wed couple not to take some time for a little amore before setting off on such a difficult journey.
+Rodrigo Briscoletti
+	Do you know the island just east of
+	Lodestar Harbour?
+Rodrigo Briscoletti
+	That's where the Ventuno is moored.
+	My casino ship, where you were married.
+Rodrigo Briscoletti
+	That whole extravaganza was so hectic, you didn't have any time to enjoy yourselves.
+	Why don't you take a short break there now?
+Rodrigo Briscoletti
+	Just mention my name to the man who runs the
+	ferry over to the ship, and he'll see that you're shown around.
+Rodrigo Briscoletti
+	If you carry on sailing south from there, you'll come to a place called Helmunaptra.
+Rodrigo Briscoletti
+	You can start your main journey from there.
+	But remember, be careful!
+Romana
+	I'm so happy to have gained such a wonderful son.
+Romana
+	You can think of me as your own mama.
+	I'll always be there for you.
+Romana
+	Nera, don't waste any time.
+	I'm expecting grandchildren, you know!
+Nera
+	Mama! Please!
+	Hee hee!
+Nera
+	I expect you're tired, aren't you?
+	Do you want to rest?
+Nera
+	Alright, then.
+	Good night...husband!
+Nera
+	Good morning, darling.
+	Shall we get going now?
+Nera
+	Really? You're full of energy, aren't you?
+	Make sure you don't push yourself too hard, darling.
+*: 
+	Ah-phew, ah-phew...
+Crispin
+	No doubt Nera thinks I'm an utter dunce, now.
+Crispin
+	All I managed to do was make a complete fool of myself and cause her to worry, getting so badly burnt like that.
+Crispin
+	But I'll make a man of myself yet!
+	I'll prove I'm worthy of her love!
+Crispin
+	Nera... I'm sure you'll be very happy.
+Nera
+	Thank you, Crispin.
+	I'm sure you will be too.
+*: 
+	It's very late, sir.
+	Aren't you tired?
+*: 
+	I hope you'll get some rest before morning.
+*: 
+	Zzz... Zzz...
+Rodrigo Briscoletti
+	Ah-phew...
+	Ah-ha-ha-phew...
+*: 
+	Ah-phew, ah-phew...
+Debora
+	Now you've married Nera, that makes me your sister-in-law. Which means you have to do everything I say, got it?
+Debora
+	Good. I don't need anything at the moment, though, so leave me alone.
+Debora
+	What did you say? I'll pretend I didn't hear that!
+*: 
+	Ⓠ With a hand to the soil,
+	I work my honest toil,
+	and listen out for gossip as I sow Ⓡ
+*: 
+	Chopping wood and living your life are just the same, really. The most important thing in both is
+	good timing.
+*: 
+	I'll let you in on a little secret. I did battle with a fearful monster in a cave just west of Hay not long ago.
+*: 
+	You'll never guess what it was...
+	A great sabrecat of all things!
+*: 
+	I say it was fearful, but I could tell it'd had some contact with humans. It might even have been someone's pet once.
+*: 
+	Come to think of it, that'd be the way to tame it again, I suppose. By using something it remembered from its old owner...
+*: 
+	I tell you what. If you're feeling bored, why don't you take a look at that book on the counter there?
+*: 
+	We have all sorts in here, you know. And they all write things in it. You travellers certainly like to keep up on your gossip, don't you?
+*: 
+	Oh, is that the Scuttlebutt Alledger you've got there? Oh, yes. That's full of tittle-tattle, that is.
+*: 
+	Keep it if you want to. It's all gossip, mind. Don't take it too seriously!
+*: 
+	You can't help having a few thoughts on the subject when you run an inn, you know...
+*: 
+	If you ask me, I'd much rather travel with a few friends than on my own. It'd be like having a family with you.
+*: 
+	These two lads here are both my boys.
+*: 
+	To tell the truth, I would've really liked to have a daughter too.
+*: 
+	Ssss!
+*: 
+	If you sail east from here, you'll spot an island just to the south.
+*: 
+	There's a casino ship docked there called the Ventuno where the world's rich and famous go to win even more dosh!
+*: 
+	I doubt you're the kind of bloke they'd let in there, mind! Ha ha ha!
+*: 
+	Did you buy one too?
+*: 
+	I thought so. You look like the type.
+*: 
+	They're selling ships in bottles down in the dockyard.
+*: 
+	They're pretty well-made. You wouldn't want to miss out on a souvenir of Lodestar Harbour now, would you?
+*: 
+	People are saying that they're building a huge temple or suchlike at the top of Mt Azimuth.
+*: 
+	It's hard to imagine how they're managing to build anything at all in a place like that!
+*: 
+	Travelling about by boat, are you? If you are, you might find knowing this comes in handy.
+*: 
+	If you follow the coast south from here and then sail right down as far south as you can go, you should come to a big desert.
+*: 
+	Apparently there's a huge castle somewhere in the middle of it.
+*: 
+	I've heard talk of that castle in the desert too.
+*: 
+	Some folk say there's a kind of shrine there to the legendary hero.
+*: 
+	'Ello, 'andsome!
+	You came especially to see me, oui?
+*: 
+	What a nice, sweet tongue you 'ave, %A0110%Xchéri%Z%B0110%Xchérie%Z!
+Bianca
+	Looks like you're on a roll here, %a000090.
+*: 
+	Zere is no need to be 'orrible! 'Ave you never 'eard of telling ze white lies?
+Bianca
+	She's right, %a000090. There's no need to worry about offending me or anything!
+*: 
+	I hear that people come from all over the world to have a bit of fun at the casino boat that's moored on the island just east of here.
+*: 
+	I wish I could go. But I'd never be able to afford that kind of lifestyle.
+*: 
+	I'm a sailor, me. But the ships ain't been sailin' much just lately, so I'm at home a lot.
+*: 
+	My savings are all but dried up already,
+	but her indoors never moans. I picked a
+	good'un there.
+*: 
+	Travelling around together, are you?
+	I suppose you're on your honeymoon then.
+	You can't beat a good honeymoon!
+*: 
+	Travelling about by boat, are you? If you are, you might find knowing this comes in handy.
+*: 
+	If you follow the coast south from here and then sail right down as far south as you can go, you should come to a big desert.
+*: 
+	Apparently there's a huge castle somewhere in the middle of it.
+*: 
+	%H0860%XA traveller%YTravellers%Z, are you? I was on the move myself until recently. Heading for that White King's Paradise everyone's talking about.
+*: 
+	But these ships in bottles I was making for fun were selling like hot cakes, so I thought to myself, ⓗHow much better can it get!?ⓘ
+*: 
+	Ah, you never know in this life, do you, eh?
+*: 
+	Ha ha! You've spotted it too, have you?
+*: 
+	Pretty good, eh? If you use your head, you can find the best seat in the house!
+Bianca
+	That's awful! Why are so many men like that!?
+Bianca
+	At least you're different, %a000090.
+Cleo
+	I'm originally from a castle in the desert far off to the south from here.
+Cleo
+	People at home would be surprised to find out I've become a dancing girl, that's for sure.
+*: 
+	Aaaaah!
+Bianca
+	We should probably make a move, %a000090. Now!
+Nera
+	%0%a000090! Let's leave these poor girls in peace!
+*: 
+	Step right up! Get your souvenirs here! One of these famous Lodestar ships in a bottle could be yours!
+*: 
+	Look at the superb construction! See the fine finish! And all for just one thousand gold coins! What d'you say?
+*: 
+	That's right! You'd be crazy to pass up this unbelievable offer. I'll just pop it in your bag for you.
+*: 
+	Oh dear! You haven't got enough cash.
+	I can't discount something of this quality, you understand, %A0110%Xsir%Z%B0110%Xmadam%Z.
+*: 
+	Shame. But maybe next time, eh?
+*: 
+	Aargh! I dropped my ship in a bottle!
+*: 
+	You want to get onboard? I'm afraid this is a private ship. Belongs to Mr Briscoletti of Mostroferrato.
+*: 
+	I can't let you on, I'm afraid.
+	I don't know you from Adam.
+*: 
+	Hey! Are you %a000090, by any chance?
+*: 
+	I thought as much! Mr Briscoletti sent a message that you'd be along soon.
+*: 
+	This be his boat. And he's given instructions that you should be allowed to use it as much as you want.
+*: 
+	You might want to go to the pub for a jar or two before you set sail. You could pick up all sorts of tips for where to head on your travels.
+*: 
+	Oh, sorry. I've obviously got the wrong man.
+*: 
+	There be much stronger monsters out at sea than there be on dry land.
+*: 
+	You mind how you go out there, eh?
+Captain
+	Ah! We've been waitin' for you! It's been a
+	while since we were last at sea, so it's all
+	very excitin'!
+Captain
+	Are you ready to set sail now then, Mr %a000090?
+Captain
+	This way then, please.
+Captain
+	Cast off!
+	Anchors aweigh!
+	Make sail!
+Captain
+	In your own time. Just come and let me know when you're ready.
+Debora
+	We need to leave. Now.
+	Got it?
+Debora
+	I should think so too. You should only have eyes for me, you know.
+Debora
+	Hmm. I don't think I can have heard you correctly.
+	I'll give you one more chance.
+Debora
+	We need to leave this place right now.
+	Got it?
+Debora
+	That's more like it. All you have to do is agree with what I say and life will be sweet.
+*: 
+	Look at the Ventuno. So near and yet so far!
+*: 
+	If I could just save up enough money to
+	start gambling...
+*: 
+	No doubt the casino's bustling right now...
+*: 
+	Pontoon's the way to get into gambling on
+	the Ventuno. This pontoon! Ha ha ha! Climb
+	aboard if you want to!
+*: 
+	Wotcha, son! Wanna know 'ow ya can guarantee a win at poker?
+*: 
+	Five grand to you, son. Can't say fairer than that. Give us five thousand gold, an' I'll tell ya the business, okay?
+*: 
+	Blimey, mate! You don't wanna go around wiv that kind of attitude.
+*: 
+	Think about it! There ain't no way to guarantee a win, right. 'Ow can there be?
+*: 
+	You're out yer depth, mate. Watch ya don't get conned by no dodgy geezers in there, eh?
+*: 
+	Blimey, mate! You don't wanna go around wiv that kind of attitude.
+*: 
+	Ya can't be stingy wiv a measly five grand if ya want 'em to take ya seriously.
+*: 
+	You're out yer depth, mate. Watch ya don't get laughed out the place by no rich geezers, eh?
+*: 
+	It was always my dream to work on a casino ship.
+*: 
+	I'm gonna be the Ventuno's number one bunny!
+*: 
+	Ruff, ruff!
+~ ⓗWelcome to the town of Pontoon, ~
+~ Treasure Island's most exciting harbour! ~
+~ Spend a little time, win a lot of money!ⓘ ~
+*: 
+	Building a casino on a ship! It's sheer genius!
+	An off-shore gambling operation!
+*: 
+	Rodrigo Briscoletti really is a man of vision!
+*: 
+	Surely playing the slot machines while the ship's rocking back and forth the whole time would make you as sick as a dog!
+*: 
+	Mr Briscoletti's employed me to keep an eye on things and make sure no one gets out of hand.
+*: 
+	Welcome to Pontoon's casino ship, the Ventuno!
+	Spend a little time, win a lot of money!
+*: 
+	People call this ship the Fortuno as well, you know. Because it brings good fortune.
+*: 
+	It's ever so popular with young couples
+	who are in love.
+*: 
+	Just imagine if you could get married in a place like this!
+*: 
+	You'd be happy for the rest of your lives, wouldn't you!
+*: 
+	Some of them even get married here. Can you imagine!
+*: 
+	Vowing your undying love for each other in the middle of the vast expanse of sea...
+	Aaah, it'd be just perfect!
+*: 
+	Hm? Can't you see I'm havin' a nap?
+	Leave us be, would ya?
+*: 
+	I'm calculating the odds of winning
+	on the slot machines.
+*: 
+	Only, my calculations and the actual results don't appear to tie up at all.
+*: 
+	I dunno why my 'usband's so hell bent on this gamblin' lark.
+*: 
+	I en't gonna tell 'im not to do it at all, o' course, but 'e's gonna have to learn to control 'imself a bit.
+*: 
+	You win some, you lose some.
+*: 
+	It's all good fun!
+*: 
+	I was captain of another vessel before this one, but Mr Briscoletti kept badgering me to take the
+	helm here.
+*: 
+	I turned him down at first, but he was pretty persistent, so I caved in the end.
+*: 
+	That's the secret to the man's success if you ask me: he never takes no for an answer!
+*: 
+	The Captain's seen 'is way through five separate monster attacks in 'is time, y'know.
+*: 
+	As a fellow seaman, I salute 'im, I do.
+*: 
+	All present and correct! Nothing to report!
+*: 
+	Ma'am does enjoy her travelling. I've been all over the place with her.
+*: 
+	But the world's so dangerous these days. I can't say I'd be disappointed if she decided to stay put for a while.
+*: 
+	Dining under the stars with a flute of fine champagne, whilst the ebb and flow massages
+	one's appetite...
+*: 
+	Bliss! Simply bliss! But I've had an elegant sufficiency. Any more would be a burden.
+*: 
+	Sorry. This is a private room for the exclusive
+	use ofⓚⓛ
+*: 
+	Blue blazes! I, I didn't realise it was you!
+*: 
+	I'm ever so sorry! Mr Briscoletti did let me know, but I clean forgot.
+*: 
+	Were you hoping to have a rest, then?
+*: 
+	Very good. I hope you sleep well.
+*: 
+	Good morning! I trust you'll find everything you need for your entertainment and pleasure on board.
+*: 
+	Yes, there's always more fun to be had here!
+	Just let me know when you've had enough and want to retire.
+*: 
+	Sorry. This is a private room for the exclusive use of Mr Briscoletti and his family.
+*: 
+	Oh! You're an acquaintance?
+*: 
+	I'm ever so sorry! Yes, Mr Briscoletti told me to be expecting visitors.
+*: 
+	Were you hoping to have a rest, then?
+*: 
+	Very good. I hope you sleep well.
+*: 
+	Good morning! I trust you'll find everything you need for your entertainment and pleasure on board.
+*: 
+	Yes, there's always more fun to be had here!
+	Just let me know when you've had enough and want to retire.
+*: 
+	I'm sure I just stubbed my toe on something,
+	but maybe I was imagining it.
+*: 
+	Okay, so the casino's fun. But nothing gives you more of a thrill than my dancing! That's right, isn't it? Isn't it? Tee hee hee!
+*: 
+	Oh, a gatecrasher! How exciting! Can you keep up with the steps?
+*: 
+	It pays pretty well, you know, this job.
+*: 
+	That guy just won't stop starin' at me!
+	I'm gonna go an' punch 'im in a minute!
+*: 
+	One, two... One and two...
+*: 
+	Don't talk to me now! I'll lose the rhythm!
+*: 
+	Don't step on my toes when I'm dancing!
+*: 
+	I'm working undercover, you know. Checking up to make sure no one's cheating or anything.
+*: 
+	I'm employed here, you see. That's myⓚⓛ
+	Oops! I forgot! I'm not supposed to tell anyone!
+*: 
+	That's not much of a dance, is it? I reckon the choreography needs a bit of work.
+*: 
+	Am I right, or am I right?
+*: 
+	Yeah, 'course I am. Nice one mate, you know yer stuff, you do.
+*: 
+	Really? Well, I s'pose I can't 'elp it if you don't know yer salsa from yer tango.
+*: 
+	Ow! Phew! That's a rough dance!
+*: 
+	I was just leaning over to get a better view when I got smacked in the face!
+*: 
+	Wahoo! Yeah! That's it!
+*: 
+	Look at 'em go! You can't beat a good, enthusiastic dance!
+*: 
+	Did you know the owner of this place, Mr Rodrigo Briscoletti, donates his profits to the Church?
+*: 
+	Looks like I lost today, then.
+*: 
+	Never mind. We all have our off days.
+	Ha ha... Ha ha ha...
+	Ha ha ha ha ha... (gulp)
+*: 
+	All the world's richest are on this ship.
+*: 
+	I don't know how they all got so wealthy.
+	And that Briscoletti fellow must be raking it in too.
+*: 
+	This is my first time in a place like this.
+	I'm afraid I don't really know what the form is.
+*: 
+	I was just using that machine with all the pretty pictures on it when tokens started tumbling out of it! I hope I haven't broken it.
+*: 
+	Wow! Look at all this!
+*: 
+	Can you believe how much I've won?
+	I'm on fire!
+*: 
+	When you've been doing this job as long as I have, you can tell what a card is just by touching it.
+*: 
+	............
+	Ha ha! I'm pulling your leg! Obviously!
+*: 
+	You've got to watch your tokens, you know. Every token counts!
+*: 
+	One token can become a hundred. And a hundred tokens can become a thousand! So watch the ones, and the noughts'll take care of themselves!
+*: 
+	I didn't come here because I'd strayed from the path, my child.
+*: 
+	No, I came here to test the strength of my connection with the Goddess. To gauge the
+	impact of my prayers.
+*: 
+	Dear Goddess! Almighty caster of the dice of fate! Please! Just once! Let me win at Double or Nothing!
+*: 
+	This is the casino hall. It's got everything for your entertainment and pleasure. Slot machines, poker and the dancing girls, of course!
+*: 
+	You'll never get bored in here. We won't let you!
+*: 
+	There was a token lyin' about on the floor here before. It's gotta be around here somewhere...
+~ %0%a000120 examines the area around %A0120%Xhis%Z%B0120%Xher%Z%C0120%Xits%Z feet. ~
+~ There's something shiny on the floor. ~
+~ It's a casino token! %H0860%X%0%a000120's%YThe party's%Z tokens increase by one! ~
+*: 
+	We've got every drink you can think of behind the bar here.
+*: 
+	They're all part of Mr Briscoletti's personal collection. He's a real connoisseur, you know.
+*: 
+	You think it's just a game, but you
+	really have to concentrate!
+*: 
+	I've really been putting my mind to it, but I still can't get all the way 'round.
+*: 
+	Argh! I was so close! Just one roll away from
+	the finish!
+*: 
+	If the ship hadn't rocked suddenly, the die would've stayed where it landed, and I'd have been a winner!
+*: 
+	Oh, blast it! You can't play without a T 'n' T ticket you know, no matter how much gold you've got!
+*: 
+	Ya don't wanna fink too much 'bout all them games 'n' that in the casino. Or 'bout Treasures 'n' Trapdoors. Just have fun! T'riffic!
+*: 
+	This is the ship's hold. It's always full, whether it's with casino prizes or passengers' luggage.
+*: 
+	I'll only tell you once: don't touch!
+*: 
+	Always worth checking if people are short of a thing or two. It's just good business sense, isn't it?
+*: 
+	You've gotta wonder what people need all this luggage for when they're just coming to play a bit
+	of poker, haven't you?
+*: 
+	No! I've never shirked my duties to go gamblin' in the casino! Never!
+*: 
+	Ah-phew... Ah-phew that was close...
+	Ah-phew...
+*: 
+	You hear loads of folk sayin' how much they'd like to get married here on this ship.
+*: 
+	I s'pose it would be pretty amazin'.
+*: 
+	You know, Brisc'letti's own daughter got married here not long back.
+*: 
+	Dear Goddess, we were busy! Runnin' around like mad things, we were. But it was a crackin' ceremony.
+*: 
+	You know, you look a bitⓚⓛ
+	Mother of pearl, it's you! You are Briscⓚⓛ I mean, Mr Brisc'letti's daughter, aren't you!?
+*: 
+	I'm sorry! I din't mean to be rude or nothin'!
+*: 
+	I wasn't expectin' it, is all. I mean, Mr Brisc'letti always told us not to let his little bambina down here.
+*: 
+	I s'pose you're all grown up now, though, in't you? A proper lady, like.
+*: 
+	Mr Brisc'letti holds a fair few social gatherin's here on the ship.
+*: 
+	It's all hands on deck at times like that!
+*: 
+	Ev'rythin' has to be spot on, you know. You've gotta get ev'ry last detail just right.
+*: 
+	I am preparing ze very finest cuisine for ze passengers of zis finest of vessels.
+*: 
+	Ze people 'ere on board, some of zem 'ave a very particular palate.
+*: 
+	To 'ear zem cry out in joy when zey taste my créations, zat is my raison d'être!
+*: 
+	One day... One day, I'll board the Ventunozzz...
+	Zzz... Zzz...
+*: 
+	The Ventuno's wonderful of a night too,
+	you know.
+*: 
+	It's a time for the less lively passengers to enjoy a bit of quiet time in the casino hall.
+*: 
+	Ah-phew... Ah-phew...
+	All aboard...for the Ventu-ew...
+	Ah-phew... Ah-phew...
+*: 
+	(whimper)
+*: 
+	There's no rest for a man in my position. Night and day, I have to keep a constant vigil to make sure no one's getting out of hand.
+*: 
+	Look how pretty the ocean is at night.
+*: 
+	Ah! A shooting star! I wish I had a boyfriend!
+	I wish I had a boyfriend! I wish, I wish, I wish!
+*: 
+	Aaah... A flute of fine champagne under the starlit sky... Bliss! Simply bliss!
+*: 
+	I was just filling in the ship's log.
+*: 
+	I can't get out of the habit, even though we don't sail out into open waters any more. It's a captain's duty, you see.
+*: 
+	Argh-phew... Argh-phew...
+*: 
+	Ah-phew...
+	Nothing to report! All prezzz...
+	Ah-phew...
+*: 
+	The shame! If I don't step up now...
+	Zzz...
+*: 
+	I've been playing the slots so much, everything looks like fruit to me now.
+*: 
+	Oh, no! I can't see the dancers! All I can see is a row of spinning reels!
+*: 
+	Ha ha! What a win! What a win!
+	I can't stop smiling!
+*: 
+	It's good to unwind after a hard day's winning with a bit of gentle dancing!
+*: 
+	Tomorrow! Surely tomorrow will be the day!
+	I've got to win sometime...
+*: 
+	I could dance anyone off the floor in my younger days, you know. Anyone!
+*: 
+	Watch! Watch the master's nimbleⓚⓛ
+	Ooh, ow! There goes my hip again...
+*: 
+	My hair's all sticky because I was out in the sea air for so long. Normally it looks great!
+*: 
+	I got a decent bit of shut-eye durin' the day, so I'm firin' on all cylinders now.
+*: 
+	I should think ma'am will be retiring soon.
+*: 
+	Fifteen men on a cannibox chest, Ⓠ
+	Yo ho ho and a bottle of Zoomshine. Ⓠ
+	Drink and the devil had done for the rest... Ⓡ
+*: 
+	Men's voices are so much nicer than women's.
+	Deep and throaty!
+*: 
+	They make me go wobbly at the knees!
+*: 
+	No one's going to be cheating in an atmosphere like this. It's far too mellow.
+*: 
+	Lots of people leave the casino of a night,
+	but there are still plenty of ways to enjoy yourself, you know.
+*: 
+	Leave me alone...
+	I'm... I'm...
+	(gulp)
+*: 
+	What a wonderful singing voice that man has.
+	I had no idea casinos offered such a wide range of entertainment.
+*: 
+	When you've been doing this job as long as
+	I have, you can make a card vanish into thin air
+	if you want to.
+*: 
+	............
+	Ha ha! No, no, no! I'm just pulling your leg!
+*: 
+	I was right, my child. The Goddess wishes us to stand on our own two feet.
+*: 
+	Now I realise that we must make our own luck.
+	Maybe now I'll win at Double or Nothing!
+*: 
+	Really? You're on a grand adventure then,
+	are you?
+*: 
+	This ship, the Ventuno, used to sail the open seas once, you know. Oh, yes!
+*: 
+	But it's too dangerous these days, of course.
+	We're moored up here by Treasure Island for a while to avoid a run-in with monsters.
+*: 
+	Oh no! I'm out of T 'n' T tickets!
+*: 
+	Apparently there's a free pass you can get that lets you play as much Treasures and Trapdoors as you want.
+*: 
+	If I just knew where to get it... I'd pay
+	anything. It'd be well worth it for unlimited
+	access to the board!
+*: 
+	If this ship sank, it'd go down in history, I'll bet.
+*: 
+	I've been working on ships for a while now,
+	but I can't actually swim, you know. I hope the
+	ship doesn't sink!
+*: 
+	I told you, I'm not shirkin'!
+	Ah-phew... Ah-phew...
+*: 
+	Et Voilà! Ze perfect flavour!
+	Zzz... Zzz...

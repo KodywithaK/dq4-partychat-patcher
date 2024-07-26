@@ -1,0 +1,711 @@
+*: 
+	I'm sure I just saw King Wilbur going upstairs with the Queen Dowager.
+*: 
+	And yet I can't have done, because I don't remember seeing Her Majesty come downstairs in the first place. I'm going mad!
+*: 
+	Is somebody there?
+*: 
+	I've been down here so long now that my eyes and ears have stopped working on me.
+*: 
+	But my mouth works just fine, so let me tell you this!
+*: 
+	The person responsible for Prince Harry's death is none other than the Queen Dowager!
+*: 
+	And yet she put on a good show of being distressed by the whole thing and then laid all of the blame squarely on Pankraz's shoulders!
+*: 
+	The cheek of the woman! She even took it so far as to destroy Pankraz's village, Whealbrook.
+*: 
+	I've never seen a woman so cruel and cold-hearted. The Goddess will punish her for this!
+~ There's no response. ~
+~ It's just a corpse. ~
+Chancellor
+	You wish to see King Wilbur?
+	Well, now's not the time!
+Chancellor
+	It's all too weird. First of all His Majesty came by with the Queen Dowager...
+Chancellor
+	And now... You won't believe this!
+	...There are two of them!
+*: 
+	This makes no sense whatsoever! Two Queen Dowagers all of a sudden! And they were at each other's ⓚⓛ Clank! ⓚⓛ throats when they met!
+*: 
+	We managed to somehow pull them apart, but now King Wilbur is ⓚⓛ Clank! ⓚⓛ puzzling over which one is which!
+King Wilbur
+	I just can't seem to figure out which one of them is my real mother.
+King Wilbur
+	I really wanted to sort this out for myself, Harry.
+King Wilbur
+	But I just seem to always get these things wrong...
+Queen Dowager
+	Don't you know your own mother, Wilbur?
+	Come on. Come to Mummy!
+~ %0%a000120 looks into Ra's mirror. ~
+~ The reflection is of an elderly lady. ~
+Queen Dowager
+	How can you not know I'm your real mother!?
+Queen Dowager
+	Throw this impostor into jail at once!
+~ %0%a000120 looks into Ra's mirror. ~
+~ The reflection is of a monster! ~
+Faux Dowager
+	Curses! That wretched mirror!
+	Now the truth is out!
+Faux Dowager
+	Now I have no choice but to kill you all!
+*: 
+	I haven't seen a thing!
+	You should keep ⓚⓛ Clank! ⓚⓛ quiet too, if you know what's good for you.
+King Wilbur
+	What is the meaning of all this? What's a monster doing pretending to be my mother?
+Queen Dowager
+	You no-good monster! If you lay a finger on my son, I'll have your guts for garters!
+Faux Dowager
+	You don't know when to give up, do you? I'll tear you limb from limb this time, just you wait!
+Faux Dowager
+	You're stronger than you look, feeble humans.
+Faux Dowager
+	If it weren't for you, I could've become ruler of Coburg...and ruler of the world! Grurrrgh!
+~ %3So the Queen Dowager was an impostor!%4 ~
+~ %3The news spread like wildfire throughout the kingdom that evening, and then morning came.%4 ~
+King Wilbur
+	You and my brother did a wonderful job of defeating that impostor, %a000090.
+King Wilbur
+	I can't thank you enough. I hate to imagine what would've become of Coburg if you hadn't come along.
+King Wilbur
+	I must be the worst king there ever was.
+King Wilbur
+	I was thinking... Maybe it would be better if Harry were king. Could you help me to persuade him, %a000090?
+Harry
+	Your Majesty.
+	I'm afraid I must turn down your request.
+King Wilbur
+	But, Harry...
+Harry
+	A lackey should always listen to his master, remember!
+Harry
+	Naturally, though, I'll do everything I can to assist you.
+Harry
+	Which means... I'm afraid our journey together must come to an end, %a000090.
+Harry
+	It's been a lot of fun, but the time's come for us to say goodbye.
+Harry
+	All of the weapons and things you bought me are in your bag, okay?
+Harry
+	Good luck with the rest of your journey, %a000090!
+King Wilbur
+	You've been an invaluable help here, %a000090.
+King Wilbur
+	I'm going to work really hard with Harry from now on to make Coburg a happy place for people to live.
+Queen Dowager
+	I don't know what to say. No words are enough to express the gratitude I feel for what you did.
+Queen Dowager
+	None of it would have happened if I hadn't been so conceited.
+Queen Dowager
+	I'm going to work harder than anyone from now on to make amends.
+Queen Dowager
+	I'll help Wilbur as much as I can, but I swear that I won't meddle in the kingdom's affairs ever again.
+Chancellor
+	If Wilbur and Harry can rule the kingdom together successfully, then we'll finally have peace and prosperity in Coburg again!
+Maria
+	It was so much fun being able to travel with you and Harry, %a000090.
+Maria
+	But it's time I returned to the abbey now, so I suppose this is goodbye.
+Maria
+	You're no doubt continuing on your journey in search of the legendary hero and, of course, your mother.
+Maria
+	I wish you lots of success.
+	I'll be praying for your safety.
+Harry
+	Now things are back to normal, there'll be ships sailing into Littlehaven again soon.
+Harry
+	No doubt you're planning on continuing your journey from there.
+Harry
+	Ah! Wait a minute!
+Harry
+	There's this thing I found back during our years as slaves.
+Harry
+	It's a bit crumpled now, but I want you to have it.
+~ %0%a000090 receives a tombola ticket from Harry! ~
+~ %0%a000090 carefully places the tombola ticket in the bag. ~
+Harry
+	I hope you find the legendary hero before long.
+	Good luck, %a000090!
+Harry
+	Now things are back to normal, there'll be ships sailing into Littlehaven again soon.
+Harry
+	No doubt you're planning on continuing your journey from there.
+Harry
+	I hope you find the legendary hero before long.
+	Good luck, %a000090!
+*: 
+	These are Darwin the Psarologist's quarters.
+*: 
+	Hello there. The name's Darwin. I spend my time researching all about living things.
+Darwin
+	How have humans and other creatures evolved in the way they have? And could they ever develop into something more powerful?
+Darwin
+	It seems there was once a secret that unlocked these mysteries of evolution. Perhaps it was the hand of the Goddess.
+*: 
+	If you see anything you like in here, help yourself.
+*: 
+	I hope you have a safe onward journey.
+*: 
+	Hey! You're the one who defeated the Faux Dowager!
+*: 
+	I'll let you in on a tip as a kind of reward. You can get hold of ⓗThe Big Book of Beastsⓘ at the Old Curiosity Shop in Fortuna!
+*: 
+	Thank the Goddess that there are no executions any more! What a relief!
+*: 
+	Thanks to you, Coburg is well on its way back to normality. Thank you so much!
+*: 
+	Who'd have thought that Prince Harry was still alive after all these years? What a pleasant surprise!
+*: 
+	Oh! Hello again! Remember me? I'm the old man from down in the jail.
+*: 
+	They let me out in the end, and now I'm being looked after beautifully.
+*: 
+	I can't tell you how grateful I am!
+	Thank you! Thank you! Thank you!
+*: 
+	Welcome to Coburg Castle!
+*: 
+	It's a great feeling, being able to welcome people with a smile again!
+*: 
+	Legend has it that long ago, a castle came falling from the sky.
+*: 
+	Apparently, it's since that day that monsters have been terrorising mankind again.
+*: 
+	Prince Harry is so brave and kind.
+	He's yummy!
+*: 
+	What a surprise to see Prince Harry back again. And grown up so nicely as well.
+*: 
+	I don't think I could be any happier!
+*: 
+	They're givin' us food here now.
+*: 
+	It's so nice not to feel hungry all the time any more.
+*: 
+	I'm really hungry.
+	Can I have some more soup, please?
+*: 
+	Yay! Thank you!
+*: 
+	Oh! That's mean!
+~ %0%a000120 examines the bookshelves. ~
+~ There's an ancient-looking diary! %0%a000120 takes the diary from the shelf and reads. ~
+~ ⓗThis day, I betook myself through the castle teleportal to the southern land. ~
+~ ⓗIn the southern land, there lies an ancient tower. Legend has it that a mirror with the power to show the truth is hidden within it. ~
+~ ⓗBut the tower doors would not open for me. The key, it is said, lies in the hands of monks.ⓘ ~
+~ There's no response. ~
+~ It's just a corpse. ~
+*: 
+	Things have begun to liven up here now that ships are sailing into Littlehaven again.
+*: 
+	I travelled here from a land far across the ocean to the west.
+*: 
+	There was talk back there on the continent of Zephyrus about some legendary shield.
+	I never came across it, mind.
+*: 
+	Yippee! The nasty Queen Dowager was an impostor! Yay!
+*: 
+	Welcome to Coburg.
+*: 
+	Ever since Prince Harry came home, this place has been gettin' better by the day!
+*: 
+	Let's all dance and celebrate!
+*: 
+	Coburg's at peace again! What better thing to celebrate than that?
+~ ⓗGlory to the Kingdom of Coburg! ~
+~ Everything is for the people!ⓘ ~
+~  ~
+*: 
+	My sister's come back safe and sound from Fortuna at last! Anyway, down to business...
+*: 
+	There's no stopping Coburg now! The kingdom and its people are getting richer by the day. Whoopee!
+*: 
+	Who can drame a man for blinking at a time like this!? Hic!
+*: 
+	The stars are so pretty. Aaah!
+*: 
+	This is just between you and me, but there are some really terrifying monsters attacking people over on that continent Apeliotes to the east.
+*: 
+	Some folk there are even saying that the end of the world is upon us.
+*: 
+	I'm really pleased my sister's back from Fortuna safe and sound.
+*: 
+	But she's changed so much. I don't know whether to be happy or sad!
+*: 
+	Hello there, young man! Aren't you lovely! How would you like to have your fortune told?
+*: 
+	Oh! You've never had your fortune told before?
+*: 
+	Hmm... I sense that perhaps you're not ready quite yet. Maybe one day when you're all grown up and married.
+*: 
+	Well, not to worry. The spirits tell me that the girl for you is just around the corner!
+*: 
+	I wish Maria would come back soon.
+Nun of the Above
+	We received a missive from the King of Coburg requesting that Maria be allowed to remain at the castle for a short while.
+Nun of the Above
+	I'm so pleased that she was
+	able to be of use to you.
+Nun of the Above
+	It's said that the tower in the south was created by the Goddess as a means of testing us.
+Nun of the Above
+	So if you were able to go inside and acquire that mysterious mirror, you must have the blessing of the Goddess on your side, %a000090.
+Nun of the Above
+	We received a missive from the King of Coburg requesting that Maria be allowed to remain at the castle for a short while.
+Nun of the Above
+	I'm so pleased that she was
+	able to be of use to you.
+Nun of the Above
+	It's said that the tower in the south was created by the Goddess as a means of testing us.
+Nun of the Above
+	So if you were able to go inside and acquire that mysterious mirror, you must have the blessing of the Goddess on your side, %a000090.
+*: 
+	I hear that all is back to how it should be
+	over in Coburg.
+*: 
+	It's probably because of all the thought I put into solving its problems, standing here watching the river go by. Ha ha!
+Frank O'Phobe
+	Ah, you're a friend of Prince Harry's, aren't you? Please go ahead and pass on through!
+Mystic Mridula
+	Kah ha ha ha hah!
+	I am mystic-mystic Mystic Mridula. And I don't like this person who is leading your party.
+Mystic Mridula
+	If you are giving to me a man of my liking, I will gladly look into a crystal ball, poke my finger in dirty tea leaves, whatever you are wanting...
+Mystic Mridula
+	Kah ha ha hah! Welcome to Mystic Mridula's super-duper fortune-telling mumbo-jumbo bonanza!
+	You wanna give it a go, no?
+Mystic Mridula
+	Okey-dokey! You're such a handsome cookie,
+	I'll do it for free!
+Mystic Mridula
+	Yesss... Yesss... Kah ha ha hah!
+	You are looking for something, no?
+	I am seeing a woman who is very close to you.
+Mystic Mridula
+	But in your heart, you are all in a quandary.
+Mystic Mridula
+	Kah ha ha hah!
+	Have no fearings! This woman is alive and kicking, and she is waiting for the day to meet you again.
+Mystic Mridula
+	First you must be taking a ship from the harbour. After that, a new way will be opening for you, innit?
+Mystic Mridula
+	Oh... You are saying that you want to find your own way? Kah ha ha hah! Be my guest! Ka ha ha ha hah!
+*: 
+	The drinks are okay here, but the food's humdingingly bad. Here, try it.
+*: 
+	Hah! You reckon it's pretty bad too, huh?
+	You bet it is!
+*: 
+	You %H0860%Xa traveller, pardner%Ytravellers, pardners%Z?
+	Then you'll be needin' %H0860%Xyourself%Yyourselves%Z a wagon so's you can take more folk around with you.
+*: 
+	I wanna say three thousand gold coins for a wagon like this, but I just can't resist givin' you a discount! So how does three hundred sound?
+*: 
+	Yee-haw! You got yourself a deal!
+	I'll put your wagon outside, and you have yourself a mighty fine trip, pardner.
+*: 
+	Oh, just before you saddle up and move out,
+	you might wanna stop in on old Monty, the
+	monster monitor.
+*: 
+	He's a regular crackerjack when it comes to usin' wagons. He's the expert, if you're lookin' for advice.
+*: 
+	Okay, pardner. You're the boss!
+*: 
+	Sorry, pardner, but you look to be a little
+	short of cash.
+*: 
+	Yee-haw! You got yourself a deal!
+	I'll put your wagon outside, and you have yourself a mighty fine trip, pardner.
+*: 
+	I'll be puttin' up more unusual items for sale
+	once they come in. So you be sure to drop by
+	again, y'hear?
+*: 
+	Now you look like a seasoned old trav'ller to me, pardner. In that case, you won't wanna be without this here Big Book of Beasts!
+*: 
+	I wanna say three thousand gold coins for it, but I just can't resist givin' you a discount, pardner! So how about we settle on a thousand?
+*: 
+	Yee-ha! You got yourself a deal!
+	I'll just go on and put it in your bag for you.
+	Ride 'em, %A0110%Xcowboy%Z%B0110%Xcowgirl%Z!
+*: 
+	Okay, pardner. You're the boss!
+*: 
+	Sorry, pardner, but you look to be a little
+	short of cash.
+*: 
+	Soon as I get myself some more unusual items,
+	I'll be puttin' them up for sale too, so don't be a stranger now, pardner!
+*: 
+	I am a wandering warrior, travelling the world in search of a peaceful haven in which to rest my weary head.
+*: 
+	I heard that, in the past, many people were transported from this place to a holy land.
+*: 
+	But now it seems to be nothing more than an old ruin.
+~ There's no response. ~
+~ It's just a corpse. ~
+~ There's no response. ~
+~ It's just a corpse. ~
+*: 
+	Sounds like things in Coburg have settled down again now.
+*: 
+	Maybe the ships'll start sailing again soon.
+*: 
+	You're not thinking of going off overseas without a horse and cart, are you?
+*: 
+	I wouldn't advise it. They say there are some really vicious monsters over on the continent of Zephyrus.
+*: 
+	A ship! A ship's come in!
+*: 
+	Better hurry up or you'll miss the boarding.
+*: 
+	On you go! This ship's sailing for the continent of Zephyrus!
+Captain
+	Ah! More passengers.
+Captain
+	But that should be the lot, I reckon.
+Captain
+	All aboard!
+Captain
+	Anchors aweigh!
+	Hoist the mainsail!
+*: 
+	Has a ship come in?
+	Of course not! It's pitch black outside!
+*: 
+	Maybe one'll come in tomorrow.
+	Why don't you come back in the morning?
+*: 
+	Ah-phew... Ah-phew...
+	Ah, at last... Ah, a ship...
+	Ah-phew... Ah-phew...
+*: 
+	Ah-phew... Ah-phew...
+	Zzz...
+*: 
+	My husband does nothing but nap!
+*: 
+	But I suppose it's a good thing, really.
+	Peaceful times, peaceful times!
+*: 
+	Righto! That's all the passengers disembarked.
+*: 
+	You want to get back on board? I'm afraid we can't take on any more passengers at the moment.
+*: 
+	The ferry to Littlehaven was attacked and sunk by monsters a little while back.
+*: 
+	We were only able to run the service we just did thanks to the millionaire Mr Briscoletti bein' so generous.
+*: 
+	I hope it won't be long before the world's safe enough for us to start sailin' again.
+*: 
+	If we don't sail, we don't work, see.
+	Simple as that.
+*: 
+	I heard that the ferry to Littlehaven sailed the other day, so I came along hoping to be able to get on the next one.
+*: 
+	But apparently that was the last one to go. How's a fella supposed to get to that White King's Paradise at this rate, eh?
+*: 
+	See the lighthouse just there? There's a scary ogre livin' at the top of it!
+*: 
+	If you value your life, you won't be going near the place in a hurry!
+*: 
+	Eh? No ogre in the lighthouse, you say?
+*: 
+	Ha ha! You didn't take me seriously, did ya?
+	I was only jokin'!
+*: 
+	My son was always a fine sailor.
+*: 
+	But then his boat was attacked by monsters.
+*: 
+	It's very painful for me to think about what happened to him.
+*: 
+	Hey! Have you heard?
+*: 
+	Then it's true!
+	I wish I could learn how to do it.
+*: 
+	Seems there used to be an ancient spell that would allow you to return to castles and towns you've visited in an instant.
+*: 
+	Can you imagine how great it would be if you knew a spell like that!? You could go travelling off all over the place!
+*: 
+	Rumour has it that the Kingdom of Coburg is planning on conquering the world.
+*: 
+	They don't seem to be doing much about it so far, mind you. I'm starting to think it was all just a hoax.
+*: 
+	Urgh. What a hangover! Maybe I had one too many last night.
+*: 
+	This is Lodestar Harbour.
+*: 
+	According to ancient manuscripts, there's a giant dragon god that reigns over our world.
+*: 
+	If that were true, though, why would he allow the monsters to run riot like they are?
+*: 
+	Come from Boreas, did you? I was born on that continent meself!
+*: 
+	I know! I'll let you in on a secret, one Borean to another, like!
+*: 
+	Take a good look at the flower bed by the church. You never know what you might find.
+*: 
+	I used to want to be a pharmacist, y'know.
+*: 
+	But then the bloke who was teachin' me all about medicine went and popped his clogs.
+*: 
+	Of all the luck! I used to love livin' over Whealbrook way, an' all!
+*: 
+	When I grow up, I'm going to be a sailor and I'm going to travel all around the world!
+*: 
+	And I'm going to collect lots of treasure too!
+	It'll be amazing!
+*: 
+	My stacks! 'Elp me! Someone 'elp me!
+*: 
+	No one's gonna help you now!
+	We said we'd do what you asked, right?
+*: 
+	So now you've gotta give us the dosh!
+*: 
+	No! I can't be trustin' you!
+*: 
+	That gold belongs to the village. We's all chipped 'n' chirped in, we 'ave.
+*: 
+	You stubborn idiot!
+	Lookin' for trouble, are ya!?
+*: 
+	What's your problem? Want a piece of the action, do ya!?
+*: 
+	Then that's what you've got! We don't take too kindly to people stickin' their noses into our business!
+*: 
+	Oh, yeah? You tryin' to pretend you didn't see nothin', are ya? I can't stand people like you.
+*: 
+	You reckon you're so superior, don't ya, eh?
+	I say it's time someone put you in your place!
+*: 
+	Huh! We won't be forgettin' this in a hurry!
+*: 
+	Thank you, sir! Thank you kindlier!
+*: 
+	You'm the kind o' man we should be trustin',
+	I reckon.
+*: 
+	Would you be willin' to take on a little task for us?
+*: 
+	Oo-ar! Thank you!
+*: 
+	I'm only gonna say 'im the once, so them ears o' yourn better be squeaky clean, you 'ear?
+*: 
+	The thing is, there be a savage monster what's messin' up all our crops in the village.
+*: 
+	'E's that bad as we'll all likely be dyin' of starvination if we dun't do somethin' smartish.
+*: 
+	An' that's why I'm 'ere. To find us a good, strong warrior what's gonna scare off the monster.
+*: 
+	I reckon I gone an' struck gold with you! You'm a right brawny bay, en't ya?
+*: 
+	I'm not talkin' about workin' for free, y'understand. There's gold in it for ya.
+*: 
+	Three thousand gold's what we's off'rin'. 'Alf now, an' one more 'alf later.
+~ %0%a000120 receives one thousand ~
+~ five hundred gold coins. ~
+*: 
+	You'll get the rest o' the gold after you's scared off that there monster.
+*: 
+	Fare 'e well then, me 'andsome. I'll be gettin' along now, back to the village.
+*: 
+	Oops! I nearly forgot! My village is way down south, called 'Ayⓚⓛ No, Hay. That's it. Always drop the aitch, I do. Can't 'elp it! 
+*: 
+	Does I need to tell you all that again?
+*: 
+	What it is is, we's wantin' you to scare off
+	a monster.
+*: 
+	If you scribble that wicked wotsit out o' there, there's another fifteen 'undred gold coins in it for ya.
+*: 
+	Fare 'e well then, me 'andsome. I'll be gettin' along now, back to the village.
+*: 
+	It's way down south of 'ere. 'Ayⓚⓛ I mean, Hay, it's called. You shouldn't 'ave no trouble findin' it.
+*: 
+	See! That's why you'm diff'rent from them louts afore. You din't just jump at the chance to make some quick cash.
+*: 
+	Blimey! You're stronger than you look, kiddo!
+*: 
+	I visited Hay once. It's a tiny village to the south of here.
+*: 
+	Talk about the sticks, mind you! There's not exactly a lot to see there.
+*: 
+	You're searching for the legendary hero so that you can rescue your mother? That all sounds a bit serious.
+*: 
+	My husband's a bit of a scholar. One day, he suddenly announced he wanted to go off on his travels.
+*: 
+	Said something strange about looking for the legendary hero so that he could save the world.
+*: 
+	Zzzz... The Grandmaster of the Underworld is attempting to take over our world...
+*: 
+	I must find the legendary hero and inform him immediately... Zzzz...
+Cleo
+	Our performances are only at night, my little scarab.
+Cleo
+	Come back then if you'd like to see a show you'll never forget.
+*: 
+	'Ello, 'andsome!
+	You came especially to see me, oui?
+*: 
+	What a nice, sweet tongue you 'ave, %A0110%Xchéri%Z%B0110%Xchérie%Z!
+*: 
+	Zere is no need to be 'orrible! 'Ave you never 'eard of telling ze white lies?
+*: 
+	Alors! I just cannot seem to get ze make-up right at all today.
+*: 
+	At least I look pretty au naturel, so I do not 'ave to worry too much, non, %A0110%Xchéri%Z%B0110%Xchérie%Z?
+*: 
+	Hello. The name's Ogar. I've been here for nigh on forty years now. No underworld monster's goin' to stop me keepin' the lighthouse runnin'.
+Ogar
+	Have you had a look through the telescope? You'll have probably seen the big mountain to the south-east if you did.
+Ogar
+	That'd be Mt Azimuth. Totally impossible for mere humans to climb.
+Ogar
+	Apart from the chosen ones, that is. They can climb to the top easy as pie.
+Ogar
+	Who does the choosin'? Well, that's the big question. It must be the Goddess or some other bigwig, though, eh?
+Ogar
+	Am I an ogre!? How dare you!
+Ogar
+	I'm gettin' thoroughly fed up with people constantly askin' that same question!
+*: 
+	Meow.
+*: 
+	Oh dear! I wonder what all that smoke's about. Looks like it's coming from Zoomingale.
+*: 
+	Oh! That smoke that was over in the direction of Zoomingale seems to have gone now. I wonder what it was.
+~ It's a telescope. ~
+~ Look through it? ~
+*: 
+	Hic! This 'ere's Lodestar 'Arbour.
+*: 
+	The monsters out in the ocean are stronger than ever nowadays. You really take your life in your hands if you take to the waves.
+*: 
+	(sob) Give my son back! Zzzz...
+*: 
+	I hear there's the most terrible ogre living in the lighthouse.
+*: 
+	How frightening! And yet I'd still quite like to climb up to the top...
+*: 
+	I'm a sailor through and through, me. When I get out on the open waves, I have a job forcin' myself back to dry land from time to time.
+*: 
+	Her indoors don't say a word about it, though. I picked a good'un there.
+*: 
+	No no no! My husband's coming home and dinner's not even ready yet!
+	Zzzz...
+*: 
+	I'm so worried. My boy's saying he wants to be a sailor, but it's such a dangerous occupation nowadays.
+*: 
+	If only the world could be at peace again.
+*: 
+	Gurgh-phew, gurgh-phew...
+*: 
+	Yay! A treasure map!
+	Zzzz...
+*: 
+	Woo hoo! The shows they put on 'ere always get me nice and 'ot under the collar!
+*: 
+	People say that the Prince of Coburg has turned up again after being missing all those years.
+*: 
+	It's a strange old tale, though. I wonder wherever he was and whatever he can have been up to for ten whole years!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	See that dancing girl Cleo?
+	I'm her biggest fan, me!
+*: 
+	Come on, Cleo!
+	Swing over my way!
+*: 
+	The girl in the middle is a real looker!
+*: 
+	I wouldn't mind gettin' married if my wife looked like that!
+*: 
+	Rumour has it that there's this old man livin' to the west of here who researches spells and the like.
+*: 
+	Apparently, he has this one up his sleeve that makes travellin' dead easy. I don't buy it meself, mind.
+*: 
+	Oh! Hello! I hear you're on a hunt for the legendary hero.
+*: 
+	You may not believe this, but I've actually seen him in the flesh!
+*: 
+	Shall I tell you all about it? Give me a few coins towards a drink and I'm all yours!
+~ %0%a000120 agrees to buy the old man a drink for ten gold coins. ~
+*: 
+	It was ten years ago now.
+*: 
+	I met a very powerful-looking man who was searching for the Zenithian Sword.
+*: 
+	He was planning on collecting all of the Zenithian Equipment so that he could enter the underworld of Nadiria.
+*: 
+	He looked a bit shabby, but he had the bearing of a king. I'm convinced that he was the legendary hero!
+*: 
+	That's it! I've just remembered his name!
+*: 
+	It was Pankraz.
+	Yes, I'm sure of it! Pankraz!
+~ But then discovers he doesn't have enough money! ~
+*: 
+	Oh dear.
+	That's a shame.
+*: 
+	Sorry, mate. I seem to have spread a bit of a rumour about you being on a hunt for that legendary hero.
+*: 
+	'Ow romantic! I 'eard all about your quest to find ze legendary 'ero, %A0110%Xchéri%Z%B0110%Xchérie%Z.
+*: 
+	Maybe I should go on a quest of my own to find ze knight in shining armour...
+*: 
+	Huh. Coburg's back to normal again now, so I was thinking of heading over there for a spot of trade.
+*: 
+	Until I found out that the ships aren't running, that is. Of all the luck!
+*: 
+	Ah-phew...
+*: 
+	Zzzz... The Grandmaster of the Underworld is attempting to take over our world...
+*: 
+	I must find the legendary hero and inform him immediately... Zzzz...
+*: 
+	Ha ha! You've spotted it too, have you?
+*: 
+	Pretty good, eh? If you use your head, you can find the best seat in the house!
+*: 
+	Bravo! Bravo!
+*: 
+	I wonder if that's it for tonight.
+Cleo
+	Hm? How does it feel to be so popular? It's great for now, but I know it won't last.
+Cleo
+	No. This kind of work's only good while
+	you've got your youth. That's what my 
+	mummy always said.
+Cleo
+	I don't suppose...
+	You don't fancy getting married, do you?
+Cleo
+	Ha ha! If only it was that simple.
+*: 
+	Zut! I cannot bear it!
+	I am dripping in ze sweat!
+*: 
+	Aaaaah!
+Ogar
+	Ah-phew...
+*: 
+	Purrr...purrr...purrr...
+*: 
+	Ah-phew...
+	Hey! A telescope!
+	Zzzz...
+~ %0%a000120 looks at the wall. ~
+~ ⓗGis some light!ⓘ ~
+~ %0%a000120 looks at the wall. ~
+~ ⓗHere I sit, broken-hearted, ~
+~ my beloved has departedⓘ ~

@@ -1,0 +1,121 @@
+Bianca
+	It's nice that you're showin' me around lots of places, but we en't really got time for this, have we?
+Bianca
+	It's amazin' to be able to walk around together again like this.
+Bianca
+	After all those years of not even gettin' a glimpse of daylight!
+Nera
+	Even when we visit somewhere we've been before,
+	it has a different feel to it now.
+Nera
+	Maybe that's part of getting older.
+Nera
+	I'm really happy that you're taking me to lots of different places, darling.
+Nera
+	But I think perhaps we should focus on the
+	task at hand.
+%0%a001240
+	You know your way around loads of different places, don't you, Dad?
+%0%a001240
+	We travelled a lot when we were looking for you
+	and Mum.
+%0%a001240
+	I didn't think there was anywhere left I hadn't been to. It's pretty exciting!
+%0%a001250
+	Yay! I'm so happy. It's really nice that you take us to all sorts of places with you.
+%0%a001250
+	I'm not very good in dark places. Or high places.
+	Or hot places, actually.
+%0%a001250
+	But I'd still like to keep on travelling with you!
+Sancho
+	Esee, friend?
+	%0%a001240 and %a001250, they are fine children, no?
+Sancho
+	Your Uncle Sancho, he ees eso lucky.
+	First, I esee you grow eento the estrong, macho man.
+	And now, I watch your children grow too.
+Sancho
+	Uf! Ees eso beeg, the world. Now we are together weeth you, My Majesty, ees eso many places we can go.
+Tuppence
+	I must just jot down a memo about this place before I forget about it. I want to include everything in my autobiography, you see.
+Bianca
+	This tower... Of course I remember it.
+	How could I possibly forget?
+Bianca
+	How come you brought us to this tower of all places?
+Nera
+	Here... I'd rather forget this place ever existed.
+Nera
+	But I suppose it would be wrong to forget. It's difficult memories like that that spur us on to do what we're doing now.
+Nera
+	Is it alright if we leave now, darling? I think we've been here long enough.
+%0%a001240
+	I don't like the feel of this place. I think I can even smell blood on the walls. Urgh!
+%0%a001240
+	I know about this place. This is where you and Mum were turned into stone.
+%0%a001240
+	............
+%0%a001250
+	I feel a bit funny in this place.
+	I think I'm going to be sick...
+%0%a001250
+	Can we get out of here, Dad? I don't like it.
+Sancho
+	When I came here before weeth the esoldiers to thees tower, there was no one here.
+Sancho
+	That night, eef we no have thees fiesta...
+	Eef we no dreenk...
+Tuppence
+	This tower has the most frightful feel to it. It's sending shivers down my spine just standing here.
+Bianca
+	So this is the spot. This is where you were auctioned off, %a000090.
+Nera
+	This is where we were separated from each
+	other, isn't it?
+Nera
+	Just remembering it makes me well up.
+%0%a001240
+	Wow! So this is where the statue of you was sold?
+%0%a001240
+	Twenty thousand gold coins... I'd never be able to afford you with the kind of pocket money I get.
+%0%a001250
+	Dad...
+%0%a001250
+	Um... Never mind. I was just thinking you looked a bit sad, that's all.
+Sancho
+	No one ees coming here no more, no? Ees just the deserted ruin. Just the remains of what ees once here before.
+Tuppence
+	So this is where your statue was sold, is it?
+	Twenty thousand gold coins!?
+Tuppence
+	That's extortionate! Er... I mean, that's not nearly enough for a man of your calibre. I'd pay much more!
+Debora
+	You must be thrilled to be able to travel around with me again.
+Debora
+	I still feel a bit stiff after all that time as a statue. You'll have to help me out while I'm getting back into the swing of things.
+Debora
+	I know you're probably enjoying travelling about the place and reliving all our yesterdays, but it's about time we moved on.
+Debora
+	There are things we need to do.
+Debora
+	I remember this place. How could I forget?
+	Try as I might, I doubt I'll ever forget it.
+Debora
+	I'd rather not come here again. It just reminds me of what happened and gets me all worked up.
+Debora
+	This is where the two of us were separated, isn't it, %a000090?
+Debora
+	It annoys me just thinking about it. I can't believe you only fetched twenty thousand gold coins!
+Tuppence
+	There's no sniff of any pretty ladies here, I'm afraid. What a disappointment!
+Debora
+	No sniff of pretty ladies!?
+	I dare you to say that again, Tuppence!
+Tuppence
+	Er, I, er, I mean apart from you, D-Debora.
+	No sniff of pretty ladies apart from you.
+Debora
+	That's more like it. You really do need to think
+	before you speak. You're one of the royal
+	guards, remember.

@@ -1,0 +1,216 @@
+%0%a001240
+	I wonder what we're supposed to do with this orb. We've brought it here to Zenithia, but now what?
+%0%a001250
+	It's a relief to have made it here to Zenithia.
+Sancho
+	You no wonder where ees señor Agon?
+%0%a001240
+	It's a bit nerve-racking moving the castle about
+	the place. We'd never be able to afford to pay
+	for any damage.
+%0%a001250
+	I can't help feeling a bit bad about landing the castle on the ground. I mean, Zenithia's supposed to float up above the clouds, after all.
+%0%a001240
+	This is from the Yggdrasil tree?
+	A tiny little sapling like this?
+%0%a001250
+	It's so tiny and delicate!
+	Can I give it some water, Dad?
+%0%a001250
+	This tiny sapling's done so well in all that water.
+	It's a determined little thing.
+Sancho
+	They esay you can breeng esomeone who has passed away back from the dead weeth the leaf of Yggdrasil.
+Sancho
+	But thees ees just a sapling. Eet no has esuch estrong power yet, I believe.
+Tuppence
+	If we can keep this sapling going, we'll have all the Yggdrasil leaves we could possibly need! Now we can fight to the death without having to worry!
+%0%a001240
+	ⓗThe darkness spreadethⓘ... I think that means
+	we'd better hurry, Dad.
+%0%a001250
+	That poor sapling, confined to such a tiny pot!
+%0%a001250
+	Once we've defeated Nimzo, we'll have to make
+	sure it's moved to a nice big place with lots and
+	lots of sunshine!
+Sancho
+	Sí, ees just the esapling, but ees from the Great World Tree. Eef you no look after eet well, the Goddess, eshe gonna make you pay!
+%0%a001240
+	A present? We're not supposed to take presents from strangers. But I suppose it's okay if you're here, Dad.
+%0%a001240
+	I didn't know there were faeries here too. Do you think Zenithians and faeries are all good friends?
+%0%a001250
+	Is that grass Yggdrasil? Ooh...
+Sancho
+	Uf! The dew of Yggdrasil, ees a very
+	valuable theeng.
+%0%a001240
+	That's not fair! Why can we only have one lot at
+	a time? It'd be much better if we could take loads of it!
+%0%a001250
+	We'll have to make sure we use the bit of Yggdrasil dew we have carefully then, Dad.
+Sancho
+	Sí. Ees true. Eef you have too much of esometheeng like thees, you forget the true value of life.
+Tuppence
+	You'd think she could just slip us a few extra lots out of goodwill, wouldn't you? We are fighting for world peace, after all.
+%0%a001240
+	We would never have made it inside the tower without that grappling hook.
+%0%a001240
+	It's a good job we found that in his cupboard, rather than just a load of old man's pants!
+%0%a001250
+	I wonder why the old man had that grappling hook in the first place.
+%0%a001250
+	You don't think he used to be a burglar, do you?
+%0%a001240
+	Centuries? Wow! I didn't realise this place
+	was so old.
+%0%a001250
+	Have you ever met the Zenith Dragon, Dad?
+	I've only ever seen pictures of him in books.
+Sancho
+	Then we must find thees Zenith Dragon, sí?
+Tuppence
+	Are humans really all that noble? I'd say gods have the edge there, myself.
+%0%a001240
+	Zenithia is certainly a fairly tricky place to find your way around!
+%0%a001240
+	Can the castle still only fly low to the ground?
+	I want to see it float right up to the heavens!
+%0%a001250
+	It looks like things have dried out nicely. The castle has a much happier feel to it now.
+%0%a001250
+	Zenithia used to be much, much higher all those
+	years ago, didn't it? We're lucky we didn't have to climb so high.
+Sancho
+	Eso, thees ees how the eenside of Zenithia looks?
+	Ees very interesting, no? Eef we had more time, I like to look around...
+Tuppence
+	I'll be able to hold my head up high when we get back to Gotha, so I will! There's not many folk who can say they've been to Zenithia.
+%0%a001240
+	What a long ladder!
+	And it's really dark too...
+%0%a001250
+	I'm okay. As long as I don't look down, I'm okay.
+%0%a001240
+	That all sounds a bit odd.
+	What do you suppose has been going on?
+Sancho
+	Ees very estrange, sí?
+%0%a001240
+	But Dad! Dr Agon's not evil!
+	We have to do something to help him.
+Sancho
+	We can no just ignore thees, eh?
+	You must do esometheeng, My Majesty.
+%0%a001250
+	Yikes. It's scary seeing a Zenithian get angry
+	like that!
+Tuppence
+	Hmph! Well, well, well...
+	What a turn-up for the books!
+Tuppence
+	Well, %a000090, you know you can count on me to help you put this Dr Agon in his place if he isn't what he seems.
+%0%a001240
+	Dr Agon isn't a bad man, Dad!
+	I just know he isn't.
+%0%a001250
+	I feel so nervous! I wonder what would happen if we gave him the orb.
+Sancho
+	You never know what ees gonna happen, eh?
+	I no like thees...
+%0%a001240
+	Wow!
+%0%a001240
+	Th-That was a surprise!
+	I didn't see that coming, did you, Dad?
+%0%a001250
+	The Zenith Dragon... So Dr Agon was the
+	Zenith Dragon all along!
+Sancho
+	When you travel, many, many theengs, they surprise you. But thees...?
+	No, I no believe thees.
+Sancho
+	Ees, ees... Eet hits you like the armada!
+Tuppence
+	To think that Dr Agon was actually the
+	Zenith Dragon...
+Tuppence
+	Forgive me, o Great One, for my ignorance!
+%0%a001240
+	I quite liked his human form, actually.
+%0%a001240
+	But it is good to see him back to his true self.
+	I mean, he's pretty cool!
+%0%a001250
+	Is that really the Zenith Dragon in the flesh?
+	This is like living a dream.
+Sancho
+	To have the Zenith Dragon esay gracias to you, ees, ees...
+Tuppence
+	Yes, well. He was rather powerless.
+Tuppence
+	Oops! Not that I mean any offence, of course!
+Bianca
+	So the Zenith Dragon was masqueradin' as a bumblin' middle-aged man?
+Bianca
+	What I'd give to have bin able to see that!
+Nera
+	The great Zenith Dragon...
+	I'm quite overwhelmed.
+%0%a001240
+	Well, it can't be helped. There's no way any of us could've known his true identity.
+Sancho
+	But ees because he was trying to protect Zenithia, sí? Thees ees why he doubted señor Agon. Ees notheeng to be ashamed.
+Tuppence
+	I also feel great shame for my faithlessness.
+%0%a001240
+	It's a relief to know that the Zenith Dragon is back on form again. I feel much more confident about everything now.
+Sancho
+	We no need to worry about Zenithia no more, eh?
+%0%a001240
+	I suppose he's right. We still have a battle to win. We'd better get to it, then!
+%0%a001250
+	That old man can't know much about what's going on in the outside world, being holed up here all the time.
+%0%a001250
+	It's good that we passed on the news about the Zenith Dragon.
+%0%a001240
+	Dr Agon didn't exactly have to do all that much, though, did he?
+%0%a001240
+	Oh well. It's hardly worth going into that now.
+%0%a001240
+	The Zenith Dragon's really amazing. Do you think he can fly even higher than the castle?
+Bianca
+	I never imagined for one minute that I'd ever have the chance to visit Zenithia.
+Bianca
+	I can't help feelin' a bit out of sorts. Maybe it's my Zenithian blood at work.
+Nera
+	So this is the home of my ancestors...
+	But I belong with you now, in Gotha.
+Nera
+	Being here makes me feel relaxed and on edge all at the same time!
+Nera
+	I can't really explain it, but something in my heart just won't settle.
+%0%a001240
+	Zenithia is certainly a fairly tricky place to find your way around!
+%0%a001240
+	Can the castle still only fly low to the ground?
+	I want to see it float right up to the heavens!
+%0%a001250
+	It looks like things have dried out nicely. The castle has a much happier feel to it now.
+%0%a001250
+	Zenithia used to be much, much higher all those
+	years ago, didn't it? We're lucky we didn't have to climb so high.
+Sancho
+	You know, when you look again, ees a
+	very beautiful castle, sí? You feel eso much history.
+Tuppence
+	I'll certainly have a story to tell back in Gotha! Imagine people's reactions when they hear I was responsible for the Zenith Dragon's resurrection!
+Debora
+	So Zenithia really does exist after all.
+	I still can't believe a castle like this can fly,
+	even after seeing it with my own eyes.
+Debora
+	I don't know why, but being here makes me feel
+	all stirred up somehow. I can't put it into words
+	very well.

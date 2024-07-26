@@ -1,0 +1,706 @@
+Bianca
+	Blimey! It's bin a long time since we were last here. This is where them nice folk helped me when I fainted.
+Nera
+	The last time we were here, I was still pregnant with %a001240 and %a001250. It's hard to believe now when you see how they've grown.
+%0%a001240
+	This is Battenberg! I know because I've been here lots of times before with Sancho and %a001250.
+%0%a001240
+	I said to Sancho ages ago how I wished I could show you the view from here.
+%0%a001240
+	It made him cry! I'm not sure what I said that was
+	so bad.
+%0%a001250
+	I don't like being too close to the edge, Dad.
+	Can we walk where the path's safer?
+Sancho
+	I know ees a very nice view from here, but ees
+	no esafe to walk too close on the edges of the cliffs.
+Tuppence
+	Brrr. This place is freezing. Even the scorching desert is starting to seem like a soft option
+	compared to this.
+Sancho
+	The first time, I come here together weeth señor
+	Pankraz and hees young bebé.
+	The next time, Uncle Sancho, he ees all alone.
+Sancho
+	Then, the next time I pass through thees Battenberg, ees together weeth %a001240 and %a001250.
+Sancho
+	And now we are here again. The time, where does eet go? You grow up eso fast! Ees, ees... (sob)
+%0%a001240
+	I already knew that!
+	I knew this was Battenberg!
+%0%a001240
+	He's lying! There have been monsters here a while now. I saw them the last time I was here.
+%0%a001250
+	Even if there were no monsters, it's such a difficult climb up here that I doubt many people would visit.
+Tuppence
+	You could wear iron armour or even stone
+	armour as if it were light as a feather, couldn't
+	you, %a000090?
+%0%a001250
+	It's weird that that iron mask of his is so heavy.
+Bianca
+	Ha ha! We only look young for it because we were turned to stone all them years!
+%0%a001240
+	Now I've travelled so much, I've realised how things normally are. People's dads are usually older than you are.
+%0%a001250
+	I don't care whether you're young or old as long as we can be together, Dad.
+Sancho
+	You no take no notice of thees señor.
+	He no esay the nice theengs, eh?
+%0%a001240
+	Hopefully Mum loves you like she should do, Dad.
+%0%a001240
+	If not, does that mean she'll age really quickly?
+Bianca
+	That means it's your fault if I start agein', %a000090! You make sure you keep me good
+	and young, eh?
+Nera
+	I carried on loving you even during all those years I was turned to stone. That must be why I didn't age.
+%0%a001250
+	I wonder if eating lots really does make you big and strong. %0%a001240 should definitely eat more vegetables.
+%0%a001240
+	It doesn't make any difference to me knowing that something's good for me. If I don't like it, I don't like it.
+Sancho
+	When you are just a leettle bebé, friend, you no like eso many foods. You no even like the paella!
+	Uf, ees eso hard for the cooking.
+Tuppence
+	It's always the same for me. I try to overcome a dislike of something and eat it against my better judgement...
+Tuppence
+	And, lo and behold, the taste of it makes me gag! Sometimes you have to trust your intuition on these matters.
+Bianca
+	I hope the kids'll eat plenty of good food an' grow up to be big an' strong.
+Nera
+	It's a real test for a mother's cooking skills, trying to get her children to eat things they don't usually like.
+%0%a001240
+	Adults always pretend to us kids that they're never fussy about food. That's so cheeky!
+Bianca
+	We need to set an example to the kids an' not be fussy about what foods we eat. I'm directin' that comment at you, by the way, %a000090!
+Nera
+	You can be a bit fussy with your food, can't you, darling? Do you think you might eat some of the things you dislike if I cook them for you?
+%0%a001240
+	Wow! A Batten binnacle! These things were all sold out and impossible to get hold of before.
+Sancho
+	The people, they are esaying you no find these binnacles no more. The artisan who ees making them, he ees too old. We are lucky, eh?
+%0%a001250
+	Ooh! We could use a Batten binnacle to find our way when we get lost in caves and places!
+%0%a001240
+	Yeah, we'd never lose our Batten binnacle!
+	It's far too useful.
+Sancho
+	Thees old man, he looks eso tired.
+	We leave heem to esleep, no?
+Bianca
+	Whether he's quite a man or not, they could
+	hardly just get on with things and not even
+	bother lookin', eh?
+Nera
+	The only reason we can be together again today is because of everyone's efforts to find us. We mustn't forget that.
+%0%a001240
+	You were turned into a statue right after I was born, Dad. So that makes it...yep! About eight years!
+%0%a001250
+	I wasn't only looking for you, Dad. I was looking for Mum too. It was horrible not having a mum.
+Bianca
+	I'm sorry, %a001250. I promise not to leave you again, ever.
+%0%a001250
+	I wasn't only looking for you, Dad. I was looking for Mum too. It was horrible not having a mum.
+Nera
+	It was horrible for me to be without you too, %a001250. But we'll be together for always from now on.
+Tuppence
+	I wish I could point out to him that the person
+	he's talking about is right in front of him. That
+	would be fun!
+%0%a001250
+	Phew. I can relax a bit in here. It's too scary outside, what with all the big drops and everything.
+%0%a001240
+	That man gave us some juice the last time we
+	were here.
+Sancho
+	Ees no the time for esitting down for the
+	dreenks and the paella, eh? For now, we
+	have eso much to do.
+%0%a001240
+	Two generations means Mum and Grandma, right? But we'll go the rescue, won't we, Dad?
+%0%a001250
+	I was really sad being without a mum. You must've been sad growing up without your mum too, Dad.
+Sancho
+	Maybe ees esome kind of destiny.
+	You and your father, you travel the esameⓚⓛ
+Sancho
+	No! I no allow you to esuffer the esame fate
+	like your father, friend! Ees for thees we are travelling now.
+Bianca
+	It dun't look like there are any other towns or villages 'round these parts, so we should probably try and rest here.
+Nera
+	It's nice to see this place is the same as always.
+%0%a001240
+	We used to stay here a lot back when we were searching for you and Mum.
+Sancho
+	Thees place, ees the territory of Gotha.
+Sancho
+	Ees good to esee how all the people een the kingdom leeve, no?
+Tuppence
+	Who would've expected to find a lovely bunny girl out in the sticks like this? Maybe it's fate...
+%0%a001240
+	Cool! They've still got their campaign going.
+%0%a001240
+	We couldn't make use of it when we were here with Sancho because there were only three of us.
+Tuppence
+	How lovely it is to see a bunny girl here! Just the kind of refreshment you need after a long journey.
+Tuppence
+	How lovely it is to see a bunny girl here! Just the kind of refreshment you need after a long journey.
+%0%a001240
+	I don't really get it, but is she basically saying just to live life to the full with no regrets?
+%0%a001250
+	That old woman's really nice. You can tell as soon as you set eyes on her.
+Sancho
+	My life, eet has the meaning because I am looking for señora Mada, señor Pankraz, señora %a001230 and you, friend.
+%0%a001240
+	Yay! I always hoped I'd be able to get the special prize one day.
+%0%a001240
+	I always thought to myself how I just needed to find Mum or Dad and then there'd be four of us!
+%0%a001250
+	We only qualify because we found you, Dad! It'll be like a prize to %a001240 and I for all our hard work!
+Sancho
+	Ees eso esad for %a001240 and %a001250. Every time when they hear about thees offer, I esee their leettle hearts breaking.
+Sancho
+	They no esay eet, but I know ees been eso hard for them weethout their mother.
+%0%a001240
+	Let's stay here, Dad! I always wanted to have a group of four so we could get the special prize.
+%0%a001250
+	The Order of Zugzwang... It's such a scary name!
+	I don't like the sound of it one bit.
+Tuppence
+	A real beauty? Well, I wouldn't mind running into her!
+Sancho
+	But before they esee señorita Bianca or
+	señora Mada, they no know what ees
+	the real beauty, eh?
+%0%a001250
+	The Order of Zugzwang... It's such a scary name!
+	I don't like the sound of it one bit.
+Tuppence
+	Ooh! She sounds like just the woman for me!
+Sancho
+	Thees woman, eshe esounds like Nera, eh?
+	Nera, eshe ees eso pure, sí?
+	I wonder where ees eshe now...
+%0%a001250
+	The Order of Zugzwang... It's such a scary name!
+	I don't like the sound of it one bit.
+Sancho
+	You know, Sancho, he believes een these holy theengs. But the Goddess, eshe no take the money. Ees no right. I no like eet.
+Tuppence
+	A female priest. Hmm, what a pretty picture!
+Bianca
+	It en't enough for us to just put a stop to the Order of Zugzwang.
+Bianca
+	Nope. We have to see things through and go to Nadiria too.
+%0%a001240
+	The world won't come to an end. Not with us working so hard to stop that from happening.
+%0%a001250
+	I can feel it too. There's a sinister aura all around.
+%0%a001240
+	Do you think that means there are some baddies over in the west? How do we get there to sort them out?
+Sancho
+	Ees no only een the west. I feel thees aura, eet covers the whole world like the sombrero.
+%0%a001250
+	That poor little slime. It's not his fault. He just fell in with a bad crowd, that's all.
+Sancho
+	Chilli con carne! You theenk ees true?
+	The monsters, they are attacking because
+	their bosses, they geeve them these orders?
+Bianca
+	It's night already. We shouldn't push on any further. Let's stay here, eh?
+Nera
+	This place never changes!
+	Shall we stay here the night?
+Nera
+	I always feel at ease when I'm somewhere that's the same as before. Maybe it's because I look the same after all those years as a statue.
+%0%a001240
+	We stayed here a lot when we were out looking for you. I really like this place!
+Sancho
+	Thees place, ees the territory of Gotha.
+Sancho
+	Ees good to esee how all the people een the kingdom leeve, no?
+Tuppence
+	Who would've expected to find a lovely bunny girl out in the sticks like this? Maybe it's fate...
+%0%a001240
+	Yay! They've still got their offer on!
+	Let's all stay here, okay?
+%0%a001240
+	We couldn't make use of it when we were here with Sancho because there were only three of us.
+Tuppence
+	How lovely it is to see a bunny girl here! Just the kind of refreshment you need after a long journey.
+Tuppence
+	How lovely it is to see a bunny girl here! Just the kind of refreshment you need after a long journey.
+%0%a001250
+	The Order of Zugzwang... It's such a scary name!
+	I don't like the sound of it one bit.
+Sancho
+	You know, Sancho, he believes een these holy theengs. But the Goddess, eshe no take the money. Ees no right. I no like eet.
+Tuppence
+	A female priest. Hmm, what a pretty picture!
+Bianca
+	It en't enough for us to just put a stop to the Order of Zugzwang.
+Bianca
+	Nope. We have to see things through and go to Nadiria too.
+%0%a001240
+	The world won't come to an end. Not with us working so hard to stop that from happening.
+Bianca
+	Even crossing the treacherous desert is bearable with all of you by my side.
+Nera
+	I can't believe how strong the sun is!
+	And yet we made it here again.
+%0%a001240
+	Argh! I'm boiling! I don't think I've ever been this hot in my life. I want a bath!
+%0%a001250
+	Ouch! I've got sand in my eyes.
+Sancho
+	Friend...hahh...
+	You walking...hahh...eso fast...hahh...
+Sancho
+	Ees...hahh...eso hot...hahh...
+	I...hahh... I no...hahh...can breathe...
+Tuppence
+	It's not fashionable any more to have a tan. I'd appreciate it if we could move on to our next destination before I catch the sun.
+%0%a001240
+	That dog must be so hot! Or maybe it's used to the heat because it lives here.
+%0%a001250
+	That dog's really nice. He stays here all the time so the old man doesn't get lonely.
+%0%a001240
+	This place is quite small, but they have everything! It's like a secret den!
+%0%a001240
+	Hey! When we get home to Gotha, we could build a secret den for me, Dad!
+%0%a001250
+	Aaah. It's nice and cool in here. What a relief.
+%0%a001240
+	Oh yes! I think I did see a big tower somewhere along the way. I wonder how you get to it, though.
+Sancho
+	Right up to the heavens?
+	Ees very, very tall, no? Ees no the place for Sancho. I wait at the bottom and eat paella.
+%0%a001240
+	Yikes! I didn't expect to find anyone down here!
+%0%a001250
+	I got dripped on just now.
+	Well water is really cold, isn't it?
+Bianca
+	It's nice and cool down a well. I wonder what it'd be like to live here.
+Nera
+	It's hard to relax down a well. I'm too worried I might be making the drinking water all dirty.
+%0%a001240
+	It's gone a bit cold now. Can I cover myself up with your cape, Dad?
+%0%a001250
+	I'm sleepy. And cold. Huh!
+Sancho
+	The desert ees eso hot een the day.
+	But ees eso cold een the night.
+Sancho
+	We must find esomewhere to estay the night, friend. Otherwise, maybe we all catch the esneezes.
+Tuppence
+	Urgh! The cold here is making my nose run terribly.
+Bianca
+	It's a bit chilly, eh? Warm me up, %a000090!
+Bianca
+	Oops! Mustn't embarrass the kids, I s'pose.
+Nera
+	The temperature really drops off at night. Shall we turn in now, darling, and get some rest?
+Bianca
+	Aah, that's nice and warm. It's amazin' what a difference a tiny bit of heat makes.
+Nera
+	The old man's trying to get some sleep.
+	We mustn't disturb him.
+%0%a001250
+	This place is nice and warm. It's making me all sleepy.
+Sancho
+	We must estart looking for the place to estay the night esoon, no?
+Tuppence
+	A home in the desert. How delightful! I hope I have my own home one day too.
+%0%a001250
+	He's a clever one. He's on guard to make sure no monsters come along.
+%0%a001240
+	This place is nice. I'm all sleepy now.
+Sancho
+	The tower, ees very old, sí?
+	I wonder who ees building eet...
+	And how long ago...
+Bianca
+	We dun't have anythin' we need to do here, right, %a000090? We should hurry up and get to Nadiria.
+%0%a001240
+	Our castle looks so tiny from all the way up here!
+%0%a001240
+	Don't worry about me. I could handle a mountain pass like this on my own if I had to.
+%0%a001240
+	Er... Up there and down there... Um... Oh! Now I'm lost!
+%0%a001250
+	I'm not very good in high places. I'm always too scared to look down. Can I stay in the wagon, please, Dad?
+%0%a001250
+	It's at times like this that I wish I was a bird!
+Sancho
+	These mountain roads...hahh...always they are eso hard...hahh... Hahh... Hahh...
+Sancho
+	Friend...hahh...
+	Ees no time...hahh...for siesta...hahh...?
+Tuppence
+	I came here lots of times when I first
+	became a soldier.
+Tuppence
+	It's these treacherous mountains that make Gotha such a safe place to live.
+Tuppence
+	If only they were about ten times more treacherous, then we'd have nothing to worry about at all.
+%0%a001240
+	Some people like climbing mountains just for fun, though, don't they? Maybe he's one of them.
+Sancho
+	Ees no esafe for esuch an old man to be alone een the place like thees.
+%0%a001250
+	Why don't we just use Zoom? There's no need for us to come to such a scary place any more.
+Bianca
+	This really is a tricky path. It's almost impossible to keep goin' in a straight line!
+Nera
+	I feel like I've been all lop-sided for most
+	of this journey! It certainly is hard work climbing mountains.
+%0%a001240
+	Ha ha! These paths are really funny. It's impossible to stand up straight.
+%0%a001250
+	I don't like this path. I keep thinking I'm going to fall.
+Bianca
+	You're not really plannin' on doin' this climb, are you, %a000090? Dun't we need to get a move on to Nadiria?
+Nera
+	I thought we were supposed to be going
+	straight to Nadiria.
+%0%a001240
+	Mountain paths are fun! I love climbing!
+Sancho
+	The prayer ring...hahh...?
+	Ees good...hahh...sí?
+	Very...hahh...good...
+Nera
+	I can't believe Papa sent a messenger all the way out here!
+%0%a001240
+	We got a present from Grandpa Briscoletti? Cool!
+%0%a001250
+	That man was here when we came through last time. I wonder if he's been waiting for you all those years.
+Nera
+	What a wonderful thing to send to us.
+	How generous of Papa!
+%0%a001250
+	Ooh! Flowing dresses are really expensive, aren't they? Grandpa Briscoletti's really generous.
+Bianca
+	This place is givin' me the willies. How d'you suppose that skeleton ended up over there?
+Nera
+	There's a horrible cold feeling to this place.
+	I'm probably just imagining things, but it feels sort of sinister.
+%0%a001240
+	I don't remember coming here when we were
+	with Sancho.
+Bianca
+	I dun't much like the sound of that old woman's laugh. She sounds like a witch or somethin'.
+Nera
+	I probably shouldn't really say so, but I'm not all that taken with the old woman. She makes me feel a bit uneasy.
+%0%a001240
+	Heh heh heh. Be careful, Dad. Heh heh heh!
+%0%a001250
+	I'm really tired, but I definitely don't want to
+	rest here!
+Bianca
+	She wasn't a bad old stick, after all. I feel bad for doubtin' her now.
+Nera
+	I feel so guilty for doubting such a kind old lady. It looks like I still have a lot to learn when it comes to judging others.
+%0%a001240
+	Aaah, that was a good sleep. What's wrong, Dad? Your eyes are all red.
+Tuppence
+	I kept dreaming about sharpening pencils last night. Very bizarre!
+Sancho
+	We, we are eso lucky.
+	We are just the passers-by.
+	Ees eso kind to let us estay here.
+Bianca
+	That strange laugh is enough to give anyone
+	a fright!
+Nera
+	Waaah! I'm frightened! That old woman's laugh really is scary!
+%0%a001240
+	Heh heh heh!
+%0%a001240
+	What do you reckon, Dad? Am I doing a good impression of her or not? Heh heh heh!
+Tuppence
+	It's sometimes a bit tricky to tell whether people are male or female when they get old. I wonder why.
+Bianca
+	Are you sure we've really got time for this
+	kind of thing?
+Nera
+	We should save the trip down memory lane for later, %a000090. We need to focus on the job in hand.
+%0%a001250
+	I don't mind this cave because it's not too hard to walk about in.
+Sancho
+	Eh, where ees the exit?
+	Ees thees way? No, ees thees way...
+%0%a001240
+	We got really lost when we came here with Sancho.
+	It was a right pain.
+Tuppence
+	If I had to state a preference, I'd say towers are more my cup of tea than caves.
+Tuppence
+	I suppose I just like being able to see the sky.
+Bianca
+	It was a bit tough on me the last time I was here, tryin' to get through this place bein' pregnant and all.
+Nera
+	Did it make you angry that I hid the fact I was pregnant when we climbed up here all those
+	years ago?
+Nera
+	I can understand that. But I had faith that everything was going to be alright.
+	I can't explain it, but I just knew.
+Nera
+	Sorry I didn't tell you. But I had faith that everything was going to be alright.
+	I can't explain it, but I just knew.
+%0%a001240
+	Look out, Dad! There's a rock sticking out there.
+%0%a001250
+	%0%a001240 really likes places like this. He gets all excited by them for some reason.
+Tuppence
+	This cave is all rock, so it's not so bad. The ones that are more earthy are all damp and nasty.
+Tuppence
+	I always feel like I smell of mould when I've been in a cave like that. I keep checking my skin to make sure I haven't turned green!
+%0%a001240
+	I've never travelled about on my own.
+	I wonder what it's like.
+Sancho
+	Thees padre, he ees brave travelling all alone.
+	Ees because the Goddess, eshe watches over heem.
+%0%a001250
+	That man was all on his own the last time we
+	were here. It must be lonely travelling without
+	any companions.
+Bianca
+	The last time we were here, I was carryin' our babies inside me.
+Bianca
+	I probably overdid it a bit then, but they were still born healthy, thank the Goddess.
+Bianca
+	What are we doin' here, %a000090? Are you feelin' a bit nervous about goin' to Nadiria?
+%0%a001240
+	It's really good fun chucking yourself down holes in this place!
+%0%a001250
+	I don't like it here. I don't like climbing and I'm scared of all the dropping down too.
+Sancho
+	Thees cave...
+	Ees, ees eso...
+Sancho
+	No! I no let myself become esentimental now.
+	Come. We must keep moving.
+Sancho
+	The estrength of Gotha, eet comes from the nature.
+	Eet protects the castle. Ees a good location, sí?
+Tuppence
+	It has to be ladies first when we're doing all this dropping down from a great height. I mean, it's
+	only polite, after all.
+Bianca
+	You should be careful not to go droppin' things about the place, %a000090! I dun't remember droppin' that, mind.
+Nera
+	What a nice old man, finding our belongings for us like that. I'm not sure we dropped it in the first place, mind you.
+%0%a001240
+	Did you drop it, Dad? I know I didn't.
+Tuppence
+	Ooh, yes! That's mine! I dropped it!
+	...Actually, no. I'm fibbing.
+%0%a001250
+	There's a liar in our midst.
+Sancho
+	Thees man, he worries that esomeone has lost esometheeng of value. He, he ees eso kind.
+Bianca
+	%0%a000090! That flowin' dress en't ours! You mustn't tell lies like that!
+Nera
+	You really shouldn't tell fibs like that. It's wicked. You know that flowing dress doesn't really belong to us.
+%0%a001240
+	Did you drop it, Dad? I know I didn't.
+Tuppence
+	Ooh, yes! That's mine! I dropped it!
+	...Actually, no. I'm fibbing.
+%0%a001250
+	There's a liar in our midst.
+Sancho
+	Eef we drop thees dress, you no theenk we notice?
+	Are you esure eet belongs to us?
+Bianca
+	Wow! Look at all these things we've got! Just goes to show honesty's the best policy!
+Nera
+	I do hope it's alright for us to take all these things off that old man. Wasn't he generous!
+%0%a001250
+	Were we being tested?
+%0%a001240
+	So we got all that stuff because we told the truth? I get it. That means lying doesn't pay.
+Tuppence
+	Ah, I see what he was up to! Dear me. I would've fallen at the first hurdle and taken the T 'n' T ticket!
+Sancho
+	Thees man, he ees estrange maybe?
+	You theenk he ees loco?
+%0%a001240
+	One hundred years! That's amazing! He's kind of like a god of the mountains, then!
+Bianca
+	When we come through here before, it was sort of like a honeymoon, eh, %a000090?
+Bianca
+	I still feel the same way about you, but it certainly dun't feel like a honeymoon this time!
+Bianca
+	Bein' here makes it hard to imagine that places like Zenithia and Nadiria really exist.
+Nera
+	I was so scared the last time we were here in this cave. I didn't think all the leaping about could be
+	at all safe.
+Nera
+	Gotha Castle seems to be doing alright. But we should stop in from time to time to make sure.
+%0%a001240
+	We came through this cave to Battenberg when we were looking for you.
+%0%a001240
+	It's like a labyrinth in here, though. We got lost more times than I could count!
+%0%a001240
+	Yippee! I'm so happy you're here with us
+	this time, Dad!
+%0%a001250
+	I came here before with Sancho and %a001240.
+%0%a001250
+	Neither of them has any sense of direction at all,
+	so it was a real trial.
+%0%a001250
+	%0%a001240 and I came here once when we were inside Mum's tummy, didn't we?
+%0%a001250
+	I have this feeling that I remember Mum trying to protect us from being hurt each time she jumped down a hole.
+Sancho
+	I no like thees place. Every time I am coming here, I esure I get lost.
+Tuppence
+	I'm totally useless when it comes to remembering directions. Don't go relying on me, will you?
+Debora
+	I collapsed here once? No, I never did!
+	I don't remember anything of the sort.
+Debora
+	Oh, but wait a minute... Now I come to think of it, this place does bring back a strange memory of the whole world spinning around.
+Nera
+	I suppose it's because time stood still for me when I was a statue all those years. I don't feel my age at all. Oh, it's all so complicated!
+Debora
+	I'll always look young and beautiful, no matter what happens. It's got nothing to do with me having been turned to stone all those years.
+Debora
+	So if I ever start to age, that'll mean I don't love you any more?
+Debora
+	You'll just have to make sure you stay loyal to me like you vowed so that never happens.
+	Got it, %a000090?
+Debora
+	There are plenty of things I don't find very appetising to look at.
+Debora
+	Feeding them to me blindfolded is probably the best way to make me eat them. You'd enjoy that, no doubt, %a000090?
+Debora
+	I'd eat anything if someone told me it was good for my figure.
+Debora
+	I should think slimes are full of collagen, for example. Shall we try a bite of one, %a001250?
+%0%a001250
+	B-But... You're already b-beautiful enough, Mum! Please don't try eating a slime!
+Debora
+	Ha ha! You silly thing, %a001250! I was only joking. You're very gullible at times, aren't you?
+	Just like your father.
+Debora
+	It stands to reason that our people would come looking for me when I went missing. And they were probably looking for you while they were at it too.
+%0%a001250
+	I was looking for Dad too, but it was you I missed most, Mum. It was horrible not having a mum.
+Debora
+	I know, %a001250. You're a wise little girl, aren't you? A lot like me.
+Debora
+	I'll have to teach you lots of things to make up for the time we were apart.
+Debora
+	I doubt there are many other places around here to rest. Looks like we'll be staying here for the night.
+%0%a001250
+	The Order of Zugzwang... It's such a scary name!
+	I don't like the sound of it one bit.
+Tuppence
+	Ooh! If she's as beautiful as she sounds, I might be tempted to join the Order of Zugzwang myself!
+Sancho
+	Thees breengs to my mind how beautiful Debora ees. Sí, I wonder where ees eshe now...
+%0%a001250
+	I'm scared sometimes, but I'm going to try my hardest. It would be horrible if the world ended.
+	I wouldn't be able to see the people I love.
+Nera
+	You put a stop to the Order of Zugzwang, but that obviously wasn't the end of it.
+Nera
+	I'm afraid we have no choice but to go to Nadiria.
+Debora
+	You put a stop to the Order of Zugzwang, but I still say we need to teach whoever's responsible for this a lesson!
+Debora
+	We have no choice but to go to Nadiria.
+Debora
+	It's getting late now, so I think we'd better stay here for the night. I need my beauty sleep.
+%0%a001250
+	I'm scared sometimes, but I'm going to try my hardest. It would be horrible if the world ended.
+	I wouldn't be able to see the people I love.
+Nera
+	You put a stop to the Order of Zugzwang, but that obviously wasn't the end of it.
+Nera
+	I'm afraid we have no choice but to go to Nadiria.
+Debora
+	You put a stop to the Order of Zugzwang, but I still say we need to teach whoever's responsible for this a lesson!
+Debora
+	We have no choice but to go to Nadiria.
+Debora
+	I'm absolutely parched! Get me some water, %a000090. And I mean you, so don't go asking the kids to do it for you.
+Debora
+	It's funny, you might expect a well in a desert to be full of hot water, but it's not!
+Debora
+	One minute it's hot, the next minute it's cold...
+	Oh yes, it's always a pleasure to be in the desert.
+Debora
+	I'm freezing. Warm me up, will you, %a000090? Just don't go stealing any of my body heat, though, otherwise you'll be in trouble.
+Debora
+	You come over here too, %a001240. And you, %a001250. We'll be able to keep warm if we all stick together.
+%0%a001240 & %0%a001250
+	Cosy!
+	Yes, it's much warmer like this.
+Debora
+	It's quite comfortable here, I suppose. We can't stay here, though, so you'd better hurry up and find us an inn for the night.
+Debora
+	Ouch! What are you looking at?
+	Don't just stand there! Give me a hand!
+Debora
+	We'll be...in Nad...iria before...long.
+	Haah... I'm ab...solutely...ex...hausted.
+Debora
+	Can you believe Papa, sending a messenger all this way? He really is besotted with his little girl.
+Debora
+	This is for %a001250 and I to share. You don't mind, do you? It's a present from Papa, after all.
+	And I don't think it would suit you!
+Nera
+	Um, darling, sorry to interfere, but this mountain path won't lead us to Nadiria. I really think we need to be on our way.
+Debora
+	I always feel exhausted just looking at this path. What are we doing here, anyway?
+Debora
+	There's nothing for us in this nasty place.
+	Hurry up and get moving!
+Debora
+	Did you want to talk to that old woman for some reason, %a000090? You're not looking for a mother substitute, I hope!
+Debora
+	I've had enough, I really have.
+	We're leaving. Now.
+Debora
+	I couldn't laugh in such a creepy way if I tried.
+Debora
+	I hope I'm wrong about this, %a000090, but I can't help feeling like you're trying to wear me out on purpose.
+Debora
+	The last time we came by here, I was carrying %a001240 and %a001250.
+Debora
+	It's lucky that I didn't fall or anything when I was climbing up and down these mountains.
+Nera
+	Being back in this cave really takes me back.
+	The first time we passed through here, I was so excited that we were travelling around together.
+Nera
+	Darling, I feel just as sentimental about this place as you do. It's time we made haste now, though.
+Debora
+	What are we doing here? We don't need to be here, right? So let's hurry up and head to Nadiria.
+Debora
+	I know Nadiria isn't going to be a bundle of laughs, but I'd rather be there than stuck in this cave.
+	I'm going!
+Debora
+	I didn't notice you dropping anything.
+	You're always so clumsy!
+Debora
+	I know I shouldn't doubt you, but I do hope you weren't lying just then.
+Debora
+	I knew you were honest. You were true to your feelings and chose to marry me, after all.
+	Do you think he really did find all those things?
+Debora
+	This place is just the same as it was all those years ago. Much like my beauty. It hasn't faded one bit in all this time.
+Debora
+	You couldn't give a shout or something to warn me when you're about to jump down a hole, could you?
+	I need to take my shoes off or I might break a heel.

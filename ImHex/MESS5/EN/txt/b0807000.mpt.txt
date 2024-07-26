@@ -1,0 +1,74 @@
+~ %0%a000010 takes %a020100 in %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z hands and casts Peep. ~
+~ %0%a020100 %M0100%Xappear%Yappears%Z to be a weapon of some sort. ~
+~ %0%a020100 %M0100%Xappear%Yappears%Z to be some kind of protective garb. ~
+~ %0%a020100 %M0100%Xappear%Yappears%Z to be a shield of some sort. ~
+~ %0%a020100 %M0100%Xappear%Yappears%Z to be something for donning on the head. ~
+~ %0%a020100 %M0100%Xappear%Yappears%Z to be an accessory of some sort. ~
+~ %0%a020100 %M0100%Xlook like they%Ylooks like it%Z might be some sort of useful tool. ~
+~ %0%a020100 %M0100%Xappear%Yappears%Z to be a knick-knack of some sort. ~
+~ It looks like part of the Zenithian Equipment, said to be worn by the legendary hero. ~
+~ It looks like equipping oneself with %M0100%Xthese%Ythis%Z might have some special effects. ~
+~ It seems like taking a slash at the enemy with this would send them to sleep. ~
+~ It seems like using this would enable a lightning-fast double hit in a single strike. ~
+~ It looks like this would send the enemy into a state of confusion. ~
+~ It seems like this would inflict extra damage on enemies that can't stand the cold. ~
+~ This would seem to be a good weapon for use against zombies. ~
+~ This would seem to be a good weapon for taking on dragons. ~
+~ This looks like a deadly weapon that can inflict damage on all enemies at once. ~
+~ Attacking the enemy with this weapon would likely give rise to all manner of different effects. ~
+~ It seems like this would relieve paralysis and petrification. ~
+~ It seems like this would inflict extra damage on enemies that can't cope with heat. ~
+~ Attacking with this would likely poison the enemy, it seems. ~
+~ Attacking with this would likely paralyse the enemy, it seems. ~
+~ A single jab with this in the right spot would likely finish the enemy off in one fell swoop. ~
+~ It seems that attacking with this could inflict damage on a whole group of enemies at once. ~
+~ Having the likes of this on would seem to reduce damage taken from magic attacks. ~
+~ It seems like this would offer some protection against fire-based attacks. ~
+~ It seems like this would offer some protection against ice-based attacks. ~
+~ This marvel seems to restore health with every move its wearer makes! ~
+~ It seems like this would offer some protection against both fire- and ice-based attacks. ~
+~ It seems like this would offer some protection against magic as well as fire- and ice-based attacks. ~
+~ It seems this piece of equipment makes it hard for enemies to use spells that cause sleep, confusion, hallucinations or death. ~
+~ It looks like this could transport you back to the safety of the last place you visited. ~
+~ It seems that this increases wisdom when worn. ~
+~ This seems to make it difficult for enemies to cast spells that seal away the wearer's magic or induce sleep, confusion or death. ~
+~ It seems to be some sort of medicine. ~
+~ It appears to ward off monsters of inferior strength. ~
+~ It seems to have the power to resurrect a fallen party member! ~
+~ This appears to restore all party members' health! ~
+~ This appears to be able to cure paralysis. ~
+~ Using this seems to restore MP. ~
+~ It would seem that this contains a scent that's irresistible to monsters. ~
+~ Eating one of these seems to boost %a000230. ~
+~ Eating one of these seems to increase your maximum HP. ~
+~ Eating one of these seems to increase your maximum MP. ~
+~ Using this seems to plunge the surroundings into darkness. ~
+~ This food seems to be a favourite among monsters. ~
+~ Just having one of these on your person seems to have miraculous results. ~
+~ This seems to bring clarity to the confused. ~
+~ It would seem as if you can fly on this over plains and water. ~
+~ This would no doubt light up places in the dark. ~
+~ It bears the emblem of the House of Gotha. ~
+~ A key like this most probably opens many a door. ~
+~ This is an enchanted map that shows the locations of places its bearer has visited. ~
+~ It appears to be a letter of a personal nature. ~
+~ There's no reason why a crown like this couldn't be worn. ~
+~ Carrying this around seems to bring good luck. ~
+~ Carrying this into battle seems to restore its bearer's health with each and every move! ~
+~ It looks like this would make a fine shield. ~
+~ It should get all those knick-knacks bright and shiny. ~
+~ It's a very valuable pass that entitles you to special treatment at T 'n' T venues. ~
+~ It's every adventurer's dream: a discount on all purchases! ~
+~ It's a strange tome that records all the monsters you have ever encountered in battle. ~
+~ Who knows what powers %M0100%Xthese possess%Ythis possesses%Z? ~
+~ It seems that %M0100%Xthey%Yit%Z may have some special effect if used as an item during battle. ~
+~ It doesn't seem as if %M0100%Xthey%Yit%Z would do anything special if used as an item during battle. ~
+~ It seems that once %M0100%Xthey've been used, they're%Yit's been used, it's%Z gone for good. ~
+~ It seems that %M0100%Xthey%Yit%Z can be used over and over again. ~
+~ %0%a000220 can be equipped with %M0100%Xthem%Yit%Z. ~
+~ There doesn't appear to be a single member of the party who can be equipped with %M0100%Xthem%Yit%Z, though! ~
+~ It looks like everyone in the party can be equipped with %M0100%Xthem%Yit%Z. ~
+~ %M0100%XThey%YIt%Z'd probably fetch %a000750 gold coin%H0750%X%Ys%Z if you sold %M0100%Xthem%Yit%Z in a shop. ~
+~ You probably wouldn't find any shopkeeper who would buy %M0100%Xthem%Yit%Z, though. ~
+~ %0%a000180 doesn't appear to be carrying any suitable items. ~
+~ %0%a020100 is a key for unlocking doors. ~

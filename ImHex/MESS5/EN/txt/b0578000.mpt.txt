@@ -1,0 +1,938 @@
+Bianca
+	This place is dull as ditchwater!
+	Not like good old Stockenbarrel.
+Nera
+	Oh dear. What a terrible state the fields are in here. I wonder what happened.
+%0%a001240
+	The people here don't look very well, do they?
+	Do you think they're hungry?
+%0%a001240
+	You know everything, don't you, Dad? I'd never have expected to find a village all the way out here.
+%0%a001250
+	Isn't the smell of the country great?
+%0%a001250
+	A lot of the fields in this village look like they've been trampled over or something. I wonder if they're all like it.
+Sancho
+	I like thees village. Ees esmall and esimple.
+	Your Uncle Sancho, he likes esoiling een the plantⓚⓛ
+	Eh? No, no. I mean, planting een the esoil.
+Sancho
+	Ees estrange, no, the atmosphere here?
+	We must ask esomeone what ees happening.
+Tuppence
+	Pooey! This place is... Well, it really is the countryside, isn't it?
+Tuppence
+	Is this place on the map? Do they even make maps that are so...irrelevant?
+Bianca
+	Die of starvation!?
+	Things are worse here than they look.
+Nera
+	It's hard enough work as it is trying to grow crops, without having to put up with them being ransacked like that.
+Nera
+	I used to grow vegetables when I was staying at the abbey, so I can understand just how soul-destroying it must be.
+%0%a001240
+	There are some really bad apples in the world, aren't there? It's the vegetables I feel most sorry for.
+Sancho
+	Argh! Ees a terrible theeng! You never do esometheeng wrong een the esoil! Ees esacred!
+Bianca
+	The hills? I doubt he'd be able to find any food
+	up there.
+Nera
+	It sounds like he's on the brink of giving up. He's probably thinking of leaving so that the other villagers can have his food.
+%0%a001240
+	The monsters are causing problems even in a place like this. Well, not for much longer! Help is here!
+%0%a001250
+	Into the 'ills? Oh, she means into the hills, does she?
+	Is there food in the hills then?
+	There are mushrooms, I suppose...
+Sancho
+	............
+	Ees... Ees eso esad!
+Bianca
+	Sounds like Granny's givin' up her share of food so the kid can eat, eh?
+Nera
+	I'm sure Papa would send some food parcels if I asked him nicely. But I suppose that's not a
+	long-term solution.
+Nera
+	No. The only way to solve their problems here is to see off that monster once and for all.
+%0%a001240
+	But if his granny's ill, she should be eating to keep her strength up.
+%0%a001240
+	It's because the fields have been ransacked, isn't it? That's why she's not eating. We've got to help these people, Dad!
+Tuppence
+	This place really is badly off, isn't it?
+	It's rather hard to be here actually.
+Bianca
+	This is a sorry old place. I doubt there'd be many other folk who'd stay here.
+Nera
+	I suppose we can't possibly expect a meal here.
+%0%a001240
+	This inn's in a terrible state. Oops! I'm not supposed to say things like that, am I?
+Sancho
+	Eef we estay the night here, ees good for the village, no? Ees gonna breeng een a few garbanzos.
+Bianca
+	That woman's so thin and pale. I had no idea there were folk about havin' such a hard time of it.
+Nera
+	Even the young women here have the most
+	incredible accents.
+%0%a001240
+	Who's Pa? Does she mean Dad, Dad?
+	I mean, does she mean Dad, Pa?
+	He he he!
+Bianca
+	I wonder if that means the monster is even
+	scarier-lookin' than the scarecrow.
+Nera
+	Fancy being famous for such scary-looking scarecrows! Still, I suppose you have to do what you can to protect your crops.
+%0%a001240
+	Terrorcrow? Does he mean the thing outside?
+	Come on, Dad, let's go and look at it again.
+Sancho
+	Anda! We no have the espare food.
+Sancho
+	Eef I knew we were coming here to esuch a place, I would prepare mucha, mucha paella.
+%0%a001240
+	Isn't it cool? I think it's brilliant!
+%0%a001250
+	Hello, scarecrow. Are you doing your job properly?
+	You're making sure no bad monsters come near, aren't you? Yes. Good scarecrow!
+Bianca
+	Blimey! He's a bit of a rough one, eh?
+Nera
+	Wh-What on...!? How rude!
+%0%a001240
+	Ow! He pushed me into the wall! Are you okay, Dad?
+%0%a001250
+	That man's rotten! Rotten like a bad apple!
+	Rotten and stinky!
+Sancho
+	Esometheeng ees happening here.
+	I wonder what ees the matter...
+Tuppence
+	Of all the nerve! Does he know who he's talking to!?
+	This is %a000090! King %a000090!
+Bianca
+	I s'pose we can't really ignore a cry for help, eh? We'd better see what we can do.
+Nera
+	There's really no need for a reward.
+	Is there, darling?
+%0%a001240
+	Kerumping a monster? I like the sound of that!
+Sancho
+	They, they offer us one thousand, five hundred gold when they are eso poor?
+	Ees, ees eso moving! (sob)
+Bianca
+	We always seem to be goin' off and tacklin' some monster or other, eh?
+Nera
+	I seem to remember seeing a cave to the
+	west of here.
+%0%a001240
+	I haven't got a clue what that man just said!
+%0%a001250
+	The west? That's where the sun goes down, isn't it? See? I'm clever!
+Sancho
+	These people, they are een trouble. Ees all for one and one for all, no? Come! We go west.
+Tuppence
+	To be honest, I'd feel a bit more motivated if I thought this monster's lair at least contained treasure or a fair maiden or something.
+Bianca
+	It en't attackin' people? Sounds just like one of them monsters you have trailin' about after you, eh?
+Nera
+	I used to think that monsters only like to eat humans, but some of them are vegetarians, you know.
+%0%a001240
+	It sounds like the people here don't go out much, doesn't it?
+%0%a001240
+	If they just went for a walk outside their village for a while, they'd soon realise there are loads of amazing monsters about.
+%0%a001250
+	If it turns out to be a good monster, you won't hurt it, will you, Dad?
+Bianca
+	Did you see that, %a000090? I can't help feelin' like I've seen that beast before.
+Nera
+	Ooh! Do you think that was the monster? It looked like it was tearing up the fields.
+%0%a001240
+	What was that!?
+%0%a001240
+	Something just leapt out of the fields and ran off!
+	Did you see it? That must've been the monster!
+%0%a001250
+	............! Phew! That gave me a fright!
+Sancho
+	Qué!? A monster...een a town!?
+Sancho
+	Are you okay, friend? You are no hurt?
+	Thees monster, he ees no gonna get away
+	weeth thees!
+Tuppence
+	Looks like it was after food. It's eaten all the vegetables in that patch, look. What a mess!
+Bianca
+	This place gives me the willies, you know.
+	It's just a little bit too quiet.
+Nera
+	The abbey used to be quiet like this after lights out.
+%0%a001240
+	It's just like being in a forest, isn't it?
+	It's pitch black, and there's no one around.
+%0%a001250
+	Wow! Look at the stars!
+	They're so beautiful again tonight.
+Sancho
+	The esun, ees esinking early these days.
+Tuppence
+	The end of another day at last. I thought that one was never going to be over! I'm exhausted!
+Bianca
+	They're pretty cautious for country folk, havin' their doors locked like that.
+Nera
+	I suppose it's fair enough that their doors are
+	locked at this sort of time. Farmers do get up
+	early, after all.
+%0%a001240
+	It's locked. Why don't we come back in the
+	morning, Dad?
+Sancho
+	Ees late now to pay esomeone a visit, friend.
+	We come back tomorrow, sí?
+Bianca
+	Shall we stay here tonight? It seems nice and quiet.
+Nera
+	It feels a bit desolate, but I suppose it can't hurt to stay over in a place like this every once in a while.
+%0%a001240
+	Are we sleeping here tonight?
+	I, I suppose it'll be alright.
+%0%a001250
+	I don't care where I sleep now.
+	I just want a bed!
+Tuppence
+	Here!? Are you serious? Oh, well. No chance of a meal tonight then, I suppose.
+Bianca
+	I feel like everyone's lookin' at us. I think they're a bit scared of us, you know.
+Bianca
+	I think they're all scared because we have %a001210 with us and he's the one who tore up their fields.
+Bianca
+	But he didn't mean to cause any harm, eh? Hopefully they'll come 'round and forgive him.
+Nera
+	I feel like the villagers are avoiding us.
+Nera
+	I suppose they're feeling a bit bitter because of %a001210 destroying their crops.
+Nera
+	Poor %a001210. When he lost you, he couldn't go back to the wild because he was too tame. He couldn't attack people.
+Nera
+	So that's why he ended up destroying their crops instead. He had to find food somehow.
+%0%a001240
+	The villagers are giving us evil stares.
+	I, I don't like it.
+%0%a001240
+	They're not being very welcoming, are they? I mean, we came to tell them their fields are going to be okay.
+%0%a001250
+	I want to go back to the wagon, Dad.
+Sancho
+	I no like the atmosphere here.
+	I, I... What eshould we do, friend?
+Bianca
+	There's no point tryin' to tell him %a001210 wouldn't attack people. He's in too much of a tizz to listen properly.
+Nera
+	I can't understand why people are so afraid of %a001210. He's so quiet and sweet.
+%0%a001240
+	But %a001210 would never hurt a human!
+%0%a001240
+	Although, he did make a bit of mess of their fields, didn't he?
+%0%a001250
+	He's really sorry. He didn't mean it.
+	The people here should forgive him.
+Sancho
+	Ees no esurprising the people here, they feel
+	like thees.
+Sancho
+	Ees, ees eso esad.
+Tuppence
+	I'd say the villagers would listen to any of our demands at this moment, wouldn't you?
+Bianca
+	So much for leavin' %a001210 behind to stop people freakin' out. Looks like they're just as scared of us as they are of him!
+Nera
+	He's talking about %a001210 as if he's some kind of monster.
+%0%a001240
+	But %a001210 would never hurt a human!
+%0%a001240
+	Although, he did make a bit of mess of their fields, didn't he?
+%0%a001250
+	He's really sorry. He didn't mean it.
+	The people here should forgive him.
+Sancho
+	Ees no esurprising the people here, they feel
+	like thees.
+Sancho
+	Ees, ees eso esad.
+Tuppence
+	I'd say the villagers would listen to any of our demands at this moment, wouldn't you?
+Bianca
+	That old woman seems relatively calm.
+	Maybe she en't scared.
+Nera
+	The people here in this village seem to think of %a001210 as some kind of monster.
+%0%a001240
+	What, shouldn't we have let %a001210 come with us? No, that wouldn't have been right, would it?
+Bianca
+	At least kids en't phased by it all, eh?
+Nera
+	Looks like you're something of a hero in that little boy's eyes, %a000090. He he he!
+%0%a001240
+	The little boy isn't scared of us, but the adults are!
+%0%a001250
+	Tamerer? What does he mean?
+Bianca
+	Maybe it'd be better if we steered clear of this place from now on, eh?
+Nera
+	Oh dear. We don't seem all that welcome here. I think we should probably make ourselves scarce.
+%0%a001240
+	I don't want to stay here any more, Dad.
+Bianca
+	What a horrible man! It looks like he thinks you got %a001210 to terrorise the village from square one.
+Nera
+	How rude of him to think something like that of you! What a nasty character!
+%0%a001240
+	But we went all that way...
+	Right down inside the cave...
+%0%a001240
+	And we...
+%0%a001240
+	............
+%0%a001250
+	Unbelievable! How could he be so ungrateful?
+Sancho
+	Maybe one day, thees señor and hees amigos, they gonna understand.
+Sancho
+	But now they are just angry because their fields, they are een a mess. Ees better we go now.
+Tuppence
+	Enough! No one speaks to King %a000090 like that! I'd like to cut him down to size, Your Majesty!
+Bianca
+	I feel really down in the dumps now.
+Nera
+	It looks like it'll be an uphill struggle trying to get these people to understand the situation.
+%0%a001240
+	Is it really so weird to have a monster with you?
+%0%a001250
+	He's not a beast. He's %a001210!
+Tuppence
+	Typical! The people here hardly ever take a step outside, and yet they've seen us walking around with %a001210!
+Bianca
+	We didn't even say we wanted the
+	stupid scarecrow!
+Nera
+	The people here really are petrified of us,
+	aren't they?
+%0%a001240
+	Huh? We can have the terrorcrow? Really?
+	Wahoo!
+%0%a001240
+	Well, I wish I could get excited about it, but with everyone being so mean, it's kind of taken the enjoyment out of it.
+%0%a001250
+	No thank you! We don't want anything from you!
+Bianca
+	Yeah, it's a scary-lookin' scarecrow, alright.
+	I'd rather not touch it unless I have to.
+Nera
+	That scarecrow's not so scary once you get used to it. At least it has a bit of character.
+%0%a001240
+	Let's get going, Dad.
+Sancho
+	Hmm... You know, whenever I look at thees escarecrow now, I gonna remember thees day
+	and everytheeng that happened here.
+Bianca
+	This has turned out a bit nasty, eh? Still, it's nice to have bin reunited with %a001210.
+Nera
+	He's in shock because he feels like you must have betrayed him. Hopefully he'll come round and
+	trust us sooner or later, though.
+%0%a001240
+	Argh! This is really starting to annoy me, Dad!
+Sancho
+	Ees no good for us to estay here now.
+	The people, they can no trust us.
+Bianca
+	I'd rather just give back the money the Bailiff give us, wouldn't you?
+Nera
+	There's no talking to these people. If only they'd give us the chance to explain.
+%0%a001240
+	That's not the end of it! He doesn't understand!
+%0%a001250
+	He's... (sniff) He's so mean...
+Sancho
+	Ees because they have no money, and
+	they leeve esuch a hard life. They can no
+	theenk estraight.
+Sancho
+	Ees notheeng we can do. Ees the nature of humans.
+Tuppence
+	We sort out their monster problem, and let them hurl abuse at us, and they only give us fifteen hundred gold coins?
+Tuppence
+	It's exploitation, that's what it is! Total exploitation!
+Bianca
+	It's nice to finally hear a few words of thanks, eh?
+Bianca
+	I do feel a bit guilty, mind. Our %a001210 almost had this place on the brink of starvation, after all.
+Nera
+	That's nice. At least one person here in Hay feels grateful to us for what we did.
+Nera
+	I feel much better now. Let's just wipe the slate clean and get on with our journey.
+%0%a001240
+	At last! Finally someone who appreciates us.
+%0%a001240
+	I was starting to get really annoyed.
+%0%a001250
+	Did you hear that, Dad? She said thanks.
+%0%a001250
+	It's nice to finally hear it, isn't it?
+Sancho
+	Thees señora, eshe ees eso kind, no?
+Tuppence
+	That's all very well, but I was at least expecting a feast or something in our honour! No, that cuts no
+	ice with me, I'm afraid.
+Bianca
+	Comin' here always reminds me of home somehow.
+Bianca
+	D'you think this place has somethin' to do with the underworld, %a000090? I en't too sure meself.
+Nera
+	It seems impossible to believe there's any such thing as the Grandmaster of the Underworld when you're in a place as peaceful as this.
+Nera
+	The bubbling of the water in the stream's such a comforting sound, isn't it?
+%0%a001240
+	This place is really tiny, but it's quite pretty,
+	I suppose.
+%0%a001250
+	Look in the pond... Isn't it pretty?
+	Heh heh heh!
+Sancho
+	Ees esometheeng for us to do here, friend?
+Sancho
+	Look at these fields! The greens, they are growing eso fast!
+Tuppence
+	Let's head off somewhere else, eh, %a000090?
+	I'm not really a country sort of chap.
+Tuppence
+	There's absolutely nothing here, is there?
+Bianca
+	You din't really want to come here, did you, %a000090?
+Nera
+	You didn't really intend to come here, did you?
+	I mean... Sorry, darling. It was just...just a feeling.
+%0%a001240
+	What's wrong, Dad? You look funny.
+%0%a001240
+	That old lady seems really well now.
+	She's not bent over double or anything.
+Sancho
+	All the people, they have esmiles on their
+	faces, eh? Ees a good atmosphere here
+	now, no?
+%0%a001240
+	Huh? Inhabitabents? What does that mean?
+Tuppence
+	Just what I was about to ask!
+	What are we doing here, %a000090?
+Bianca
+	Blimmin' charmin'! I know all about livin' in the
+	country. I reckon I could teach him a thing or two about ploughin'!
+Nera
+	We used to work the fields at the abbey when I was staying there. I know how to handle a hoe and a rake, you know.
+%0%a001240
+	Codswallop? I can wallop fish just as well as he can, I'll bet.
+%0%a001250
+	There are mice in the fields, though. You might hurt them with a hoe or something if you're not careful.
+Sancho
+	Ees no eso easy to use a hoe, you know.
+	Ees hard work.
+Bianca
+	Come on, %a000090!
+	It wouldn't hurt to lend the bloke a hand.
+Nera
+	Well! We city folk have had our fair share of hardships, you know! %0%a000090 has been through more than you could possibly imagine.
+%0%a001250
+	ⓙE din't say ⓗdin'tⓘ, did 'e?
+Sancho
+	You know, the greens you grow yourself, they always taste the best.
+Sancho
+	You must try to grow esometheeng one day, friend.
+Tuppence
+	He's got that right! I'm a city fellow through and through, and the thought of working the fields doesn't exactly thrill me!
+Bianca
+	It's a simple little inn, eh? Still, it's nice to stay at places like this every once in a while.
+Nera
+	It's a bit run-down, but it has a lovely homely feel to it, doesn't it?
+%0%a001240
+	Mmm... Can you smell that?
+	I bet dinner here tastes delicious!
+Sancho
+	Sí, sí. Thees ees my kind of inn.
+	You can relax when ees no eso formal, no?
+Bianca
+	If you marry someone for love, then it dun't matter where you live. That's what I think, anyhow.
+Nera
+	I'd never complain as long as I was with the people
+	I love. That's all that matters to me.
+%0%a001240
+	But you can climb trees here, splash about in the pond... What's not to like?
+Tuppence
+	Oh yes, I know just how the poor girl feels.
+	This place takes too much of a toll on us urbanites.
+Bianca
+	We didn't even say we wanted the
+	stupid scarecrow!
+Nera
+	He really is keen to get rid of it, isn't he?
+	Well? Shall we take it or not?
+	
+%0%a001240
+	Huh? We can have the terrorcrow? Really?
+	Wahoo!
+Bianca
+	You look a bit perplexed, %a000090.
+	Not that I blame you, mind.
+%0%a001240
+	We're always welcome, he said! Great!
+Tuppence
+	I may be welcome, but do I wish to be here? Hmm...
+Bianca
+	Yeah, it's a scary-lookin' scarecrow, alright.
+	I'd rather not touch it unless I have to.
+Nera
+	That scarecrow's not so scary once you get used to it. At least it has a bit of character.
+%0%a001240
+	This terrorcrow is the best! I love it!
+Sancho
+	To make esuch a frightening escarecrow, they must have a very escary monster here.
+Bianca
+	Well, it's good that he's finally realised they were all in the wrong.
+Nera
+	Well at least he's finally realised you didn't do
+	them wrong.
+%0%a001240
+	Dad, it wasn't...was it?
+%0%a001240
+	Wow! You're amazing, Dad. The best!
+%0%a001250
+	You got rid of the monster for them, Dad?
+%0%a001250
+	And it was a really hard time for you? Well, at least he understands you now.
+Sancho
+	Time ees the healer of all theengs, you know.
+	Sí, sí. Ees good.
+Tuppence
+	I, I don't really see what he's driving at, personally. Still, never mind! Nothing to do with me, is it?
+%0%a001250
+	Most monsters aren't bad at all, you know.
+	They're nearly all good.
+Sancho
+	Thees monster attacking the village, eet was %a001210? Sí, thees makes esense now.
+Bianca
+	It's so quiet here. I s'pose all little villages are like this of a night.
+Nera
+	All you can hear is the murmuring of the stream and the sound of the crickets.
+%0%a001240
+	It looks like everyone's asleep. Aaaaahh...
+	I'm sleepy too, now.
+%0%a001250
+	Wow! Look at the stars!
+	They're so beautiful again tonight.
+Sancho
+	These quiet nights, they are okay
+	esometimes, no?
+Tuppence
+	Just walking around like this is thoroughly dull.
+	Why don't we tell ghost stories or something?
+Tuppence
+	Or how about I regale you with the amazing
+	tales of Tuppence's bravery? Hm? Oh, you're
+	not interested?
+Bianca
+	They're pretty cautious for country folk, havin' their doors locked like that.
+Nera
+	I suppose it's fair enough that their doors are
+	locked at this sort of time. Farmers do get up
+	early, after all.
+%0%a001240
+	It's locked. Why don't we come back in the
+	morning, Dad?
+Sancho
+	Ees late now to pay esomeone a visit, friend.
+	We come back tomorrow, sí?
+Nera
+	Oh dear, the poor man!
+Nera
+	I, I hope he gets home alright. Maybe he's forgotten his way after such a long time.
+%0%a001240
+	Ten years!? No way!
+%0%a001250
+	Hm? Was someone just talking to us?
+	I fell asleep.
+Tuppence
+	Lodestar Harbour's miles off!
+Tuppence
+	He's a pretty useless manservant, if you ask me.
+	I'd let him go.
+Bianca
+	Shall we stay here tonight? I reckon we'd get a pretty quiet night's sleep.
+Nera
+	It feels a bit desolate, but I suppose it can't hurt to stay over in a place like this every once in a while.
+%0%a001240
+	Mmm... Can you smell that?
+	I bet dinner here tastes delicious!
+Sancho
+	Sí, sí. Thees ees my kind of inn.
+	You can relax when ees no eso formal, no?
+Tuppence
+	What!? We're spending the night here?
+	Oh no, the beds look as hard as rocks.
+Bianca
+	Maybe the monster who's bin attackin' Hay hangs out in this cave.
+Nera
+	The monster will probably be quite aggressive because we've strayed into its lair.
+Nera
+	Do take care, darling.
+%0%a001240
+	The villagers are all working really hard to grow stuff. We should see this monster off for them.
+%0%a001250
+	I wonder what kind of monster it is.
+	It's probably not a bad one.
+Sancho
+	You, you are esuch a fine man, friend!
+	You accept thees cry for help, even
+	from estrangers.
+Sancho
+	Sí, from esuch a log, esuch cheeps. You are just like your papá.
+Tuppence
+	Yes, I'll need a bit of monster-bashing to flesh out the Legend of Tuppence. Right, let's get on with it!
+Bianca
+	All them bones scattered about the place are a bit of a worry, eh?
+Nera
+	It's rather disconcerting seeing all the bones strewn about in here, isn't it?
+%0%a001240
+	There are lots of human bones in here, aren't there? Do you... Do you think the monster ate them?
+Bianca
+	The paths are a bit dodgy in here, eh?
+	Mind where you're walkin', won't you?
+Bianca
+	Have you still got that ribbon I give you back when we were kids?
+Bianca
+	That's good. It's nice to know you've kept it
+	all these years.
+Bianca
+	But you've got it right there! Stop teasin' me, you cheeky monkey!
+Nera
+	Walking along this path with all these holes everywhere is starting to make me feel rather faint.
+Nera
+	I'm really worried about falling, but I'll do my best to keep up with you.
+%0%a001240
+	Have you noticed the golden hairs on the ground here and there? They're probably from the monster.
+%0%a001250
+	You know that ribbon you always carry around, Dad? Is it really important or something?
+%0%a001250
+	I can lead us back out of here. I've been dropping sweet wrappers to mark the trail!
+%0%a001250
+	Huh? Uh-oh! It's too dark to see them!
+	I didn't think of that.
+Sancho
+	Sí. Thees ees the right way. Esometimes I esee the marks of the monster's feet, or esome of eets hair on the ground.
+Tuppence
+	Once we've slain this beast, %a000090, what say we make a cloak or something from its coat?
+Tuppence
+	I bet it'd look absolutely sensational on you.
+Bianca
+	Oops! I hope that soldier en't fallen on his head.
+Nera
+	Oh dear! I hope that soldier's alright.
+%0%a001240
+	Uh-oh! Did we do that? What are we going to do, Dad? He'll be alright, won't he?
+%0%a001250
+	We're sorry! We didn't mean it!
+	Don't come back as a ghost and haunt us!
+Sancho
+	Ees too much, thees esurprise, no?
+	Thees señor, he, he escare me!
+Tuppence
+	It's, it's alright! Whatever's happened to him, I won't tell a soul! You can count on me!
+Bianca
+	Looks like soldiers are made of pretty stern stuff.
+	I didn't expect him to faint, mind.
+Nera
+	I'm glad he's alright. I wonder where this almighty beast is lurking, though...
+%0%a001240
+	No monster could be a match for my Dad, no matter how strong. Right, Dad?
+Sancho
+	Ees no a good idea to come here alone.
+	Thees señor, maybe he ees a leettle loco, no?
+Tuppence
+	Look at his neck. It looks a bit twisted, doesn't it?
+	He must have done that when he fell.
+Bianca
+	You dun't think that giant sabrecat could've bin...
+Bianca
+	Nah. I s'pose the chances of that are pretty slim, really. Just ignore me.
+Nera
+	That was strange. That monster seemed to be holding back a little and not attacking with its full might.
+%0%a001240
+	Why doesn't that monster attack us?
+%0%a001250
+	You see, Dad? It's not a bad monster at all.
+	You know that, don't you, Dad?
+Sancho
+	Ees, ees a great esabrecat, thees monster.
+	You remember, friend, you used toⓚⓛ
+Sancho
+	Eh? You theenk ees...?
+Tuppence
+	Ha ha ha! The beast's scared of us!
+Tuppence
+	But we're not going to let it off that easily, are we, %a000090? Just think of the fur!
+Bianca
+	So that's the big monster? It seems a bit pitiful to me. I feel bad for goin' after it.
+Nera
+	Do you think that's the almighty monster? It's a bit different to how I expected. Maybe we could talk it into joining us?
+%0%a001240
+	It won't attack us at all.
+%0%a001250
+	It seems to be protecting something.
+Sancho
+	Friend! Be careful!
+Tuppence
+	It, it looks pretty tough up close, actually.
+	M-Maybe I'll see you all at home, shall I?
+Bianca
+	%0%a001210 remembered my ribbon after all this time. That's so cute!
+Bianca
+	%0%a001210 has bin lookin' after Pankraz's sword all these years. Waitin' to give it back to you sometime, %a000090.
+Bianca
+	It's goin' to be a bit tricky explainin' this away to the folks back in Hay.
+Nera
+	Ooh! So this is the first monster you ever
+	befriended, then?
+Nera
+	It must have had a terrible time of it since being parted with you. But it survived. We should be sure to praise it.
+Nera
+	I wonder how we can persuade the people of Hay to forgive %a001210. He did destroy their crops, after all.
+%0%a001240
+	What!? You used to have this monster as a pet?
+	Wow!
+%0%a001240
+	And it remembered you from all that time ago!
+	You're clever, aren't you, %a001210?
+	I like you!
+%0%a001240
+	You must've been really lonely living in such a remote cave all on your own, %a001210.
+%0%a001240
+	But you'll always be with us from now on.
+	Isn't that great?
+%0%a001250
+	Look! %0%a001210 looks so happy.
+	He must've been really lonely.
+%0%a001250
+	Can %a001210 sleep in with me tonight?
+	Please?
+Sancho
+	I, I no believe eet! You know, I esay to myself maybe, but... Anda! I no believe eet!
+Sancho
+	Ees destiny, friend. You must look after thees esabrecat, you know.
+Sancho
+	You no go hungry no more, %a001210!
+Sancho
+	Your Uncle Sancho, he gonna make you a
+	beeg monster paella!
+Tuppence
+	That was a dirty trick, %a000090.
+	You could've told us you knew the beast!
+Tuppence
+	Why on earth did that dirty old bit of ribbon make the beast calm down?
+Tuppence
+	I suppose it must've been the disgusting musty smell of it, do you think? Aah! Wh-Why do you look so angry all of a sudden!?
+Bianca
+	There en't nothin' we need to be doin' here.
+	Time to push on to Nadiria!
+Nera
+	We don't have anything to do here now, do we?
+	I thought you were in a hurry to get to Nadiria, darling.
+%0%a001240
+	Up here in the mountains all alone...
+	%0%a001210 must've been really lonely.
+%0%a001240
+	You're really lucky, Dad. You've got so many monster pets. I haven't even got a dog.
+%0%a001240
+	And %a001210's so cool!
+	His mane's even growing now!
+%0%a001250
+	I'm right, aren't I? There are hardly any bad monsters. Nearly all of them are good, aren't they?
+Sancho
+	Ees just one estrange theeng after the other when I travel weeth you, friend. And eet was the esame weeth señor Pankraz.
+Sancho
+	Maybe ees all destiny...
+Tuppence
+	Our task here's done already, isn't it?
+	It's the perfect excuse to cast Evac!
+	Come on! Evac! Evac!
+Debora
+	%0%a000090, I do hope you've dragged me out to the middle of nowhere for a good reason.
+Debora
+	The fields are in a mess, that's for sure.
+	Maybe the monster's coming on the rampage
+	because he's low on food too.
+Debora
+	There's no point heading into the hills for food.
+	That's like signing your own death warrant.
+Debora
+	You should stop this boy from running around.
+	He can't afford to build up an appetite!
+Debora
+	I suppose I'll put up with this place for tonight.
+	You'd better find us a decent inn tomorrow, though.
+Debora
+	Are you looking for her ⓗpaⓘ, %a000090?
+	If you are, then hurry on over to this Bailiff
+	Bails's place.
+Debora
+	So the monster isn't intimidated by the scarecrows... Never mind. I'm sure I'll be able to terrify him
+	into submission!
+Debora
+	That's him disqualified. Hm? From what?
+	From being a potential servant of mine, of course.
+Debora
+	What makes him think I offered to help him out? What's he blathering on about?
+Debora
+	I've got a feeling I saw a cave to the west of here. Maybe that's where the monster's hiding out.
+Debora
+	It may not be attacking people, but it's attacking their food, which amounts to the same thing.
+Debora
+	Was that the famous monster?
+	I'm not sure you're up to fighting him.
+Debora
+	There's nothing to this place. Not even a sound!
+	It's far too quiet if you ask me. The silence is creepy.
+Debora
+	Typical country folk, locking their doors at this hour! You'd never find that in Mostroferrato.
+Debora
+	Are we going to stay here? If we are, I'm taking
+	that decent-looking bed over there. You'll sleep anywhere, right?
+Debora
+	I've never had a problem with getting lots of attention, but I don't like the way they stare here. It's like they're scared of me.
+Debora
+	Charming! After we went to all that effort to figure out their problem for them, this is the thanks we get!
+Debora
+	Ha ha! It's almost worth talking to him again just to see him react like that!
+Debora
+	But %a001210 wouldn't do him any harm! He needn't be afraid for his life like that, the silly man.
+Debora
+	He doesn't seem to think we should've befriended %a001210. Not that we should care what he thinks.
+Debora
+	%0%a001210's one of us now. We don't need to take any notice of what anyone else says.
+Debora
+	Children are so innocent.
+	They know no fear, either.
+Debora
+	There's no need for him to beg. I'll gladly stay away. Let's go, %a000090.
+Debora
+	What a rude little man! We have plenty of money, thank you very much. We don't need your grubby
+	small change.
+Debora
+	I couldn't care less what they think of us.
+	We haven't done anything wrong.
+Debora
+	You're not scared at all, are you?
+	Hey! Why are you eyeing me up next to that thing?
+Debora
+	I'd say it's more loopy of him to believe the nasty rumours about us than it was for him to have trusted us in the first place.
+Debora
+	I don't need it and I don't want it!
+	They can keep their stupid money.
+	We're leaving, %a000090. Right now!
+Debora
+	At least there's one person here that isn't a complete idiot. Huh! What a load of bumpkins!
+Debora
+	I don't imagine I'd have much luck finding myself a nice new outfit here.
+Debora
+	This pond's quite nice. We had a bit of water like this near our house, so I used to bunk off my studies and hang around there a lot.
+Debora
+	What's wrong with you?
+	You look like a fish out of water.
+Debora
+	You're not going to let him mock you like that, are you? Get ploughing and show him how it's done!
+Debora
+	You may not mind being laughed at, but it reflects badly on me. Get ploughing and show him how
+	it's done!
+Debora
+	Mmm... Something smells nice.
+	It's making me feel hungry.
+	Shall we stay here tonight?
+Debora
+	If I lived here, I'd have to open a clothes shop.
+	And a cosmetics shop. Oh, and a casino, of course.
+Debora
+	If it hadn't been for the monster, there wouldn't even be a terrorcrow for us to have as a souvenir.
+Debora
+	Did you come here just so you'd be shown a bit of gratitude? If that's all, then let's get going!
+Debora
+	You're taking that scarecrow with you?
+	You do some very odd things at times, you know.
+Debora
+	You've had a bit of a hard time of it with one thing or another, haven't you?
+Debora
+	It should all be a breeze now that you're married to me, though.
+Debora
+	What are we doing here? I don't imagine this is the kind of place Nimzo will show up. Let's go somewhere more interesting.
+Debora
+	Typical country folk, locking their doors at this hour! You'd never find that in Mostroferrato.
+Debora
+	Watch and learn. Apart from the getting lost part, I mean. That's how a servant should behave.
+Debora
+	Mmm... Something smells nice.
+	It's making me feel hungry.
+	Shall we stay here tonight?
+Debora
+	Stay a bit closer, will you? I don't want that monster coming and attacking me.
+Debora
+	Those bones dotted about the place...
+	They're the real thing, aren't they?
+Debora
+	There are holes all over the place.
+	You'd better watch where you're walking.
+Debora
+	If we're going to fall down a hole, you're going first. And you're going to break my fall! I won't look too kindly on you if you don't.
+Debora
+	Do you think that soldier's alright? He's a bit of a wimp, isn't he? I reckon you could fall down a hundred times and still live to tell the tale.
+Debora
+	He's the one who gave us a fright, not the other way around! I'd have chucked you down the hole again if you made me jump like that!
+Debora
+	So that's the famous monster? Hmm... Having a magnificent creature like that as a pet would probably reflect quite well on me.
+Debora
+	The poor baby's had to fend for himself all
+	these years.
+Debora
+	It's all okay now, though. I'm going to take good care of him from now on.
+Debora
+	%0%a001210's one of us now.
+Debora
+	It doesn't matter what the bumpkins in Hay make of it. You have to protect him no matter what, %a000090.
+Debora
+	You don't think this is Nadiria, presumably?
+	Then let's move on!
+Debora
+	She's very skinny, isn't she? Must be because she's not eating a decent diet.
+Debora
+	I suppose we'll just have to stay here tonight.
+	Just make sure this doesn't happen again tomorrow.
+Debora
+	That old woman has courage. I'll bet she was a feisty girl like me back in her day.
+Debora
+	Maybe we should take it as our reward.
+	It could come in useful.
+Debora
+	Urgh! I don't want to carry it, though.
+	That's your job, %a000090. Got it?
+Debora
+	You take care of this, okay?
+Debora
+	I suppose all they see is that %a001210 destroyed their crops, so it stands to reason that they're scared to see us with him.
+Debora
+	You'll be able to take care of a monster or two,
+	won't you, %a000090? I can just sit back and spectate.
+Debora
+	That's weird. Why doesn't it attack me?
+	Is it scared of me?
+Debora
+	...Hey! Why are you just standing there too?
+	Aren't you going to fight it?
+Debora
+	No! Really? You know this monster from years ago? Then hurry up and make him one of my servants!

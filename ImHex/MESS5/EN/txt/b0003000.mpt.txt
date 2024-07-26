@@ -1,0 +1,205 @@
+*: 
+	Haven't we met somewhere before, boy?
+	...Yes! I remember!
+*: 
+	You're the young fellow who passed by here all that time ago with that kind man for a father.
+*: 
+	Not with you today, eh?
+	I haven't seen him pass by.
+*: 
+	When I stand here watching the river flow by, I can't help but worry about what's to become of our world.
+*: 
+	You should take care of that father of yours, boy. We'll be needing good, strong men like him, I'll wager.
+Checkpoint Charlie
+	I'm afraid I'm going to have to ask you to turn back, boy. Beyond this point lie foreign lands.
+*: 
+	Eh up! What 'ave we got 'ere, then?
+*: 
+	Heh heh! Look at that. The little brat's wandered off wivout 'is mum 'n' dad.
+*: 
+	Oh, dear! Wotever will become of 'im, eh?
+	Heh heh heh! Another slave for theⓚⓛ
+*: 
+	Nah, we can't, can we? They said not to kidnap 'em unless we know where they come from, right?
+*: 
+	Blimey, ye're right, an' all. We better leave off 'im.
+*: 
+	Oi, kid! Beat it, before ya get yerself in trouble!
+*: 
+	I said beat it, kid!
+*: 
+	Get lost, kid. I ain't got nuffin' to say to you.
+~ Pankraz is battling some monsters! ~
+Pankraz
+	What are you doing here, %a000090?
+Pankraz
+	I lost sight of you back at the castle, but there was no time to lose. I never imagined you'd make it
+	here on your own.
+Pankraz
+	I suppose you're not a boy any more. You're growing up fast. I'm proud of you, son.
+Pankraz
+	Right, then! On with the task in hand: rescuing
+	Prince Harry!
+Pankraz
+	You take the lead. I'll keep an eye out for danger from the rear.
+Pankraz
+	Are you alright, %a000090?
+~ Pankraz casts Heal. ~
+Pankraz
+	There, that's better. On we go!
+Pankraz
+	Where are you going, %a000090?
+Pankraz
+	I'm sure Prince Harry is somewhere in these ruins.
+Pankraz
+	We can't leave until we've rescued him.
+Pankraz
+	Are you alright, %a000090?
+~ Pankraz casts Fullheal. ~
+Pankraz
+	There, that's better. On we go!
+*: 
+	Uh? Who are you?
+*: 
+	Wot's that you've got wiv ya? A great sabrecat? Blimey, ⓚⓛ Hic! ⓚⓛ you must be one o' them as well, eh? A monster, I mean...
+*: 
+	Aaah! Nuffin' like a drink after an 'ard day's graft!
+*: 
+	Mind you, it's easy money, this. Just kidnap a few kids an' they'll buy 'em off ya for cash. It don't bovver me if they use 'em as slaves.
+*: 
+	Uuurgh... Hic!
+*: 
+	That fancy bird ⓚⓛ the Queen or wotever ⓚⓛ just said to sort the kid out. Hic! She never said to kill 'im or nuffin'.
+*: 
+	So if we ⓚⓛ Hiccup! ⓚⓛ sell 'im as a slave, that'll tie things up nice, eh? Kill two stones wiv one... Eh!? 
+Pankraz
+	Prince Harry!
+Pankraz
+	Argh! It's locked!
+Pankraz
+	Stand back!
+	Aaaaa-AAAAARGH!
+Pankraz
+	Prince Harry, are you alright?
+Prince Harry
+	Hmph! I expected even an oaf like you to be
+	here a little sooner. Don't you know I've been
+	in mortal danger?
+Prince Harry
+	Well anyway, I'm not going back to Coburg.
+	I don't want to!
+Prince Harry
+	Willy can take the throne. I can't be bothered!
+Pankraz
+	Harry!
+Prince Harry
+	Y-You just hit me!
+Pankraz
+	Perhaps now you'll listen to me. Have you ever stopped to think what your father wants?
+Pankraz
+	Your father... His Majesty...is, er...
+Prince Harry
+	............
+Pankraz
+	............
+Pankraz
+	What I mean is, you must go back to Coburg and talk with your father about all this.
+Pankraz
+	Come on! Before they find us.
+Pankraz
+	Hmph! That didn't take long.
+Pankraz
+	%0%a000090!
+	I'll take care of this mob.
+Pankraz
+	You take Prince Harry and get out of here. Fast!
+*: 
+	Uuurgh, my 'ead! Hic!
+*: 
+	I couldn't drink another drop. Hiccup!
+*: 
+	Ah-phew... Ah-phew...
+	Ah ⓚⓛ Hic! ⓚⓛ phew...
+*: 
+	Wa ha ha! You are the naughty, naughty children for that you try to fleeing away.
+*: 
+	Now you will to learn your lesson from teaching of great bishop Ladja. Enjoy!
+Pankraz
+	What's going on?
+	%0%a000090? Prince Harry!
+Ladja
+	Wa ha ha! So it is you. You are the one who is defeating my poor little pawns. 
+Pankraz
+	Y-You? Haven't I seen you somewhereⓚⓛ
+Ladja
+	Ah, you are recalling me a little, no?
+	Wa ha ha!
+Ladja
+	Then it is time that you will learn of the wonder that is Order of Zugzwang.
+Ladja
+	Come, Kon! Come, Slon! Now my knight and rook will show you a game to remember!
+Ladja
+	Wa ha ha! That was indeed very enjoyable game.
+Ladja
+	But I wonder how you are reacting if I do...this!
+~ Ladja holds a scythe to %a000090's throat! ~
+Pankraz
+	%0%a000090!
+Ladja
+	If you are not considerating for the life of this child, then please go on and make your best moves.
+Ladja
+	As long as you do not considerate that the soul of this child will for evermore be in hell! Wa ha ha!
+Kon
+	Neigh, it was a whinnyful fight you are making before!
+Slon
+	Yeah, but you are not winning this time.
+	Correct, boss?
+~ Pankraz just stands there, taking the incessant blows one after another! ~
+Ladja
+	Wa ha ha! Now this is what I dub entertainment!
+Pankraz
+	Uuurgh...
+Ladja
+	Oy-yoy-yoy! I am still auditing some breath from this man.
+Pankraz
+	%0%a000090...
+	Can...you hear me...?
+Pankraz
+	I must... I must tell you...
+Pankraz
+	Your mother... She's...still alive...
+	Keep... Keep looking for...your moⓚⓛ
+Pankraz
+	Uuuuuurgh!
+Ladja
+	Wa ha ha! It is always so beautiful thing to see the parent's love for the child!
+Ladja
+	You do not need to concern, dear Pankraz.
+Ladja
+	Your beloved son will live the happy life as slave, working until the death for our great ruler.
+Ladja
+	Kon! Slon! Carry away these precious children!
+Kon
+	Hey! What are we to do with the little sabrecat?
+Ladja
+	Set him liberal. In the wild, his savage nature will be returning at him.
+Ladja
+	Wait! This small child has interesting ball
+	about his person.
+~ Ladja takes the gold orb from %a000090. ~
+Ladja
+	I wonder, is this...? Never mind. I will take care of it just in cases.
+~ Ladja squeezes the gold orb between his hands and mutters a chant. ~
+~ The orb shatters! ~
+Ladja
+	Wa ha ha! Then let us go!
+Ladja
+	Come!
+~ %3And so %a000090, having lost his beloved father, is taken away to an unknown place along with Prince Harry.%4 ~
+~ %3But his mother is still alive! With his father's dying words always on his mind, yet helpless to act on them, %a000090 is cruelly enslaved.%4 ~
+~ %3And ten long years pass by...%4 ~
+~ Save in an adventure log. ~
+~ Continue playing. ~
+~ Are you sure you want to continue playing without saving in an adventure log first? ~
+~ %0%a000090's wounds are healed! ~
+~ %0%a000090's wounds are healed! ~

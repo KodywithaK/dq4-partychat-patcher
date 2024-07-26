@@ -1,0 +1,309 @@
+*: 
+	Grrrrrr...
+*: 
+	Who are you?
+	Who disturbs my sleep?
+*: 
+	My name is Estark...
+	That is all I can recall.
+Estark
+	I do not even remember if I am good or evil.
+Estark
+	Why are you here?
+	Have you come to destroy me?
+Estark
+	Then I have no choice.
+	I do not wish to be destroyed.
+Estark
+	Let us fight!
+Estark
+	Then leave me in peace.
+Estark
+	I must continue my sleep...
+	Grrrrrr...
+Estark
+	Grrrrrr...
+	How is this possible!?
+Estark
+	You defeated me!
+	And in only %a000740 turns!
+Estark
+	It cannot be helped. I must open the doors to my secret place of enjoyment.
+Estark
+	And I suppose I must award you with this trophy in recognition of your achievement.
+~ %0%a000180 acquires the Catas Trophy! ~
+Estark
+	But bear in mind that I will not be beaten again so easily next time! Grrrrrr...
+Estark
+	Grrrrrr...
+	How is this possible!?
+Estark
+	You defeated me!
+	And in only %a000740 turns!
+Estark
+	Very well. I will award you with this trophy in recognition of your achievement.
+~ %0%a000180 acquires the Catas Trophy! ~
+Estark
+	But bear in mind that I will not be beaten again so easily next time! Grrrrrr...
+Estark
+	Grrrrrr...
+	How is this possible!?
+Estark
+	You defeated me!
+	And in only %a000740 turns!
+Estark
+	Very well. I will award you with this trophy in recognition of your achievement.
+~ %0%a000180 acquires the Catas Trophy! ~
+Estark
+	But of all the foolish lies to tell, insisting my son is among your number!
+Estark
+	Hmm, I wonder if he really could be my son...
+	I have no recollection whatsoever.
+	Grrrrrr...
+~ A monster appears from inside the treasure chest! ~
+*: 
+	Hey! You found me! I'm Starkers.
+	I mean, that's my name.
+Starkers
+	I'm the son of the famous Estark, you know.
+Starkers
+	I could come along travelling with you if you like?
+Starkers
+	Yippee! This'll be fun! I'm going to become all big and strong like Daddy.
+~ Starkers joins the party! ~
+~ Starkers walks off sadly. ~
+Starkers
+	Ohhh!
+~ Starkers walks off sadly. ~
+Starkers
+	Hey! You found me again! Maybe this time you'll let me join you on your travels?
+Starkers
+	Yippee! This'll be fun! I'm going to become all big and strong like Daddy.
+~ Starkers joins the party! ~
+~ Starkers hangs his head sadly. ~
+Starkers
+	Ohhh!
+~ Starkers sprints off happily towards the wagon. ~
+~ But the wagon's already full! ~
+~ Which party member do you want to send off to Monty, the monster monitor? ~
+~ Give up on recruiting Starkers? ~
+~ Send %a000180 to Monty? ~
+~ Starkers sprints off happily in the direction of the monstergarten! ~
+~ %0%a000180 heads off to the monstergarten and Starkers joins the party! ~
+*: 
+	Oh no, I've lost Prince Pankraz again.
+*: 
+	Surely he's not at Madalena's place already?
+	Not at this time of the morning.
+*: 
+	His Majesty and Mr Sancho will be furious. His coronation's due to take place any day now.
+*: 
+	Welcome, %H0860%Xtraveller%Ytravellers%Z, to the holy village of Lofty Peak. What can we do for you?
+*: 
+	The Prince of Gotha comes practically every day now to visit Madalena.
+*: 
+	The man has an irreproachable quality about him. Many of our people have come to trust him.
+*: 
+	It seems Madalena encountered Prince
+	Pankraz when she departed on an excursion
+	to the Eastern Forest.
+*: 
+	Madalena is a most beautiful woman.
+	It is little wonder that Prince Pankraz fell
+	in love with her at first sight.
+*: 
+	That Pankraz fellow is no ordinary man.
+*: 
+	There must be something special about him for Madalena to have been moved by his advances.
+*: 
+	Above us stands the holy tower of devotion.
+*: 
+	Nothing must hinder Madalena in her prayer.
+*: 
+	Have you been asked to come here by Pankraz?
+*: 
+	We shall never permit him to take Madalena
+	to Gotha.
+*: 
+	Hello. Where have you come from?
+*: 
+	Certainly I did not expect to see more travellers in such a remote place as this. I was surprised enough when Prince Pankraz came.
+*: 
+	Dear Goddess, watch over these brave wanderers, and guide them on a path free
+	from dangers!
+*: 
+	Please forgive me, but we are unable to offer travellers lodgings here now.
+*: 
+	The Prince of Gotha has incurred the displeasure of the Elders, you see. I don't know what to...
+*: 
+	I tell you what, though. I do have some information that may help you. Let us call it an apology for the inconvenience.
+*: 
+	The guard who minds Madalena is fanatical about a game. I believe it is known as T 'n' T.
+*: 
+	The powers of the Loftinians wane year by year.
+*: 
+	That's why the Elders are determined not to lose Madalena. The power is still strong in her.
+*: 
+	It doesn't matter how much they're opposed to it, people fall in love.
+*: 
+	If Madalena and Pankraz make a good match, it's only natural that they should be together.
+*: 
+	I cannot condone it. No Loftinian woman should ever be involved with someone from the outside.
+*: 
+	I doubt our stance on this. I know Madalena is one of Lofty Peak's greatest treasures...
+*: 
+	...but to confine her to the prayer room...
+	Not to allow her to walk freely outside, even...
+	It does not feel right.
+*: 
+	A young man who's as just and true as
+	Prince Pankraz is a rare find these days.
+*: 
+	His unfeigned passion has penetrated Madalena's lonely heart.
+*: 
+	No... No, no...
+*: 
+	This is hopeless. Trying to paint a portrait of Madalena without her here is impossible.
+	There are just too many grey areas.
+*: 
+	But I'm too yellow to confront the guard at the prayer room and insist he lets me in.
+*: 
+	And perhaps selling my paints and brushes to that merchant when my finances went into the red was a little short-sighted of me!
+Pankraz
+	Hmm... I must be able to get this portrait of Mada done somehow.
+Pankraz
+	The craftsman outdid even his formidable
+	reputation when he made this locket to
+	commemorate my coronation.
+Pankraz
+	With Mada's picture inside, it'll make a perfect souvenir of our wedding when the day finally comes.
+Pankraz
+	Oh, hello! Are you a fellow traveller?
+Pankraz
+	I'd say you've travelled quite some distance by the look of you.
+Pankraz
+	Ah! Then you might be just who I'm looking
+	for. Have you heard of faerie quills and eyevory tusk-tusk ink?
+Pankraz
+	A picture drawn with that quill in that ink would last for years and years without fading.
+Pankraz
+	If you happened to have these items and could spare them, I'd be eternally grateful.
+Pankraz
+	Normally, I'd only ask such a brazen favour of family or close friends, but I just don't know what else to do.
+Pankraz
+	You've done it! You've located a faerie quill and some eyevory tusk-tusk ink for me!
+Pankraz
+	Thank you. And excuse me if I don't waste any time taking them off your hands!
+~ %0%a000090 gives the faerie quill and the ~
+~ tusk-tusk tusk inkwell to Pankraz. ~
+Pankraz
+	Now I just need to think of a way to get past the prayer room guard.
+Pankraz
+	What? The guard's not there now?
+Pankraz
+	I... I don't know what to say. I'm stunned that you would do so much for someone you barely know.
+Pankraz
+	............
+	Anyway, seeing as you've arranged everything,
+	I daren't waste the opportunity.
+Pankraz
+	Come along, Remembrandt! It's time! We must go to Mada before the guard returns!
+Remembrandt
+	Yes, sire! It's a little out of the blue, but my easel is always ready.
+Pankraz
+	Now I just need to think of a way to get past the prayer room guard.
+Pankraz
+	What? The guard's not there now?
+Pankraz
+	I... I don't know what to say. I'm stunned that you would do so much for someone you barely know.
+Pankraz
+	............
+	Anyway, seeing as you've arranged everything,
+	I daren't waste the opportunity.
+Pankraz
+	Come along, Remembrandt! It's time! We must go to Mada before the guard returns!
+Remembrandt
+	Yes, sire! It's a little out of the blue, but my easel is always ready.
+*: 
+	Day by day, I feel the evil of Nadiria breeding. Fuelling its own expansion.
+*: 
+	Our work is not yet done. We Loftinians still have our role to play.
+*: 
+	We have no grievance with the future
+	King of Gotha.
+*: 
+	It is merely that if he were to take Madalena
+	as his queen, she would surely not return to
+	Lofty Peak again.
+*: 
+	Madalena's power threatens the monsters of the underworld. For that very reason, she is in danger from them.
+*: 
+	It is our duty to protect her.
+	To see that no harm comes to her.
+*: 
+	For those of us chosen by the Goddess, our destiny does not allow us to enjoy the pleasures
+	of ordinary beings.
+*: 
+	Madalena knows this as well as any of us.
+*: 
+	This is Madalena's prayer room.
+*: 
+	Without the consent of the Elders, strangers are not permitted inside.
+*: 
+	Th-That's a T 'n' T ticket!
+	Is it really real, or am I dreaming?
+~ %0%a000090 slips the ticket into the guard's hand. ~
+*: 
+	Ahem! I, er... Yes! Of course! I have some important, er...information to discuss with the Elders.
+*: 
+	I'll, er...be back later.
+	Farewell!
+Mada
+	How unusual. The guard never allows strangers
+	to pass.
+Mada
+	Perhaps he was lost in the great depths of
+	your eyes?
+Mada
+	Where have you come from, friend?
+	I sense something so strange in you...
+*: 
+	(slurp)
+	I love Madalena! She makes me go all gooey!
+Remembrandt
+	No! Don't disturb me now! You'll interrupt the flow.
+	Doing a portrait for blue blood that's the size of the nail on your little pinkie is no easy task!
+Pankraz
+	Oh, it's you again. Thanks to your help, I'm going to have a picture of Mada for the locket.
+Pankraz
+	But I'm afraid it's going to take a while.
+	Would you mind coming back later?
+Pankraz
+	Don't worry. I promise to return the quill and the ink as soon as the job is done.
+Mada
+	I'm so embarrassed.
+	But Pankraz insisted, so...
+Mada
+	No one's ever been so close to me before.
+Mada
+	Most people are afraid of my power. The power bestowed upon me by the Goddess.
+*: 
+	(slurp)
+	I love Madalena! She makes me go all gooey!
+Remembrandt
+	Ah, you've come for your quill and ink?
+Remembrandt
+	Here you are. They're really blue ribbon materials. Thank you very much.
+~ %0%a000090 puts the faerie quill and the tusk-tusk tusk inkwell carefully back into the bag. ~
+Remembrandt
+	Oh yes, Prince Pankraz left a message for you...
+~ ⓗThank you again for helping me. I shall repay you in full the next time we meet. I stake my life on it.ⓘ ~
+Remembrandt
+	He was tickled pink with the portrait.
+	But he and Madalena have left now.
+Remembrandt
+	I should think they'll just be setting off over the deep blue waters of the Eastern Sea about now...
+*: 
+	Madalena told me something good!
+*: 
+	She said she was sure she'd slurp into you again. And she said to say thanks too.

@@ -1,0 +1,227 @@
+~ %0%a000120 examines the ground at %A0110%Xhis%Z%B0110%Xher%Z feet. ~
+~ %0%a000120 examines the treasure chest. ~
+~ %0%a000120 peers into the well. ~
+~ %0%a000120 strains %A0110%Xhis%Z%B0110%Xher%Z eyes and looks out over the water. ~
+~ %0%a000120 searches around in front of %A0110%Xhim%Z%B0110%Xher%Z. ~
+~ But there's nothing there. ~
+~ There's nothing special there. ~
+~ But the chest is empty. ~
+~ Uh-oh! The treasure chest is actually %a040190! ~
+~ Oh, no! The pot is actually %a040190! ~
+~ What luck! %0%a040100! ~
+~ %0%a000180 acquires %a020100! ~
+~ %0%a000120 places %a020100 in the bag. ~
+~ %H0860%X%0%a000120%YThe party%Z obtains %a000500 gold %H0500%Xcoin%Ycoins%Z! ~
+~ It's locked and won't open. ~
+~ Neatly arranged plates, cups and other crockery adorn the shelves. ~
+~ It's a very old, but really quite superb, pipe organ. ~
+~ There are various drinks lined up on display. ~
+~ A picture hangs on the wall. ~
+~ %0%a000120 peers inside the barrel. ~
+~ %0%a000120 has a look inside the pot. ~
+~ %0%a000120 looks at the grave in front of %A0110%Xhim%Z%B0110%Xher%Z. ~
+~ There doesn't seem to be anything of note. ~
+~ %0%a000120 looks at the grave in front of %A0110%Xhim%Z%B0110%Xher%Z. ~
+~ There's an affectionately worded epitaph to the deceased. ~
+~ Some farming implements have been left here. ~
+~ %0%a000120 peers inside the bag. ~
+~ There's nothing special there. ~
+~ There are some swords on display. ~
+~ There's an axe on the wall. ~
+~ There's a shield on display. ~
+~ There's some weaponry on display. ~
+~ There's some armour on display. ~
+~ It's a gleaming gold statue of a dragon. ~
+~ It's a statue of a great beast. ~
+~ The statue is smiling in a way that makes %H0860%X%a000120%Ythe party%Z feel very uneasy. ~
+~ It's a statue of a woman with a pure-hearted smile. ~
+~ It's a huge statue of the T 'n' T monster! ~
+~ It's a statue of a valiant warrior. ~
+~ The dragon statue's eyes gleam, almost as if they were the real thing! ~
+~ It's a statue of a sage with a rather majestic expression on his face. ~
+~ ⓗPlease follow the marked route.ⓘ ~
+~ %0%a000120 gazes into the mirror... ~
+~ There are bits of %A0110%Xhis%Z%B0110%Xher%Z dinner all around %A0110%Xhis%Z%B0110%Xher%Z mouth! ~
+~ %0%a000090 tries to make himself laugh by pulling ~
+~ a funny face. ~
+~ ...Wow! Talk about feeling lonely! ~
+~ %0%a000090 studies his face intently. He thinks he's looking more and more like his father every day. ~
+~ If he smiles, he doesn't actually look all that bad! ~
+~ He sticks his tongue right out. ...What a discovery! ~
+~ He can touch the tip of his nose with it! ~
+~ Donk! He gets a bit too close and bashes his head! ~
+~ He touches the mirror and leaves a very conspicuous fingerprint! ~
+~ He opens his mouth wide to check for bad teeth! ~
+~ He tries to picture his dad's face by looking at his own reflection. ~
+~ A smiling face with a healthy tan stares back! ~
+~ Memories of all the trials and tribulations he's had to face come flooding back. ~
+~ Looking at his own reflection seems to make him want to yawn! ~
+Harry
+	Well! It's been so long since I last peered into a mirror, I'd clean forgotten what I looked like!
+Harry
+	Who would ever imagine I was royalty with a grubby face like this?
+Harry
+	Dear Goddess! Is that a five o'clock shadow or have I just not had a wash for ages?
+Harry
+	Look at that! That's a man's visage, that is, not a boy's. Wouldn't you agree, %a000090?
+Harry
+	You can tell I've spent a lot of time outdoors. Any darker and they'll start calling me the Prince of Darkness!
+Bianca
+	Oops! Someone could've told me I had cream smeared all over my face like a big idiot!
+~ She sees %a000090's reflection beside hers in the mirror. ~
+Bianca
+	That's a sweet-lookin' face, that is. For a lad, I mean.
+Bianca
+	Mirrors are a bit weird, if you ask me. I always find myself wonderin' if there's someone on the other side.
+~ She smiles prettily. ~
+~ She purses her lips and tries to look all angry! ~
+Bianca
+	Well, that's today's hairdo sorted.
+	Time to get movin'.
+Bianca
+	I'm gettin' a bit fed up with this style lately.
+	Maybe I should try lettin' my hair down for once.
+~ She grabs her cheeks and pulls them out! ~
+Bianca
+	Pullin' on your skin like this every now and then is a tried and tested way of keepin' it young, apparently.
+Bianca
+	No way! I look like I've got huge dark circles under my eyes.
+Bianca
+	I reckon it must be the mirror. Yeah, that's it.
+	This mirror must be broken or somethin'.
+Bianca
+	I've just remembered how I used to wear my hair in two plaits back when I was a little girl.
+Bianca
+	I wonder when it was that I switched to wearin' it like this.
+~ She discreetly fixes her lipstick! ~
+~ The reflection of a girl who's grown into a beautiful woman looks back. ~
+Bianca
+	I'm happy as I am now an' all that, but I sometimes wish I could go back to bein' a kid for a while. Stupid of me, really...
+Nera
+	Oh dear... No one's cleaned this mirror for ages by the look of it.
+~ Nera hurriedly polishes it. ~
+Nera
+	Oh, bother!
+Nera
+	I'll never be able to do it! How on earth do you go cross-eyed?
+~ She tries to remember what she had for breakfast yesterday, but it's no good. ~
+Nera
+	Long or short? I just want my hair to be the way my darling likes it.
+~ Her hair's looking a bit of a mess... ~
+~ She takes out a pretty brush and starts to run it through her long, dark hair. ~
+~ She suddenly chuckles as if she's remembering something funny. ~
+~ The reflection of a pretty young woman looks back. ~
+%0%a001240
+	I'm going to be really tall like Dad when I'm older!
+%0%a001240
+	...Only, even though I drink my milk everyday, I don't seem to be growing at all.
+~ %0%a001240 sticks his thumbs in his ears and wiggles his fingers. ~
+%0%a001240
+	Ah ha ha ha hah! That'd make anyone laugh!
+%0%a001240
+	Grrr...
+%0%a001240
+	Come on, a bit more!
+%0%a001240
+	I'm trying to break my record. You have to stare into the mirror without blinking for as long as possible.
+~ %0%a001240 laughs self-consciously. ~
+~ The reflection of a slightly precocious boy looks back. ~
+~ He brushes a cut on his forehead with the back of his hand. ...Ouch! That hurt! ~
+%0%a001240
+	I bet I'll look just like Dad when I grow up.
+%0%a001250
+	Mirror, mirror on the wall, who's the fairest of them all?
+~ ............ ~
+~ The mirror doesn't seem to know! ~
+~ She reties the ribbon in her hair in a pretty little bow. ~
+%0%a001250
+	I want to grow my hair longer. Then I'll be able to plait it.
+%0%a001250
+	I wish it would hurry up and grow!
+%0%a001250
+	I wish I had a flower ribbon.
+~ She has a go at a cool wink... ~
+~ ...but it just ends up as a disconcerting blink! ~
+~ She grins. ~
+~ She feels a warm glow inside as she sees a bit of her father in her. ~
+~ He taps his belly lightly... ~
+~ Boom! All that paella wobbles reassuringly! ~
+Sancho
+	Anda! These grey hairs, they geeve away how many, many years your Uncle Sancho ees alive, no?
+~ But the mirror's just not wide enough to show all of that well nourished belly, no matter where he stands! ~
+~ He sighs heavily. ~
+Sancho
+	Thees mirror, ees eso clean, no? And the floor, ees weethout all the dusts, eh?
+Sancho
+	Sí, sí... Ees a good feeling to be een esuch a clean place.
+~ He smoothes his moustache. ~
+Tuppence
+	Mirrors are strange things, aren't they?
+	I mean, under normal circumstances, you don't get to have a good look at yourself, do you?
+~ He shifts around, trying to find his best angle! ~
+Tuppence
+	That reminds me. Have you ever heard of the mirror that's supposed to reflect your true self?
+Tuppence
+	Dear Goddess! What on earth would it make of me, I wonder?
+Tuppence
+	You never know who you're going to run into, do you? Always a good idea to keep up appearances.
+Tuppence
+	Now then, Tuppence. Remember, whatever monsters you face, don't panic. You're brave. You're brave! You're BRAVE!
+~ Oops! He appears to have frightened himself... ~
+%0%a001210
+	Grrarrrgh!
+~ He appears to be trying to intimidate himself! ~
+%0%a001210
+	Grrr... Grrr...
+~ He's clawing at the mirror, trying to catch his own paws! ~
+~ He finds it really weird that the beast in the mirror is copying his every move! ~
+~ He looks like he's thinking how much bigger and stronger he is than the puny cat in the mirror! ~
+%0%a001210
+	Grrreoow...
+~ Hmph! It just makes a compliment seem so hollow when exactly the same thing's said back to you. ~
+~ %0%a001210 just can't seem to grasp that he's looking at his own reflection! ~
+~ %A0110%XHe%Z%B0110%XShe%Z turns stiff with fear! ~
+~ %A0110%XHe gazes curiously at his%Z%B0110%XShe gazes curiously at her%Z reflection. ~
+~ %A0110%XHe%Z%B0110%XShe%Z's sizing up the opposition! ~
+~ %A0110%XHe calls to his%Z%B0110%XShe calls to her%Z brethren... ~
+~ But no one comes. ~
+~ %0%a000120 seems to think %A0110%Xhis reflection is another one of his%Z%B0110%Xher reflection is another one of her%Z own kind. ~
+~ %A0110%XHe's so surprised, he%Z%B0110%XShe's so surprised, she%Z runs off! ~
+~ The door is locked. ~
+~ The door is locked, and it doesn't look like any of the keys in %H0860%X%a000120%Ythe party%Z's possession will open it. ~
+~ %0%a000120 tries to look inside the chest of drawers. ~
+~ But %A0110%Xhe%Z%B0110%Xshe%Z soon realises you can't open drawers from the back! ~
+~ %0%a000120 tries to look inside the drawer. ~
+~ But %A0110%Xhe%Z%B0110%Xshe%Z soon realises you can't open drawers from the back! ~
+~ Oops! %A0110%XHe%Z%B0110%XShe%Z was looking at the back of it! ~
+~ Mini medals do not appear in your normal inventory. ~
+~ If you want to see how many mini medals you've collected, open the Attributes menu and move the cursor to the wagon symbol. ~
+~ An attractive woman gazes back. ~
+Debora
+	I really am pretty, aren't I?
+	No. Not pretty. Beautiful.
+~ Debora is enraptured! ~
+Debora
+	It's very important that I look my best at all times. You'll have to wait a while.
+~ Debora pulls out a make-up pouch from her bosom. ~
+~ Oh no! She's started fixing her make-up. This could take some time... ~
+~ Her lips look a bit dry. ~
+~ She takes some lip balm out of her make-up pouch and rubs it on. ~
+~ The mirror's a little bit dirty. ~
+Debora
+	Unbelievable! How am I supposed to use this when it's not clean? Someone polish it! Quickly!
+	I need to see myself!
+~ Another day looking absolutely great! Debora seems happy with how she looks. ~
+~ Her hair looks a little ruffled. ~
+Debora
+	H-How is this possible!? How could you let me walk around like this? If anyone saw me, I'll hold you solely responsible.
+~ She smiles at her reflection. There's... There's something a bit creepy about the way it smiles back! ~
+~ No... Debora decides she must've been imagining it. ~
+Debora
+	Perfect skin as always! Not that I needed to check, but it's always nice to look at yourself...when you look as good as me.
+Debora
+	I'll be needing a new outfit soon. Actually, I'll be needing several so I can see how different things go together.
+~ The door appears to be locked from the other side. ~
+~ The door is shut fast. ~
+~ The door appears to be held tightly shut by some mysterious power. ~
+~ A book's been left open here. ~

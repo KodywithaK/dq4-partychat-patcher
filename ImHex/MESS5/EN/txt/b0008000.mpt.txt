@@ -1,0 +1,802 @@
+*: 
+	What d'you want?
+*: 
+	Them in there's got important stuffin's a-be discustipatin'. We don't want no one pokin' about who en't from 'round these parts.
+*: 
+	By that there Goddess, the fields are a proper mess again!
+*: 
+	If 'e goes on like this much longer, we'll be dyin' of starvination an' 'unger.
+*: 
+	This 'ere is 'Ay. You fancy folk'd prob'ly call it Hay.
+*: 
+	Only what with that bissly wolf monster scat'n the fields abroad, we en't got much 'ay to gather.
+*: 
+	My 'ole life I's lived 'ere, but I'm thinkin' we'll 'ave to 'ead off into them there 'ills afore long.
+*: 
+	Granny's bin actin' all funny lately.
+*: 
+	She only eats one little dollop of 'er food an' then gives the rest to me. Says she's full, she does.
+*: 
+	I 'ope she en't sick.
+*: 
+	Arf! Arf arf!
+*: 
+	I bin workin' like billy-o me 'ole life, but things en't gettin' any easier.
+*: 
+	Why was I born in this 'ere dump, eh? The Goddess en't wastin' any of 'Er smiles on me, that's for sure.
+*: 
+	Neeeigh!
+*: 
+	Neeeigh!
+*: 
+	I dunno 'ow much you bin offered for gettin' rid of our monster.
+*: 
+	But you can't do nort with the gold if you get yourself killed.
+*: 
+	Mind you, I dun't s'pose you'd go that far now, would you? You en't from 'round these parts, so what's 'e to you, eh?
+*: 
+	Well, I'll be! A customer!
+*: 
+	What d'you want? Pa's over Bailiff Bails's place, if that's who you're after.
+*: 
+	You know, the place with them 'orses outside.
+*: 
+	I can 'ardly muster the energisms to do anythin' these daisies. I'm so 'ungry!
+*: 
+	I put up that terrorcrow in me field to scare off that wicked devil-monster, but 'e en't bin much good.
+*: 
+	An' we're famous for our terrorcrows 'ere in 'Ay, y'know.
+~ %0%a000120 examines the scarecrow. ~
+~ %A0110%XHe%Z%B0110%XShe%Z's never seen anything like it before in %A0110%Xhis%Z%B0110%Xher%Z life! ~
+Bailiff Bails
+	So your idea's to pick up someone what'll 'elp us at the pub in Lodestar 'Arbour. That's the plan, is it?
+*: 
+	That's it, Bailiff. Them gets some proper feisty scrappers in that there pub.
+*: 
+	No! I dun't like the idea.
+*: 
+	We can't go askin' any ole bay we comes across for assistancin' in village matters.
+*: 
+	They'll just take the reward an' run.
+*: 
+	I can't be wastin' any more time on this codswallop. I've things to do.
+*: 
+	An' who the blazes are you?
+*: 
+	Out me way!
+*: 
+	You young'uns is all the same. 'Ot'eaded 'n' reckyless.
+*: 
+	Oh! 'Ello, my %H0860%Xlover%Ylovers%Z! You remember me, dun't you? From Lodestar 'Arbour.
+*: 
+	I wun't sure as you'd be a-comin'.
+*: 
+	But 'ere you is! He he he, I know 'ow to pick 'em, dun't I, eh?
+*: 
+	I best let Bailiff Bails do the explicatin'. 'E knows the ins an' the outs of it.
+Bailiff Bails
+	You must be the bay 'as bin asked to 'elp us. From the pub, wun't it?
+Bailiff Bails
+	I'm most oblimigated that you's come down 'ere to 'Ay. Thank 'e kindly.
+Bailiff Bails
+	We's all prayin' to the Goddess that you can 'elp.
+Bailiff Bails
+	So, then. 'Bout this monster what's bin causin' all the palaver...
+Bailiff Bails
+	ⓙE looks as part wolf an' part lion.
+	An' 'e's blimmin' scary is what 'e is.
+Bailiff Bails
+	We dunno where 'e lives or nort, I'm afeared.
+Bailiff Bails
+	All I can tell you is that 'e comes from west. We's all seen 'im, the bissly beggar!
+Bailiff Bails
+	So what we's askin' you to do is to go off west an' find 'e's lair an' give 'im a good larrupin' so's 'e wun't come back again!
+*: 
+	'Cordin' to what I've 'eard, there's even more scary monsters in other parts.
+*: 
+	At least our beast en't 'urt no people 'ere yet.
+~ It's locked from the inside. ~
+~ Maybe it's because of the late hour. ~
+*: 
+	Neeeigh!
+*: 
+	Wehee...
+*: 
+	Well, I'll be! A customer!
+*: 
+	Th-That there's that there monster!
+*: 
+	Dun't kill me! I dun't wanna die!
+*: 
+	Dun't kill me! I dun't wanna die!
+*: 
+	Tell it to keep away! I knows you's friends with it. I's seen you walkin' about with it. Keep it away from me!
+*: 
+	This 'ere is 'Ay. You fancy folk'd prob'ly call it Hay.
+*: 
+	By the Goddess!
+	You made friends with 'e, did you?
+*: 
+	You'll frighten the wotsits off everyone.
+*: 
+	Haaah! Is that monster your pet, is it?
+*: 
+	So, is you a monster tamerer, then?
+*: 
+	Wow! That's 'mazin'!
+*: 
+	Butⓚⓛ Oh, that en't fair!
+*: 
+	I know what you is.
+	You's a monster tamerer.
+*: 
+	Arf! Arf arf!
+*: 
+	Th-That there's that there monster!
+*: 
+	Dun't kill me! I dun't wanna die!
+*: 
+	S-Stay away from us!
+	Stay away from 'Ay! Please!
+*: 
+	Ha ha ha ha! Well I'll be begger'd!
+	You's a cunnin' little blimmer, en't you?
+*: 
+	You bin cahootin' with that there monster
+	all along.
+*: 
+	I knew it, I did! You're a right clever Dicky, eh? You fooled ole Bails good 'n' proper.
+*: 
+	Pick up your reward money an' then you best clear off an' never come back!
+*: 
+	Neeeigh!
+*: 
+	Neeeigh!
+*: 
+	Well, I'll be! A customer!
+*: 
+	Dear Goddess, you 'alf frightened me to death!
+	Is you an' that there liony beast friends 
+	or summin'?
+*: 
+	People's bin watchin' you an' 'e walkin' about the place together, y'know. The Bailiff knows all about 'e.
+*: 
+	Uh-oh!
+	St-Stay away, you 'ear!?
+*: 
+	'Ow's 'at? That there terrorcrow?
+	T-Take 'e if you want. I dun't care.
+*: 
+	Take whatever you want!
+	Just get that monster out of 'ere!
+~ %0%a000120 examines the scarecrow. ~
+~ %A0110%XHe%Z%B0110%XShe%Z's never seen anything like it before in %A0110%Xhis%Z%B0110%Xher%Z life! ~
+~ Pull it out of the ground? ~
+~ %0%a000120 uproots the scarecrow from the ground. ~
+~ %0%a000180 acquires a Hay terrorcrow! ~
+*: 
+	I know what you done.
+*: 
+	You 'ad 'e planned from the start. You an' that monster's workin' together.
+*: 
+	I musta bin 'alf loopy ever trustin' you.
+Bailiff Bails
+	I dun't wanna 'ear it.
+Bailiff Bails
+	I'll give you your gold, as 'tis what we agreed.
+Bailiff Bails
+	An' we dun't want no more trouble from that monster friend o' yourn.
+~ %0%a000120 receives one thousand five hundred gold coins! ~
+Bailiff Bails
+	So that's the end of it.
+	Now get gone!
+*: 
+	Aaargh!
+	I en't done nort! Leave us be!
+%0%a001210
+	Grrr...
+*: 
+	Aaargh!
+*: 
+	You gone and made yourself none too pop'lar 'round 'ere, en't you?
+*: 
+	But I know them's got 'e all wrong. You'm not that kind of bay, are you, me 'andsome?
+*: 
+	'Tis thanks to you we can all get back to work in the fields.
+*: 
+	So I'll tell 'e, even if no one else will...
+*: 
+	Thank 'e, my lover.
+	'Ay is forever in your debtitude.
+*: 
+	Yaah!
+*: 
+	Uuurh...
+*: 
+	Yaah!
+*: 
+	D-Dear Goddess!
+	You can't creep up on people like that!
+*: 
+	There's an almighty beast that lives in this cave, you know.
+*: 
+	I'd be careful if I were you.
+*: 
+	Graaarrr!
+~ %0%a000010 holds up Bianca's ribbon. ~
+~ But the great sabrecat doesn't seem to react to it in %a000010's hands. ~
+~ %0%a000090 dangles Bianca's ribbon in front of the great sabrecat's face. ~
+~ The great sabrecat catches the scent of the ribbon. ~
+~ It seems to be remembering something... ~
+~ The great sabrecat starts to lick %a000090's face. ~
+~ Unbelievable! It's %a001210! ~
+%0%a001210
+	Prrr...
+~ %0%a001210 fetches a sword with an unusual emblem on it. ~
+~ It's an emblem that looks familiar somehow... ~
+~ Of course! It's Pankraz's sword! ~
+~ %0%a000090 acquires Pankraz's sword. ~
+~ %0%a000090 puts the sword in the bag. ~
+%0%a001210
+	Meooow. Prrr...prrr...
+~ %0%a001210 joins the party! ~
+~ %0%a000180 gets into the wagon. ~
+~ Or tries to! But the wagon is full. ~
+~ Pick someone to send to Monty's monstergarten. ~
+*: 
+	A warm and windy welcome to Zoomingale!
+*: 
+	I dunno! What's that Professor Toilen Trubble
+	up to now, eh?
+*: 
+	The smoke comin' from his place is a right killer! (cough cough)
+*: 
+	Ooh! On your travels, are you?
+	Are you having a nice time?
+*: 
+	That's good. You can't beat
+	a bit of what you fancy.
+*: 
+	Oh dear. Been a bit of a tough one, has it?
+	Then I suppose you must have good reason for carrying on in the face of it.
+*: 
+	Good luck!
+*: 
+	I hear there was a splendid wedding ceremony over at Coburg not too long ago.
+*: 
+	I think it was the King's elder brother, Prince Harry, who was wed. If I remember rightly, anyway.
+*: 
+	I would've so loved to see
+	the royal wedding for myself.
+*: 
+	I'll bet the bride was as pretty as a picture.
+*: 
+	Oh blast! I'm lost again!
+*: 
+	The paths around this town are so complicated that I just can't seem to find my way!
+*: 
+	Aah. You can't beat the feeling of a nice breeze.
+~ ⓗWanted: magic research assistant. ~
+~ Head south at this corner to apply.ⓘ ~
+*: 
+	This is utterly ridiculous!
+*: 
+	No one in their right mind would put up with this dreadful situation!
+*: 
+	I do apologise. ㈢㈢
+	It's just...er...㈢you see...
+	㈢㈢
+dy and I...
+@c0@��@a
+	*: It's just that the room...㈢㈢...isn't quite...er...
+*: 
+	I came along here because I was interested in meeting the old researcher here who's doing some work with spells.
+*: 
+	He's apparently going to great lengths to try to revive ancient spells that have long been out of use.
+*: 
+	It don't look like the pub's open yet.
+	Uhh, I need a drink!
+*: 
+	Heh heh! About time too!
+	Hurry up and gimme a drink, will ya?
+*: 
+	Eh? You don't work 'ere?
+	Crikey! Sorry!
+*: 
+	Right then, looks like I'm ready
+	for another night of serving.
+*: 
+	Hm? Zoomshine? Ooh, no. We don't stock that!
+	No one in their right mind would drink it.
+*: 
+	Ah-phew, ah-phew...
+*: 
+	There always seems to be smoke coming from old Professor Toilen Trubble's house.
+*: 
+	I'm more than a little bit worried that he'll set fire to the place one of these days.
+*: 
+	Yum yum!
+*: 
+	Nothing makes people happier than
+	tucking into some tasty food, I say!
+*: 
+	Everything else is just by the by, in my opinion.
+*: 
+	Darkness is attempting to eat into our world.
+*: 
+	But there is no need to be afraid.
+*: 
+	When the time comes, the legendary hero will reappear to rescue us all.
+*: 
+	Talkin' of legends, have you heard of the local brew, Zoomshine?
+*: 
+	Oh, right. You young travellers certainly know your stuff then, eh?
+*: 
+	It's been around for about a hundred years now. ⓗLife is but a drinkⓘ, that's what those who know about it say.
+*: 
+	It's such potent stuff that it even has the power to frighten monsters away!
+*: 
+	You can't buy it at the pub any more. It's pretty much impossible to get hold of nowadays.
+*: 
+	(BANG BANG) This is going to be a great piece of armour when I'm finished with it.
+*: 
+	You there! If you're after some fantastic
+	armour, come back to my shop at night
+	and check out my stock!
+Professor Toilen Trubble
+	What is it? What do you want? You're not another person come here to complain about the smoke,
+	are you?
+Professor Toilen Trubble
+	Pah! What I do in my own home is up to me.
+	It's none of your business!
+Professor Toilen Trubble
+	Now, you're getting in the way of my research.
+	I'll have to ask you to leave.
+Professor Toilen Trubble
+	Then you must be here to observe my research.
+	How nice of you to take an interest!
+Professor Toilen Trubble
+	If I'm successful with my current project, I'll manage to revive a long-lost spell.
+Professor Toilen Trubble
+	And a wonderful spell it is too! It allows you
+	to travel effortlessly between different places you've visited.
+Professor Toilen Trubble
+	Can you imagine how convenient that would be?
+Professor Toilen Trubble
+	So, what do you think? Are you willing to help me out with my work?
+Professor Toilen Trubble
+	Ooh! How wonderful!
+	Then follow me.
+Professor Toilen Trubble
+	Have a little look at this map here.
+Professor Toilen Trubble
+	Here we are in Zoomingale, see?
+Professor Toilen Trubble
+	Now, what I need is some of the lunar Zoombloom that can be found growing...right here.
+Professor Toilen Trubble
+	And I'd like you to go and fetch it for me.
+Professor Toilen Trubble
+	You can only go picking it at night, though.
+Professor Toilen Trubble
+	That's when it starts shining and
+	giving away its location.
+Professor Toilen Trubble
+	So, what do you think? Do you need me to
+	explain all that again?
+Professor Toilen Trubble
+	Wonderful!
+Professor Toilen Trubble
+	Well, I'll catch myself forty winks and wait for you to come back with the Zoombloom.
+Professor Toilen Trubble
+	Pah! You may dress up like an adventurer, but it seems you're nothing more than a coward, after all.
+Professor Toilen Trubble
+	Now, you're getting in the way of my research.
+	I'll have to ask you to leave.
+Professor Toilen Trubble
+	Aaaaaah. I'm so sleeeeeepy...
+Professor Toilen Trubble
+	The lunar Zoombloom glows bright as anything at night... Zzzz...
+*: 
+	Meow?
+*: 
+	Professor Toilen Trubble is
+	a real claws for worry.
+*: 
+	His garden would be just purrfect for a cat nap if only it wasn't so smoky.
+*: 
+	I feel a little bit better now I've let the cat out of the bag and confided in you, though.
+*: 
+	Let me tell you something
+	purrtinent by way of thanks.
+*: 
+	All over the world, there are special regional items purrculiar to each location.
+*: 
+	If you travel around a lot, you should try
+	to collect them. Then you'll be like the cat
+	that got the cream!
+*: 
+	Meow...
+*: 
+	Good evening. A warm and windy
+	welcome to Zoomingale!
+*: 
+	Oh no! Not another dead end!
+*: 
+	The paths around this town are so complicated that I just can't seem to find my way!
+*: 
+	I'm sorry, my lady...
+	I, er, I...
+	Zzzz...
+*: 
+	How absurd, expecting me to share
+	a room with that man!
+*: 
+	I rue the day I engaged his company!
+*: 
+	The Goddess deserted us long ago! (sob)
+*: 
+	Another drink, please, miss!
+	Amen to that... Hic!
+*: 
+	I'm afraid the priest's a bit
+	worse for wear tonight.
+*: 
+	Have you ever visited Hay, the village to the south of Lodestar Harbour?
+*: 
+	Then you probably had just as horrible an experience there as I did. What a place!
+*: 
+	Then I'd advise you to stay
+	well away from the place.
+*: 
+	The people there are absolutely hideous in the way they treat outsiders.
+*: 
+	This ain't supposed to be common knowledge, but Professor Toilen Trubble is always missin' one vital ingredient for his research.
+*: 
+	According to ancient legend, there's a tower somewhere that leads right up into the heavens.
+*: 
+	Ooh, searching for the legendary hero, you say? But you don't have much to go on?
+*: 
+	I know! You should collect up all
+	the Zenithian Equipment.
+*: 
+	If the legendary hero really exists, he'll be looking for exactly the same thing. Then maybe you'll bump into each other!
+*: 
+	Oh! I just can't seem to get to sleep!
+*: 
+	ZZZZ! ARGH-PHEW!
+*: 
+	Apparently Prince Harry, the King of Coburg's elder brother, got married not too long ago.
+*: 
+	I'd love to see what kind of woman his bride is!
+*: 
+	Aaah! This is heaven!
+*: 
+	You can't beat a nice, cool drink just
+	after you get out of the bath.
+*: 
+	Everything else is just by the by, in my opinion.
+*: 
+	What? This is Zoomshine!?
+*: 
+	That's absurd! I wouldn't drink something that disgusting, surely...!? Ha ha ha!
+~ The lid on the jar is shut tight. ~
+~ But a wonderfully enticing smell is coming from inside. ~
+~ Looking closely at the jar, it seems ~
+~ there's an old label stuck to it. ~
+~ ⓗLif......but a Dr...ⓘ ~
+~ But the writing is too old and worn to read. ~
+*: 
+	Ah-phew...
+	No outsiders can know... Zzzz...
+*: 
+	After some weapons, are ya, mate? Then you'd better come back durin' the day.
+*: 
+	I just rent this place of a night, see.
+Professor Toilen Trubble
+	Ooh! How wonderful! You brought the
+	lunar Zoombloom.
+Professor Toilen Trubble
+	So this is what it looks like.
+	How very exciting!
+Professor Toilen Trubble
+	Let's try it out right away!
+Professor Toilen Trubble
+	Pah! Don't interrupt me now!
+	Can't you see I'm busy?
+Professor Toilen Trubble
+	...This is it! Now all I have to do is take the lunar Zoombloom and...
+Professor Toilen Trubble
+	Hmph. That's odd.
+Professor Toilen Trubble
+	I was expecting that to have
+	revived the old spell, Zoom.
+Professor Toilen Trubble
+	It would be wonderful if you'd be so kind as to try out whether the spell's working again now or not.
+Professor Toilen Trubble
+	I say! What are you up to?
+Professor Toilen Trubble
+	It would be wonderful if you'd be so kind as to try out whether the spell's working again now or not.
+Professor Toilen Trubble
+	Ooh! Wonderful!
+	We did it! We did it!
+Professor Toilen Trubble
+	That's the way! Now I'll move right on to the next spell and see if I can keep up this run of good luck!
+Professor Toilen Trubble
+	Ooh! Have you come back to learn another spell?
+Professor Toilen Trubble
+	I'm afraid this one's proving to be rather tricky.
+Professor Toilen Trubble
+	I'm even starting to wonder if I'll manage to have it cracked during my lifetime at this rate!
+Professor Toilen Trubble
+	Fair enough. Just here to relax then, are you?
+Professor Toilen Trubble
+	Come to think of it, I wanted to give you a reward for helping me to make a success of the Zoom spell.
+Professor Toilen Trubble
+	I've been saving it for you especially...
+Professor Toilen Trubble
+	Here it is! A bottle of the legendary Zoomshine.
+	Now you can find out for yourself if life really is but a drink!
+Professor Toilen Trubble
+	Hm? What is it? You look rather troubled.
+Professor Toilen Trubble
+	Oh! I see. You've been taken in by what the townspeople told you, have you? Ha ha ha!
+Professor Toilen Trubble
+	Zoomshine is a very precious local brew only to be found in Zoomingale. And it tastes just wonderful!
+Professor Toilen Trubble
+	But it takes a terribly long time to make it, and there's barely a drop of it around nowadays.
+Professor Toilen Trubble
+	If outsiders found out about it and demand spread, it would be chaos, you see.
+Professor Toilen Trubble
+	So that's why we all fib a little. We don't
+	mean anything bad by it. Here you are,
+	anyway. This one's yours!
+~ %0%a000120 receives some Zoomshine! ~
+~ %0%a000180 acquires some Zoomshine! ~
+*: 
+	Welcome to Coburg.
+*: 
+	Ever since Prince Harry came home, this place has been gettin' better by the day!
+*: 
+	Prince Harry's wife really is a lovely girl!
+*: 
+	I always wanted to marry someone like her.
+	It's a bit late for me now, mind!
+*: 
+	Woof woof.
+*: 
+	There used to be a craftsman at Gotha Castle so good at his work that he was dubbed the King of Jewellers!
+*: 
+	If only he were here now, I'm sure he'd make a splendid job of Prince Harry's commemorative music box.
+*: 
+	Welcome to Coburg Castle!
+*: 
+	Do you know the tale about the great castle that fell from the sky a long, long time ago?
+*: 
+	Apparently, it's since that day that monsters have been terrorising mankind again.
+*: 
+	Hey! You're the one who defeated the Faux Dowager!
+*: 
+	Thanks to you, Coburg is well on its way back to normality. Thank you so much!
+*: 
+	The Queen Dowager has certainly quietened down her act since everything that happened.
+*: 
+	And King Wilbur has been a great surprise. I think a lot of people doubted whether he'd make a good ruler, but he's proving them all wrong now!
+*: 
+	Prince Harry and his wife seem so incredibly happy together.
+*: 
+	It makes us single chaps feel all the more lonely! Ha ha ha!
+*: 
+	Oh! Hello again! Remember me? I'm the old man from down in the jail.
+*: 
+	They let me out in the end, and now I'm being looked after beautifully.
+*: 
+	I can't tell you how grateful I am!
+	Thank you! Thank you! Thank you!
+*: 
+	These are Darwin the Psarologist's quarters.
+*: 
+	Hello there. The name's Darwin. I spend my time researching all about living things.
+Darwin
+	How have humans and other creatures evolved in the way they have? And could they ever develop into something more powerful?
+Darwin
+	It seems there was once a secret that unlocked these mysteries of evolution. Perhaps it was the hand of the Goddess.
+*: 
+	These are the Queen Dowager's quarters.
+Queen Dowager
+	Ah! How lovely to see you back!
+	You really helped us out of a pickle that time.
+Queen Dowager
+	I still can't really fathom how things ended up in such a terrible mess.
+Queen Dowager
+	It seems monsters may be trying to eat into the very fabric of our fragile world.
+Queen Dowager
+	You must take care.
+*: 
+	What a beautiful young wife Prince Harry has found for himself!
+*: 
+	I don't think I could be any happier!
+*: 
+	I must admit I'm a bit disappointed.
+	I had rather set my sights on marrying Prince Harry myself!
+King Wilbur
+	Ah, hello there! What a pleasure to see you!
+	I've been hearing all about you from that brother of mine.
+King Wilbur
+	I've been having my people look into this matter of the legendary hero for you. Sort of as a means of repaying my debt, you know.
+King Wilbur
+	Now, they've managed to learn that the shield used by this legendary hero currently resides in a town called Mostroferrato.
+King Wilbur
+	It seems this town is in Southern Zephyrus, the continent to the west of here. It's south of Zoomingale, if that helps.
+King Wilbur
+	You're probably itching to dash off there, but you must drop in on Harry before you do.
+	His room's just upstairs.
+Chancellor
+	We owe absolutely everything to you, dear %a000090! Everything!
+Chancellor
+	By the way, I hear they have some rather interesting goods on sale in Fortuna. Have you procured any for yourself?
+Chancellor
+	Ha ha! I might've known!
+	Good for you, %a000090!
+Chancellor
+	Then you should at least pop over there and pick up ⓗThe Big Book of Beastsⓘ. I imagine it would be incredibly useful on your travels.
+Chancellor
+	We owe absolutely everything to you, dear %a000090! Everything!
+Chancellor
+	By the way, if I remember rightly, Mostroferrato is where that rich man, Rodrigo Briscoletti, lives.
+Chancellor
+	He apparently owns not one, but several large ships. His name's all over the port towns all around the world.
+*: 
+	These are the quarters of Prince Harry and his wife. I'm afraid uninvited guests areⓚⓛ
+*: 
+	Oh! I beg your pardon! I didn't recognise you for a minute. Do go on through!
+*: 
+	I'll never ever forget the good you did here!
+Harry
+	Now there's a surprise!
+	You're here, %a000090!
+Harry
+	I've been looking for you all over the place.
+Harry
+	You see... I, er, wanted to invite you to my wedding!
+Harry
+	That's right! I'm a married man now!
+Maria
+	It's lovely to see you again, %a000090.
+Harry
+	Ha ha ha!
+	I suppose the situation speaks for itself, really!
+Harry
+	Truth be told, Maria probably preferred you to me all along.
+Maria
+	Harry, don't be silly!
+Maria
+	I'm sure there's someone out there who's just perfect for %a000090, though.
+Harry
+	Yes, yes.
+	Anyway, it's great to see you, old friend!
+Harry
+	It's a shame you couldn't make it to the wedding, but I saved a souvenir for you at least.
+Harry
+	Remember my old room?
+	Go and have a look inside the chest there.
+Maria
+	Coburg's finest music-box maker crafted us some commemorative souvenirs for our wedding.
+Maria
+	I don't know why Harry's gone and hidden one inside the chest in his old room, though.
+	How curious!
+~ %0%a000120 examines the treasure chest. ~
+~ It's empty! ~
+~ But there seem to be some letters carved on the bottom. %0%a000090 begins to read. ~
+~ ⓗI was too embarrassed to say this to your ~
+~ face, %a000090, so I thought I'd write it ~
+~ here instead. ~
+~ ⓗThere's not a day goes by even now when I don't spare a moment to remember your father. ~
+~ ⓗDuring our time as slaves, I always had an urge to make it up to you, the fact that I'd lived when he died. ~
+~ ⓗIt was that urge that took me through each day and helped me survive that awful time. ~
+~ ⓗI don't imagine there's anything in my power I can do to assist you in your quest for the legendary hero. ~
+~ ⓗBut it's my sincere hope that ruling this kingdom wisely and protecting my people will be of some help to you in some way or other. ~
+~ ⓗYou'll always be my lackey, %a000090... Ha ha ha! No, you'll always be my dear friend.ⓘ ~
+Harry
+	Hm? You couldn't find the wedding souvenir in the treasure chest?
+Harry
+	Ha ha ha! You're just as easy to trick as you
+	ever were!
+Harry
+	Very well. I'll give it to you properly this time.
+~ Harry proffers a beautifully crafted marital organ! ~
+~ %0%a000090 receives the marital organ! ~
+~ %0%a000180 acquires the marital organ! ~
+Harry
+	We actually intended to have a jewel set in the lid, but we couldn't find anyone able to do it.
+Harry
+	Anyway, it's great to see you. You should relax and stay a while now you've come all this way.
+Harry
+	You certainly seem to have an awful lot on your plate, %a000090.
+Harry
+	But have you never thought of adding to it by finding yourself a bride?
+Harry
+	I knew it! It comes to us all at this age,
+	you see!
+Harry
+	You'll find a beauty like mine in no time, I'm sure!
+Maria
+	Harry! ...Th-Thank you!
+Harry
+	I see. Finding your mother is the
+	absolute priority.
+Harry
+	But don't forget she's probably the one person 
+	in this world who wants to see you happy more than anyone.
+Harry
+	Maybe you should sort your own life out first, and then who knows where it will lead you...! Hah!
+Maria
+	I wonder what kind of woman you'll marry, %a000090.
+Maria
+	Make sure you invite us to the wedding,
+	won't you?
+*: 
+	Meeeow!
+*: 
+	Another end to another peaceful day! Prince Harry and his wife still seem so in love. Aaaah!
+*: 
+	Who can drame a man for blinking at a time like this!? Hic!
+*: 
+	The stars are so pretty. Aaah!
+*: 
+	Woof woof woof woof woof!
+*: 
+	This is just between you and me, but there are some really terrifying monsters attacking people over on that continent Apeliotes to the east.
+*: 
+	Some folk there are even saying that the end of the world is upon us.
+*: 
+	I'm really pleased my sister's back from Fortuna safe and sound.
+*: 
+	But she's changed so much. She used to be so hard-working, but now she seems to be going out all the time.
+*: 
+	I don't know whether to be happy or sad!
+*: 
+	Hello there, young man! Aren't you lovely! How would you like to have your fortune told?
+*: 
+	Oh! You've never had your fortune told before?
+*: 
+	Hmm... I sense that perhaps you're not ready quite yet. Maybe one day when you're all grown up and married.
+*: 
+	Well, not to worry. The spirits tell me that the girl for you is just around the corner!
+*: 
+	Hello there, young man! Aren't you lovely! How would you like to have your fortune told?
+*: 
+	Yay! Come and meet me in the gardens to the north of the castle tomorrow lunchtime!
+*: 
+	Are you sure?
+	That's a pity!
+*: 
+	Yay! You came! Ready to have your fortune told?
+*: 
+	Okay, focus your thoughts. I'm about to start...
+*: 
+	Zha zha doo!
+	Zha zha da!
+	Zha zha zha zho HAH!
+*: 
+	Zha zha doo!
+	Zha zha da!
+	Zha zha zha zho HAH!
+*: 
+	And finally, booloolooloolooloo!
+	Balabolabalabolabooboobolaboo!
+	BOO!
+~ Aah-aah-aaaah-CHOO! ~
+~ %0%a000120 tries to hold back a sneeze, but fails! ~
+*: 
+	Oh! It's just as the spirits told me:
+	ⓗThe mighty warrior of old,
+	Shall sneeze as if he had a coldⓘ!
+*: 
+	I'm still only a trainee fortune-teller, you see, and I tend to wave too much incense about the place.
+*: 
+	It gets right up people's noses, and they end up sneezing everywhere. That's why nobody wants me to tell their fortune.
+*: 
+	But I'm going to work hard and become the best fortune-teller ever, you'll see. Even better than that Mystic Mridula over in Fortuna.
+*: 
+	Oh, you're not quite prepared?
+	Okay. I'll be waiting here when you're ready.

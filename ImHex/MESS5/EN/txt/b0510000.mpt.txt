@@ -1,0 +1,187 @@
+Bianca
+	It's pretty amazin' findin' such a huge buildin' in the middle of the woods like this, eh?
+Nera
+	What a beautiful mansion. I wonder if someone famous lives here.
+%0%a001240
+	Wow! Who do you think built such a huge mansion?
+%0%a001250
+	It's a very impressive building, but it looks like it was put up quite a few years ago now.
+%0%a001250
+	It feels calm on the surface, but there's a very strange air to it.
+Sancho
+	Look at thees! I, I no expect to esee esuch
+	beauty een a place like thees.
+	Ees, ees eso moving! (blub)
+Tuppence
+	Good heavens! I'm rather bowled over by the place, it's so beautiful.
+Bianca
+	Fancy waitin' so long you end up dyin'! Maybe we should try and help the old guy out, eh?
+Bianca
+	So this place is a museum. It's a lovely spot, but it en't exactly on the beaten track, is it?
+Nera
+	Um, d-do you think that old gentleman is a
+	real g-ghost?
+Nera
+	I was hoping I might have misheard.
+Nera
+	A haunted old museum... Hardly the kind of place most people would be happy about going inside.
+%0%a001240
+	So is that old man dead, then?
+%0%a001240
+	The knick-knackatory? That sounds like fun!
+%0%a001250
+	What a funny old man, with his funny-looking halo and his funny old stick.
+%0%a001250
+	Maybe he's not properly dead yet.
+Sancho
+	Ees no easy to run a museum, you know.
+Sancho
+	But thees old señor, he esees very well, no?
+	He knows what we are carrying estraight away.
+Tuppence
+	Hmm. We already have quite a lot on our plates as it is, really.
+Tuppence
+	But if agreeing to this means we take control of such a fabulous building, we can't possibly say no!
+Bianca
+	We've got our own agenda, so we can't very well go travellin' about the place huntin' out souvenirs the whole time.
+Bianca
+	Still, if we just happen to come across a few along our way, then I dun't see that doin' any harm.
+Nera
+	I should think most people would question a strange proposition like that.
+%0%a001240
+	Sancho always told us we should do what we could to help people in need.
+%0%a001240
+	That old man's not exactly a person any more because he's a ghost and everything, but maybe we should still lend a hand?
+%0%a001250
+	The museum, or knick-knackatory as he calls it, obviously means a lot to him. That's why he can't tear himself away.
+Sancho
+	Ees true. For thees old señor to find the knick-knacks heemself, ees gonna be very hard. Harder than when he was alive, even.
+Sancho
+	You no theenk we eshould help heem?
+Tuppence
+	Ooh, that old man's eyes were so distant!
+	That's quite a trick!
+Bianca
+	A hidden treasure in a castle! That sounds like fun! We should go and have a look, %a000090.
+Nera
+	If the old man was unable to find it, I'm a bit doubtful as to whether we'll have any more luck.
+%0%a001240
+	King Dominicus's Dominion...
+	I thought that place was just famous for its chocolate medalliyums.
+%0%a001250
+	Sancho took us to King Dominicus's Dominion before.
+	I don't remember hearing anything about a dream souvenir there, though.
+Sancho
+	The castle of King Dominicus, ees no eso far from here, sí? Maybe we eshould go there and esee what we can find.
+Tuppence
+	A dream souvenir... Wonderful! There's nothing like a good treasure hunt.
+Bianca
+	D'you reckon this dream souvenir over at King Dominicus's Dominion can really be all that special?
+	I'm startin' to get a bit curious now!
+Nera
+	I wish we could bring it to him, I really do, but this dream souvenir of his is proving rather hard to find.
+%0%a001240
+	The old man's still standing there looking hopeful, even though he's dead and everything.
+%0%a001240
+	I feel a bit sorry for him, really. Shall we try
+	and find that dream souvenir he keeps going
+	on about, Dad?
+%0%a001250
+	I think we should try to help the old man out
+	a little, Dad.
+%0%a001250
+	He'll never make his way to the Goddess with his dream unfulfilled like this.
+Sancho
+	Ees eso esad to look at thees old señor when he ees eso unhappy. I, I... (blub)
+Tuppence
+	A dream souvenir... Wonderful! There's nothing like a good treasure hunt.
+Bianca
+	It's ours? This whole place is ours?
+	I can hardly believe it!
+Nera
+	He j-just... He went right through the d-door...
+	I feel all giddy.
+Nera
+	It's a delightful museum, but it does feel rather like it has a bit too much history to it.
+%0%a001240
+	The old man just disappeared! Let's go inside!
+%0%a001250
+	The maxi medal was just causing problems for everyone back at King Dominicus's Dominion.
+%0%a001250
+	And yet look how happy it made Old Man Nick Knack! I'll bet the medal itself feels much more contented here too.
+Sancho
+	But friend. I no theenk ees the time for us to be playing the museum curator, no? We have muchos, muchos to do.
+Tuppence
+	Good heavens! So now this museum is all miⓚⓛ
+	Er, I mean, all yours, %a000090.
+	I'm rather envious, I must admit.
+Bianca
+	So it's goodbye Old Man Nick Knack.
+	He did so much for us here at the museum.
+Bianca
+	Shame we didn't have enough time to
+	thank him properly.
+Nera
+	So the old man's spirit has finally made its way to
+	the Goddess.
+Nera
+	I'll miss him, but it's good that he's made his journey to the heavens at last.
+%0%a001240
+	He's gone! Does that mean we won't get to see him any more?
+%0%a001250
+	Old Man Nick Knack may be no longer with us...
+%0%a001250
+	But I can't help feeling that he's not too far away.
+Sancho
+	Ees because of your efforts, My Majesty, that thees knick-knackatory ees esuch a fine place now.
+Sancho
+	Thees old señor, now he can rest at last.
+Tuppence
+	I always knew the time to say goodbye would be upon us one day.
+Tuppence
+	But that doesn't stop it from being hard to come to terms with when it happens.
+Bianca
+	Well, there's a turn-up! He just meant he was goin' off for a kip!
+Nera
+	It's good that he's having a nice sleep, but...
+	Ooh, this is all rather bemusing.
+%0%a001240
+	The old man seems to have forgotten he's a ghost!
+%0%a001240
+	He doesn't look like he'll be waking up for a while.
+	But we can cope on our own now, right?
+%0%a001250
+	I did feel like I could still sense his presence, but I didn't realise that was because he was still here!
+%0%a001250
+	He's in such a deep sleep. Do you think it's okay that he's not making any moves to go to the Goddess?
+Sancho
+	Sí, thees ees how you take the siesta!
+Sancho
+	Now thees old señor, he ees esleeping, eet means you have become the real man, My Majesty.
+Tuppence
+	I don't believe I've ever seen a snoring ghost before.
+Debora
+	That's a decent-sized building.
+	I wouldn't want to live here, though.
+	There's nothing for miles around.
+Debora
+	I see. He had work left undone when he died. That's why he became a ghost and couldn't leave the place.
+Debora
+	If he wants to see it that much, why doesn't he just go and find it himself? He's a ghost now, so it's not like the journey would wear him out.
+Debora
+	I don't like taking orders from anyone.
+	Let's get out of here.
+Debora
+	You're not planning on going in search of it, are you?
+Debora
+	Fine, fine, if you insist. I'll come with you, but I'm not going to help you look.
+Debora
+	Hm, that's odd. I was sure a little challenge like this would be just your cup of tea.
+Debora
+	A dream souvenir... Sounds like a bit of a pain, but shall we see if we can find it?
+Debora
+	Museum curator? It'd better not be too much work.
+Debora
+	Now that he's enlisted our help, it looks like his business here is done and he can finally leave.
+Debora
+	Hmph! He could've picked his turn of phrase more carefully. I thought he meant he was gone for good when he said he was going to rest in peace.

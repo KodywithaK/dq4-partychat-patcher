@@ -1,0 +1,1256 @@
+Nera
+	So that's why he ended up destroying their crops instead. He had to find food somehow.
+Bianca
+	There's no point tryin' to tell him %a001210 wouldn't attack people. He's in too much of a tizz to listen properly.
+Nera
+	I can't understand why people are so afraid of %a001210. He's so quiet and sweet.
+Bianca
+	So much for leavin' %a001210 behind to stop people freakin' out. Looks like they're just as scared of us as they are of him!
+Nera
+	He's talking about %a001210 as if he's some kind of monster.
+Bianca
+	That old woman seems relatively calm.
+	Maybe she en't scared.
+Nera
+	The people here in this village seem to think of %a001210 as some kind of monster.
+Bianca
+	At least kids en't phased by it all, eh?
+Nera
+	Looks like you're something of a hero in that little boy's eyes, %a000090. He he he!
+Bianca
+	So you're a monster tamerer, are you? Ha ha!
+Nera
+	He he he! A monster tamerer! How funny!
+Bianca
+	Maybe it'd be better if we steered clear of this place from now on, eh?
+Nera
+	Oh dear. We don't seem all that welcome here. I think we should probably make ourselves scarce.
+Bianca
+	What a horrible man! It looks like he thinks you got %a001210 to terrorise the village from square one.
+Nera
+	How rude of him to think something like that of you! What a nasty character!
+Bianca
+	I feel really down in the dumps now.
+Nera
+	It looks like it'll be an uphill struggle trying to get these people to understand the situation.
+Bianca
+	We didn't even say we wanted the
+	stupid scarecrow!
+Nera
+	The people here really are petrified of us,
+	aren't they?
+Bianca
+	Yeah, it's a scary-lookin' scarecrow, alright.
+	I'd rather not touch it unless I have to.
+Nera
+	That scarecrow's not so scary once you get used to it. At least it has a bit of character.
+Bianca
+	This little adventure didn't turn out so good, eh? At least we got reunited with %a001210, though.
+Nera
+	He's in shock because he feels like you must have betrayed him. Hopefully he'll come round and
+	trust us sooner or later, though.
+Bianca
+	I'd rather just give back the money the Bailiff give us, wouldn't you?
+Nera
+	There's no talking to these people. If only they'd give us the chance to explain.
+Bianca
+	It's nice to finally hear a few words of thanks, eh?
+Bianca
+	I do feel a bit guilty, mind. Our %a001210 almost had this place on the brink of starvation, after all.
+Nera
+	That's nice. At least one person here in Hay feels grateful to us for what we did.
+Nera
+	I feel much better now. Let's just wipe the slate clean and get on with our journey.
+Bianca
+	Maybe the monster who's bin attackin' Hay hangs out in this cave.
+Bianca
+	I thought I was only comin' with you to look for
+	some ring, and yet here we are goin' after a
+	monster again!
+Nera
+	The monster will probably be quite aggressive because we've strayed into its lair.
+Nera
+	Do take care, darling.
+Bianca
+	All them bones scattered about the place are a bit of a worry, eh?
+Nera
+	It's rather disconcerting seeing all the bones strewn about in here, isn't it?
+Bianca
+	The paths are a bit dodgy in here, eh?
+	Mind where you're walkin', won't you?
+Bianca
+	Have you still got that ribbon I give you back when we were kids?
+Bianca
+	That's good. It's nice to know you've kept it
+	all these years.
+Bianca
+	But you've got it right there! Stop teasin' me, you cheeky monkey!
+Nera
+	Walking along this path with all these holes everywhere is starting to make me feel rather faint.
+Nera
+	I'm really worried about falling, but I'll do my best to keep up with you.
+Bianca
+	Oops! I hope that soldier en't fallen on his head.
+Nera
+	Oh dear! I hope that soldier's alright.
+Bianca
+	Looks like soldiers are made of pretty stern stuff.
+	I didn't expect him to faint, mind.
+Nera
+	I'm glad he's alright. I wonder where this almighty beast is lurking, though...
+Bianca
+	You dun't think that giant sabrecat could've bin...
+Bianca
+	Nah. I s'pose the chances of that are pretty slim, really. Just ignore me.
+Nera
+	That was strange. That monster seemed to be holding back a little and not attacking with its full might.
+Bianca
+	So that's the big monster? It seems a bit pitiful to me. I feel bad for goin' after it.
+Nera
+	Do you think that's the almighty monster? It's a bit different to how I expected. Maybe we could talk it into joining us?
+Bianca
+	%0%a001210 remembered my ribbon after all this time. That's so cute!
+Bianca
+	%0%a001210 has bin lookin' after Pankraz's sword all these years. Waitin' to give it back to you sometime, %a000090.
+Bianca
+	It's goin' to be a bit tricky explainin' this away to the folks back in Hay.
+Nera
+	Ooh! So this is the first monster you ever
+	befriended, then?
+Nera
+	It must have had a terrible time of it since being parted with you. But it survived. We should be sure to praise it.
+Nera
+	I feel like I've seen the crest on your father's sword somewhere before.
+Nera
+	I wonder how we can persuade the people of Hay to forgive %a001210. He did destroy their crops, after all.
+Bianca
+	We came through here when we moved to Stockenbarrel. It's impossible to find your
+	way 'round the place.
+Nera
+	There are so many stairs here. It looks like it could be a terribly tedious town to get around.
+Bianca
+	I remember hearin' about some wacky old man researcher who lives here.
+Bianca
+	Oh! He taught you a new spell, did he? Then I s'pose we owe him one.
+Nera
+	Mama and Papa say they brought me here when I was little, but I don't remember a thing.
+Bianca
+	If the smoke bothers him that much, why dun't he just keep his distance?
+Nera
+	Maybe he should spend his time researching how to research spells without kicking up so much smoke!
+Bianca
+	Travellin' folk certainly always seem to have their fair share of gossip to pass on, eh?
+Nera
+	I didn't expect to hear talk of Coburg in such a
+	far-flung place.
+Bianca
+	I wouldn't have minded seein' a royal weddin' neither. Oh well.
+Nera
+	Yes, Harry must be delighted to have found himself such a beautiful bride.
+Bianca
+	Hang on a minute! Are we lost too?
+Bianca
+	Huh, I thought as much. If only we could just jump down off the walls, it'd be dead easy.
+Bianca
+	Phew. That's a relief. I'm countin' on you, okay, %a000090?
+Nera
+	I wouldn't get lost even if I walked around with my eyes closed.
+Nera
+	I have you to look after me and guide me in the right direction, after all!
+Bianca
+	Yeah, there is a lovely breeze blowin' here all the time, eh?
+Nera
+	The view here is incredible. I can imagine it's a very relaxing spot.
+Bianca
+	Blimey! Shoutin' and moanin' like that en't what you expect from a lady, eh?
+Nera
+	If she stays angry like that, she's going to end up with a face like a slapped behind!
+Bianca
+	Maybe it's not such a surprise she's so angry with a servant like him.
+Nera
+	Why doesn't he just say they'd like to stay
+	the night?
+Nera
+	Do you suppose there's something a bit funny
+	going on?
+Bianca
+	It seems to be a bit of a bother for some of the townsfolk, but it sounds like the old man's doin'
+	some good work.
+Nera
+	The old man certainly helped us out by getting the Zoom spell up and running again.
+Nera
+	It would be lovely if he could keep working on some new spells, but it does seem a terrible inconvenience for the townspeople.
+Bianca
+	I can understand him wantin' a drink, but he must be pretty desperate to be hangin' about waitin' here on his own.
+Nera
+	He must really love to drink if he's waiting for the pub doors to open!
+Bianca
+	Blimey! Somebody was obviously desperate for a drink, eh?
+Nera
+	Oh dear. We seem to have confused the poor chap and made him all embarrassed.
+Bianca
+	Smell that booze in the air! I reckon you could get a bit tipsy just from breathin' in this place!
+Nera
+	Do you think they can really get through that much drink in one night?
+Bianca
+	Hmm. I can't help feelin' like he's hidin' somethin'.
+Nera
+	Don't you think he looked a little shifty? Almost as if he was fibbing to us for some reason.
+Bianca
+	Looks like lots of folk live here together, eh?
+Nera
+	It must be fun living with lots of people like they do here. Never a dull moment!
+Nera
+	It was only Mama, Papa, Debora and I in our family, but we still had lots of fun.
+Bianca
+	Yeah, I s'pose that's fair enough. I'd probably worry about the same thing if I lived here.
+Nera
+	A fire's one thing, but I'm worried about the effect all that smoke is having on him too.
+Bianca
+	If that's what floats his boat, then who are we
+	to argue?
+Nera
+	The thing that makes me happiest is being
+	with you, darling.
+Bianca
+	That dun't mean folk should just sit around waitin' for it to happen, though, eh?
+Nera
+	Maybe the legendary hero will come and save the day. But people should do what they can themselves in the meantime, just in case.
+Bianca
+	I imagine it'd frighten away the customers too, if it's as bad as it sounds.
+Bianca
+	Seems like the folk here like to have a bit of fun where the old Zoomshine's concerned. Let's just
+	keep quiet, eh?
+Nera
+	Why would it be their famous brew if it tastes
+	so terrible?
+Nera
+	There's no need for him to be quite so vocal.
+	It's not like we'd wipe the town out of its supplies
+	or anything!
+Bianca
+	I wonder what kind of spell he's workin' on this time. It's pretty excitin', eh?
+Nera
+	The poor old man seems a bit worse for wear.
+	I suppose it's only to be expected with how much
+	he pushes himself.
+Bianca
+	Oh, I get it! So that's what it's all about. We'd better not go guzzlin' it down if it's that valuable, then!
+Nera
+	I don't think even Papa knew about this Zoomshine. We must make sure we look after it carefully.
+Bianca
+	It's way too smoky here to even think about relaxin'.
+Nera
+	What a friendly old man he is. I do hope he can improve his relations with the other townspeople somehow.
+Bianca
+	Crikey! Did I imagine it, or did that cat just talk to us!? Maybe they learn how to do it as they get older.
+Nera
+	Our dog Bingo chatters away to me sometimes when we're alone, you know. He he he!
+Bianca
+	It's bin another tirin' day, eh? Maybe we should think about gettin' some sleep before long.
+Nera
+	Is it alright if we turn in for the night soon, darling? I seem to be feeling terribly sleepy just lately.
+Bianca
+	Just how long has that soldier bin lost!?
+Nera
+	I don't mind navigating my way through complicated streets as long as we're together.
+Bianca
+	It must be freezin' sleepin' on the floor like that.
+	I wonder if she made him.
+Nera
+	Dear me! He must be a terribly restless sleeper to have ended up in that position!
+Bianca
+	They're a pretty funny couple, eh? That posh woman and her servant sleepin' there on the floor.
+Nera
+	Surely it can't be good for you to be angry in
+	your sleep.
+Bianca
+	I doubt there's many a place you'd see a priest worse for wear like that, eh?
+Nera
+	Oh dear. How can a priest possibly give guidance to people when he feels like that?
+Bianca
+	I wonder if the folk over in Hay are still angry about what happened with %a001210.
+Nera
+	The people of Hay are probably finding it hard to trust anyone after what happened with us.
+Bianca
+	That dun't sound good. We should probably pop over there sometime and see what's goin' on.
+Nera
+	Maybe they've had bad experiences with outsiders in the past that have made them a bit wary.
+Nera
+	We should visit the place and find out what the problem is.
+Bianca
+	He's a bit behind the times, eh? That's what comes of bein' down the pub too much.
+Nera
+	You brought him the missing ingredient ages ago, didn't you, %a000090? That man obviously doesn't know yet.
+Bianca
+	Right up to the heavens?
+	That must be a blimmin' tall tower!
+Nera
+	I'm sure I'd get terribly dizzy if I ever climbed a tower that high.
+Bianca
+	It's a bit of a hassle for us and the hero, eh? All this huntin' about lookin' for weapons and the like.
+Nera
+	Maybe it would be a big help to the hero if we tried to collect the Zenithian Equipment.
+Bianca
+	I can see why she can't sleep with that awful
+	noise comin' from next door! The pub downstairs
+	en't quiet neither.
+Nera
+	That poor woman. There's nothing more frustrating than not being able to get to sleep.
+Bianca
+	So that's the noise we've bin hearin' since we come in this buildin'! What a racket!
+Nera
+	He won't have any teeth left if he keeps grinding them at that rate!
+Bianca
+	I was surprised that he's a mate of yours.
+	Friends with a prince, eh?
+Nera
+	I wonder what people thought of our wedding.
+Nera
+	Do you think they thought we make a good couple?
+Nera
+	Oh! That's so sweet, darling!
+Nera
+	Oh... Then I'll have to try harder from now on to make us look happier together.
+Bianca
+	The lucky thing! Sounds like he's really enjoyin' that.
+Nera
+	I always like to drink a nice glass of cold milk after I've had a bath.
+Bianca
+	Hah! He's doin' a good job of lyin', eh? Let's just leave him be to enjoy his drink.
+Nera
+	You really shouldn't put people in a position where they have to lie to you, %a000090.
+Bianca
+	This is where the Circle of Fire was, eh?
+Bianca
+	You certainly had some nerve, sayin' you'd go after them weddin' rings all on your own!
+Bianca
+	I feel like our weddin' rings are really special. They belong together more than any other rings in the world ever could.
+Bianca
+	It's a bit hot under the collar in here, eh?
+	Can we get some fresh air?
+Nera
+	Just look at that lava! I had no idea that the Circle of Fire was hidden in such a scary place!
+Nera
+	I wonder if Papa realised what a dangerous place he was sending people to.
+Nera
+	Thank the Goddess that no one lost their life trying to find that silly ring!
+Bianca
+	What are we doin' here again, %a000090? Got a bit of a thing for this place, have you?
+Bianca
+	If only there weren't any monsters here, it'd be a beautiful spot to come to, eh?
+Nera
+	Ooh! A cave behind a waterfall! So this is where you found the Circle of Water.
+Nera
+	You came here with Bianca, didn't you?
+Nera
+	Hmm... That makes me feel a little jealous. If only you and I had been childhood friends, %a000090.
+Bianca
+	Oh yeah? So only a maiden approved by the Goddess gets to open the doors to this place, eh?
+Bianca
+	Hmm... I s'pose that counts me out, then!
+	Come on, let's go!
+Nera
+	The only one who can open these doors is a maiden with the blessing of the Goddess.
+Nera
+	I suppose I'm no longer considered a maiden now I'm married to you. I doubt I'd be able to open the doors.
+Bianca
+	This place has got a really mysterious feel to it.
+	And it's ever so pretty too.
+Nera
+	I never came here during my time at the abbey.
+Nera
+	I wouldn't have dreamt of travelling around by myself back in those days.
+Bianca
+	That's a shame. I wonder why you're not allowed to pass of a night.
+Nera
+	Do you think he has to man this place at this hour? How tiring for him!
+Bianca
+	Comin' here reminds me of the time we came ghost-bustin' together. That was a scary old night, eh?
+Bianca
+	I wonder if the Count and Countess are still havin' a nice, peaceful rest.
+Nera
+	What are we doing at a derelict old castle like this, %a000090?
+Nera
+	What!? You came here on an adventure with Bianca once? Hmph!
+Nera
+	It's a little rough around the edges, but I'm sure the place could look fantastic if only someone would give it a bit of attention.
+Bianca
+	It really is a dusty old hole, eh?
+Bianca
+	It's like time's stood still ever since we defeated that boss man last time.
+Nera
+	(cough cough)
+	It's terribly dusty in here!
+Bianca
+	I dun't sense anythin' nasty here no more. Looks like all the monsters have gone for good.
+Bianca
+	All the shadows and nooks and crannies in this place were pretty scary back when we were kids, eh?
+Nera
+	There used to be ghosts here when you were little, didn't there?
+Nera
+	You must have been so brave coming here then! I know it was for %a001210's sake, but still.
+Nera
+	I feel a bit jealous of Bianca. I wish I'd been the one to come here on that adventure with you.
+Bianca
+	It was a bit scary last time, eh? All the thunder and lightnin' in this place.
+Nera
+	Were there coffins lined up in place of beds when you came here last time? Brrr! That's really creepy!
+Bianca
+	You dun't think that was the Count and Countess, do you? They looked a bit too real.
+Nera
+	Were they live humans? Or were they...!?
+	Darling, I'm scared!
+Bianca
+	Love across class boundaries, eh? Who do you reckon was the upper class one, then? Him or her?
+Nera
+	Isn't it sweet that they've stayed together in the face of adversity?
+Nera
+	If Mama and Papa had been against me marrying you, I probably would've run away from home too.
+Bianca
+	Sounds like the Count and Countess have bin nice and welcomin' to these two, eh?
+Nera
+	Thank the Goddess that they're still here to tell the tale. Each day of life could bring new hope and happiness, after all.
+Bianca
+	Looks like all's well with the graves, so that's a relief.
+Nera
+	Bianca was buried alive here!?
+Nera
+	I think I would've been too scared to speak.
+	I probably would've ended up dying in there!
+Bianca
+	This is where I got buried alive! What a laugh, eh!
+	Not that it was much fun at the time, mind.
+Nera
+	The Count was obviously really devoted to his wife, wasn't he?
+Bianca
+	Do you think that bloke's a ghost, %a000090?
+Bianca
+	Yeah, he looks a bit transparent, eh? Do you think he can't go to his rest? Or do you think he just likes restin' at the inn too much?
+Bianca
+	Really? Maybe I should get my eyes tested, eh?
+Nera
+	D-D-Darling... That man's shadow is r-r-rather weak. Do you think he might be a ghost?
+Nera
+	Oh! Oh dear! I feel all woozy! Can you hold onto me in case I faint?
+Nera
+	V-Very well. If you're sure.
+Debora
+	I wondered what you were doing coming to a village stuck out in the middle of the mountains. 
+	You were bringing me to a spa resort!
+Debora
+	I like your initiative there, %a000090. Keep up the good work and you'll make me a happy wife yet.
+Debora
+	Soaking in baths like these is good for your skin,
+	isn't it?
+Debora
+	You'd probably be pleased if I became even more beautiful than I am now, wouldn't you?
+Debora
+	I thought so. You married me for my beauty, after all, so you're bound to be happy.
+Debora
+	You're not worried about me becoming more beautiful? Surely you're not jealous?
+Debora
+	I suppose that's quite sweet in a way.
+	I'll forgive you.
+Debora
+	He wants to be a priest? Very strange, if you
+	ask me. Nera was full of similar ideas a while
+	back, though.
+Debora
+	I hadn't noticed you were quite so overjoyed about becoming my servant, but he's right, it's written all over your face.
+Debora
+	People often say that I'm quite cat-like.
+	They must mean I'm sweet, right?
+~ Debora looks livid! It might be wise to make a ~
+~ swift exit. ~
+Debora
+	I suppose you think that's funny, do you, %a000090?
+Debora
+	The baths here are good for your skin, you know. We're not far from Mostroferrato, either, so maybe we should come again soon.
+Debora
+	This is where that Bianca lives, isn't it?
+	You can drop in on her briefly if you like.
+Debora
+	I'm not the kind to get jealous about that sort of thing. I'm very generous, you know.
+Debora
+	There's nothing to this place apart from the baths. Looks like I'll have to give up on my idea of shopping for new clothes.
+Debora
+	Oh yes. My veil was made here.
+	It was surprisingly well-crafted.
+Debora
+	A White King's Paradise? Sounds like a figment of someone's imagination, if you ask me.
+Debora
+	I bet it's just a scam they've come up with to take money from people. There's nothing holy about that!
+Debora
+	This inn's not bad. You can go in the baths whenever you want and everything. We'll stay here tonight, %a000090.
+Debora
+	I'm surprised to see a pub in such a small village.
+	It must be for the bath-goers.
+Debora
+	Why would anyone in their right mind want anything to do with this White King's Paradise? It sounds dodgy as anything to me.
+Debora
+	Looks like that Bianca girl isn't around today.
+Debora
+	We may as well stay the night now we're here.
+	I'll have a bath before bed.
+Debora
+	I hadn't noticed you were quite so overjoyed about becoming my servant, but he's right, it's written all over your face.
+Debora
+	Hmm... Maybe you're stronger than you seem.
+	Maybe you just look scrawnier than you really are.
+Debora
+	It should be interesting to find out!
+Debora
+	It wasn't a bad veil. It was made especially for me for one thing, and it suited me, of course.
+Debora
+	He's fast asleep. We won't be very popular if we wake him, so let's get out of here.
+Debora
+	You don't think she's planning on staying up waiting for her husband to come home, do you? She's keen!
+Debora
+	Just so you know, there's no way I'd ever do that.
+	I wouldn't let you go to bed before me, either.
+Debora
+	What do you think you're doing, bothering people while they're sleeping? Are you trying to make yourself unpopular?
+Debora
+	Well don't blame me if you wake someone up and get a clip around the ear!
+Debora
+	Well get away from her then!
+Debora
+	Surely you don't want to watch any woman but me sleeping. Let's go!
+Debora
+	He has a good eye for people. Bianca is definitely a catch. Not as much of one as me, of course.
+Debora
+	Looks like I'm not the only one who finds the whole thing a bit fishy.
+Debora
+	I thought so. He's got a thing for Bianca, hasn't he?
+Debora
+	I wouldn't get angry like that if you ever had
+	too much to drink. I'd just forbid you from ever drinking again!
+Debora
+	Scintillating sinter is a famous local speciality,
+	if I remember rightly.
+Debora
+	It doesn't sound like he's from around here, though. He's a bit of a dodgy character, I'd say.
+Debora
+	There is a lovely smell coming off the baths, actually. I wonder if that's the scintillating sinter.
+Debora
+	We should definitely take some time for a bath while we're here.
+Debora
+	Why doesn't he just get out of the well then?
+	Or is he stuck? Too weak to climb out on his own?
+Debora
+	I suppose he can't ask anyone for help if he is, though, what with being here picking scintillating sinter on the sly.
+Debora
+	Ha ha! Are you speechless in the face of my beauty, %a000090? You're a simple little thing at times!
+Debora
+	So she's not here. So what?
+	I'm not bothered either way.
+Debora
+	Looks like Bianca won't be home until tonight.
+	Any idea where she might be, %a000090?
+Debora
+	Really? I don't actually care.
+Debora
+	I thought so. You're only interested in me,
+	aren't you?
+Debora
+	So that's Bianca's father? He's so happy to see you! He doesn't look well, mind.
+Debora
+	Bianca's certainly popular. I suppose she's quite pretty, and she's nice enough. Not as nice as me,
+	of course.
+Debora
+	That's good, %a000090. Bianca seems well.
+	Not that it means anything to me.
+Debora
+	This is the kingdom your friend's brother rules, isn't it? That friend of yours who came to our wedding,
+	I mean.
+Debora
+	So my servant's friend is big brother to a king.
+	That sounds quite impressive!
+Debora
+	I never heard very good things about Coburg in the past, but it seems peaceful enough now.
+Debora
+	And you know what peace means? Peace means shopping! Hopefully I'll find a nice new outfit.
+Debora
+	Prince Harry could be quite a useful person to know. Make sure you keep him onside.
+Debora
+	I know you're happy, %a000090.
+	You married me, didn't you?
+Debora
+	Hmm... There's a craftsman in Gotha who people call the King of Jewellers.
+Debora
+	I suppose a man of that skill might be able to make some accessories pretty enough for my lovely self.
+Debora
+	Do try not to show me up in front of His Majesty, won't you, %a000090?
+Debora
+	A castle fell from the sky? That hardly sounds likely! How could it have got up there in the first place?
+Debora
+	And I don't see how it can have been the cause of the monsters going on the rampage, anyway. 
+	Sounds like a load of cock and bull to me.
+Debora
+	It reflects well on me when my servant receives
+	a compliment.
+Debora
+	I doubt looking at you and I makes him feel lonely.
+	No, not so much lonely as jealous!
+Debora
+	You certainly had your finger in a lot of pies, didn't you? Of course, I'd expect no less from a servant of mine.
+Debora
+	Maybe I could use the Secret of Evolution to become even more beautiful? ...No, I think I've reached the upper limit on that one!
+Debora
+	I'm not worried about meeting the Queen Dowager! She's not important enough for me to start kowtowing.
+Debora
+	The Queen Dowager must be a bit stupid to have allowed herself to be usurped by an impostor
+	like that.
+Debora
+	She'd still be in jail now if it wasn't for you, %a000090. A bit more gratitude wouldn't go amiss, in my opinion.
+Debora
+	This castle's quite impressive. I'd like to live somewhere like this one day.
+Debora
+	That means you'll have to work hard to make my dream come true, %a000090. I don't mind waiting a little while.
+Debora
+	We need the legendary hero if we're going to help your mother. It's a pain that he's nowhere to be seen.
+Debora
+	How can he not have noticed me when I was right there? He must need his eyes testing!
+Debora
+	Sounds like you and he had a bit of a tough time
+	of it.
+Debora
+	But now you're living happily ever after, and it's all thanks to me. I know you'll be sure to show your gratitude.
+Debora
+	Harry's quite the imaginative one, having a music box made as a wedding souvenir. Or do you think it was his wife's idea?
+Debora
+	I let Papa take care of that for my wedding, but now I wish I hadn't. It's the kind of thing you should really decide for yourself.
+Debora
+	It would be a bit boring if you were stuck here in this castle the whole time. I can see why he wants to go off travelling.
+Debora
+	Are we getting a room here tonight? Hurry up about it if we are. I don't like being kept waiting.
+Debora
+	Why is it that men always have to have an excuse for drinking? Can't they just drink because they want a drink?
+Debora
+	The stars really are pretty. They're twinkling away because of me, you know.
+Debora
+	People who say something's just between you and them have usually told the world and his wife.
+Debora
+	Huh! Here we are trying to enjoy our travels, and we have to put up with that kind of nonsense.
+Debora
+	That woman must've been trying to provoke me. There's no other reason she'd flirt around you
+	like that.
+Debora
+	You're going to meet that girl, are you?
+Debora
+	It does sound intriguing. I'll come along with you.
+Debora
+	Hmm... I wouldn't mind perfecting my
+	fortune-telling, actually.
+Debora
+	You'll have to be my guinea pig, obviously. Are you ready to hear the mysterious words of the spirits?
+Debora
+	Okay, then... Spirits, speak to meee!
+	Just as I thought. They say to treasure your wife, the most beautiful woman in the world!
+Debora
+	Shut up, of course you are. Okay, here we go...
+	Spirits, speak to meee! Oh, really? I see...
+	They say that you should obey your mistress more.
+Debora
+	It's a bit of a small town, but it has a few shops, so it's not so bad.
+Debora
+	You've been to quite a few places in your time, haven't you? It's great for me because it means you tend to know your way around.
+Debora
+	This is where that Bianca grew up, is it?
+Debora
+	Why don't you go and look her up?
+	Go on, go now before I change my mind.
+Debora
+	He's lucky to be alive if he deserted the army.
+	I would've thought he'd be executed for that.
+Debora
+	%0%a000090... I know this is unlikely, but you don't ever feel like you might want to desert me, do you?
+Debora
+	That's what I thought.
+	I knew it was unlikely.
+Debora
+	Is that your idea of a joke? You'll always be my servant, and don't you forget it. I won't permit you to run away!
+Debora
+	Looks like people here haven't heard about what you did. Not that it bothers me particularly.
+Debora
+	We had the Zenithian Shield at home, so the other items probably exist too. I wonder where this man is who knows all about legends.
+Debora
+	So this is where that Bianca used to live all those years ago.
+Debora
+	This inn's not bad. We could stay here for a few nights if you like, %a000090.
+Debora
+	It smells quite nice. Could be the perfect accompaniment to a nice afternoon siesta.
+Debora
+	You have a lot of memories of this place, don't you, %a000090? Not that I care much either way,
+	of course.
+Debora
+	Papa always said that pubs are good places for gathering information because there are so many people coming and going.
+Debora
+	We'll have to try and have a chat with that man who's supposed to know all about legends.
+Debora
+	If the legendary hero really existed, then it's certainly not impossible that there are
+	descendants of his out there somewhere.
+Debora
+	Can you hurry up and find us a room? I'm getting tired now, and I need to give myself a manicure before bed.
+Debora
+	I'm not finding our journey tiresome at all.
+	That's because I leave all the annoying jobs to you.
+Debora
+	You communicate with monsters too, don't you, %a000090? But surely...
+Debora
+	I wouldn't mind a bath. Get it ready, will you, %a000090?
+Debora
+	That doesn't mean I want you to get in it, by the way! Just to be perfectly clear.
+Debora
+	I doubt he'd manage a trip to Stockenbarrel all on his own, but maybe he's stronger than he looks.
+Debora
+	What a mess! There was no need for them to trash the place quite this much.
+Debora
+	You look a bit pale, %a000090. I think you'd better have an early night. In fact, that's an order.
+Debora
+	How annoying! He had what he needed right there in front of him, but he couldn't make use of it.
+Debora
+	So the only way we can help your mother is to find the hero of what might be nothing but a legend.
+Debora
+	Hmph. I suppose if that's the only way, then there's nothing for it.
+Debora
+	I know I'm probably barking up the wrong tree here, %a000090, but I'll ask anyway.
+Debora
+	I'm right in thinking that you never find our quest for the legendary hero tedious, aren't I?
+Debora
+	That's good. And it's good that you didn't try to tease me by saying no. I don't have much patience with being teased.
+Debora
+	That's not funny. And it means you've lost nine points so far. When it gets to ten... You don't even want to know what happens when it gets to ten.
+Debora
+	I wonder how flowers are managing to bloom in here. How strange!
+Debora
+	Maybe they're a present for me, in honour of
+	my beauty...?
+Debora
+	What a sad-looking place. It doesn't help that it's night, I suppose.
+Debora
+	Do you know who this Honey character is?
+	A faerie!? Ha ha!
+Debora
+	You sound just like Nera. She was always going on about faeries when we were kids. I don't believe in them one bit!
+Debora
+	I suddenly feel this urge to see Mama and Papa.
+Debora
+	What? You think it's not like me to say something like that, don't you? I suppose you're right.
+Debora
+	Are we really staying here for the night?
+	Well, I suppose if that's what you want.
+	I'm not bothered either way.
+Debora
+	You really love your caves, don't you? It's amazing that you were exploring places like this as a kid.
+Debora
+	That wasn't a compliment, by the way, so don't get the wrong idea. What I meant was that I find it hard to comprehend, that's all.
+Debora
+	Caves are damp and smelly and dark and claustrophobic, and there's never any sunshine...
+Debora
+	You can be as fanatical as you like about them, but you'll never convince me.
+Debora
+	That's quite impressive, you being let through like that. You surprise me.
+Debora
+	There's a river flowing above us, isn't there?
+	It's a bit of an odd feeling. You don't think this
+	place could flood, do you?
+Debora
+	The breeze coming off the river is quite pleasant.
+Debora
+	Yes, rivers are to be enjoyed from up above, not to be walked underneath.
+Debora
+	So this is where your father wasⓚⓛ
+~ Debora closes her eyes and bows her head. ~
+~ It sounds like she's saying some kind of prayer, but %a000090 can't make it out. ~
+Debora
+	We should move on soon.
+	We can't hang around here forever.
+Debora
+	You have lots of things you need to do.
+Debora
+	It's time to go outside now, %a000090.
+	We can't stay in here forever.
+Debora
+	This takes me back. It's a long time ago now, but I once boarded a boat here.
+Debora
+	Hurled myself at a boat, actually... That would be a more accurate way to describe it!
+Debora
+	I wouldn't exactly call it peaceful now. It doesn't matter, though. I only ever do what I want.
+Debora
+	I leave all the things I don't want to do to you, %a000090.
+Debora
+	Nera came here to study theology for a while, you know. She did something called domestic goddess training too.
+Debora
+	Hm? Me? There was no need for me to study any of that, so I said no. Papa was a bit peeved for a while.
+Debora
+	You seem to get on with the nuns here very well.
+	Not that it bothers me.
+Debora
+	A prince on a white horse? And there was me thinking they only existed in faerie stories.
+Debora
+	It would be a shock. You don't usually tend to find royalty visiting places like this.
+Debora
+	We obviously don't look like husband and wife.
+	Oh well, it can't be helped. You must look like
+	my servant, that'll be why.
+Debora
+	She's right. You do have kind eyes.
+Debora
+	You're more of a servant than a husband, though. That's where she had it a bit wrong.
+Debora
+	She should definitely be back by now. Maybe she's decided to take a detour and have a bit of fun.
+Debora
+	I don't know how Nera managed to endure this place for so long. She tends to get very lonely.
+Debora
+	It would be a shock. You don't usually tend to find royalty visiting places like this.
+Debora
+	We obviously don't look like husband and wife.
+	Oh well, it can't be helped. You must look like
+	my servant, that'll be why.
+Debora
+	She should definitely be back by now. Maybe she's decided to take a detour and have a bit of fun.
+Debora
+	Put our kids through what this girl's been through, and I'll never forgive you, %a000090. Got it?
+Debora
+	I've been here lots of times in the past with Papa and Nera, but Papa would never let us go on anything.
+Debora
+	I'm going to really go for it this time, though!
+	I've got you, my walking wallet, with me after all, %a000090!
+Debora
+	The place is bustling now, but apparently it used to be a bit of a ghost town.
+Debora
+	If a ghost town can transform itself into such a thriving city, then I suppose that means there's hope for you yet.
+Debora
+	I don't really want to make any money.
+	I'm already rich.
+Debora
+	Even if I did want to make money, I'd leave that up to you, %a000090.
+Debora
+	If people are going to spread rumours like that, you'd think they'd at least give credit where it's due.
+Debora
+	He looks intelligent enough, so you'd think he'd try and get his facts straight. You men are all useless!
+Debora
+	My dream when I was young was to have a
+	whole army of servants to attend to my every
+	whim and wish.
+Debora
+	I wouldn't complain if you wanted to go gadding about at night. I'd just come along with you.
+Debora
+	Even if you're ⓗmisterⓘ, I'm definitely not ⓗmissusⓘ.
+	I'm ⓗSignorinaⓘ, and I always will be!
+Debora
+	If he dares call me ⓗmissusⓘ, I'll grab him by the scruff of the neck! I know he's young, but that's
+	no excuse.
+Debora
+	Oh yes. Papa wanted one of those once. Looks like he's not the only one with a penchant for the weird and the wonderful.
+Debora
+	Yes, Papa wanted one of those a long time ago.
+Debora
+	He's always been keen on collecting strange things.
+Debora
+	Make sure you look after that shield, %a000090. You can't be too careful.
+Debora
+	Just so you know, %a000090...
+	I'd never forgive you if you behaved like that.
+Debora
+	You have to keep a tight rein on your man if you want to control him properly. Just like I do with you.
+Debora
+	Why don't they just shut up shop during the day and only open up at night then? It doesn't take a genius to work that out.
+Debora
+	Your home is wherever I happen to be.
+	That goes without saying, of course.
+Debora
+	Being able to nap during the day is a sign of high status. That's just how I want to live.
+Debora
+	Papa may be a bit of a beached whale nowadays, but he used to be an explorer back in his day.
+	So he says, anyway. I can hardly believe it.
+Debora
+	It's mouldy and dark and claustrophobic...
+	Can you hurry up and finish what you're doing
+	here so we can leave?
+Debora
+	A bunny girl stuck down in a cave?
+	Talk about a fish out of water!
+Debora
+	Even I'd never give you an order that would put you in jail, %a000090, don't worry.
+Debora
+	He deserves what he gets if he went about kidnapping people. It's always good to see
+	people get their comeuppance.
+Debora
+	Casinos are fun, but I'd never get that worked up about them. Maybe it's because I'm already rich.
+Debora
+	Casinos are just fun and games. If you start to obsess over money, that's when the fun ends.
+Debora
+	Papa said it's important to be calm when you're betting lots of money, but that man's eyes were 
+	all bloodshot.
+Debora
+	He's sure to lose if he's in that sort of state. Still, as long as it's not me losing, then why should I care?
+Debora
+	I don't think I've ever met someone as deserving of the description ⓗbuffoonⓘ as this character.
+	I can hardly believe it.
+Debora
+	I suppose it's not a bad performance. The dress would obviously suit me much better, though.
+Debora
+	He's right. If you let the fear get to you, it really puts you off your stride. He's wiser than he looks.
+Debora
+	You make your own luck. You just need a bit of patience and courage and you can turn the tide in your favour.
+Debora
+	I wouldn't particularly mind if the night went
+	on forever.
+Debora
+	Ha ha! I do know that's not what he meant, you know. I was just joking.
+Debora
+	There are certainly plenty of uglies!
+	I suppose it could be quite fun to people-watch.
+	The customers here are such a mixed bag.
+Debora
+	If the legendary hero exists, you'd think he'd just hurry up and show his face. Still, travelling about looking for him is quite good fun, I suppose.
+Debora
+	If anyone's going to get up on stage, it should be me. You know that, %a000090.
+Debora
+	I wish I could wear a dress like that. It just isn't practical for the kind of places you take me, though.
+Debora
+	I don't care if a man's rich or not.
+	I have enough money of my own.
+Debora
+	If you want to open it, just open it.
+	I'm not interested, personally.
+Debora
+	Yes, I didn't think I saw them when I was here with Papa and Nera in the past.
+Debora
+	We don't have anything we need to do here, right? Then let's hurry up and leave!
+Debora
+	What funny-coloured slimes! It could be quite fun to keep a few as pets.
+Debora
+	He's a little bit too carried away with it all, isn't he? It's quite funny to watch him, though.
+Debora
+	Maybe I'll try sharing a bed with some slimes one day. They're so soft, I'm sure it'd be comfortable.
+Debora
+	You'd get me a few slimes if I wanted, wouldn't you, %a000090?
+Debora
+	You're quite useful, you are. Being able to deliver the goods is the mark of a good servant, you know.
+Debora
+	Surely you're not...jealous!? No?
+Debora
+	They'd be too slimy to cuddle?
+	Hmm... You could have a point there.
+	Maybe I'll give it a miss for now.
+Debora
+	So monsters worry about the weather just like us humans. Now there's a slurprise!
+Debora
+	Maybe there's even a town out there that's full of just monsters. I doubt it, though.
+Debora
+	I'm impressed that they managed to build a T 'n' T board this big.
+Debora
+	If you could fix how the die rolled, you'd be able to win as many times as you liked.
+Debora
+	I love winning. No matter what it takes.
+Debora
+	He said ⓗtooⓘ, which implies he fell off as well,
+	so he's hardly in a position to be laughing at us.
+Debora
+	Can you believe that he's getting his kicks out of watching people fall?
+Debora
+	I think it's more fun to be the one falling than the
+	one watching.
+Debora
+	It's very lively. This place really comes into its own at night.
+Debora
+	I don't mind having a bit of fun, %a000090, but I refuse to do an all-nighter. It's bad for your skin.
+Debora
+	If you want to have a bit of a gamble, then I'll allow it. Not for long, though.
+Debora
+	An island in the south doesn't really appeal to me.
+	I'd rather live in a huge mansion in a big bustling city.
+Debora
+	Or a castle, if there are no mansions available.
+	I'm really not that fussy, %a000090.
+Debora
+	I'm going to have a bath again tonight, %a000090. You know what you need to do, right?
+Debora
+	That's right. Make sure you stand guard.
+	I should think I can trust you to do that properly.
+Debora
+	You have to stand guard like this man. He's a fine example of devotion to one's lady wife.
+Debora
+	Stupid girl, screaming like that! I bet you're glad you didn't marry an irrational, screeching monster like her, aren't you, %a000090?
+Debora
+	It'd be good if there were no more monsters, but then you wouldn't have any of your little friends to help you out.
+Debora
+	Still, that's your problem, not mine.
+Debora
+	Handsome? Well, I wouldn't be seen with an ugly man. We'd look so unbalanced.
+Debora
+	I don't need to trouble myself with cooking.
+	That's why people have chefs.
+Debora
+	It doesn't sound like the one here is worth
+	employing, though.
+Debora
+	What an odd way of doing business! Quite a clever way, mind you, making you buy something before he'll sell you something else.
+Debora
+	I've probably told you this before, but I often used to fight with Mama and Papa.
+Debora
+	I said some terrible things, but they never once even hinted that they'd like me to leave.
+Debora
+	I couldn't understand why they put up with me for so long. I mean, they're not even my real parents.
+Debora
+	Now I have a family of my own, though, I've started to have an idea of how they must've felt.
+Debora
+	...Anyway! I don't know what's got into me, coming out with all this. Hurry up, %a000090.
+	Time to move on!
+Debora
+	He must be important if he can afford to spend every day in the pub.
+Debora
+	Fortune-telling is a load of rubbish. You make your own fortune in this life. I know I always have.
+Debora
+	Either be awake or be asleep, girl, not somewhere in the middle! That was creepy.
+Debora
+	They say a sleeping face is like that of an angel,
+	but that certainly doesn't apply to him.
+Debora
+	We did pay good money for it, so we should probably have a look. I'm not interested myself, but I'll hang around while you look.
+Debora
+	If you don't want it, then don't buy it.
+	You can always come back another time if you change your mind.
+Debora
+	You wanted to buy it and you bought it.
+	None of my business.
+Debora
+	If you want to buy something, make sure you can afford it. Don't embarrass me like that again.
+Debora
+	This place must do quite a trade with its regular customers. People like you can't resist collecting strange things.
+Debora
+	Casinos are fun, but I'd never get that worked up about them. Maybe it's because I'm already rich.
+Debora
+	Casinos are just fun and games. If you start to obsess over money, that's when the fun ends.
+Debora
+	He's far too carried away. I'm embarrassed just looking at him.
+Debora
+	This is what happens if you get too carried away. The hundred-token slots are only for rich people. It's important to remember that.
+Debora
+	If I became a performer, I'd have my own changing room right from the start. Not that I ever want to become a performer, of course.
+Debora
+	There are certainly plenty of uglies!
+	I suppose it could be quite fun to people-watch.
+	The customers here are such a mixed bag.
+Debora
+	If the legendary hero exists, you'd think he'd just hurry up and show his face. Still, travelling about looking for him is quite good fun, I suppose.
+Debora
+	I can dance much better than them. I'll have to show you one of these days. When I'm in the mood, that is.
+Debora
+	I don't think it's a famous song.
+	I suppose it's not too bad, though.
+Debora
+	Huh! I'm much classier than she is.
+	Never mind. Just get off the stage.
+Debora
+	Is she challenging me? If she really wants to see me dance, I'll dance. Da-da-daa, Da-da-da-daaa... Ⓠ There!
+Debora
+	Hey, you're not actually that bad.
+	Not a patch on me, of course.
+Debora
+	There's no need to worry. If you stick by me, there's nothing to fear.
+Debora
+	There really is nothing here, is there?
+	I much prefer being in town to being in
+	the countryside.
+Debora
+	I'm leaving, %a000090.
+	What do you mean, why?
+	Can't you take a hint?
+Debora
+	The fields are in a mess, that's for sure.
+	Maybe the monster's coming on the rampage
+	because he's low on food too.
+Debora
+	There's no point heading into the hills for food.
+	That's like signing your own death warrant.
+Debora
+	I'm sure Papa would send some food if I asked
+	him. That wouldn't solve their problem with the monster, though.
+Debora
+	I don't mind helping them if that's what you want to do, %a000090. Could be quite good fun putting that monster in its place.
+Debora
+	I suppose I'll put up with this place for tonight.
+	You'd better find us a decent inn tomorrow, though.
+Debora
+	She's very skinny, isn't she? Must be because she's not eating a decent diet.
+Debora
+	So the monster isn't intimidated by the scarecrows... Never mind. I'm sure I'll be able to terrify him
+	into submission!
+Debora
+	I've got a feeling I saw a cave to the west of here. Maybe that's where the monster's hiding out.
+Debora
+	It may not be attacking people, but it's attacking their food, which amounts to the same thing.
+Debora
+	Do you think that was the monster? Could be a bit tricky getting the better of that thing!
+Debora
+	There's nothing to this place. Not even a sound!
+	It's far too quiet if you ask me. The silence is creepy.
+Debora
+	Typical country folk, locking their doors at this hour! You'd never find that in Mostroferrato.
+Debora
+	Are we going to stay here? If we are, I'm taking
+	that decent-looking bed over there. You'll sleep anywhere, right?
+Debora
+	I've never had a problem with getting lots of attention, but I don't like the way they stare here. It's like they're scared of me.
+Debora
+	Charming! After we went to all that effort to figure out their problem for them, this is the thanks we get!
+Debora
+	That man was actually shaking with fear!
+	Still, I suppose that's understandable.
+Debora
+	But %a001210 wouldn't do him any harm! He needn't be afraid for his life like that, the silly man.
+Debora
+	That old woman has courage. I'll bet she was a feisty girl like me back in her day.
+Debora
+	Children are so innocent.
+	They know no fear, either.
+Debora
+	I've known for a long time that you're a
+	monster tamer.
+Debora
+	But you're still my servant first and foremost,
+	and don't you forget it!
+Debora
+	There's no need for him to beg. I'll gladly stay away. Let's go, %a000090.
+Debora
+	I couldn't care less what they think of us.
+	We haven't done anything wrong.
+Debora
+	Maybe we should take it as our reward.
+	It could come in useful.
+Debora
+	Urgh! I don't want to carry it, though.
+	That's your job, %a000090. Got it?
+Debora
+	It's not that scary at all, is it? Um...why are you eyeing it up against me like that?
+Debora
+	I'd say it's more loopy of him to believe the nasty rumours about us than it was for him to have trusted us in the first place.
+Debora
+	At least there's one person here that isn't a complete idiot. Huh! What a load of bumpkins!
+Debora
+	You'll be able to take care of a monster or two,
+	won't you, %a000090? I can just sit back and spectate.
+Debora
+	You don't think all the bones around here are fromⓚⓛ Never mind. It doesn't scare me!
+Debora
+	There are holes all over the place.
+	You'd better watch where you're walking.
+Debora
+	If we're going to fall down a hole, you're going first. And you're going to break my fall! I won't look too kindly on you if you don't.
+Debora
+	Do you think that soldier's alright? He's a bit of a wimp, isn't he? I reckon you could fall down a hundred times and still live to tell the tale.
+Debora
+	He's the one who gave us a fright, not the other way around! I'd have chucked you down the hole again if you made me jump like that!
+Debora
+	So that's the famous monster? Hmm... Having a magnificent creature like that as a pet would probably reflect quite well on me.
+Debora
+	No way! This beast used to be your pet when you were little?
+Debora
+	And he looked after your father's sword for all those years since. It's true that pets resemble
+	their masters.
+Debora
+	I can't help feeling that I've seen the insignia on your father's sword somewhere before. Now where can it have been...?
+Debora
+	How exactly are you planning on explaining all of this to those bumpkins in Hay? I don't think they're going to like this somehow.
+Debora
+	This town's like a maze. I never lose my way, but I'm a bit worried that you might, %a000090.
+Debora
+	The man who taught you the Zoom spell lives here?
+Debora
+	You should be grateful to him, you know. He's saved you the task of carrying me across mountain ranges.
+Debora
+	If the smoke's making him cough, then why doesn't he just move? Some people don't have the brains they were born with!
+Debora
+	I'm surprised to hear talk of Coburg all the way out here. We're half the world away!
+Debora
+	Yes, she was quite pretty. I don't mind admitting that. But she didn't possess anything like my beauty.
+Debora
+	It is quite a frustrating place to navigate.
+	I wonder if the people here ever get lost
+	on their way to the shops.
+Debora
+	It is quite pleasant here. Maybe I'll take a little nap. You'll stand guard, won't you, %a000090?
+Debora
+	That's strange. Watching her gave me an odd sense of déjà vu. I must just be imagining it, though.
+Debora
+	What a useless servant! His mistress obviously doesn't have the good eye for people that I have.
+Debora
+	If he manages to come up with a new spell, we'll have to come and learn it straight away.
+Debora
+	Well, you can learn it. I'll just have you use it for me whenever I feel like it.
+Debora
+	He must have plenty of time on his hands to be just standing around here waiting for the place to open.
+Debora
+	Ha! He thought you worked in the pub!
+	Just goes to show that you look like the
+	serving type, %a000090.
+Debora
+	Surely they don't get through that much in a night? Ah... That explains why the town's so higgledy-piggledy.
+Debora
+	Why? Because the people who planned it were all three sheets to the wind, of course!
+Debora
+	That man's lying. He can't pull the wool over my eyes that easily.
+Debora
+	It's just the two of us at the moment, but I'm sure we'll have a bigger family one day, so you'd better hurry up and sort us out a mansion.
+Debora
+	She's worrying too much. Mind you, he could well start a fire with all that smoke billowing away.
+Debora
+	I suppose the thing that makes me happiest is being able to do whatever I please.
+Debora
+	Isn't it a bit weird, just waiting and hoping that the legendary hero will make an appearance?
+Debora
+	The least they could do is all club together and
+	go looking for him. That'd make our task easier,
+	at any rate.
+Debora
+	It's sad that people want to drink something that's supposed to be so evil it frightens monsters away.
+Debora
+	Of course, it's up to you if you want to try it.
+Debora
+	That's a shame. I was looking forward to
+	seeing your face if it tasted foul, but it's
+	actually quite nice.
+Debora
+	This spell research is all well and good, but it won't be any use to anyone if he kills himself in the process.
+Debora
+	I can see why they try to keep it under wraps now. You'd better take good care of it, %a000090.
+Debora
+	I think he might be lonely, you know.
+	His face lit up when he saw you.
+Debora
+	People say that cats start to talk when they get old, and it's true. That's so creepy.
+Debora
+	Nera often used to talk to our dog, you know. Totally pointless, if you ask me.
+Debora
+	Let's find somewhere to stay the night soon, %a000090. I've been getting a bit tired lately.
+Debora
+	Looks like he's still lost.
+	Oh well. Not my problem.
+Debora
+	I'd never order you to sleep on the floor, %a000090. You must be relieved to have such an easy-going boss.
+Debora
+	It's her own fault for not choosing her travelling companion wisely. I'd never make that mistake.
+Debora
+	If the priest's lost, then who are people supposed to go to for guidance?
+Debora
+	It's really not your problem.
+	Just forget about it.
+Debora
+	Hay? Yes, I've heard of that place.
+	Sounds like a hick town to me.
+Debora
+	If you still want to go, though, don't let me stop you.
+Debora
+	You already brought him the ingredient he needed to get Zoom working, right? This man needs to get his gossip up to date.
+Debora
+	If it goes right up to the heavens, it must be
+	pretty tall.
+Debora
+	You won't catch me climbing it. If you're determined to go to the top, you'll have to carry me.
+Debora
+	That's a point. If the legendary hero does exist, he's probably looking for the Zenithian Equipment too. We might bump into him if we're lucky.

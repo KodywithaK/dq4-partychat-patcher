@@ -1,0 +1,792 @@
+Harry
+	That trader must've been talking about the book that mentions the mysterious mirror. It certainly is a curiosity, that's for sure.
+Harry
+	She's not the only one who got out while she could. This place feels like it's half empty nowadays.
+Harry
+	That must be a teleportal. They're curious things that allow you to travel quickly between two far away places.
+Harry
+	It reminds me of something I read once in an old book about travelling through a teleportal from the castle to another land.
+Harry
+	Sorry! Listen to me waffling away!
+Maria
+	I had no idea such a place existed so close to
+	the abbey.
+Harry
+	We should get going now that we have Ra's mirror.
+Harry
+	The people of Coburg mustn't be left to suffer a moment longer!
+Maria
+	Fancy being able to travel all the way to Coburg in an instant!
+Maria
+	This teleportal is so convenient...and so bizarre! Maybe it's the work of the Goddess. 
+Harry
+	If he won't let us pass, then I suppose there's nothing we can do. Let's move on, %a000090!
+Harry
+	So we're not allowed to pass at night. Oh well. We'll have to come back another time.
+Maria
+	That old man must be a bit lonely, stuck out here all on his own.
+Maria
+	If only he'd drop in at the abbey, there'd be plenty of people there he could have a chat with.
+Harry
+	It's nice to have a place where we're made to feel so welcome, don't you think, %a000090?
+Harry
+	Sorry, %a000090. We're supposed to be looking for your mother, and yet I've gone and distracted you with this instead.
+Harry
+	I never imagined we'd end up going to the tower with Maria.
+Harry
+	I suppose nuns are basically the same as monks really. Maybe we should ask them about the tower.
+Maria
+	I suppose that's my part in this done with. But I'd like to stay with you until you find what you came for, if that's alright.
+Harry
+	Of course. You've been a great help to us, Maria. We'd be honoured to have you. Right, %a000090?
+Harry
+	It's hard to imagine either of us as good husbands when you think we were both slaves until just recently!
+Harry
+	But we know what it feels like to be miserable because of someone else's violence, so at least we'll never be like her brute of a husband.
+Maria
+	I think she's right. You would make a good husband, %a000090.
+Maria
+	...Oh! And so would you, Harry! I didn't mean to leave you out.
+Harry
+	I say! There's no need to make a special effort to compliment me, you know!
+Maria
+	I had a small statue of the Goddess carved for me a little while back.
+Maria
+	It made me feel so at peace to hold it in my hands and see Her smiling at me.
+Maria
+	I'm rather good at cooking and sewing myself, because I had to do it for Joshua and I from a young age.
+Harry
+	I wonder why Maria seems so lonely.
+	Maybe it's because I'm not around.
+Harry
+	Er, no, I'm sure that's not it.
+	If only it was, though...
+Harry
+	The girl's right. We mustn't let Maria come to any harm, do you hear, %a000090?
+Maria
+	That little girl really seems to think of me as her big sister.
+Maria
+	It's nice to have a little sister out of nowhere.
+	I only ever had a brother before.
+Harry
+	It's wonderful to see Maria again. I do feel a bit jealous that she said your name before mine, though.
+Harry
+	I suppose nuns are basically the same as monks really. Maybe we should ask them about the tower.
+Harry
+	It's lovely to have you travelling with us again, Maria.
+Maria
+	Thank you, Harry. I'm really happy to be with you again too.
+Maria
+	You do both seem a little bit different to before, though.
+Maria
+	It's almost like you have a shadow cast over you.
+Harry
+	I'm going to stand by you, Maria! I'll protect you with my life, now and forever!
+Maria
+	Sorry? What was that you just said, Harry?
+Harry
+	Er... Ha, ha. Don't worry. It was nothing important.
+Harry
+	Well, we have Maria with us now, so I suppose we should get along to that tower.
+Maria
+	I wonder what the Abbess meant by ⓗthose who are too proud to believe in things they cannot seeⓘ.
+Maria
+	I know I volunteered myself for this, but I'm starting to worry that I might not be worthy.
+Harry
+	As long as I have a bed to sleep in, I'm happy. We've got another long day ahead of us, %a000090!
+Harry
+	I feel much better after that rest.
+	Thanks, %a000090.
+Harry
+	To tell you the truth, I'm still not quite used to sleeping in a bed again. I suppose it's because I was a slave for such a long time.
+Harry
+	You don't need to worry about me, %a000090. Let's move on.
+Maria
+	I wonder what sort of man she had in mind, that girl who went through all the domestic goddess training.
+Maria
+	The poor child definitely feels lonely at times.
+Maria
+	She may seem strong on the outside, but she must miss her father terribly.
+Harry
+	It's wonderful to see Maria again. I do feel a bit jealous that she said your name before mine, though.
+Harry
+	I suppose nuns are basically the same as monks really. Maybe we should ask them about the tower.
+Harry
+	It's lovely to have you travelling with us again, Maria.
+Maria
+	Thank you, Harry. I'm really happy to be with you again too.
+Maria
+	You do both seem a little bit different to before, though.
+Maria
+	It's almost like you have a shadow cast over you.
+Harry
+	I'm going to stand by you, Maria! I'll protect you with my life, now and forever!
+Maria
+	Sorry? What was that you just said, Harry?
+Harry
+	Er... Ha, ha. Don't worry. It was nothing important.
+Harry
+	Well, we have Maria with us now, so I suppose we should get along to that tower.
+Maria
+	I wonder what the Abbess meant by ⓗthose who are too proud to believe in things they cannot seeⓘ.
+Maria
+	I know I volunteered myself for this, but I'm starting to worry that I might not be worthy.
+Harry
+	As long as I have a bed to sleep in, I'm happy. We've got another long day ahead of us, %a000090!
+Harry
+	I feel much better after that rest.
+	Thanks, %a000090.
+Harry
+	To tell you the truth, I'm still not quite used to sleeping in a bed again. I suppose it's because I was a slave for such a long time.
+Harry
+	You don't need to worry about me, %a000090. Let's move on.
+Harry
+	It's finally time for Coburg to come out of the clouds and back into the sunshine! Let's go and find Wilbur!
+Maria
+	It's funny to think that Harry is actually a prince of such an enormous castle.
+Maria
+	In the normal run of things, there's no way someone as lowly as I would ever have had the chance to befriend him.
+Harry
+	The place looks so different. But it all ends here! All we have to do is oust that fake dowager!
+Harry
+	There's nothing anyone can do to stop us now!
+	Let's go, %a000090!
+Harry
+	There were plenty of times when we went without food for three days back when we were slaves, eh, %a000090?
+Maria
+	I heard a few nasty rumours about Coburg back at the abbey, but I had no idea things were this bad.
+Harry
+	That was a bit mean, %a000090. Surely you could afford to give her a few coins?
+Maria
+	If I had any money, I'd give as much as I could to these poor folk here.
+Harry
+	............
+~ Harry is biting his lip in thought. ~
+Maria
+	Goddess, please have mercy on these poor suffering souls.
+Harry
+	I cried with hunger in those first awful days of becoming a slave. There's nothing worse than being without food.
+Maria
+	That poor boy. He looks so weak and thin...
+Harry
+	A monster in the castle courtyard of all places! I thought it was a dog, and it took me totally off-guard!
+Maria
+	Are you alright?
+Maria
+	There's no need to worry about me. Luckily, you were there to protect me.
+Harry
+	It won't be long before this dark period comes to an end.
+Harry
+	The light of truth that shines forth from this mirror will be all that Coburg needs to banish the darkness!
+Maria
+	It's time to help those poor, suffering people at last.
+Harry
+	A castle fell from the sky!? I didn't even know there was a castle up there in the first place. It's all a bit odd if you ask me.
+Maria
+	I've heard something like that before myself.
+Maria
+	Maybe the Goddess did it. Maybe she made the castle fall and the monsters attack humans again as a way of testing us.
+Harry
+	Curses! We don't have time for this!
+	We'll have to find another way.
+Harry
+	Hey! Now's not the time for detours!
+	Stay focused!
+Harry
+	Urgh! The thought of someone like that ruling over Coburg...and the world!
+Maria
+	If there's a war, lots of people will end up losing their lives. We have to stop it from coming to that!
+Harry
+	They won't be looking so pleased with themselves when I'm finished here!
+Harry
+	So the fake dowager is actually a monster?
+	How did a monster get in here unnoticed?
+Harry
+	He's right about those soldiers being an unsavoury-looking bunch.
+Harry
+	I was starting to worry that all the soldiers here had gone mad. It's nice to see one with his head still screwed on.
+Harry
+	The fake dowager must have already been in place at the time Whealbrook was attacked.
+Harry
+	There's no way a human would order an innocent village to be destroyed like that.
+Harry
+	Darwin? I don't remember hearing that name before. I wonder if the fake dowager summoned him here.
+Harry
+	Maybe the fake dowager was trying to research a way of evolving into a stronger being.
+Maria
+	A secret unlocking the mysteries of evolution? It all sounds a bit scary for my liking.
+Maria
+	I'd say it's more likely to be the hand of evil than the hand of the Goddess.
+Harry
+	This passage was made so that it could be used as a means of escape in case of some kind of emergency.
+Harry
+	I never imagined I'd be using it to sneak inside my own castle! Of all the ironies!
+Harry
+	I doubt there's much use in explaining that it was all the fake dowager's doing.
+Harry
+	We just have to reveal her true identity and put an end to all this. Then we can rescue the old man.
+Maria
+	That poor man, being stuck down here in the dark all those years.
+Maria
+	What a terrible place to die...
+Maria
+	May all these poor souls find their way from these dark depths to the eternal comfort of the Goddess on high!
+Harry
+	When they talk about having someone's head on a platter around here, they probably mean it literally!
+Harry
+	That's because the fake dowager came along. It stands to reason that she's going to change because she's a different person entirely!
+Harry
+	It sounds like Wilbur's been down to the jail and freed the real dowager.
+Harry
+	Let's go and find Wilbur. Hurry, %a000090!
+Harry
+	Huh! If only he hadn't gone and meddled in all this.
+Harry
+	He always was a bit slow-witted.
+Maria
+	Oh dear. What a pickle! At least we have the mirror to help us figure all this out.
+Harry
+	He realises this is silly. I just wish he was a bit more together. He is King, after all.
+Maria
+	So that's Harry's brother, King of Coburg?
+	They're not very alike.
+Harry
+	Hmm. I'm not so sure she's the real thing.
+	Look at how grubby she is!
+Harry
+	The Queen Dowager I knew was nowhere near as gentle and warm, either.
+Maria
+	We should use the mirror!
+Harry
+	Ah yes. I remember that shrill voice well from my childhood years. Maybe this is the real one.
+Maria
+	We should use the mirror!
+Harry
+	Now's not the time to keep quiet and lay low! We'll show that monster who's boss this time, %a000090!
+Harry
+	This must've all been a big shock for Wilbur.
+	The kingdom was on the brink of disaster.
+Harry
+	Come on, %a000090!
+	I need your help!
+Harry
+	It's finally time for Coburg to come out of the clouds and back into the sunshine! Let's go and find Wilbur!
+Maria
+	It's funny to think that Harry is actually a prince of such an enormous castle.
+Maria
+	In the normal run of things, there's no way someone as lowly as I would ever have had the chance to befriend him.
+Harry
+	This place feels even more desolate at night.
+	It's like walking through a graveyard.
+Maria
+	The entrance to the castle is closed at night.
+	We should come back in the morning.
+Harry
+	All the people here need is a little more patience.
+	We'll sort things out for them before long.
+Maria
+	Shouldn't the rulers of a kingdom be there to make their people happy? That's what I always thought.
+Harry
+	I didn't realise that my father was trying to pass the crown on to me before he died.
+Harry
+	I do remember there being a strained atmosphere in the castle at the time. I suppose that was why.
+Maria
+	If only you'd become king, Harry. Then none of this would have happened.
+Harry
+	That trader must've been talking about the book that mentions the mysterious mirror. It certainly is a curiosity, that's for sure.
+Harry
+	She's not the only one who got out while she could. This place feels like it's half empty nowadays.
+Harry
+	This is where your father was killed by that no-good Ladja.
+Harry
+	I'll never forget the way he put up no resistance and endured all that to keep you safe.
+Harry
+	It feels just like yesterday that you came here and tried to rescue me.
+Harry
+	Who would have thought then that we'd end up being friends all this time?
+Harry
+	I wonder if he's talking about the temple when he mentions a holy land. Pah! That place is more like hell!
+Harry
+	It looks like the bandits aren't using this place as a hideout any more.
+Harry
+	You don't think these are the kidnappers, do you?
+	What in the world happened here?
+Harry
+	It's been many a long year since we had the chance to enjoy so much outside air.
+Harry
+	It's funny. I used to take little things like that for granted, but now they seem so important.
+Harry
+	It's all very well deciding to go off and find your mother, but where do we start?
+Harry
+	I suppose that town to the north is as good a place as any.
+Harry
+	I still can't believe how we managed to travel so far in a barrel, of all things!
+Harry
+	We must be the luckiest people alive!
+Harry
+	That Fortuna place was certainly lively,
+	wasn't it?
+Harry
+	Can you imagine if Coburg or your village were that well off? Wow!
+Harry
+	Ha ha! I was a bit worried the price might reflect the quality, but this isn't a bad horse and cart!
+Harry
+	Now we can bring as many people as we like along on our travels.
+Harry
+	The Coburg checkpoint never used to be so imposing.
+Harry
+	It's so awful what happened to your village, %a000090. I...I...don't know what to say.
+Harry
+	It sounds like Coburg has changed beyond recognition since I've been away.
+Harry
+	I have to get to the bottom of what's going on. Let's go to the castle!
+Harry
+	I had planned to forget any ties I ever had to Coburg. But it looks like it's not going to be that easy.
+Maria
+	Off we go. The tower is just south of the abbey.
+Harry
+	We must have some special connection with Maria. That's why we've found ourselves travelling with her again.
+Harry
+	As long as we make sure she doesn't come to any harm. That's the main thing.
+Harry
+	I'm obviously worried about what's happening over in Coburg, but I think it's for the best if I stay away.
+Harry
+	I'm just going to forget about the place. I'll keep travelling with you until I figure out my own way in the world.
+Harry
+	Lovely weather we've been having, don't you think? The grass smells wonderful.
+Harry
+	There's nothing better than being free to walk around outdoors whenever the fancy takes you.
+Harry
+	Come to think of it, I hardly ever set foot outside Coburg Castle back in those days.
+	What a waste!
+Harry
+	Aaah, I'm absolutely exhausted! One good thing I can say for being a slave was that we at least had a regular routine!
+Harry
+	You know, I think this might be the first time in my life that I've ever been out walking at night-time!
+Harry
+	The stars are absolutely beautiful. We never had the chance to really look at them back when we were slaves.
+Harry
+	It's getting dark already. But we have to keep pushing on. Come on, %a000090!
+Harry
+	My father didn't have much time left when it all happened.
+Harry
+	I wish I could meet him again, just once. I suppose there's no use in wishing, though.
+Harry
+	I wonder if this mirror that reveals the truth is even still hidden in the tower. That diary was really ancient, let's face it.
+Harry
+	The folk inside were certainly a weird bunch.
+Harry
+	But it was still nice to be back in the castle again. I sort of miss the place. It was once my home, after all.
+Maria
+	I do hope I'll be able to help you out, %a000090.
+Harry
+	I wonder if it really does have the powers we think it has. It looks just like an old mirror from where I'm standing.
+Harry
+	We'd better hurry on back to Coburg. It's starting to give me the willies being out here.
+Maria
+	I'm so glad I could come along with you both, %a000090. It's cheered me up no end.
+Harry
+	There's no point just standing here if the doors won't open. Let's try going somewhere else, %a000090.
+Harry
+	Hmph. Looks like the key from Coburg isn't any use here.
+Harry
+	It said something in that diary about some monks having the key. I wonder where we can find them.
+Maria
+	I'm so happy that I could be of use to you.
+	What a relief!
+Harry
+	I knew Maria would be able to get those doors open! I always believed in her!
+Harry
+	Let's go and get it! But we should tread carefully. We have Maria to think of, after all.
+Harry
+	What are we waiting for? There's no point in hanging around here any longer, let's hurry back to Coburg!
+Harry
+	Did you see that, %a000090?
+Harry
+	Me too. I wouldn't forget that man in a hurry. Does that mean the woman was...?
+Harry
+	No? Oh... I must have been imagining things.
+Harry
+	This tower looks really ancient. I had no idea it was here, in amongst all these mountains.
+Harry
+	This must be the tower we read about in that diary! So this is where the mirror's supposed
+	to be.
+Maria
+	............
+~ Maria looks a bit nervous. ~
+Harry
+	It's old, but it's certainly stood up well over the years. Maybe it's been protected by the Goddess.
+Maria
+	I can sense a kind of divine presence. Maybe it's true that this place was created by the Goddess.
+Harry
+	There must be a way ahead that we've overlooked. We must explore all possibilities.
+Maria
+	That's rather a big drop, isn't it?
+	Take care not to fall!
+Harry
+	Aren't you getting tired, Maria?
+	Maybe we should rest for a while.
+Maria
+	No, not at all. I don't want to slow you down.
+Harry
+	This tower's starting to get on my nerves!
+	We don't have time for this kind of thing!
+Harry
+	Oh blast! How are we supposed to go any further with the path gone like this!?
+Maria
+	The idea behind this place is that only those who believe in things they can't always see receive the blessing of the Goddess.
+Maria
+	So maybe this is a kind of test. To see if we'll doubt what's actually before our very eyes.
+Harry
+	We found it! With this mirror, we'll be able to save Coburg from the chaos it's fallen into!
+Maria
+	We managed to pass the trial of the tower!
+	Dear Goddess, we are eternally grateful!
+Harry
+	I didn't expect there to be a path right in front of me that I couldn't see.
+Harry
+	Now I'm starting to think there might be some truth in this talk of the tower being created by the Goddess.
+Maria
+	It was frightening, but we've proved now that you just need the courage to move forward one step at a time, and a path will open up to you.
+Maria
+	I'm going to learn from this, and try to live my life with courage from now on in!
+Harry
+	Well, we have what we came for. We should hurry on back to Coburg and put this little episode behind us.
+Harry
+	Sorry I put you and Maria to so much trouble, %a000090.
+Harry
+	We're not quite there yet, though. I'll save my thanks for when this is all done and dusted.
+Bianca
+	It's great to be able to have a little adventure together again after all these years, %a000090!
+Bianca
+	You've grown up an awful lot since last
+	time. Just imagine what kind of fun we 
+	could have now!
+Bianca
+	Dun't take any notice of what Dad was sayin'.
+	He's ill. He dun't know what he's on about!
+Bianca
+	That bloke's veggies taste amazin'. We have him deliver 'em to our place, and they're great!
+Bianca
+	That bloke may moan, but what his son's doin' is probably a big help.
+Bianca
+	It's up to us folk of Stockenbarrel to man the lock and keep it maintained.
+Bianca
+	I dun't think there's many folk who've had
+	it opened for 'em and bin up to that lake
+	he was on about.
+Bianca
+	That cat's not exactly a pet of ours, but it seems to like hangin' around our place all the time.
+Bianca
+	Come to think of it, I wonder how %a001210's gettin' along.
+Bianca
+	I'm sure he means well deep down, but I wish he wouldn't call me ⓗdarlin'ⓘ.
+Bianca
+	Just because it's a mixed bath, it dun't mean people shouldn't observe some kind of limits!
+Bianca
+	What d'you reckon, %a000090?
+	D'you think my skin's lovely?
+Bianca
+	Ha ha! Thanks! I reckon it's all down to havin' one of these baths every day for the last Goddess knows how long.
+Bianca
+	Fair enough. I am a bit sunburnt, after all. And then there's all the cuts and grazes. Not to mention the odd bruise or two...
+Bianca
+	Huh! Look who's all grown up all of a sudden!
+Bianca
+	We moved here to Stockenbarrel because we thought the bath water might do Dad some good.
+Bianca
+	In an ideal world, I'd have preferred to stay in Roundbeck so I'd know sooner when you were back safe and sound.
+Bianca
+	Ha ha! She certainly tells it like it is!
+Bianca
+	I really liked it back in Roundbeck, but this place en't bad neither. Can be a bit quiet, mind.
+Bianca
+	Oh yeah. I remember one of the villagers headin' off to join up with that religion a while back.
+	I wonder how they're gettin' on.
+Bianca
+	It's a bit of a pain havin' to traipse past the inn to get to the baths.
+Bianca
+	But they're the ones takin' care of them, so I s'pose it's fair enough.
+Bianca
+	I dun't think I've bin this happy in a long time. You're back on the scene and Dad seems to be gettin' better. It's all good!
+Bianca
+	There's somethin' about goin' into a pub durin' the day. It always seems quieter than everywhere else, dun't you think?
+Bianca
+	The White King's Paradise? That sounds a bit serious. This kind of talk really gives me the willies for some reason.
+Bianca
+	That scintillating sinter he was on about is the crystal deposits left behind in the bath water. It's all natural stuff, and there's not a lot of it.
+Bianca
+	It's the most famous thing about Stockenbarrel by far.
+Bianca
+	I had intended to take care of everythin' myself, but that bloke said carpenteerin' is too dangerous for me alone.
+Bianca
+	So we came to an arrangement where he'd
+	come and help me out each day. He's a 
+	bit of a worrier, mind!
+Bianca
+	It's up to us folk of Stockenbarrel to man the lock and keep it maintained.
+Bianca
+	I dun't think there's many folk who've had
+	it opened for 'em and bin up to that lake
+	he was on about.
+Bianca
+	If only he wasn't here, we'd have the whole
+	bath to ourselves, eh? Ha ha! Don't worry,
+	I'm only jokin'!
+Bianca
+	A cave... I wonder if that's where your ring's hidden, %a000090.
+Bianca
+	There certainly was a treasure in there, eh!
+	The key to your happiness, no less!
+Bianca
+	Ha ha! There you go again, tryin' to speak to folk when they're sleepin'! You're a funny one sometimes, %a000090.
+Bianca
+	That woman always stays up into the night until her old man comes home.
+Bianca
+	She makes all this fuss and moans about him
+	bein' late, but I think she's just anxious
+	when he's not around.
+Bianca
+	There en't any other girls of my age here in the village. I hope this one hangs around for a while.
+Bianca
+	It's bin a while since any young folk came here to visit the baths. It's mostly old people comin' to fix their ailments.
+Bianca
+	Oh yeah. I remember one of the villagers headin' off to join up with that religion a while back. I hope they're okay.
+Bianca
+	That old man's always comin' out with things a bit over the line. But I'm sure he means well
+	deep down.
+Bianca
+	You've seen my house, right? That bloke had it up in no time!
+Bianca
+	Suddenly carpenterin' is more fun than
+	it sounds!
+Bianca
+	You can hardly blame his missus for bein' angry. He'll be no good to anyone after ten glasses!
+Bianca
+	That little one's always asleep here of a night. I wonder what it is about our house that it likes so much.
+Bianca
+	I can't believe it's bin over ten years.
+	An awful lot's happened to both of us since then, eh, %a000090?
+Bianca
+	What an enormous cave! And it's not even all that dark either, what with the light comin' in through the gaps in the rocks.
+Bianca
+	Quite a difference to our little adventure at Uptaten Towers, eh? That was a dark old smelly old place if ever there was one!
+Bianca
+	It's quite a puzzle really, this place. I mean, the fact that it has paths and stairs probably means the whole thing's man-made.
+Bianca
+	You've grown up to be pretty strong, %a000090. I must admit, I'm a bit surprised!
+Bianca
+	You dun't seem to want to talk about it much, but I can tell you've bin through an awful lot since we last met.
+Bianca
+	I can hear a really loud noise comin' from somewhere. Like a roar or somethin'.
+	I wonder what it is.
+Bianca
+	I never expected Mum to die so early.
+Bianca
+	Life's pretty unpredictable, en't it, %a000090? You never can tell what's 'round the corner.
+Bianca
+	Well, we can't stand here admirin' the scenery all day long. Let's just make sure we don't fall though, eh?
+Bianca
+	............
+~ Bianca looks a bit annoyed. ~
+Bianca
+	There's no way I'm goin' to let a lowlife like him find the ring! We'd better hurry up and
+	get ahead!
+Bianca
+	It feels like we've bin climbin' down for ages now. Surely it can't be much further!?
+Bianca
+	There must be another place like this we've overlooked.
+Bianca
+	We've looked all over the place, but I suppose we must've missed somethin' along the way.
+Bianca
+	We'd better try lookin' again a bit more carefully this time.
+Bianca
+	I suppose you'll become a ⓗMostroferratianⓘ or whatever once you get married, eh, %a000090?
+Bianca
+	There was a chance we might've come to live here once, y'know.
+Bianca
+	It's not far from the baths of Stockenbarrel, and it's great for shoppin'.
+Bianca
+	But it was decided we'd move to Stockenbarrel itself in the end, 'cos it's better for Dad and his health if he's somewhere quiet.
+Bianca
+	I hope it really is the Zenithian Shield.
+	It would be great if you could find your Mum.
+Bianca
+	Crispin's the one who fancies Nera, right?
+Bianca
+	Sounds like he pushed himself a bit too far 'cos he wants to marry her so badly. Poor thing.
+Bianca
+	He's a canny salesman, eh? He's right, though.
+	We should check over our stuff before we go anywhere.
+Bianca
+	Hey, it must be makin' you a bit jealous, the idea of Nera lookin' after some other bloke!
+Bianca
+	Ha ha ha! Thought so.
+Bianca
+	Pah! You dun't have to lie to me, y'know!
+Bianca
+	Yeah, you're bound to find the ring no problem.
+	I'm here to help you, after all!
+Bianca
+	What d'you suppose that means? Do you think Nera loves someone else?
+Bianca
+	Or maybe she just dun't want you to get hurt.
+	Hm, I wonder what it is that's on her mind.
+Bianca
+	Crispin and Nera are childhood friends, en't they?
+Bianca
+	I suppose it's only natural she'd be worried about him gettin' hurt, then.
+Bianca
+	It's hardly Nera's fault. It's her dad who's to blame for comin' up with such a dangerous challenge in the first place.
+Bianca
+	Nera's so pretty. And she seems really sweet too.
+Bianca
+	I'd say she might even be a bit too good for you, %a000090!
+Bianca
+	Crikey! What awful burns! I reckon his fever'll be around for a while, judgin' by the look of him.
+Bianca
+	Blimey! That was a bit of a shock! How can she be so polite to her customers in one breath and so rotten to her husband the next!?
+Bianca
+	It's hard to tell whether he's just kind or weak-willed. They certainly go well together, anyway.
+Bianca
+	I hope I manage to find someone like that to marry one day. It's a long way off yet, though, I'm sure.
+Bianca
+	The church here is so huge and beautiful!
+Bianca
+	It really is lovely. I hope I can get married in a place like that.
+Bianca
+	That Briscoletti bloke must be loaded to have
+	a holiday home within spittin' distance of his
+	actual house!
+Bianca
+	Wow! What a house! I can't believe you're goin' to be part of such a rich family, %a000090!
+Bianca
+	That Briscoletti certainly dun't mince his words, eh?
+Bianca
+	I wonder if he really thinks you'd
+	do somethin' like that...
+Bianca
+	Dun't tell anyone, but he was a right wimp! He was cryin' and moanin' about the pain, so it was ever so hard tryin' to tend to him.
+Bianca
+	You're plannin' on carryin' on with your travels after you get married, right, %a000090?
+Bianca
+	I suppose Nera will be pretty
+	worried about you, then.
+Bianca
+	Eh!? So you're goin' after the ring just so you can marry Nera? And not because you want the Zenithian Shield!?
+Bianca
+	Well... Yeah, I suppose I can see your point. Maybe it's best just to give up lookin' for your mum and settle down to a family of your own.
+Bianca
+	What d'you suppose that means? Do you think Nera loves someone else?
+Bianca
+	Or maybe she just dun't want you to get hurt.
+	Hm, I wonder what it is that's on her mind.
+Bianca
+	Fancy thinkin' of gettin' married just for the money! It's like Nera's some kind of meal ticket to him.
+Bianca
+	I dun't think this is a good idea, %a000090.
+	That stuff's ever so strong. It en't for them who
+	en't used to it.
+Bianca
+	Are you okay, %a000090? Drinkin' all that probably weren't the best idea. Let me know if you start to feel funny.
+Bianca
+	Looks like that's his tactic with the ladies. At least you dun't have to resort to things like that, %a000090.
+Bianca
+	Crispin and Nera are childhood friends, en't they?
+Bianca
+	I suppose it's only natural she'd be worried about him gettin' hurt, then.
+Bianca
+	Crispin really loves Nera, eh?
+Bianca
+	It seems like it should be the two of them gettin' married, really.
+Bianca
+	Sorry! Just forget I said anythin'.
+Bianca
+	Ha ha ha! It's funny seein' how different folk are with their spouses!
+Bianca
+	Nera will be asleep by now. I know you want to see her, but you'll just have to wait until tomorrow.
+Bianca
+	So this is Nera's older sister, is it?
+Bianca
+	Blimey! I dun't think you could find two folk more different to each other.
+Bianca
+	I suppose I have bin livin' in the countryside a while, so I can see why I'd look like a peasant to the likes of her.
+Bianca
+	But there's no need for her to come right out and say it to my face!
+Bianca
+	I dun't suppose you actually prefer that Debora over Nera, do you, %a000090?
+Bianca
+	Well, I'll be! Who'd have seen that comin', eh?
+Bianca
+	Yeah, I suppose you prefer the more ladylike type, eh?
+Bianca
+	I dun't suppose you actually prefer that Debora over Nera, do you, %a000090?
+Bianca
+	Well, I'll be! Who'd have seen that comin', eh?
+Bianca
+	Yeah, I suppose you prefer the more ladylike type, eh?
+Bianca
+	So this is it, %a000090. With the Circle of Water, nothin's stoppin' you from marryin' that Nera.
+Bianca
+	Make sure you invite me to the weddin', eh? I did help you find the ring, after all, so you owe me one!
+Bianca
+	There was a chance we might've come to live here once, y'know.
+Bianca
+	It's not far from the baths of Stockenbarrel, and it's great for shoppin'.
+Bianca
+	But it was decided we'd move to Stockenbarrel itself in the end, 'cos it's better for Dad and his health if he's somewhere quiet.
+Bianca
+	Um, %a000090. Do you really love Nera?
+Bianca
+	Ha ha ha! Yeah, of course you do. Sorry.
+	That was a weird thing of me to ask.
+Bianca
+	Hmm. Nera would be really sad if she heard you sayin' that, you know.
+Bianca
+	I bet that veil's well nice! Nera's so lucky...
+Bianca
+	Crispin's the one who fancies Nera, right?
+Bianca
+	Sounds like he pushed himself a bit too far 'cos he wants to marry her so badly. Poor thing.
+Bianca
+	That Briscoletti's jumpin' the gun a bit, eh? You din't even tell him you found the ring or nothin'.
+Bianca
+	I suppose that means he must believe in you a fair bit, eh, %a000090?
+Bianca
+	What d'you suppose that means? Do you think Nera loves someone else?
+Bianca
+	Or maybe she just dun't want you to get hurt.
+	Hm, I wonder what it is that's on her mind.
+Bianca
+	I dun't think it's just booze they have on sale here. They have some funny other drinks too.
+Bianca
+	Crispin and Nera are childhood friends, en't they?
+Bianca
+	I suppose it's only natural she'd be worried about him gettin' hurt, then.
+Bianca
+	If she's goin' to such lengths to take care of him, maybe Nera... Never mind.
+Bianca
+	Looks like the burns en't the only thing causin' Crispin some pain, eh?
+Bianca
+	Blimey! That was a bit of a shock! How can she be so polite to her customers in one breath and so rotten to her husband the next!?
+Bianca
+	Fair enough, I s'pose. It's quite nice when a wife makes her husband dinner every now and then too, though, eh?
+Bianca
+	I hope I manage to find someone like that to marry one day. It's a long way off yet, though, I'm sure.
+Bianca
+	I wonder if he would've really bin allowed to marry Nera if he'd have found the ring.
+Bianca
+	It dun't bear thinkin' about! Lucky for her it din't turn out that way, anyhow.
+Bianca
+	The church here is so huge and beautiful!
+Bianca
+	It really is lovely. I hope I can get married in a place like that.
+Bianca
+	That Briscoletti bloke must be loaded to have
+	a holiday home within spittin' distance of his
+	actual house!
+Bianca
+	I'm startin' to get all nervous now!
+	Come on, %a000090. Let's go.
+Bianca
+	That was a bit stupid of us, bowlin' on back here without the Circle of Water!

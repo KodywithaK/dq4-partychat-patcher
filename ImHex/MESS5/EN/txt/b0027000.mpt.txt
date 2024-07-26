@@ -1,0 +1,503 @@
+*: 
+	Meow!
+*: 
+	Welcome to Whealbrook.
+*: 
+	Turns out that man Pankraz who was here all them years ago was King of Gotha no less!
+*: 
+	Well, I'll be! I can't tell you what a surprise it was to find that out.
+*: 
+	The cave entrance is just up ahead.
+*: 
+	There are no monsters in there any more, though.
+*: 
+	Hm? Well, well! If it isn't %a000090!
+*: 
+	So you're back! We've heard all sorts of tales of what you've been up to, I can tell you!
+*: 
+	Becomin' king, for one thing! And then there's that business of you defeatin' the Grandmaster of the Underworld.
+*: 
+	We're all proud as Punch of you back here, %a000090. Proud as Punch!
+*: 
+	Pub's not open 'til this evening, I'm afⓚⓛ
+	Blimey! Is that really you, %a000090?
+*: 
+	Or should I say King %a000090?
+	You've certainly done well for yourself, eh?
+*: 
+	Dear me! I turn my head for a second, and come back to find the pot practically licked clean!
+*: 
+	The old man should just speak up if he's that hungry.
+*: 
+	Mmm...delicious!
+*: 
+	The old dragon always blames me for wolfin' down her food, so I thought I may as well scoff the lot!
+*: 
+	Haven't we met somewhere before? I've been over in Lodestar Harbour 'til just recently.
+*: 
+	I just couldn't seem to ditch my dream of
+	becomin' a pharmacist, though. That's why I'm
+	back here again.
+*: 
+	Hopefully I'll be a pro before long, just like good old Rockefeller.
+*: 
+	Did you want to speak with the master?
+	He's upstairs if you need him.
+*: 
+	Long ago, Pankraz and %a000090, the grandfather and father of the legendary hero, lived here in this house.
+*: 
+	Oh? You already knew that? I see. Come here to see the place especially, have you?
+*: 
+	No! You used to live here?
+*: 
+	B-But! That would make you...
+	Good heavens!
+~ Leave Whealbrook and continue on your way? ~
+Rodrigo Briscoletti
+	Ah ha ha hah!
+	Tutti-frutti! Tutti-frutti!
+Rodrigo Briscoletti
+	The Grandmaster of Nadiria's not so grandioso any more, eh, %a000120? So we can all enjoy the dolce vita at last!
+Rodrigo Briscoletti
+	Nothing that I wouldn't have expected of %a000090 and his two mighty bambinos!
+Rodrigo Briscoletti
+	You would have made a fine husband for my Nera, %a000090. But let's not cloud this fine day with regrets.
+Rodrigo Briscoletti
+	Yes, rarely has there been a finer day!
+	Tutti-frutti all round!
+Romana
+	I was completely gobsmacked when I found out.
+Romana
+	Your son, the legendary hero!
+Romana
+	I'm sure it was fate that you and Bianca
+	were married.
+*: 
+	Mr Briscoletti's been going around with a beaming smile on his face all day.
+*: 
+	He keeps going on and on about how it was his boat that the legendary hero used to sail around the world in.
+*: 
+	He's saying it to every single person he
+	comes across!
+Rodrigo Briscoletti
+	Ah ha ha hah!
+	Tutti-frutti! Tutti-frutti!
+Rodrigo Briscoletti
+	The Grandmaster of Nadiria's not so grandioso any more, eh, %a000120? So we can all enjoy the dolce vita at last!
+Rodrigo Briscoletti
+	You've turned out to be a fitting match for my Nera, %a000090.
+Rodrigo Briscoletti
+	And here is my bambino! I hardly recognised you, it's been so long.
+Rodrigo Briscoletti
+	And my beautiful pair of scaramouches!
+	It's wonderful to see you all.
+Rodrigo Briscoletti
+	So, Rodrigo Briscoletti is the grandfather of the legendary hero!
+Rodrigo Briscoletti
+	If I wasn't the man I am, I might almost feel embarrassed! Ha ha ha ha hah!
+Romana
+	I hope you'll stick with my little girl even now all this excitement has passed, %a000090?
+Romana
+	And Nera...
+	There's something I need to tell you.
+Nera
+	It's alright, Mama. I know.
+	And so does she.
+Nera
+	But I love you and Papa more than I could love even my real parents.
+Romana
+	Oh, Nera. That's so sweet...
+*: 
+	Mr Briscoletti's been going around with a beaming smile on his face all day.
+*: 
+	He keeps going on and on about how he's the grandfather of the legendary hero.
+*: 
+	He's saying it to every single person he
+	comes across!
+*: 
+	Come on, join in the dancing!
+	There's celebrating to be done!
+*: 
+	La la-la-lah... La la-la-lah...
+	La la-la lah lah laaaah!
+*: 
+	I don't know how many years it's been since I enjoyed some dancing. I feel like I'm sixteen again!
+*: 
+	Oh my! You're %H0860%Xone of the heroes%Ythe heroes%Z who defeated the Grandmaster of Nadiria, aren't you?
+	Tee hee hee hee! I'm so embarrassed!
+*: 
+	Dancing like this, all footloose and fancy-free, really brings it home to you, doesn't it?
+	Peace! At last!
+*: 
+	The Goddess is smiling down on this festival of joy now that the world is once more at peace.
+*: 
+	It is all as the Goddess intended.
+*: 
+	May you and your family continue to live under Her divine protection.
+*: 
+	I'm too happy to do any work today!
+	Far too happy!
+*: 
+	Wahey! Wahoo!
+	I'm as old as can be!
+*: 
+	I never even dreamt I'd see this day in my lifetime! It's great being old! Wahoo!
+Bingo
+	Bau! Bau, bau, bau!
+	Bau, bau, bau-au-au-aaaau!
+*: 
+	Aaaah! That's the best drink I've had in years!
+	Well, I mean, it's hard to beat a freebie, isn't it!
+*: 
+	Maybe it's time I made a lifestyle change now the world's at peace and everything. I could get married!
+*: 
+	Drinks are on the house today!
+	Courtesy of Mr Briscoletti!
+*: 
+	All the grown-ups are busy having a party, so I'm in charge of the shop. I'm trustworthy, you see, that's why.
+Crispin
+	Ah-ha! %0%a000090! You and your party really are a gift from the Goddess.
+Crispin
+	When I think that I competed against such an accomplished rival for Nera's hand in marriage, I...
+Crispin
+	Well, it makes me feel a lot more confident
+	about myself.
+Nera
+	Thank you. Thank you all so much.
+Nera
+	%0%a000090, Bianca, and your two wonderful children, of course.
+Nera
+	I hope you have many long and happy years together.
+Crispin
+	Ah-ha! %0%a000090! You and your party really are a gift from the Goddess.
+Crispin
+	When I think that I competed against such an accomplished rival for Nera's hand in marriage, I...
+Crispin
+	Well, it makes me feel a lot more confident
+	about myself.
+Ashlee
+	You are just ze 'andsome, strong man my 'usband described to me, %a000090.
+~ Leave Mostroferrato and continue on your way? ~
+Whitey
+	So you managed to give that Grandmaster of the Underworld the what-for, eh?
+Whitey
+	And now here the four of you are, come to visit me as a family.
+Whitey
+	Lovely stuff, lovely stuff.
+Whitey
+	We've got a lot of catchin' up to do, eh?
+	Why dun't you stay the night?
+Bianca
+	Sorry, Dad, but...
+Whitey
+	Oh, right. The folks over in Gotha are waitin' for %a000090's homecomin', are they?
+Whitey
+	Well, fair enough. I s'pose he is king o' the place, after all, eh?
+Whitey
+	You folks had better get a move on back to
+	Gotha, then.
+Bianca
+	We'll come back and see you again soon, Dad.
+Whitey
+	Just as long as it's the both of you, eh? I dun't want to see you turnin' up on the doorstep on your own because you pair have had a row! Ha ha ha!
+Whitey
+	Let me be havin' a look at them lovely grandchildren
+	o' mine!
+Whitey
+	%0%a001240 and %a001250... I can see you both growin' up to be fine folk, just like your mum and dad.
+Bianca
+	%0%a000090!
+	You've come to visit!
+Bianca
+	We've heard all sorts of rumours here about you lot goin' off and savin' the world.
+Bianca
+	I never imagined you'd turn out to be such a force to be reckoned with.
+Bianca
+	You were no use to man or beast that time we went off ghost-bustin' together all them years ago!
+Bianca
+	I'm sure it must be your influence on him, Nera.
+Bianca
+	You keep takin' good care of him, eh?
+Whitey
+	I was ever so surprised to find out about you bein' King of Gotha, %a000090.
+Whitey
+	It's lovely that you still take a bit of time out to come and see us common folk, though.
+Whitey
+	Stop by whenever you feel like it, eh? I'm sure Bianca'll always be glad to see you.
+Bianca
+	You dun't feel like a stranger to me any more, Nera. Neither does Debora.
+Bianca
+	It'd be nice if we could all get to know each other even better, eh?
+*: 
+	Meow.
+*: 
+	Now it's all peaceful again, the baths'll probably be crawlin' with tourists.
+*: 
+	Well they'd better leave space for us locals, or I might have to knock some heads together!
+*: 
+	That one just refuses to accept he's no spring chicken any more, the silly old fool!
+*: 
+	Purrr!
+*: 
+	That son of mine's only sayin' he wants to be a priest now, of all things!
+*: 
+	He's got the inside of our house decked out like it was a church, y'know.
+*: 
+	Still, folk are sayin' the world's at peace again. Maybe it's thanks to my boy!
+*: 
+	Well, you folks are certainly an impressive team if ever there was one!
+*: 
+	I s'pose I can't blame Bianca for fallin' in love with you. You win some, you lose some, eh?
+*: 
+	I'm pretty happy, I can tell you.
+*: 
+	To think that the veil I made was worn by the mother of the boy who saved the world!
+*: 
+	There's not many veil-makers who can boast that kind o' thing!
+*: 
+	It is all as the Goddess intended.
+*: 
+	May the Goddess continue to bestow her blessing on the legendary hero and all members of his clan!
+*: 
+	I'm too happy to do any work today!
+	Far too happy!
+*: 
+	I never imagined we'd see peace again in my lifetime. I dun't know how to thank you!
+*: 
+	Oh my! You're %H0860%Xone of the heroes%Ythe heroes%Z who defeated the Grandmaster of Nadiria, aren't you?
+	Tee hee hee hee! I'm so embarrassed!
+*: 
+	Well, well. The world's at peace at last, is it?
+*: 
+	That calls for a good slap-up meal then, I'd say, wouldn't you?
+*: 
+	I know a little secret. Turns out Bianca en't Whitey's real daughter.
+*: 
+	Nope. He found her abandoned when he was walkin' in the mountains one day.
+*: 
+	Oops! Maybe I wasn't supposed to be tellin'
+	folk that...!
+~ ⓗSee ya, everyone! I'm off to join that religion and go to that White King's Paradise place!ⓘ ~
+~ Leave Stockenbarrel and continue on your way? ~
+*: 
+	Your Majesty! You're back! Welcome home, sir!
+*: 
+	Surely you're not planning on leaving us again already, Your Majesty? Everyone's waiting to congratulate you.
+*: 
+	Everyone's waiting to congratulate you,
+	Your Majesty.
+Tuppence
+	There you are, %a000090!
+	I mean, Your Majesty.
+Tuppence
+	You were magnificent! I've never felt prouder to be a Gothan than I do today!
+*: 
+	The King! Back after all this time!
+*: 
+	This is the happiest ⓚⓛ Hic! ⓚⓛ day of my life,
+	Mour Yajesty!
+*: 
+	I never really thought it was going to happen, you know. Peace, I mean.
+*: 
+	Thank you, Your Majesty!
+	You've done the world a great service.
+Patty
+	Hiya! And welcome to Patty's Party Planning Place!
+	Can I help you?
+Patty
+	No! Because you helped us already!
+	Now every day's a party! Yay!
+	You're the greatest, King %a000090!
+*: 
+	King Pankraz was a fine king, you know.
+	A fine king indeed. But you, Your Majesty, have surprised us all.
+*: 
+	You may very well be even greater than
+	your father!
+*: 
+	Ⓠ There once was a fiend called Nimzo,
+	Who messed with the legendary hero... Ⓠ
+*: 
+	Ⓠ But %a001240 was too strong,
+	The foe sang his swansong, Ⓠ
+*: 
+	Ⓠ And the hero's from Gotha, don't you know! Ⓠ
+%0%a001210
+	Purrr...purrr...
+*: 
+	Yay! Wahoo! The King's back! The King's back!
+*: 
+	Hic! The world'sh at peash... Queen %a001230'sh ash bootiful ash ever...
+*: 
+	And I'm ash happy ash a shlime in a shircus. Hiccup!
+*: 
+	Well, well. The world's at peace at last, is it?
+*: 
+	That calls for a good slap-up meal then, I'd say, wouldn't you?
+*: 
+	Ah! Your Majesty!
+*: 
+	What you've achieved is incredible, sir! I only wish I could have been at your side through it all, sir!
+*: 
+	Three cheers for King %a000090!
+	Hip-hip, hurray! Hip-hip, hurray! Hip-hip, hurray!
+*: 
+	Three cheers for Queen %a001230!
+	Three cheers for Prince %a001240!
+	And three cheers for Princess %a001250!
+*: 
+	Welcome home, Your Majesty. The monsters helped you on your quest, I see.
+*: 
+	Human and monster alike, we are all creatures of the Goddess.
+*: 
+	Your Majesty. The whole world knows of your
+	fine achievements.
+*: 
+	Woof! Woof, woof, woof!
+*: 
+	(slurp SLURP) Goopendous!
+*: 
+	I hear the Grandmaster of Nadiria has been defeated, and Zenithia is once more at its zenith,
+	as it should be.
+*: 
+	Wonderful news. Yes, wonderful news indeed!
+*: 
+	Ha ha ha ha hah! Bo diddly! There's no medicine sweeter than the sight of happy people.
+*: 
+	Why, it makes you thirsty for another glass.
+*: 
+	Hm? Who am I? You can't have forgotten
+	me already!
+*: 
+	It's your old friend, Dr A-diddly-agon, of course.
+Dr Agon
+	I like you humans. You're alrighty!
+Dr Agon
+	Ha ha ha ha hah! Bo diddly! There's no medicine sweeter than the sight of happy people!
+Dr Agon
+	Why, it makes you thirsty for another glass!
+Dr Agon
+	I like you humans. You're alrighty!
+*: 
+	This is the happiest ⓚⓛ Hic! ⓚⓛ day of my life,
+	Mour Yajesty!
+~ %0%a001260 is happily tucking into the feast. ~
+~ %0%a001260 seems to be a little bit shy... ~
+*: 
+	Oh, Your Majesty, King %a000090!
+	Welcome home, sir!
+*: 
+	If you wouldn't mind, sir, everyone's waiting for you in the throne room.
+*: 
+	My deepest gratitude, %H0860%Xfriend, for all thou hast%Yfriends, for all you have%Z wrought. Zenithia is restored! The Zenith Dragon doth rule once more!
+*: 
+	May the Goddess swathe you and your kin in safe keeping. May the legendary hero know no danger.
+*: 
+	Oh, Your Majesty, King %a000090!
+	Welcome home, sir!
+*: 
+	If you wouldn't mind, sir, everyone's waiting for you in the throne room.
+Gertrude
+	My father told me all about it. He said you defeated the Grandmaster of the Underworld.
+Gertrude
+	You're not supposed to say things like this to the King, but...
+Gertrude
+	Oh, well. I can't keep it to myself any longer.
+Gertrude
+	I think you're the best, %a000090!
+Sancho
+	My Majesty! No... To me, you are always my friend! Welcome home!
+Sancho
+	I eso proud of you!
+	I eso happy!
+Sancho
+	When I leave thees castle weeth señor Pankraz eso long ago, you were just a leettle bebé.
+Sancho
+	I no believe thees day, eet ever comes.
+	Ees, ees, ees like a dream.
+	I, I... (sob)
+Sancho
+	Everyone ees waiting for you, friend.
+~ %3The sound of voices drifts by, carried on the wind...%4 ~
+~ %3Look, my love. Look at our children's happy faces.%4 ~
+~ %3Yes, my darling. They look so happy.%4 ~
+~ %3Our children have fulfilled the dream we never could.%4 ~
+~ %3Come, my dear, it is time we departed.%4 ~
+~ %3Yes, my love...%4 ~
+~ Record your achievements so far in an adventure log? ~
+~ Are you sure you don't want to record what you've done? ~
+Romana
+	You see, by birth, you and Debora aren't actually ourⓚⓛ
+Nera
+	And although she probably would never come out and say so, I'm quite sure that Debora feels the same way.
+Rodrigo Briscoletti
+	Ah ha ha hah!
+	Tutti-frutti! Tutti-frutti!
+Rodrigo Briscoletti
+	The Grandmaster of Nadiria's not so grandioso any more, eh, %a000120? So we can all enjoy the dolce vita at last!
+Rodrigo Briscoletti
+	You never cease to amaze me, %a000090. When you chose to take my Debora for a wife, I knew you were hardy...like one of Romana's ciabattas!
+Rodrigo Briscoletti
+	But I never imagined you would turn out to be such a great man.
+Rodrigo Briscoletti
+	You've even managed to soften Debora a little, if I'm not mistaken!
+Rodrigo Briscoletti
+	And my beautiful pair of scaramouches!
+	It's wonderful to see you all.
+Rodrigo Briscoletti
+	So, Rodrigo Briscoletti is the grandfather of the legendary hero!
+Rodrigo Briscoletti
+	If I wasn't the man I am, I might almost feel embarrassed! Ha ha ha ha hah!
+Romana
+	I hope you'll stick with my little girl even now all this excitement has passed, %a000090?
+Romana
+	And Debora...
+	There's something I need to tell you.
+Romana
+	You see, by birth, you and Nera aren't actually ourⓚⓛ
+Debora
+	Yes, about that...
+	Nera and I already know.
+Debora
+	But neither of us are bothered, so it's nothing to get worked up about.
+Romana
+	Oh, Debora.
+	That means a lot to me.
+Crispin
+	Ah-ha! %0%a000090! You and your party really are a gift from the Goddess.
+Crispin
+	When I think that I competed against such an accomplished rival for Nera's hand in marriage, I...
+Crispin
+	Well, it makes me feel a lot more confident
+	about myself.
+Debora
+	Don't get too carried away there, Crispin.
+Debora
+	It's not as if you played any part in it, after all.
+Nera
+	Thank you. Thank you all so much.
+Nera
+	%0%a000090, Debora, and %a001240 and %a001250, of course.
+Nera
+	I hope you'll come back and visit whenever you can.
+Bianca
+	%0%a000090!
+	You've come to visit!
+Bianca
+	We've heard all sorts of rumours here about you lot goin' off and savin' the world.
+Bianca
+	I never imagined you'd turn out to be such a force to be reckoned with.
+Bianca
+	You were no use to man or beast that time we went off ghost-bustin' together all them years ago!
+Bianca
+	I'm sure it must be your influence on him, Debora.
+Bianca
+	You keep takin' good care of him, eh?
+Bianca
+	You dun't feel like a stranger to me any more, Debora. Neither does Nera.
+Bianca
+	It'd be nice if we could all get to know each other even better, eh?
+Debora
+	I hear you saved the world.
+Debora
+	That's a fair accomplishment for the likes of you, %a000090.

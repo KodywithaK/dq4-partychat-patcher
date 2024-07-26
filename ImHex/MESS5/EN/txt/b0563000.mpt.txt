@@ -1,0 +1,423 @@
+Bianca
+	So this is Lofty Peak... This is where your mum was born and raised.
+Nera
+	There's a very mysterious air to this village.
+	It feels like more of a holy place than an
+	inhabited settlement.
+%0%a001240
+	It's quiet here as usual, isn't it?
+	It makes me feel a bit nervous.
+%0%a001250
+	It's been a while since we were last here.
+	I wonder how everyone is.
+Sancho
+	We must ask many people about thees underworld. We must find out as much as we can.
+Sancho
+	But ees no eso easy to walk around een thees town, eh? These eslopes, they are no good for my back, you know.
+Sancho
+	I know you want to talk weeth the village elders, but ees no the time now. We must hurry to the underworld.
+Tuppence
+	In some ways, it's harder walking around this village than it is walking around a cave.
+Bianca
+	How sad that they've bin forgotten!
+Nera
+	I suppose it's only to be expected that they'd be forgotten, living all the way out here. It is a bit sad for them, though.
+%0%a001250
+	The forgotten ones? It'd be horrible to be forgotten. You won't forget me, will you, Dad?
+%0%a001240
+	I never forget places I've been, even if I've only been once. I wonder who the people here have
+	been forgotten by.
+Bianca
+	Oh yeah. You lot have bin here before, eh?
+Nera
+	Of course. You've been here already. It doesn't seem like they have many visitors, so you probably stood out quite a lot.
+%0%a001240
+	Ha ha! I wonder if it was my face she remembered. How cool is that!?
+Tuppence
+	Dear me! She obviously just can't get me out of
+	her head!
+Tuppence
+	...Hm? What is it, %a000090?
+	Why are you looking at me like that?
+Bianca
+	If that key really exists, we'd do well to get hold
+	of it.
+Nera
+	Dear me! A key that can open any door in the hands of a master thief, of all people!
+%0%a001240
+	M. Bezzler? That's a weird name.
+%0%a001240
+	If we had that key, maybe we'd be able to open that door in the cave on the way here.
+%0%a001250
+	Why do you suppose that poet's looking for the key? You don't think he's planning on becoming a thief, do you?
+Tuppence
+	If only such a key were mine, I could unlock the door to a beautiful woman's heart...
+Tuppence
+	I'm only joking! Just ignore me.
+Bianca
+	He said he's bin lookin' for it, and yet he didn't seem fed up we had it. How weird!
+Nera
+	Do you think this key really can open any door?
+	How amazing!
+%0%a001240
+	It was pretty hard work getting hold of that key, wasn't it, Dad?
+Sancho
+	You esee, friend? Esome people, they use the good theengs een the bad ways. You must no be a filibuster weeth thees key, okay?
+Bianca
+	Lodestar Harbour? We went there together ages ago, eh? That really takes me back!
+Nera
+	We set sail from Lodestar Harbour just after we were married, didn't we? Aah, happy memories.
+%0%a001250
+	Maybe we'd find out more about this weird-sounding M. Bezzler character if we went there.
+Sancho
+	Hmm... I theenk ees a good idea you remember what thees señor, he esays now. You understand, friend?
+Bianca
+	Lodestar Harbour? We went there together ages ago, eh? That really takes me back!
+Nera
+	We set sail from Lodestar Harbour just after we were married, didn't we? Aah, happy memories.
+%0%a001240
+	Huh? Do we know about him? I don't remember hearing about him before.
+%0%a001240
+	We're not here to find out about truth and reason. We're here to find out about Nadiria.
+%0%a001250
+	Yikes! We're so high up! How come the people
+	here aren't scared, even though there are no rails or anything?
+Sancho
+	You know, ees very high up here.
+	Thees village, ees een a scary place, sí?
+Bianca
+	How old are you now, %a000090?
+Bianca
+	Your mum must've bin fightin' all them years since you were born to keep the monsters at bay.
+Nera
+	I can understand why your mother wants to protect you like she does.
+Nera
+	But I'm sure we can be of help to her if we keep pushing on. Together, we can do anything!
+%0%a001250
+	It's not fair! There are loads of monsters about who aren't evil. They can't help it if some of them get ordered to do bad things.
+Sancho
+	Sí. Ees true. After thees, señor Pankraz, he decided to leave on the quest to find her.
+Sancho
+	The quest from which he never
+	would return...
+Sancho
+	Hahh...hahh... Hahh...hahh...
+	Perdón, friend. Hahh...
+	I can no ⓚⓛ hahh ⓚⓛ espeak now...
+%0%a001240
+	Wow! Look! Just look at how far you can see from up here!
+%0%a001250
+	I'm too scared to look down!
+Tuppence
+	I wonder if anyone's plummeted to their death from up here.
+Bianca
+	Wow! This place really is surrounded by mountains.
+Nera
+	Can you hold my hand, darling? I feel a bit nervous being so high up.
+%0%a001250
+	Look how pretty the sky is! I'm going to keep looking up at it, so you'll have to guide me, okay, Dad?
+%0%a001240
+	It's funny that he's not scared, standing on the edge like that. %0%a001250 would be crying with fear if she were him!
+Sancho
+	We, we must believe the words of the elders.
+	We have notheeng else, sí, friend?
+Tuppence
+	Nadiria... Hearing it again makes it all seems
+	scarily real. I, er, I seem to be shaking.
+Bianca
+	I had no idea your mum had powers like that.
+Bianca
+	That must be why Grandmaster Nimzo took her away. He was afraid of what she could do.
+Nera
+	It doesn't sound like there's anyone who could take your mother's place. What a terrible burden for her.
+%0%a001250
+	If we stay here, maybe we'll dream about Grandma. That'd be nice.
+Nera
+	So the inn's right in the middle of the village.
+	It's helpful of them to have it in such an easy
+	place to reach.
+%0%a001240
+	I wonder if Grandma ever stayed here.
+%0%a001240
+	Oh, I suppose not. If she lived in the village, then she wouldn't need a room at the inn. Silly me!
+Bianca
+	It's very snug, but it's a lovely room. You probably have brilliant dreams when you stay here.
+Sancho
+	Even here, there are weapon and armour eshops. But they no eseem to go well here, you no theenk?
+%0%a001240
+	There's a proper shopkeeper and everything, but I wonder if there are ever any customers.
+Bianca
+	This is a pretty big shop.
+	D'you reckon they do alright here?
+Nera
+	A shop in a place like this is always bound to have lots of weird and wonderful things on sale.
+%0%a001240
+	It sounds like the people here don't often visit the outside world. That must be a bit lonely.
+%0%a001250
+	That old woman always looks really sad.
+	I wonder what's wrong with her.
+Sancho
+	But señora Mada, eshe was eso happy weeth señor Pankraz!
+Sancho
+	Anda! I theenk ees gonna take a long, long time before the people here, they understand thees.
+%0%a001240
+	That's Grandpa Pankraz!
+	Good for him!
+Tuppence
+	Hopefully it won't be too long for me now...
+	Er, nothing. Never mind.
+%0%a001250
+	Um, if I suddenly decided to get married, would you be lonely?
+%0%a001250
+	Okay then, I won't do that.
+%0%a001250
+	You'd be happy? Then maybe I should have a whirlwind romance and get married just like Grandma Mada did!
+Bianca
+	So that's how it all happened. It sounds like it was really romantic between your folks, %a000090.
+Nera
+	I've always thought it was fate, the way we met
+	like we did. It sounds like it was fate for your parents too.
+Bianca
+	Openin' the gateway to Nadiria will be no mean feat, eh? But I'm sure we'll manage.
+Nera
+	Sealed shut for centuries? That sounds like it could be tricky to open. But we have to give it a try.
+%0%a001240
+	I'm not going to give up. We've had our hard times up to now that we've won through, and we will again this time!
+%0%a001250
+	Oh, that's the man who gave us the flying carpet.
+Sancho
+	But weeth the blood of señora Mada and of Gotha een your veins, everytheeng, eet ees possible, sí?
+Sancho
+	Ees a miracle! We have found the missing craftsman of Gotha! I never expected to find heem here!
+%0%a001240
+	It's nice to meet people who like Grandpa Pankraz and Grandma Mada so much.
+%0%a001250
+	But Grandpa Pankraz is definitely dead, right? Killed right before your very eyes... Oh! (sob)
+Tuppence
+	Aah! So that's the famous craftsman from Gotha!
+	Well, well, well!
+Sancho
+	Ees a miracle! We have found the missing craftsman of Gotha! I never expected to find heem here!
+%0%a001240
+	Yay! I can't wait until tomorrow!
+%0%a001250
+	Do you think he can really turn a plain old stone into something beautiful? Really!?
+Tuppence
+	So we'll soon see the work of a famous craftsman.
+	I don't know that I'll be able to get a wink of
+	sleep tonight.
+Sancho
+	Ees a miracle! We have found the missing craftsman of Gotha! I never expected to find heem here!
+Tuppence
+	Goodness! That's incredible! Who'd have thought that an old bit of rock like that could be transformed into something so exquisite?
+Sancho
+	Sí, sí! Thees ees a true craftsman.
+	When you esee the fine work like thees, you no feel like the artisans, they are dying, eh?
+%0%a001250
+	It's so pretty! Do you think this was hidden inside the stone all along? Wow!
+%0%a001240
+	That was worth doing, wasn't it, Dad? It's
+	very pretty. You should probably use it to
+	decorate something.
+Sancho
+	Sí, sí... Señor Pankraz, he was loved by everyone.
+	He was, was... (sob)
+Sancho
+	The artist from Lofty Peak...?
+	Eef he was taken by the Goddess...
+Sancho
+	Thees means ees no possible to complete the locket of señora Mada.
+%0%a001240
+	So someone here pledged allegiance to Grandpa?
+	I would've liked to have met him.
+Bianca
+	Everyone loved Pankraz over in Whealbrook too, eh? He was so kind and so strong...
+%0%a001240
+	Those Elders know everything we're up to without us having to say a word!
+%0%a001250
+	Do you think the Estuary Sanctuary is the thing we passed in the cave on the way here?
+Bianca
+	En't these the folk that are supposed to guard
+	the gateway?
+Bianca
+	Then he must know what he's talkin' about.
+Nera
+	Then I wonder how Mada managed to enter Nadiria. Maybe Grandmaster Nimzo took her himself...
+Tuppence
+	They may call themselves ⓗEldersⓘ, but they're actually quite young and splendid-looking.
+	How odd!
+%0%a001240
+	The Zenith Dragon is Dr Agon, right?
+%0%a001240
+	It's hard to really tell if he's all that powerful or not.
+%0%a001250
+	It's amazing that the effect of something we
+	did is being felt all the way out here in the
+	middle of the mountains.
+Sancho
+	Ees because of señor Agon, sí?
+	We must esay gracias to heem, no?
+Tuppence
+	That means now's the perfect time to go in after him and knock him for six!
+Nera
+	I suppose that means we can breathe a small sigh of relief for now.
+Bianca
+	Three great circles...
+	First we have to get hold of 'em.
+Bianca
+	It'd be handy if we already had 'em, eh?
+Nera
+	I wonder how we offer up these great circles.
+%0%a001240
+	Sounds easier than we thought to open the gateway, doesn't it?
+%0%a001250
+	So this was Grandma's room. It's nice and big, but it's got a bit of a lonely feel to it.
+Sancho
+	Ees a book of psalms? A book your madre, señora Mada, eshe used to read, sí? You must
+	keep thees memento esafe, friend.
+%0%a001240
+	Did you notice that this room's the highest room in
+	the village?
+%0%a001240
+	It's a bit like in faerie stories where they have the princess locked up in the highest room of a tower!
+Tuppence
+	A book of psalms? I'm sure it will be of use to us in times of need. If only those up on high would be there for us...
+Bianca
+	What a huge room! Looks like Mada was thought of as someone really special 'round here.
+%0%a001250
+	So this was Grandma's room. It's nice and big, but it's got a bit of a lonely feel to it.
+Sancho
+	Sí. Señora Mada, eshe has the beeg heart.
+	Beeg, estrong and beautiful.
+%0%a001240
+	What does she mean by light in your heart?
+	Is that the same as just being light-hearted?
+Bianca
+	Your mum said it right, eh, %a000090?
+	We mustn't lose hope!
+Nera
+	I've had light in my heart ever since the day I met you. You're the light of my life, darling.
+Bianca
+	So this is Lofty Peak... This is where your mum was born and raised.
+Nera
+	There's a very mysterious air to this village.
+	It feels like more of a holy place than an
+	inhabited settlement.
+%0%a001240
+	It's quiet here as usual, isn't it?
+	It makes me feel a bit nervous.
+%0%a001250
+	Zzz... Yes, yes... I'm...awake...
+Sancho
+	Ees late, sí? We no go for the siesta yet?
+	Early to bed, early to rise. Thees ees the best way, you know.
+Tuppence
+	Aah, I'm rather tired today.
+	Er, no, no! I'm fine! Fit as a fiddle!
+%0%a001240
+	I wonder what food they'll be serving at the inn tonight. I'm starving!
+Bianca
+	How sad that they've bin forgotten!
+Nera
+	I suppose it's only to be expected that they'd be forgotten, living all the way out here. It is a bit sad for them, though.
+%0%a001250
+	The forgotten ones? It'd be horrible to be forgotten. You won't forget me, will you, Dad?
+%0%a001240
+	I never forget places I've been, even if I've only been once. I wonder who the people here have
+	been forgotten by.
+Sancho
+	Sí, sí. The elder peoples, they are always going to bed early. We come back een the morning, okay?
+%0%a001250
+	Sancho said it's rude to visit people too late in
+	the evening.
+Bianca
+	Time for bed now, I think. It's dangerous walkin' about this place in the dark. Imagine if you stepped over the edge!
+Nera
+	What a pity! Fancy not being able to see them after that scary journey up here in the dark!
+%0%a001240
+	I'm not scared of night-time! I don't wet the bed any more, so what's there to be afraid of?
+	...I don't wet it, honest!
+%0%a001250
+	I know how he feels. Scary creatures come out at night. You can hear their footsteps...
+Bianca
+	I wonder what'll happen if we dun't manage to defeat the Grandmaster.
+Bianca
+	Listen to me! I mustn't talk like that, eh?
+	There's nothin' we can't do if we all stick 
+	together as a family!
+Nera
+	It could be quite beautiful, a night-time land of only stars and moons...
+Nera
+	But the idea of a night-time land full of scary monsters isn't quite so appealing.
+Debora
+	One, two, three... Nope, counting them is boring.
+	Just how many stairs do you suppose there
+	are here?
+Debora
+	They shouldn't call themselves the forgotten ones.
+Debora
+	It's disrespectful to people like me who've come all this way to visit the place.
+Debora
+	She remembers you! That's weird. I wouldn't have thought you'd be that memorable without me by
+	your side.
+Debora
+	We should take a good look at him and remember his face for future reference. He could well end up becoming a thief.
+Debora
+	Wow! He seems impressed! We should flash it about a bit and see what he'd do to have the chance to lay his hands on it.
+Debora
+	Lodestar Harbour's the place we set sail from back when you were an unaccomplished servant.
+Debora
+	Er... What about him? Remind me.
+Debora
+	Truth and reason? What's he on about? I think you'd better do the talking with this lot, %a000090.
+	I can't get on with people who speak in riddles.
+Debora
+	Your mother was a strong woman. She carried on fighting even though she knew she was in danger.
+Debora
+	Haah... Haah...
+	Why do you look so unruffled?
+	I order you to at least look a little bit tired!
+Debora
+	Sounds like even the elders didn't have the necessary powers to take your mother's place.
+Debora
+	The nerve of Nimzo, snatching her away like that! We'll make him pay, don't you worry.
+Debora
+	This inn's very appealing. By which I mean the place, not the price.
+Debora
+	I like this inn. We're staying here tonight.
+Debora
+	I adore shopping! Just look at this shop! They probably have some lovely dresses on sale.
+Debora
+	Papa never had that problem.
+	That's because he trusts me.
+Debora
+	So you inherited your recklessness from your parents. Now it all makes sense.
+Debora
+	It's only stayed sealed shut because no one could open it. Don't let him put you off. Let's go!
+Debora
+	Let's hurry up and get to the gateway to Nadiria.
+Debora
+	If it's been sealed shut for centuries, it's probably rusty and in need of some work by now.
+Debora
+	If Nimzo came along and started to destroy my favourite shop, then I'd really lose my temper.
+Debora
+	ⓗThree great circlesⓘ...
+	Do you think it's referring to these?
+Debora
+	This book of psalms is really easy to read.
+	The words just seem to sink in somehow.
+	Other books like this usually just irritate me.
+Debora
+	In other words, the reason the darkness can't get the better of me is that I have light in my heart!
+Debora
+	I don't have the energy for any more stairs today. Let's carry on exploring tomorrow.
+Debora
+	They shouldn't call themselves the forgotten ones.
+Debora
+	It's disrespectful to people like me who've come all this way to visit the place.
+Debora
+	Are you deaf or something? I said we'd carry on exploring tomorrow!
+Debora
+	Perpetual night would mean the end of the world as we know it.
+Debora
+	There's no need to fret over what'll never happen, though. We'll defeat Nimzo and put a stop to it.

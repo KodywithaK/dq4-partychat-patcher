@@ -1,0 +1,302 @@
+Bianca
+	They did a good job of buildin' a castle all the way out here.
+Bianca
+	I feel like I'm about to collapse in all this heat! I s'pose we'll look back on our ⓗhot honeymoonⓘ one day and laugh, though, eh?
+Nera
+	I'd love to have a proper look at the castle, but
+	I can hardly keep my eyes open with all this sand flying about.
+Nera
+	It must have been terribly hard work for the people who built this here.
+Nera
+	Fancy Papa sending a messenger all the way out here! He really is a worrywart, isn't he?
+Nera
+	He's sent us some money. We should accept it gracefully. I'm sure that would make him
+	really happy.
+Bianca
+	That poor man! We should help him find some water.
+Nera
+	Oh dear! We can't just leave him lying there.
+	We must try to find him some water.
+Bianca
+	He's a sharp one, eh? Leapin' up to do business with the folk who just saved his life!
+Nera
+	Here's hoping that he doesn't end up in such a sorry state again.
+Bianca
+	Yeah, it definitely dun't sound like a good idea, goin' huntin' about without a hat in this heat.
+Nera
+	I should think it's too hot for treasure hunting even with a hat. I certainly wouldn't feel up to it.
+Bianca
+	Rocks in the shape of a rose? That sounds weird. We'll have to have a look for one of those if we get the chance.
+Nera
+	I've seen one of those before.
+	They really are curious things.
+Bianca
+	I've had my share of rows with my own dad, but it's never got to the point where I've stormed out and run away.
+Nera
+	I've never once had an argument with either of my parents. Is that not the norm?
+Bianca
+	Wouldn't it be handy if the legendary hero was actually here? I doubt we'll get that lucky, though.
+Nera
+	We hear talk of the legendary hero wherever we go, but they speak of him an awful lot here, don't they?
+Bianca
+	Oh, right. I didn't know the legendary hero was the child of a Zenithian. I wonder how you'd go about meetin' 'em.
+Nera
+	Of course. The legendary hero had the blood of
+	a Zenithian.
+Bianca
+	It's lovely and cool and refreshin' in here. I feel like I've got a new lease of life all of a sudden.
+Nera
+	They keep this place incredibly clean, don't they? There's hardly a speck of sand to be seen.
+Bianca
+	That's a shame. It's goin' to be hard to find the legendary hero's descendants if we dun't know
+	what happened to 'em.
+Nera
+	Maybe the legendary hero's descendants are just living quietly somewhere like normal people. 
+Bianca
+	Blimey. He did well, eh? First he was mates with the legendary hero, and then he built his own castle!
+Nera
+	That must be why there's so much talk about the legendary hero here. The person who built the castle was a friend of his.
+Bianca
+	Well, we en't heard news of the legendary hero appearin' back on the scene yet. I s'pose that means the world's not in too bad a state still.
+Nera
+	Do you think that means we have to wait until the world is on the brink of disaster before we can meet with the legendary hero?
+Bianca
+	If they're guardin' the legendary helm ready for when the hero comes back, maybe we'd be better
+	off just waitin' for him here.
+Nera
+	I wonder if the rest of the Zenithian Equipment is being looked after in the same way elsewhere.
+Bianca
+	Surely you can't really practise your swordsmanship against a dummy?
+	Nope, the best way is to go into battle for real.
+Nera
+	Kaaah! Hii-yaaah!
+Nera
+	He he he! Sorry. It looks like that soldier's enthusiasm must be catching.
+Bianca
+	It dun't look like the Queen's in her throne room, eh?
+Nera
+	Her Majesty obviously doesn't care too much
+	about form. It's unusual not to find a royal in their throne room.
+Bianca
+	Sounds like it won't be long now before the legendary hero puts in another appearance.
+Nera
+	Maybe the legendary hero doesn't realise his
+	true identity.
+Nera
+	Otherwise, how can he just stand by doing nothing while the world falls deeper and deeper into crisis?
+Bianca
+	Crikey! I never expected to see all this greenery in the middle of the desert!
+Nera
+	What a beautiful garden!
+	It's like entering another world.
+Bianca
+	Hmm. Sounds like the Queen here is quite
+	somethin', eh?
+Nera
+	It certainly is a very impressive garden.
+Bianca
+	How embarrassin'! As long as you think I'm a beauty, %a000090, that's all I care about.
+Nera
+	He he! I may look pure, but looks can be
+	deceiving. You know that better than anyone,
+	don't you, darling?
+Bianca
+	Hmm. So desert roses crop up in places where there used to be water.
+Nera
+	I wonder if that means the whole world was once covered in greenery.
+Bianca
+	Blimey! That Queen Cleohatra's quite a looker,
+	en't she?
+Bianca
+	What she said was pretty interestin' too. We should get her to take us to the legendary hero's grave.
+Nera
+	The legendary hero's grave? I'd like to see that.
+	We should have her show us where it is.
+Bianca
+	Now's not the time to stand about chattin', %a000090! Her Majesty's already on her way.
+Nera
+	She's very fast on her feet, isn't she? We'd better hurry, otherwise we might lose sight of her.
+Bianca
+	There's a lot to talk about, but our first priority should be tryin' on that helmet.
+Nera
+	We can talk later. First and foremost, you need to try on that helmet.
+Bianca
+	The Queen seemed a bit disappointed, eh? We should probably go and have a word with her.
+Bianca
+	I was startin' to think that it really might be you, %a000090.
+Bianca
+	But you can't equip the Zenithian Sword neither, so it can't be. Still, I do feel like there's somethin' a bit special about you.
+Nera
+	It seems that Her Majesty is trying to find the legendary hero too. Her method is just a bit different to ours.
+Nera
+	Perhaps we should go and speak with her again before we leave, darling?
+Bianca
+	I reckon we should tell her the situation. You never know. She might be able to help out.
+Nera
+	You're being rather cautious aren't you, darling?
+	I'm sure that Her Majesty can be trusted.
+Bianca
+	King Pankraz... Searchin' for his wife with his infant child... That can't just be a coincidence.
+Nera
+	That sounds just like you and your father.
+	Do you think you could be a prince?
+Bianca
+	We should head off to that Gotha place in the east and see what it's all about.
+Nera
+	The eastern kingdom of Gotha... We could probably find out all kinds of things if we went there.
+Bianca
+	I thought it'd still be boilin' hot, but it gets pretty cold in the desert of a night, eh?
+Nera
+	It's so quiet in the desert at night. It feels like we've entered a world devoid of all sound.
+Bianca
+	Looks like we can't get inside the castle of a night.
+	We should probably get some shut-eye anyway.
+Nera
+	If they won't let us inside the castle, there's not much we can do. We should probably rest for
+	the night.
+Bianca
+	I do feel pretty feverish at the minute. Maybe I've gone and caught a cold.
+Nera
+	Atchoo!
+Nera
+	Brrr. I have been feeling a bit of a chill these last few days, actually.
+Bianca
+	Sounds like they've bin waitin' a pretty long time, eh? I s'pose it's possible that the legendary hero won't show his face durin' our lifetimes.
+Nera
+	So many people are waiting desperately for him, and yet still he doesn't appear. Maybe that means the world isn't in such bad shape after all.
+Bianca
+	It is pretty chilly. Another layer or two definitely wouldn't hurt.
+Nera
+	I'm feeling a bit cold now myself, I must say.
+Bianca
+	Rocks in the shape of a rose? That sounds weird. We'll have to have a look for one of those if we get the chance.
+Nera
+	I've seen one of those before.
+	They really are curious things.
+Bianca
+	He can't fool us, eh? It's pretty obvious how worried he is about her.
+Nera
+	I'm sure time will heal this rift between them eventually. A parent and child can't stay angry
+	at each other forever.
+Bianca
+	Yeah, I'd heard about how hot it gets in the day and how cold it gets at night, but I still never imagined it'd be this bad.
+Nera
+	Your body can probably become accustomed to living in all kinds of strange climates, given enough time.
+Bianca
+	Looks like that bloke has the hero on his mind constantly, even when he's asleep!
+Nera
+	We can only hope that the desperation of the people here to see the legendary hero will call out to him and prompt him to show his face.
+Debora
+	I'm sick of all this sand swirling about the place!
+	It's all over my hair and ⓚⓛ look ⓚⓛ it's even got inside my clothes somehow!
+Debora
+	You're the one who said we should come here, so you'd better hurry up and fix this by finding us somewhere decent to stay the night.
+Debora
+	And it'd better have a bath too. Got it?
+Debora
+	How ridiculous of Papa to send a messenger all this way! He really is besotted with me, you know.
+Debora
+	So Papa sent me some pocket money. Well, I suppose it can't hurt to accept it. You can take care of it, though, %a000090.
+Debora
+	What a fool, travelling in the desert without enough water. I won't be able to sleep well if we just leave him, though, so you'd better help him out.
+Debora
+	The cheek of him, trying to make money out of the people who saved him from the brink of death!
+	Still, it's his sort who do well in this world.
+Debora
+	It's far too hot for treasure hunting, hat or no hat.
+Debora
+	If you want to go off and do it, %a000090, you can go on your own.
+Debora
+	Papa showed me one of those ages ago.
+	They're quite pretty, actually.
+Debora
+	You could try to find one for me if you like. I'll wait here, though. I don't want to risk getting sunburnt.
+Debora
+	I've had a few rows with Mama and Papa in the past where I ended up leaving home. I always just went and hid at Crispin's for a while.
+Debora
+	There's so much talk of the legendary hero.
+	I'm starting to believe that he really did exist once upon a time.
+Debora
+	A legendary hero, a Grandmaster of the Underworld, a land called Zenithia...
+	Are you sure this isn't just a faerie tale?
+Debora
+	It's nice to finally be somewhere comfortable again.
+	I really can't stand the heat around here.
+Debora
+	So all we've established by coming here is that the legendary hero really existed. Huh! I want to know where he is now!
+Debora
+	So he became king just on the strength of being friends with the legendary hero?
+Debora
+	Well, I have my own personal servant so...
+	I don't mind carrying on as we are, but it could be quite nice to become a queen.
+Debora
+	If the world's at peace, then there's no need for the legendary hero to show his face. That means we won't get to meet him.
+Debora
+	The hero will probably return here one day for the legendary helm. But there's no way I'm hanging around to wait for him!
+Debora
+	Urgh. It's too hot all over this place, but this room's not only hot, it smells of sweat too. Disgusting!
+Debora
+	I don't blame Her Majesty for not wanting to sit about here in this heat. She's probably gone off to find a nice, cool spot somewhere.
+Debora
+	I wish the legendary hero would pull his finger out and show his face. The nerve of him, keeping me waiting like this!
+Debora
+	How lovely of them to build a garden like this in the middle of the desert to welcome me. You could learn a lot from Queen Cleohatra.
+Debora
+	She blessed them with this garden?
+	Sounds like she did more than just pay for it.
+	Do you think she has some kind of special power?
+Debora
+	I suppose she means that roses have thorns.
+	But flowers with soft petals alone are no fun, right, %a000090?
+Debora
+	I find it hard to believe that this desert was ever covered in greenery.
+Debora
+	The legendary hero's grave? I suppose we may as well go and have a look while we're here.
+Debora
+	What are you playing at, %a000090? There's no time for chat now. We'll lose sight of Her Majesty if we're not careful.
+Debora
+	Can you stop staring at me for one second and try on that helmet?
+Debora
+	If only you'd turned out to be the legendary hero.
+	I don't suppose it could ever be that simple, though.
+Debora
+	Oh well. Queen Cleohatra seems fairly clued up, so we should go and see what else she has to say.
+Debora
+	It would've been so wonderful if you'd been able to put on that helmet.
+Debora
+	Imagine that! My personal slave the legendary hero! Just the thought of it gives me the shivers.
+Debora
+	You're being a bit overly cautious, aren't you?
+	Just tell her the situation. No more messing around.
+Debora
+	Pankraz? Wasn't that the name of your father too? There's no way you could be a prince, though.
+Debora
+	I'm fed up with the sight of sand now.
+	I'm leaving for the eastern kingdom of Gotha.
+	You'd better come along too.
+Debora
+	It's so hot in the daytime that it feels like your skin's on fire, but at night it's freezing. I hate being in the desert!
+Debora
+	We'll have to try again tomorrow.
+	It's late, and even I need a rest sometimes.
+Debora
+	Yuck! I don't want to catch a cold!
+Debora
+	I've already been feeling a bit under the weather just lately.
+Debora
+	There are quite a few more monsters about now than there used to be, and I'd hardly call the world peaceful, so come out, hero, wherever you are!
+Debora
+	What an idiot. Why didn't he come properly prepared? People like that really get on my nerves.
+Debora
+	Papa showed me one of those ages ago.
+	They're quite pretty, actually.
+Debora
+	You could try to find one for me if you like. I'll wait here, though. It's too cold for me.
+Debora
+	Stubborn fool! No wonder his daughter decided to run away from home.
+Debora
+	I couldn't agree more.
+	There's no way I'd ever live here.
+Debora
+	It's all ⓗhero, hero, heroⓘ, non-stop, night and day.
+	He could give you a run for your money, %a000090, he's that obsessed.

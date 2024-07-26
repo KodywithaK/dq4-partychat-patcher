@@ -1,0 +1,218 @@
+%0%a001240
+	So is it different to the time you came before,
+	or hasn't it changed much?
+%0%a001240
+	Oh. There used to be more faeries about?
+	I wonder where they've all gone, then.
+%0%a001240
+	There only seem to be girl faeries.
+	I feel like a bit of an intruder.
+%0%a001250
+	The faeries and the monsters all get along fine together here. That's the way it should be.
+%0%a001250
+	Is it always spring here? I'm sure that's not the
+	only reason for the place having such a warm
+	feel to it, though.
+Sancho
+	Uf! I always know thees quest of yours, eet ees hard, but I no theenk ees eso hard you must
+	travel to the Realm of the Faeries.
+Sancho
+	But you know, ees no eso bad here, eh?
+	Ees a very beautiful place.
+Bianca
+	It was the depths of winter when you came here as a boy, eh, %a000090? It's hard to imagine it now.
+Bianca
+	Thanks for bringin' me here.
+	I always wanted to see the Realm of the Faeries.
+Nera
+	This place looks exactly like a picture I saw in a book once when I was a child.
+Nera
+	%0%a001250 seems to really like books. I'll have to find it and read it to her one day.
+Nera
+	Thank you, darling. I was just thinking how I'd love to visit the Realm of the Faeries.
+Bianca
+	Dwarfs make all kinds of things, eh? They're pretty impressive creatures by all accounts.
+%0%a001250
+	That slime looked really cute, don't you think?
+%0%a001250
+	I knew you'd agree, Dad!
+	You see things like that.
+%0%a001250
+	Oh. You think all slimes look the same?
+	That's weird.
+Bianca
+	It's funny to think that you came to a place like this all them years ago. I wish I could've come with you.
+%0%a001240
+	So you really did used to be a little boy.
+	Does that mean Sancho was small once too?
+Sancho
+	Eh, friend! I no tell you then that you must
+	estay eenside the town? But you come eso
+	far away to thees place.
+Sancho
+	Qué? You come here from eenside our house!?
+%0%a001240
+	Is Treacle a friend of yours, Dad?
+	I'd like to meet her if she is.
+Tuppence
+	Aah. Faeries really are rather sweet, aren't they?
+Tuppence
+	Aah. All of these faeries are just so
+	incredibly sweet!
+%0%a001240
+	So she wasn't the queen, then?
+%0%a001240
+	So when we blow this horn, we get to meet the Queen? Will you let me blow it, Dad? Pleeease!
+%0%a001250
+	There are so many faeries here! Do you think I might be able to make friends with some of them?
+%0%a001250
+	Ooh, what a pretty horn! Is it some kind of musical instrument? I wonder what kind of music it plays.
+Sancho
+	Ees all connected, sí? You help esomeone een the past, and now they help you.
+%0%a001240
+	Did you hear that!? So there really is a Zenithian castle out there somewhere! We have to find it, Dad!
+%0%a001250
+	I'm not very good when it comes to heights. I should be okay in the castle, but I'm not too sure about the stairway...
+Sancho
+	Thees señorita ees eso young, but eshe rules thees place eso well.
+Tuppence
+	Mmm... Treacle. She really is terribly sweet.
+%0%a001240
+	Treacle's got such a lovely smile, and she's so friendly. I wonder if Mum's like her.
+%0%a001240
+	When you get the chance, will you tell me all
+	about what happened here in the past? I really
+	want to know!
+%0%a001250
+	Treacle's clothes are so beautiful. If only I could try on some clothes like that.
+Sancho
+	Thees señorita ees eso young, but eshe rules thees place eso well.
+Sancho
+	My Majesty, we no have anytheeng more to do here, no? Ees time to leave?
+Tuppence
+	Mmm... Treacle. She really is terribly sweet.
+Bianca
+	D'you think you're really supposed to climb up into the heavens to get to Zenithia?
+Bianca
+	I think it looks quite good floatin' about in the middle of the sky like it is at the minute, personally.
+Nera
+	It looks like we were wrong about peace being restored to the world just by the Zenith Dragon being resurrected.
+%0%a001240
+	Everybody wants peace, don't they? I'll do my best, as long as you stick by me, Dad.
+%0%a001250
+	Peace doesn't mean a world without monsters, right? Peace will be when we can all live together
+	in harmony.
+Sancho
+	Anda! Everyone, they esay notheeng but peace, peace, peace. But ees no easy to find the peace, you know? 
+Tuppence
+	So the lovely Treacle is praying too! Ooh, I feel better already! I'm raring to go now!
+%0%a001250
+	I'm going to make friends with some faeries
+	just like you have, Dad. And one day, we'll all
+	go off adventuring together.
+Sancho
+	Ees amazing... You really came here when you were eso young, eh, friend?
+Sancho
+	Your father, señor Pankraz, he was also the escape artist when he was young, but ees
+	notheeng compared to you!
+Tuppence
+	Your Majesty! You absolutely must introduce me to that delightful creature!
+%0%a001240
+	Was Honey a bit more chatty the last time you met her, Dad?
+%0%a001240
+	I'll bet she's being quiet now to show respect
+	to Treacle.
+%0%a001250
+	Treacle... Honey... Sherbet...
+	Faeries' names are all so sweet, don't you think?
+Bianca
+	There are all sorts of odd places dotted about the world, eh?
+Nera
+	You look a bit disappointed, darling. Was your last adventure with Honey really that much fun?
+%0%a001240
+	Do you think all of the faeries obey what the Queen says? If it were me, I'd probably sneak off there when no one was looking.
+%0%a001250
+	That's good, Dad. It's nice that Honey has good memories of your adventure together too.
+%0%a001240
+	Just the idea of staying the night in the Realm of the Faeries is really exciting!
+%0%a001250
+	We'd probably all have lovely dreams if we stayed the night here, don't you think, Dad?
+%0%a001250
+	I wish I could live in a room like this.
+Bianca
+	What's goin' on with that wall? The more times I look at it, the more odd it seems.
+Nera
+	We're inside a tree, and yet it's like being in the water. Just what you'd expect from a faerie's home, I suppose! Full of illusions.
+%0%a001250
+	The walls and the stairs are all watery!
+	Faeries are so amazing!
+%0%a001240
+	The Faerie Palace is pretty deep into the woods,
+	isn't it?
+%0%a001250
+	I really like being out in nature, with trees and water all around. It just makes me feel good.
+Sancho
+	You are like your father, sí? You no have the esense of rheethm and you no can esing, sí?
+Sancho
+	But thees horn, ees made by the faeries.
+	Ees okay. Anyone, they can make eet work.
+%0%a001240
+	Everybody wants peace, don't they? I'll do my best, as long as you stick by me, Dad.
+%0%a001250
+	Peace doesn't mean a world without monsters, right? Peace will be when we can all live together
+	in harmony.
+Sancho
+	Anda! Everyone, they esay notheeng but peace, peace, peace. But ees no easy to find the peace, you know? 
+Bianca
+	Where d'you think the feather came from?
+	I didn't think faeries had wings.
+Nera
+	So faerie quills really do exist! I always thought they were just made up in books.
+%0%a001240
+	Hey, that's pretty cool. I reckon I might even be able to knuckle down and study if I had something like this to write with!
+%0%a001250
+	I can spell some really difficult words, you know,
+	so you could let me use that quill sometime if
+	you wanted.
+Tuppence
+	This must've been made by pulling a feather out of some poor creature's back. Dear me!
+Bianca
+	I get it. You have to use the quill with the right kind of ink, then.
+%0%a001240
+	Oh! I can't wait to have a go at using this quill!
+%0%a001250
+	Um, Dad, it might be better not to let %a001240 use the quill, you know.
+%0%a001250
+	It's just, he's always breaking normal pens, and they're much stronger. I don't know how he does it!
+Bianca
+	The walls and the stairs feel all watery, and
+	yet you dun't get wet when you touch 'em.
+	It's all very weird.
+%0%a001250
+	There's water everywhere, but it doesn't feel cold.
+	I suppose that's because it's spring water. I mean, water in the spring!
+Sancho
+	I never get used to these floating estairs.
+	The estairs, they must be firm, you know.
+	Sí. Very, very firm.
+Debora
+	So this is the Realm of the Faeries. It's a bit remote, but it could be the perfect place for a faerie-like beauty such as myself.
+Debora
+	I remember Nera used to say how much she'd like to visit the Realm of the Faeries.
+Debora
+	Maybe we should bring her one day.
+Debora
+	I wonder if Zenithia will float up any higher into
+	the sky.
+Debora
+	It's in such a state that I'm a bit worried it might come plummeting back down again.
+Debora
+	Papa was often quite hard work, and I'd say these faeries could be the same way from what I've seen.
+Debora
+	The palace itself is in the middle of a lake.
+Debora
+	These faeries certainly seem keen on water.
+Debora
+	What a pretty feather. I wouldn't mind having a fan made out of it.
+Debora
+	It's probably nice and cool here in summer with all this water around.

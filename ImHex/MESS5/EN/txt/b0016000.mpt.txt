@@ -1,0 +1,1106 @@
+*: 
+	This cave is the exclusive domain of the royal family of Gotha.
+*: 
+	Those with no business here are not welcome!
+~ %0%a000120 reads the inscription carved out in the stone. ~
+~ ⓗHe who is worthy of the crown must never permit war or violence. ~
+~ ⓗHe must vow to promote communication and understanding even between those whose backs are turned. ~
+~ ⓗThe insignia will guide the way.ⓘ ~
+~ The Royal Insignia of Gotha gives off a dignified glow. ~
+~ %0%a000120 finds the Royal Insignia! ~
+~ %0%a000180 acquires the Royal Insignia! ~
+*: 
+	Stop right there!
+*: 
+	We can't possibly allow you to make off with the Royal Insignia!
+*: 
+	There are people out there who find the idea of you becoming King of Gotha more than a little distasteful, you see, %a000090.
+*: 
+	Shh! Too much information!
+*: 
+	Just hand it over!
+*: 
+	Welcome back, sir!
+*: 
+	Good to have you back, sir!
+Chancellor Jeeves
+	Congratulations are in order I believe, sir. It is a task of some considerable peril to recover the
+	Royal Insignia.
+Chancellor Jeeves
+	Your father, the late King Pankraz, would be extremely proud.
+Chancellor Jeeves
+	A most admirable achievement, sir.
+Prince Albert
+	I say, %a000090, well done!
+	Jolly good show!
+Prince Albert
+	The Royal Insignia! You reeled it in, hook, line and sinker, eh?
+Prince Albert
+	Now we can get on with the business of un-kinging me, and kinging you.
+Prince Albert
+	I presume we've heard the last of your grumblings on the matter now, Jeeves?
+Chancellor Jeeves
+	Grumblings, sir? I was merely directing your attention to the traditional practices of the
+	House of Gotha.
+Prince Albert
+	Well, yes... Alright, then. But anyway, %a000090's proved he's up to the task, so there's nothing stopping us now.
+Chancellor Jeeves
+	Precisely, sir. It would be customary at this point for me to inform your subjects of the ⓗchange of circumstancesⓘ.
+Chancellor Jeeves
+	And there's the matter of the ceremony, of course. Shall I begin making arrangements, sir?
+Chancellor Jeeves
+	Very good, sir. I shall set the necessary wheels
+	in motion.
+Chancellor Jeeves
+	If you'll excuse me.
+Prince Albert
+	Hmm... Jeeves is a funny old bird. He seemed completely against the idea at first, but now he's
+	at it like a rat up a drainpipe.
+*: 
+	Your Highness! Your Highness!
+	It's time!
+Prince Albert
+	What on earth's the matter!?
+*: 
+	It's your wife, %a000090!
+	Lady %a001230 is... The baby is...
+Prince Albert
+	Great Scott! You mean, it's been born already?
+*: 
+	No! But it will be, any minute now!
+Prince Albert
+	Well! Drinks all round later then, eh?
+Prince Albert
+	A new king and a new prince, all on the same day.
+	What a smasher!
+Prince Albert
+	Hop along now, %a000090.
+	Off to do your husbandly duty!
+*: 
+	Follow me please, sir.
+Bianca
+	It's good to see you back, %a000090.
+Bianca
+	I'm goin' to do my best to give you a healthy baby you'll be proud of. Hahh... Hahh...
+Bianca
+	Hahh... Hahh...
+	I love you, %a000090.
+Nera
+	You...came back, %a000090...
+Nera
+	I... I'll give you a...beautiful baby, I... Hahh... Hahh...
+	I promise!
+Nera
+	Hahh... Hahh...
+	I love you, %a000090...
+*: 
+	With such a handsome father and beautiful mother, it's going to be a gorgeous little baby,
+	I've no doubt.
+Sister
+	Do not worry, my child. The Goddess delivers new life into the world with love and compassion.
+*: 
+	Oh, don't you worry, pet! This is the third baby I've delivered, you know. I'm a dab hand!
+*: 
+	You just wait downstairs and leave everything to us girls.
+*: 
+	We men are pretty redundant at times like this, eh? We just have to stand around looking worried!
+~ Better wait in the throne room with Prince Albert and the others. The baby's about to be born! ~
+Prince Albert
+	I see. Any minute now then, is it?
+Prince Albert
+	I wonder if it'll be a prince or a princess.
+	Either way, it'll be a chip off the old block,
+	I'm sure!
+Sancho
+	Eh! Friend! I coming as esoon as I hear the news!
+Sancho
+	You know, eet reminds of the day you were born, friend. We were waiting een thees very room.
+Sancho
+	Your father, señor Pankraz, he was eso
+	happy when you were born!
+*: 
+	Don't worry, sir. I'm sure you'll be a fine father.
+*: 
+	It looks like you're about to be a father
+	at last, sir.
+Prince Albert
+	Come along now, %a000090. Don't get yourself all worked up.
+Prince Albert
+	I know you're worried and all that, but you'll be a father any minute now. You need to buck up your ideas and start acting like one!
+Prince Albert
+	Why don't you have a chat with the guards or something? Maybe that'll stop you fidgeting.
+*: 
+	Sir! %0%a000090, sir!
+	You're a father!
+Sancho
+	Oh, friend! Your old Uncle Sancho, he ees eso happy for you!
+Prince Albert
+	Well! Stick pins in me and call me a cactiball!
+	Don't mind us, %a000090! Go and congratulate your wife!
+*: 
+	%0%a001230 is waiting for you, sir.
+Sancho
+	Oh, friend! Your old Uncle Sancho, he ees eso happy for you!
+Prince Albert
+	What's the matter, %a000090?
+Prince Albert
+	You can't go toddling off now! Run along and see your wife and child!
+*: 
+	The moment of truth eh, sir?
+*: 
+	It looks like you're a father at last, %a000090, sir.
+~ But %a001230 is waiting to see you. ~
+~ And your newborn child! ~
+*: 
+	Congratulations, %a000090, sir.
+Sister
+	The little boy has your eyes, %a000090.
+Sister
+	They're so kind, and... Well, I can't find the right word to describe them. Unique, perhaps.
+Sister
+	And the girl is the image of her mother.
+Sister
+	She will grow up to be a very beautiful woman too, I've no doubt.
+*: 
+	Your lovely wife was absolutely smashing.
+*: 
+	And just look at these lovely little babes
+	she's given you!
+*: 
+	You must be over the moon, pet.
+	Not one, but two little angels!
+	Ho ho ho!
+Bianca
+	%0%a000090...
+	I tried really hard.
+Bianca
+	Dun't you think I did well?
+Bianca
+	Thanks. That means a lot.
+Bianca
+	Look, %a000090. Look at our lovely babies.
+Bianca
+	So... What shall we do about namin' them?
+Bianca
+	I think you should decide.
+Bianca
+	What name do you want to go with for the boy?
+Bianca
+	And how about the girl?
+Bianca
+	%0%a001240 and %a001250. They're pretty funny names. I like 'em, though.
+Bianca
+	So the boy will be %a001240 and the girl will be %a001250. Are you happy with that?
+Bianca
+	%0%a001240 and %a001250 it is, then!
+Bianca
+	Here's hopin' the world'll be nice and peaceful by the time they're our age, eh?
+Bianca
+	I'm feelin' a bit sleepy now, actually. You dun't mind if I have a bit of a rest, do you?
+Bianca
+	Goodnight, %a000090. I en't never bin this happy, you know.
+Bianca
+	You want to go with somethin' else?
+Bianca
+	Oh, stop your teasin'! You're just embarrassed,
+	I'll bet.
+Nera
+	Oh, %a000090...
+	I'm exhausted.
+Nera
+	But I knew I could do it, because I have you.
+	Am I a good wife, %a000090?
+Nera
+	That's all I ever wanted to be for you.
+Nera
+	Look at our children. Our beautiful children.
+Nera
+	We need to decide what to call them, don't we?
+Nera
+	You know what? I want you to name them, %a000090.
+Nera
+	So what shall we call our wonderful son?
+Nera
+	And what's our beautiful daughter going to
+	be called?
+Nera
+	%0%a001240 and %a001250.
+	They're unusual names. But I love them anyway, because you're the one who chose them.
+Nera
+	Are you sure you're happy with those names, then? %0%a001240 and %a001250?
+Nera
+	Then it's settled.
+	%0%a001240 and %a001250.
+Nera
+	I hope the world is at peace by the time our two little angels grow up.
+Nera
+	I'm so tired, I can barely keep my eyes open.
+Nera
+	Good night, darling.
+	I'm...so...happy...
+	Zzz... Zzz...
+Nera
+	That's alright, I don't mind changing them.
+Nera
+	What? Oh, you're so strict! You'll be a wonderful father. Ha ha ha!
+~ Sorry, but that name's not allowed. ~
+~ %3The news of the new monarch, %a000090, and the birth of his son and daughter quickly spreads through Gotha that night.%4 ~
+~ %3Everyone is delighted to learn that %a000090, the son of their former king, Pankraz, is still alive.%4 ~
+~ %3And everyone applauds Prince Albert, the Prince Regent, for his wise decision.%4 ~
+~ %3His decision to relinquish the throne of Gotha to a new ruler... King %a000090!%4 ~
+Bianca
+	Mornin', %a000090. I slept ever so well last night.
+Bianca
+	Today's the day of your coronation, en't it?
+	Good luck!
+Bianca
+	Um, %a000090...
+	Dun't you find it funny?
+Bianca
+	I used to think Mum and Dad had always bin parents.
+Bianca
+	But people have a moment when they become parents, just like we have now.
+Bianca
+	I hope we end up bein' a really good mum and dad to them, eh?
+Nera
+	Good morning, my love. I don't think I've ever slept so well in my entire life!
+Nera
+	Today's the day of your coronation, isn't it?
+	I hope it all goes smoothly.
+Nera
+	You know, %a000090, there's something I've been meaning to tell you about me.
+Nera
+	Mama and Papa... They aren't my real parents. They aren't Debora's, either.
+Nera
+	No, Mama and Papa took us in when we were still just babies and cared for us like we were their own.
+Nera
+	Apparently it was a famous fortune-teller who recommended to them that they send me to the abbey.
+Nera
+	They were told I had a special destiny, and that I needed to prepare my heart for everything that it would lead me to.
+Nera
+	I still don't really know what it all means.
+Nera
+	All I know is that my duty now is to you and my children, and to raising them as best I can.
+%0%a001240
+	Gah gah...
+%0%a001250
+	Boo boo...
+*: 
+	I still can't believe it! King Pankraz's son!
+*: 
+	It's really knocked my socks off, that news!
+*: 
+	%0%a000090, sir! Prince Albert is
+	waiting for you.
+~ This is the day of the coronation. ~
+~ It wouldn't do to go wandering off! ~
+*: 
+	This way, %a000090, sir.
+Prince Albert
+	Ah! There you are, %a000090, old thing!
+Prince Albert
+	Ladies and gentlemen!
+	Your attention, please!
+Prince Albert
+	As I'm sure many of you are already aware, the chap standing next to me is none other than my nephew, King Pankraz's son, %a000090!
+Prince Albert
+	As such, I've decided to slip off the old crown, and let %a000090 do the honours from now on!
+Prince Albert
+	So, %a000090, if you'll just kneel down here...
+Prince Albert
+	%0%a000090! Son of the late King
+	Pankraz of Gotha!
+Prince Albert
+	I hereby swear by the almighty Goddess that I relinquish my right to the throne, and that from this day forward, you shall reign as King of Gotha.
+Prince Albert
+	So! Take a seat in the old number one spot, then!
+	The throne is yours!
+Prince Albert
+	Long live the King!
+*: 
+	Long live the King!
+*: 
+	Wahoo! King %a000090!
+*: 
+	King %a000090 forever!
+	This is a fine day for Gotha!
+Prince Albert
+	Well, King %a000090. Time to start your kingly duties and do the rounds, eh? Show the people what they've let themselves in for and all that!
+*: 
+	Salute the new king of Gotha!
+*: 
+	The townspeople are awaiting your appearance downstairs, Your Highness.
+Prince Albert
+	Ladies and gentlemen!
+	You have a new king.
+Prince Albert
+	King %a000090!
+*: 
+	Three cheers for King %a000090!
+*: 
+	Gotha rules!
+	King %a000090 rules!
+Sancho
+	Congratulations, friend!
+	Er, no... Ees no friend...
+	King %a000090, My Majesty!
+Sancho
+	I, I never been eso happy een all of my life! (sob)
+~ %3The coronation celebrations continue long ~
+~  into the night.%4 ~
+~ %3Everyone joins in the fun, with singing and dancing and merriment.%4 ~
+~ %3But then...%4 ~
+~ There's a strange feeling in the air. ~
+~ Better check around the castle! ~
+*: 
+	Ah-phew...
+	Ah-phew...
+Sister
+	Zzz...
+	Sisterzzz...are doing it for...
+	Zzz...
+*: 
+	Goo! Goo!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Ah-phew... Ah-phew...
+*: 
+	Zzz... Zzz...
+*: 
+	Zzzz...
+*: 
+	Ah-phew, ah-phew...
+Prince Albert
+	Ah-phew... Ah-phew...
+	Ah-nother glasszzz...
+	Ah-phew...
+*: 
+	Ah-ah-ah-phew...
+	Ah-ah-ah! Phew!
+	Loadzzz...of boozzze...
+*: 
+	All thankzzz...to Chancellor Jeevezzz...
+	Ah-ah-ah-phew...
+*: 
+	Ah-phew...
+*: 
+	Ah-phew...
+Sancho
+	Ah-phew... Ah-phew...
+	Eezzz eso...good newzzz, friend...
+	Ah-phew... Ah-ph-ph-phew...
+*: 
+	Zzz... Zzz...
+	Outside'zzz dangerouzzz...
+	Zzz... Zzz...
+*: 
+	Ah-ga-ga-phew...
+*: 
+	Zzz... Zzz...
+*: 
+	Zzzz...
+*: 
+	Ah-phew...
+*: 
+	Ah-goo... Ah-goo...
+*: 
+	Hm? Who goes there?
+	Zzz... Zzz...
+*: 
+	Uuurgh, my 'ead! Hic!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Hm? Zzz...
+*: 
+	Ah-phew... Ah-phew...
+*: 
+	Zzzz...
+~ From %a000090 and %a001230's bedroom comes the sound of crying infants... ~
+*: 
+	Oh, Your Highness!
+	I-I'm so sorry!
+*: 
+	Her Highness, Lady %a001230...
+	She's been kidnapped by monsters!
+*: 
+	I did everything I could! I took the twins and hid under the bed, but I couldn't save...
+*: 
+	I'm sorry, Your Highness!
+	Please forgive me!
+Sancho
+	Friend! No, I mean, señor Majesty...
+Sancho
+	Thees estrange esilence een the castle was making me worry, so I went to esee what ees the matter.
+Sancho
+	Wait. Where ees your wife, friend?
+	Was eshe...?
+Sancho
+	Ees the esame like eet happened twenty years ago.
+Sancho
+	No! Sancho, he no gonna let the esame theeng happen!
+Sancho
+	Wake up everyone who ees esleeping een the castle!
+Sancho
+	We gonna esave your wife, friend!
+	We gonna rescue %a001230.
+Sancho
+	Do no try to protect your Uncle Sancho, friend.
+	I know what ees happening here.
+Prince Albert
+	You mean to say that monsters stole into the castle while everyone was fast akip?
+*: 
+	That's right. But Her Highness, Lady %a001230 sensed something was wrong straight away.
+*: 
+	I took the children and hid, but...
+Soldier
+	Still, it's strange that no one woke up. The monsters must have made quite a commotion.
+Soldier
+	It's almost as if somebody put sleeping potion
+	in the drinks everyone was having at the
+	coronation celebrations.
+Prince Albert
+	Hmm... Now where the devil has Jeeves trundled off to at a time like this, eh?
+Prince Albert
+	Have any of you seen him?
+Soldiers
+	...
+Prince Albert
+	Well. How's a fellow supposed to get on without
+	his chancellor?
+Prince Albert
+	I'm terribly sorry, %a000090, old boy.
+	I know how desperately worried you must be.
+Prince Albert
+	We can't afford to waste any time. We must initiate a search for Her Majesty the Queen at once!
+	Let's go, men!
+Sancho
+	Eh, friend! You are theenking of going after your wife?
+Sancho
+	No! Ees mucho dangerous. You must leave thees task to the castle guards.
+Sancho
+	You, you have the teeny-tiny bebés to look after, no? They need their papá now.
+	You, you must...
+Sancho
+	Qué!? Thees ees the Zenithian Sword of your
+	papá, señor Pankraz!
+Sancho
+	Why are you giving to me thees esword, friend?
+	You believe ees gonna protect the castle?
+Sancho
+	I promise you that your Uncle Sancho, he keep eet esafe for you.
+Sancho
+	Be careful, My Majesty. Do no be doing esometheeng loco, eh? Too much bravado, ees dangerous.
+Sancho
+	Friend! No, I mean, señor Majesty...
+Sancho
+	Your wife, señora %a001230, I know eshe gonna be found. Of thees, I am esure.
+Sancho
+	Wait, friend! You no even esay adiós to your Uncle Sancho before you leave?
+Prince Albert
+	Of all the rotten luck! You just become King of Gotha, and some ghastly business like this comes along and spoils the show!
+Prince Albert
+	Well, this puts me in a bit of a rum predicament.
+	I'm not entirely sure what I should do.
+Sancho
+	Friend! No, I mean, señor Majesty...
+Sancho
+	Your wife, señora %a001230, I know eshe gonna be found. Of thees, I am esure.
+*: 
+	Ah! Your Royal Highness! Yes, sir.
+	This is the Chancellor's chamber.
+*: 
+	Holy coⓚⓛ
+	You're the new king!
+	Ahem! I mean, at your service, Your Majesty!
+*: 
+	I heard about what happened.
+	I'm really sorry.
+*: 
+	They say history repeats itself, and this only goes to prove it. I could'veⓚⓛ
+*: 
+	Oh, my Goddess! Your Majesty!
+	I-I'm sorry about that! I was j-just talking to myself. Musing, really. I, er...
+*: 
+	First it was Queen Mada when King Pankraz was on the throne...
+*: 
+	And now your wife, Queen %a001230, too. And just after you were crowned king too.
+*: 
+	It's creepy, isn't it?
+*: 
+	Your Majesty!
+	Long live the King!
+*: 
+	You are the son of King Pankraz.
+	I am compelled to tell you.
+*: 
+	The blood of the legendary one lives on.
+*: 
+	Should the world be in need, so that blood shall rally forth! The legend shall rise again!
+	Such is the word of my people.
+*: 
+	Don't beat me to a pulp! I'm gooey enough as it is.
+	And I'm not a bad slime, you know! Really! I promise!
+*: 
+	It's a long time agoo now, but I uoozed to be Queen Mada's pet slime once.
+*: 
+	Your Majesty!
+	Long live the King!
+*: 
+	Long live the King!
+	Long live Gotha!
+*: 
+	No, Your Majesty. We haven't seen anything suspicious here, sir.
+*: 
+	There is that strange, dark cloud to the north,
+	of course...
+*: 
+	Mistress Gertrude doesn't listen to a word I say!
+*: 
+	I know she's no longer really a princess, but she should still behave like a lady.
+Gertrude
+	Why won't anyone believe me?
+Gertrude
+	I saw it! I really did! Chancellor Jeeves flew right over my head. He was going that way. North, you see. I'm not making it up.
+Gertrude
+	I knew there was something funny about that man.
+*: 
+	Ah! Your Majesty!
+	How are you?
+*: 
+	I was ordered by your father, King Pankraz, to carry out research into a castle called Zenithia.
+*: 
+	So far, I've discovered that Zenithia's
+	supposed to be up in the sky, but for
+	some reason it isn't any more.
+*: 
+	I've also learnt that the Dragon God who lived there has gone missing.
+*: 
+	It's just a theory, but perhaps if the castle and its Dragon God were restored to their rightful places, the world would be restored to peace.
+Thruppence
+	Y-Your Majesty!
+Thruppence
+	I think I should explain about all the monster chess playing that's been going on.
+Thruppence
+	It was the Chancellor who provided us all with the pieces, you see.
+Thruppence
+	Apparently, they were sealed away in the
+	castle vault.
+Thruppence
+	All us soldiers got completely hooked on it.
+	It was so bad, we were neglecting our duties.
+Thruppence
+	It's because of our carelessness that Her Majesty the Queen was...well... Oh dear...
+Thruppence
+	Here. This is my monster chess set. You take it.
+	I promise to be extra vigilant from now on!
+~ %0%a000120 receives a monster chess set! ~
+~ %0%a000180 takes the monster chess set. ~
+Thruppence
+	It's because of our carelessness that Her Majesty the Queen was...well... Oh dear...
+*: 
+	I'm sorry, Your Majesty.
+	I don't know how this happened.
+*: 
+	I'll guard your children with my life so that nothing like this ever happens again.
+*: 
+	Well? Did you find your wife, Your Majesty?
+	No? Oh, dear. I'm sorry, pet.
+*: 
+	But don't you worry! I know she'll be found. She'll be back here safe and sound before you know it!
+%0%a001240
+	Gah goo gah...
+%0%a001250
+	Boo boo boo...
+*: 
+	I wonder if that's enough milk for the little ones...
+*: 
+	Oh, hello, %a000090. Oops! I mean, Your Majesty! I'd never have guessed you were royalty... Oops! There I go again!
+*: 
+	There are dozens of soldiers out looking for Her Majesty, Queen %a001230.
+*: 
+	Have faith in us, Your Majesty.
+	We won't let you down.
+*: 
+	Will you be setting off on a mission to rescue your wife like your father, King Pankraz, did?
+*: 
+	Oh, dear... How many more years does that mean we'll have to get on without a king, I wonder...
+*: 
+	Well that's a relief to hear! Gotha's been too long without its king as it is.
+*: 
+	Arf! Arf, arf!
+*: 
+	From what I hear, the Chancellor's nowhere
+	to be seen.
+*: 
+	Just between you and me, Your Majesty, I think the guy's dodgy.
+*: 
+	Curse those monsters, kidnapping such a beautiful woman as %a001230!
+*: 
+	You can't let them get away with it,
+	Your Majesty! It's time someone showed
+	them who's boss around here!
+*: 
+	Curse those monsters, kidnapping such a kind and gentle woman as %a001230!
+*: 
+	You can't let them get away with it,
+	Your Majesty! It's time someone showed
+	them who's boss around here!
+*: 
+	The King! I'm talking to the new king!
+*: 
+	My name's Tuppence. I'm going to be a soldier when I grow up!
+*: 
+	Congratulations on your little boy and girl,
+	Your Majesty.
+*: 
+	I hope you don't take this the wrong way, but...
+*: 
+	Well, thank the Goddess your children got away unscathed. That's something at least, isn't it?
+Sister
+	My heart goes out to you, Your Majesty.
+Sister
+	I've been trying to understand why the monsters would take Queen %a001230. But only the Goddess, in Her infinite wisdom, knows such things.
+Sister
+	When Queen Mada was taken, it was because of the mysterious power she harboured, but I'm at a loss to explain it this time.
+*: 
+	Ha-hah!
+*: 
+	Who would've thought it? King Pankraz's baby boy, back to rule Gotha!
+*: 
+	You have the makings of a grand king,
+	Your Highness. A grand king indeed!
+*: 
+	Don't worry, Your Majesty.
+*: 
+	Queen %a001230 is alive, just like Queen Mada is. I'm sure of it.
+*: 
+	And when they're both rescued, a new path will present itself to you. A new way forward.
+Debora
+	%0%a000090...
+	What's the hurry? Were you so lost without me?
+Debora
+	It's okay, I'm fine.
+	Just go and wait downstairs.
+	Hahh... Hahh...
+Debora
+	Hahh... Hahh...
+	I said I'm fine, didn't I!?
+Debora
+	Where have you been, %a000090!?
+	And what are you grinning like that for?
+Debora
+	I suppose you want to congratulate me now and tell me how wonderful I've been?
+Debora
+	Don't get carried away!
+	I don't need you to tell me how great I am.
+	I'm perfectly aware of that myself.
+Debora
+	But enough about me for now. Look!
+	Look at our babies.
+Debora
+	Now then, we need to think of names for them.
+Debora
+	But I find all that thinking a bit overrated, really.
+	So you're going to do it.
+Debora
+	What are we going to call the boy?
+Debora
+	And how about the girl?
+Debora
+	%0%a001240 and %a001250. Hmmm...
+	I don't know why I bother asking you to do things sometimes. Oh, well. They'll do, I suppose.
+Debora
+	Are you sure you're happy with %a001240 and %a001250 as names, then?
+Debora
+	%0%a001240 and %a001250 it is then!
+Debora
+	I hope there'll be peace in the world by the time they grow up. Yes, world peace... That's what I hope for.
+Debora
+	Right, well... I'm pretty shattered now, so I'm going to get some sleep.
+Debora
+	There's no room for you in the bed now, %a000090. You'll have to sleep on the floor.
+Debora
+	Then hurry up and think of different ones!
+Debora
+	Very good.
+	That was a test to see if you know your place or not. I don't need you to tell me how perfect I am!
+Nera
+	We are sisters, though, even though I know it's hard to believe.
+Debora
+	Oh, you're awake.
+	I slept like a princess last night.
+Debora
+	So, today's the day of your coronation, isn't it?
+Debora
+	Just make sure you know what you have to do.
+	I don't want you embarrassing me.
+Debora
+	Oh, yes. I suppose this would be a good time to tell you...
+Debora
+	Nera and I, we're not really Mama and Papa's children.
+Debora
+	We are sisters, though, if you can believe such a timid little mouse shares any common blood with me.
+Debora
+	We were adopted when we were small, you see.
+Debora
+	Apparently Papa thought it was his destiny to look after us or something when he saw us two little orphans.
+Debora
+	I don't know what destiny he was thinking about exactly, but anyway... At least I got to grow up with everything I needed around me.
+Debora
+	I mean, wherever I grew up, I would've turned out to be the exquisite lady you see before you now, but...
+Debora
+	Anyway, when you become King today, I'll become Queen. Now that's the kind of social climbing I like!
+*: 
+	Curse those monsters, kidnapping such a cracking woman as %a001230!
+*: 
+	You can't let them get away with it,
+	Your Majesty! It's time someone showed
+	them who's boss around here!
+Debora
+	I'll be needing a lot of ladies-in-waiting, you know. You'd better start looking into that.
+*: 
+	I found one of those eyevory tusk-tusks lying here dead not too long ago.
+*: 
+	It had such a peaceful look on its face. I suppose even monsters are embraced into the arms of the Goddess in their final moments.
+*: 
+	This church has been famous since long ago for its unique and mysterious ink.
+*: 
+	There's very little of it left now, so I've been called here to set about making more of it.
+*: 
+	It's such a complicated process, though.
+	It's likely to be years and years before I
+	have it finished.
+*: 
+	It was a while ago now, but I saw a group of monsters heading off towards the mountains in the north.
+*: 
+	I might be imagining it, but I could have sworn there was a human with them too.
+*: 
+	I don't know where you've come from, but I'd advise you to steer well clear of the mountains in the north.
+*: 
+	Apparently, there's a tower there full of terrifying monsters.
+~ The party's wounds are healed. ~
+~ %0%a000120's wounds are healed. ~
+*: 
+	Hmph. I dunno where that bruvver o' mine's got to.
+*: 
+	I'll end up comin' a cropper all on me lonesome at this rate.
+*: 
+	Tsk. You've done well to come this far.
+*: 
+	But you won't get any further with me in
+	your way.
+*: 
+	There's snout you can do about it!
+*: 
+	No! How could oink be defeated like this!?
+	㈢㈢Graaargh!
+*: 
+	Keh keh keh! Now there's a tasty-looking worm!
+*: 
+	That female creature who was here before looked nice and juicy too, but Kon claimed her before I had even one peck.
+*: 
+	I'll just have to make up for it by making a meal out of you. Keh keh keh!
+*: 
+	Keh! You have killed one bird with...I don't know how many stones!
+*: 
+	But Kon will make you pay for this, just you wait and see. Keh keh keh! ㈢㈢...Ugh!
+*: 
+	Awright? I'm waitin' for me bruvver to turn up.
+*: 
+	We 'eard rumours about some grand treasure bein' 'idden in the place, see. So we decided to
+	come an' 'ave a gander.
+*: 
+	You awright there? There's a fair few traps 'ere in this tower, eh?
+*: 
+	You can't just go stumblin' about the place.
+	I reckon you gotta make use o' some o' the devices and whatnot scattered about.
+*: 
+	I'm watching like a hawk because it seems %H0860%Xa suspicious character has%Ysome suspicious characters have%Z infiltrated our tower.
+*: 
+	What!? You're the one%H0860%X%Ys%Z!?
+	You'll pay for this...!
+~ There's a lever here. ~
+~ Pull it? ~
+*: 
+	Grrrrarrrgh!
+~ It turns out the rock was actually a rockbomb! ~
+~ %0%a000120 looks at the wall. ~
+~ ⓗConnecting Passageway, Switch Oneⓘ ~
+~ There's a lever here. ~
+~ Pull it? ~
+Chancellor Jeeves
+	I appear to have committed something of a blunder.
+Chancellor Jeeves
+	It would seem that going into cahoots with the monsters was perhaps not the wisest of decisions.
+Chancellor Jeeves
+	Oh dear. Gotha will be in a sorry state now.
+Chancellor Jeeves
+	I do hope you will be able to find it in yourself to forgive me, Your Majesty. ㈢㈢Uh-uuurgh!
+Kon
+	There is no necessity for galloping to your death.
+Kon
+	First I permission you for speaking some words of farewell at your beloved wife.
+Kon
+	There is no necessity for galloping to your death.
+Kon
+	First I permission you for speaking some words at my wife of future.
+Bianca
+	Crikey! What are you lot doin' here?
+	It's too dangerous!
+Bianca
+	Just tell %a000090 this, will ya?
+	...Tell him he should forget about me.
+Bianca
+	Crikey! You've really put yourself in danger comin' here, %a000090!
+~ Bianca holds an Yggdrasil leaf to ~
+~ %a000090's mouth. ~
+~ %0%a000090 is resurrected! ~
+Bianca
+	%0%a000090...
+	Thanks for comin' to rescue me.
+Bianca
+	%0%a000090! I knew you'd come.
+Bianca
+	But maybe it would've bin better if you hadn't.
+Bianca
+	The reason them monsters used the Chancellor to snatch me away was so they could lure you into a trap.
+Bianca
+	The ringleader says he's goin' to kill you and then become king in your place!
+Bianca
+	Agh!
+Kon
+	Enough horsing around!
+Kon
+	King of country must think foremost of his peoples, not of his own selfish wishings.
+Kon
+	And yet you come here!
+Kon
+	For this alone, you deserve to be put down.
+	Whinny-he-he!
+Kon
+	Now! It is time for you both to saddle up for death!
+Kon
+	Whinny-he-he!
+	I am indestructible!
+Kon
+	Nobody is able to hurt the great knight Kon!
+Kon
+	Die, %a000090! Die!
+Bianca
+	Stop!
+~ Bianca joins the battle! ~
+Bianca
+	Stop right there, Kon!
+~ A mysterious light surrounds Bianca's body. ~
+Kon
+	Wh-What is this light?
+~ The light begins to break down Kon's barrier. ~
+Bianca
+	Go on, %a000090! Now!
+Nera
+	Oh dear! What are you doing here?
+	It's terribly dangerous.
+Nera
+	Please just take this message to %a000090 for me and leave. Tell him... Tell him that he must forget about me.
+Nera
+	Oh! My poor %a000090! Look at the state you've got yourself into on my account!
+Nera
+	Nera holds an Yggdrasil leaf to %a000090's mouth.
+~ %0%a000090 is resurrected! ~
+Nera
+	Oh, darling... Thank you so much for coming to
+	rescue me.
+Nera
+	Oh, %a000090! I knew you'd come and rescue me!
+Nera
+	But... You really shouldn't have.
+Nera
+	The reason those monsters had the Chancellor kidnap me was so that you'd follow.
+Nera
+	It's the ringleader's plan to...to kill you and then become king in your place!
+Nera
+	Oh!
+Kon
+	Enough horsing around!
+Kon
+	King of country must think foremost of his peoples, not of his own selfish wishings.
+Kon
+	And yet you come here!
+Kon
+	For this alone, you deserve to be put down.
+	Whinny-he-he!
+Kon
+	Now! It is time for you both to saddle up for death!
+Kon
+	Whinny-he-he!
+	I am indestructible!
+Kon
+	Nobody is able to hurt the great knight Kon!
+Kon
+	Die, %a000090! Die!
+Nera
+	Stop!
+~ Nera joins the battle! ~
+Nera
+	Stop this at once, Kon!
+~ A mysterious light surrounds Nera's body. ~
+Kon
+	Wh-What is this light?
+~ The light begins to break down Kon's barrier. ~
+Nera
+	There you are, darling!
+	Now's your chance!
+Kon
+	Th-This ㈢is not p-possible...
+Kon
+	The l-㈢light before...
+Kon
+	No! It cannot be! This woman! This woman, she has blood from legendary hero!
+Kon
+	Ladja! ㈢Ladja...!
+	㈢Neigh!
+Ladja
+	Wa ha ha! So you are descendant of legendary hero.
+%0%a001230
+	............I............er............
+	A descendant of the legendary hero...!?
+Ladja
+	It is foretelling of the great Nimzo that descendant of legendary hero will be of the high status.
+Ladja
+	Thus it has been policy that we snatch away all little children of importance.
+Ladja
+	But it appears the child is not yet born. He will be born in future, from your blood.
+Ladja
+	This was destiny. But this destiny I cannot permission for happening.
+~ %0%a000090 and %a001230 are turned to stone! ~
+Ladja
+	Wa ha ha! It is no amusement simply for to kill you.
+Ladja
+	It is better fun to force that you slowly watch as world comes to its end! Wa ha ha! Wa ha ha ha haah!
+~ It's impossible to move! ~
+Heister
+	This is a right wild goose chase, eh? So much for there bein' some decent treasure 'ere.
+Huckster
+	Hey! Look at them statues! They look ever so lifelike.
+Huckster
+	You know wot, bruv. I reckon we could sell these pair for a fair ol' price.
+Heister
+	I reckon you're right! Nice one, Huckster!
+	The lady one's a bit of a looker an' all, eh?
+Heister
+	I'll be 'avin' this one!
+Heister
+	Come on! Get movin'!
+Huckster
+	Wait for me, bruv!
+Prince Albert
+	What? Don't tell me you still haven't managed to track down King %a000090, you useless oafs!
+Soldier
+	S-Sorry, Your Majesty. We have soldiers out scouring the kingdom as we speak, but...
+Prince Albert
+	Even my blasted chancellor's gone missing!
+	This really is most inconvenient!
+Prince Albert
+	What's a fellow supposed to do, eh?
+	I sure as billy-bally don'tⓚⓛ
+Soldier
+	Your Majesty! There's been a sighting of His Majesty, King %a000090 at Northminster, a church far to the north!
+Prince Albert
+	What? Someone's actually spotted %a000090 at last, you mean?
+Soldier
+	Yes, sir!
+Prince Albert
+	Right-ho! Well, send all the men north it is, then.
+	Turn the place upside down if necessary.
+Prince Albert
+	Leave no stone unturned!
+	Go, go, go!
+Prince Albert
+	I just hope %a000090 and %a001230 are alright...
+Sancho
+	What ees the matter?
+	%0%a001240 and %a001250, they are okay?
+*: 
+	I really don't know. They've never cried like
+	this before.
+*: 
+	I hope it doesn't mean something's happened to King %a000090 or Queen %a001230.
+Prince Albert
+	What rot! Keep such obscene gibberish to yourself!
+Sancho
+	Sí. There ees no need to worry.
+	I know friend and %a001230, they no be hurt.
+Sancho
+	Ees no need to cry, %a001240.
+	Ees no need for your tears, %a001250.
+Sancho
+	Your madre and papá, they be home esoon.
+Sancho
+	There, there...
+	Ees okay...
+Debora
+	What are you all doing here?
+	%0%a000090's not with you too, is he?
+Debora
+	Then hurry back to him with this message: tell him to just forget about me and leave me here.
+Debora
+	%0%a000090...
+	I know you pledged your devotion and loyalty to me, but this is going too far.
+~ Debora holds an Yggdrasil leaf to %a000090's mouth. ~
+~ %0%a000090 is resurrected! ~
+Debora
+	Why did you have to come here?
+Debora
+	I knew you'd come and rescue me sooner or later, %a000090.
+Debora
+	But you shouldn't have!
+Debora
+	You've played right into their hands!
+	That's why they used the Chancellor and kidnapped me. It was to lure you here.
+Debora
+	The ringleader is planning to kill you and then become king in your place!
+Debora
+	How dare he!
+Kon
+	Enough horsing around!
+Kon
+	King of country must think foremost of his peoples, not of his own selfish wishings.
+Kon
+	And yet you come here!
+Kon
+	For this alone, you deserve to be put down.
+	Whinny-he-he!
+Kon
+	Now! It is time for you both to saddle up for death!
+Kon
+	Whinny-he-he!
+	I am indestructible!
+Kon
+	Nobody is able to hurt the great knight Kon!
+Kon
+	Die, %a000090! Die!
+Debora
+	%0%a000090!
+~ Debora joins the battle! ~
+Debora
+	You'll pay for this, Kon!
+~ A mysterious light surrounds Debora's body. ~
+Kon
+	Wh-What is this light?
+~ The light begins to break down Kon's barrier. ~
+Debora
+	Now, %a000090!
+	Finish him off!
+Bianca
+	Crikey! What are you doin' here?
+	It's too dangerous!
+Nera
+	Oh dear! What are you doing here, darling?
+	It's terribly dangerous.
+Debora
+	What are you doing here?
+	%0%a000090's not with you too, is he?

@@ -1,0 +1,190 @@
+*: 
+	I don't know why, but I was drawn to this place, as if by the strength of someone's will. Someone as yet unknown to me.
+*: 
+	It is all in the Goddess's grand plan, I have no doubt. I just hope I can be of use here.
+*: 
+	Well, hel-lo! You must be the exciting new knick-knack expert. The new curator? Excellent!
+	I'm Annette. People call me Exotic Annette.
+Exotic Annette
+	This is the extra-special Exotica Net Expo where you exhibit and exchange exemplary knick-knacks with other excentric explorers.
+Exotic Annette
+	Let me explain%O0960%X, %a000090%Y%Z. You're not exclusive, you see. There are other knick-knackerers in this expansive world of ours.
+Exotic Annette
+	Exchanging exotic knick-knacks, or ⓗexoticaⓘ, with external exhibitors is exactly what Exotica Net is all about!
+Exotic Annette
+	And you can experiment with exotica yourself here too. You can invent your own knick-knacks for export to other worlds.
+Exotic Annette
+	Curators of exhibitions like yours will be extremely happy to send an example of their own original exotica back to you too.
+Exotic Annette
+	So, have I extolled the virtues of Exotica Net
+	enough to excite you? Don't be excluded from
+	the fun, okay?
+Exotic Annette
+	I'm sure you don't want to be excluded from the fun, do you? The exciting world of exotica awaits!
+Exotic Annette
+	But first you must extract a few more of the knick-knacks from this world. Otherwise you'll never be able to craft an original work.
+Exotic Annette
+	I'm sure it won't take %H0860%Xan experienced explorer%Yexperienced explorers%Z like you long to acquire something in excess of five or six new knick-knacks though, will it?
+Exotic Annette
+	Hel-lo! And welcome to the Exotica Net Expo!
+Exotic Annette
+	I'm sure you don't want to be excluded from the fun, do you? The exciting world of exotica awaits!
+Exotic Annette
+	If you knock up an original knick-knack of your own, you can export it when you encounter an external exhibitor from another world.
+Exotic Annette
+	And in exchange, you'll extract a piece of exotica from him or her too. Isn't it extraordinary?
+Exotic Annette
+	Your newly acquired piece of exotica will be exhibited with extreme care in the expo hall.
+Exotic Annette
+	Of course, you can expect examples of your own expertise to be on display in the expos of the other worlds you encounter too.
+Exotic Annette
+	So, er...stop exterminating time and let's get creative! Expediency is the key!
+Exotic Annette
+	What type of knick-knack are you hoping to experiment with, then?
+Exotic Annette
+	It'll be an expression of your self, so expend some energy on choosing a form that you expect to be easy on the eye.
+Exotic Annette
+	Now it's time to give your exceptional piece of exotica a name...
+~ Sorry, but that name's not exactly what we were expecting... ~
+Exotic Annette
+	Do you explicitly state that this design may be exposed as an original piece of %O0960%Xyour%Y%a000090's%Z craftsmanship?
+Exotic Annette
+	So, now you need to add an explanation of what this %a001430 is exactly.
+Exotic Annette
+	Excuse me!? You want to explore other options? We'll have to start again, then.
+~ Sorry, but that's not exactly the kind of message we were expecting... ~
+Exotic Annette
+	Are you happy that the explanation of your %a001430 is expansive enough?
+Exotic Annette
+	Then I exceptⓚⓛ I mean, I accept your knick-knack into the collection! Exciting, isn't it!?
+Exotic Annette
+	Oh? It's lucky I asked then, isn't it?
+	No problem. I'm very flexible, you know.
+Exotic Annette
+	Okay, then. Let's exhibit your %a001430!
+Exotic Annette
+	Ex-CELSIOR!
+Exotic Annette
+	Phew! That's...exquisite!
+Exotic Annette
+	Now, when you decide you'd like to have a little excursion into the extraordinary extravaganza of Exotica Net, come and see me.
+Exotic Annette
+	And don't worry, if you export your new knick-knack creation to another world, I'll conjure up an exact replica of it again.
+Exotic Annette
+	That means an example of your excellent work will always be on display here. So export extrovertly!
+~ %a001441 ~
+~ %a001442 ~
+~ %a001443 ~
+~ It's one of %O0960%Xyour own%Y%a000090's%Z original designs. ~
+~ Change the exhibit explanation? ~
+~ Please enter the new explanation of the exhibit. ~
+~ Sorry, but that's not exactly the kind of message we were expecting... ~
+~ Set this as the new explanation for %a001430? ~
+~ The explanation of %a000090's %a001430 has been updated. ~
+~ %0%a000090's %a001430 is now ready for export as an item of exotica. ~
+Exotic Annette
+	So, what exactly is it that you'd like to do?
+Exotic Annette
+	It seems your %a001430's been discovered already. How expedient!
+Exotic Annette
+	That means you can expect to find some extraordinary new piece of exotica in the expo hall. Why don't you explore a bit?
+Exotic Annette
+	How did you like the Expo? Quite an exuberant display, isn't it? The exotica will fill up the pedestals one by one as you collect them.
+Exotic Annette
+	There are twenty-four exclusive pedestals in total. So that's the extreme limit of exotica you can import from other worlds.
+Exotic Annette
+	So, what exactly is it that you'd like to do?
+Exotic Annette
+	The Exotica Net Expo's gaining more and more exposure now.
+Exotic Annette
+	Well done, %a000140. Keep up the excellent work and keep giving Exotica Net a go.
+Exotic Annette
+	Hel-lo, %H0860%X%a000120%Yeveryone%Z!
+	This is extra extraordinary!
+Exotic Annette
+	All that physical and mental exertion has paid off. The expo is exploding with exotica exhibits! It's full!
+Exotic Annette
+	It's extremely exciting for me to be exvolⓚⓛ
+	I mean, involved in all this.
+Exotic Annette
+	Now if you want to rearrange the Expo, you'll need to expel some of your old exhibits to expose space on the pedestals.
+Exotic Annette
+	To explore the exciting world of Exotica Net, you and your party must extricate yourselves from your adventures for a while.
+Exotic Annette
+	You're expected to confess your experiences to me so that I can record them in an adventure log.
+	Is that ex-ceptible?
+Exotic Annette
+	Into which adventure log should I commit this excerpt of your adventures?
+Exotic Annette
+	In that case, I must exterminate the existing
+	ⓗ%a000660: %0%a000090 %a000240ⓘ adventure log.
+	Do I have your express permission?
+~ Saving adventure log. ~
+~ Do not turn the power OFF ~
+~ or remove the DS Game Card! ~
+~ There was a problem saving the adventure log. Please turn the power OFF and reinsert the DS Game Card. ~
+Exotic Annette
+	Excellent! Your exhilarating adventure log has been excreted safely! Ready for an excursion into the world of exotica?
+Exotic Annette
+	You can't expect to participate in Exotica Net without saving the details of your %a001430 in an adventure log first.
+Exotic Annette
+	Do you want to make a hasty exit from the whole experience?
+Exotic Annette
+	Here we go then... I'm exporting your %a001430 now!
+~ %3Initiating Chance Encounter mode. Do not turn the power OFF or remove the DS Game Card!%4 ~
+~ %3Exotica Net is active. Now in Chance Encounter mode. You can close your Nintendo DS if you wish. Press the A Button to quit.%4 ~
+~ Resume Chance Encounter mode? ~
+~ An exhibitor from another world has been located! But he or she appears to be tied up in an exchange with someone else at the moment. ~
+~ The wireless exchange was completed successfully. ~
+~ Some new exotica has arrived in the Exotica Expo! ~
+~ You've met and exchanged exotica with this exhibitor before! ~
+~ A new item of exotica has arrived in the Exotica Expo! ~
+~ The adventure log could not be read. ~
+~ Please turn the power OFF and reinsert ~
+~ the DS Game Card. ~
+Exotic Annette
+	Oh, how inexcusable!
+	I've let the expo hall get full!
+	There's no extra space on the pedestals!
+Exotic Annette
+	You'll need to expel some of your old exhibits to expand your exhibition space.
+~ You can't initiate DS Wireless Communications ~
+~ right now. ~
+Exotic Annette
+	It's excruciating to have to exile any exotica that you've so expertly extracted from other worlds, but...
+Exotic Annette
+	Well, when the Expo's space is exhausted, you can't exchange any new exotica, so it's really perfectly excusable.
+Exotic Annette
+	Here's a list of the exotica on display now...
+Exotic Annette
+	%0%a001470?
+	If you expel it from the Expo, you'll probably never come across it again. Are you extra certain?
+Exotic Annette
+	Alright then! %0%a001470 makes an exit from the Expo!
+Exotic Annette
+	Do you want to expel anything else at this stage?
+Exotic Annette
+	No, I'm not surprised you've had a change of heart. Exotica are so exclusive, aren't they?
+Exotic Annette
+	Oh, you've explored all your options here for now, have you?
+Exotic Annette
+	Are you sure I can't extend any further assistance to you?
+Exotic Annette
+	I'm extremely happy that you came to spend some time at the Exotica Net Expo. I can't wait 'til the next exciting time.
+Exotic Annette
+	You'd like to change your knick-knack? Well, it's quite complex. You'll have to explicitly choose everything about it all over again. Is that alright?
+Exotic Annette
+	So, what type of knick-knack are you hoping to experiment with this time? Take your pick...
+~ %a001481 ~
+~ %a001482 ~
+~ %a001483 ~
+~ There's a message that reads: ~
+~ ⓗExotica Expo ~
+~ Curator's Pedestalⓘ ~
+~ There's a message that reads: ~
+~ ⓗExotica Expo ~
+~ Imported Exotica Pedestalⓘ ~
+Exotic Annette
+	Oh, dear. I'd like to expose the list of exotica to you, but the Expo's just an expanse of empty pedestals at the moment.
+Exotic Annette
+	You'd like to exempt a piece of exotica from the Expo? But...it doesn't look like you have any exotica yet.

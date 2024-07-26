@@ -1,0 +1,481 @@
+Bianca
+	Blimey! This certainly takes me back. The folk here might be different to before, but the place en't changed a bit.
+Bianca
+	My family en't around here any more, but it's still nice to be back for a while.
+Nera
+	There's a really nice, friendly atmosphere here.
+	What a lovely town!
+Nera
+	Bianca would probably love to make a trip
+	back here every once in a while. It's quite
+	a way from Stockenbarrel.
+%0%a001240
+	I remember coming here before with Sancho.
+	The inn here's really big.
+%0%a001250
+	Look, Dad! Aren't the flowers at the church pretty?
+Sancho
+	I remember eet eso well. We came here weeth señor Pankraz. And that time, señora Bianca's family, they were here also.
+Sancho
+	Sí. The times, they change, you know.
+	Ees notheeng you can do to estop eet.
+Bianca
+	Thanks, %a000090. It means a lot that you've brought me here before we head into our final battle.
+%0%a001250
+	I really love Roundbeck!
+	I don't know why, but I just do!
+Sancho
+	You have many memories from thees place, eh, friend? Sí. Your Uncle Sancho, he has many memories from here too.
+%0%a001240
+	Do you think there'll ever be a world without weapons? It would be nice if there could be.
+Sancho
+	Thees señor, he no look eso happy, even though he esells everytheeng een hees eshop. Sí, I understand how he feels eso well.
+Bianca
+	En't he the bloke who did a runner from Coburg all them years back? Sounds like he's plannin' on doin' the same kind of thing again!
+Nera
+	The people are just like in so many other places.
+	They don't seem to realise the true nature of the Order of Zugzwang.
+Sancho
+	Ees estrange, no, these theengs people are esaying?
+Sancho
+	Eef thees Order of Zugzwang ees gonna esave people from the Grandmaster of the Underworld,
+	eet means they are connected, no?
+Tuppence
+	Yep. I'm all for protecting myself by myself. Er, after I've protected you, of course, %a000090!
+Bianca
+	Crikey! He's the kid who was bullyin' %a001210 all them years ago! He looks really middle-aged now!
+%0%a001240
+	This is where you rescued %a001210 from being bullied, isn't it, Dad?
+%0%a001240
+	I wonder if we might find another great sabrecat around the place. I wouldn't mind having one of
+	my own.
+Sancho
+	I no want to theenk about thees time.
+	Eet was a bad time.
+Tuppence
+	Um... Why are you looking at me like that, %a000090?
+Bianca
+	I wonder what he'd do if he actually did meet him. Challenge him to an arm wrestlin' match or the like?
+%0%a001240
+	Can you not tell that man about me, Dad? I reckon he'd probably make way too much of a fuss.
+Bianca
+	I really remember this garden and this pond.
+	Bein' here makes me think about all the happy
+	times with Mum.
+%0%a001240
+	Mt Azimuth is the highest mountain in the world, you know. I know these things!
+Bianca
+	Who would've thought that you're part of
+	that bloodline, eh? And that I've got the
+	blood of a Zenithian!
+Nera
+	The reason our son is the legendary hero is probably because your special bloodline mixed with my Zenithian heritage. It must be.
+%0%a001240
+	Do you think this clan of people guarding the seal
+	to Nadiria are famous? I feel like I've heard of them somewhere before.
+%0%a001250
+	I can understand a bit of what monsters say, you know. Most of them are good, not evil.
+Bianca
+	I en't cooked a meal in as long as I can remember.
+	I'll have to make up for it once things are back to normal again.
+Nera
+	Do you think that she cooks all day long just to forget about what's going on?
+Tuppence
+	My mother is more than just a whizz in the kitchen. She always kept the inn nice and tidy too. It must be hard work.
+Bianca
+	This takes me back. The old place has aged a bit, but it's good to see them keepin' it nice.
+Nera
+	I can't help thinking about Bianca all the time whenever we're here.
+%0%a001240
+	The rooms in this inn are really big. It's cool!
+Sancho
+	You know, being here een thees place like thees, I theenk the young señorita Bianca, eshe gonna come running around the corner any minute.
+Bianca
+	What a great smell! How funny that Mum's grapes ended up bein' Roundbeck's big local speciality!
+Nera
+	That smell relaxes you in an instant. I think it could send me to sleep right in the middle of the day!
+%0%a001240
+	Wow! It smells of grapes!
+	I wonder if it's all sticky...
+Tuppence
+	It smells so good that I'm afraid I might forget myself during my sleep and gobble it up!
+Bianca
+	I can't believe she's a follower of the Order of Zugzwang. And it dun't look like business is
+	good, neither. I hope she's okay.
+Nera
+	Oh dear. I'm surprised to hear the Order of Zugzwang's influence has made it here as well.
+%0%a001250
+	That woman was really nice to us when we came here with Sancho. She didn't mention anything about Zugzwang then.
+Sancho
+	I no like to tell you thees, but even een Gotha, there are esome people who believe een thees Order of Zugzwang, you know.
+Tuppence
+	Dear me. A colleague of mine was giving all of
+	his earnings to the Order of Zugzwang as well.
+	What a fool!
+Bianca
+	Comin' here reminds me of all those times you and I used to play hide-and-seek together, %a000090.
+%0%a001240
+	Why does %a001250 always spend so long in the bath? I'm in and out like a flash.
+%0%a001250
+	I really like this inn. The beds are soft, they have a bath, and the whole place smells really good.
+Tuppence
+	It's interesting to see all the different types of inns dotted around the world.
+Tuppence
+	Maybe I'll set up an inn of my own one day.
+	Once I've found myself a lovely wife to set
+	it up with, of course.
+Bianca
+	It's a shame you never got to try any of
+	Mum's grapes.
+Nera
+	You must have a lot of memories of this place, %a000090. I can't help feeling a little bit jealous.
+%0%a001240
+	Did you stay in this room with Grandpa, Dad?
+	I wish I'd been there.
+Sancho
+	When we used to come to Roundbeck, we always estayed een thees, the beeggest room,
+	you know. You remember that?
+Bianca
+	No way! She used to be a bunny girl! Yikes!
+%0%a001240
+	Am I really a ⓗyoung manⓘ? That sounds all grown-up!
+Tuppence
+	It's nice of her to call me a young man and everything, but she's not exactly my type.
+Bianca
+	I would never have expected him to know anythin' about the legendary hero, what with him always bein' three sheets to the wind.
+Bianca
+	Mind you, he dun't know as much about him as
+	we do, eh?
+Nera
+	Imagine how surprised he'd be to find out that the legendary hero is actually %a001240!
+%0%a001240
+	Es-something? But wasn't he defeated long ago?
+Tuppence
+	This Es-something-or-other has a bit of a convoluted name, doesn't he?
+Bianca
+	Blimey! This certainly takes me back. The folk here might be different to before, but the place en't changed a bit.
+Bianca
+	My family en't around here any more, but it's still nice to be back for a while.
+Nera
+	There's a really nice, friendly atmosphere here.
+	What a lovely town!
+Nera
+	Bianca would probably love to make a trip
+	back here every once in a while. It's quite
+	a way from Stockenbarrel.
+%0%a001240
+	I remember coming here before with Sancho.
+	The inn here's really big.
+%0%a001250
+	Aaaah! Um, no, I'm not sleepy.
+	I wasn't yawning, honest.
+Sancho
+	I remember eet eso well. We came here weeth señor Pankraz. And that time, señora Bianca's family, they were here also.
+Sancho
+	Sí. The times, they change, you know.
+	Ees notheeng you can do to estop eet.
+%0%a001240
+	Do you think there'll ever be a world without weapons? It would be nice if there could be.
+Sancho
+	Thees señor, he no looks eso happy, even though he esells everytheeng een hees eshop. Sí, I understand how he feels eso well.
+%0%a001240
+	I'll always be your little boy, won't I? I don't really get what that woman's on about.
+Sancho
+	Sí. The leettle friends, they grow up eso fast.
+	Ees no eso long ago that %a001240 and %a001250, they were esmall like mosquitoes.
+%0%a001240
+	Do you think everyone in this house is all part of the same family? Big families are fun!
+%0%a001250
+	Are you okay, Dad? I'm right by your side if that makes you feel any better.
+%0%a001240
+	Mt Azimuth is the highest mountain in the world, you know. I know these things!
+Bianca
+	No way! She used to be a bunny girl! Yikes!
+%0%a001240
+	Am I really a ⓗyoung manⓘ? That sounds all grown-up!
+Tuppence
+	It's nice of her to call me a young man and everything, but she's not exactly my type.
+Bianca
+	I would never have expected him to know anythin' about the legendary hero, what with him always bein' three sheets to the wind.
+Bianca
+	Mind you, he dun't know as much about him as
+	we do, eh?
+Nera
+	Imagine how surprised he'd be to find out that the legendary hero is actually %a001240!
+%0%a001240
+	Es-something? But wasn't he defeated long ago?
+Tuppence
+	This Es-something-or-other has a bit of a convoluted name, doesn't he?
+Bianca
+	Ha ha! Well, one out of two ain't bad, eh?
+%0%a001240
+	Is alcohol really that tasty? Just smelling it is enough to make me feel ill.
+Sancho
+	I no dreenk anytheeng for esuch a long time now. One piña colada now, and I no gonna be able to hold back the tears.
+Bianca
+	It's nice to see how happy the Count and Countess are now.
+Nera
+	Er...d-d-darling... That man's shadow seems
+	r-r-rather light. He's not a g-g-ghost, is he?
+Nera
+	Oh! Oh dear! I feel all woozy! Can you hold onto me in case I faint?
+Nera
+	V-Very well. If you're sure.
+%0%a001250
+	That woman's really nice. Can we stay here
+	a bit longer?
+Sancho
+	But look at all these espirits! Why does
+	señor Pankraz no appear for me?
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	The Order of Zugzwang!? Then they must've bin at the temple that time. I hope they're alright.
+Nera
+	I'm sorry, darling. I'm just finding it hard to have a conversation with a ghost.
+%0%a001240
+	I'm not scared of ghosts if they're all like him!
+%0%a001250
+	The Count wants us to help him. What's this tea set he's on about, though? Do you think it's here in the castle somewhere?
+Sancho
+	Uf. Thees count, hees esoul can no rest, eh?
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	The Order of Zugzwang!? Then they must've bin at the temple that time. I hope they're alright.
+Nera
+	I'm sorry, darling. I'm just finding it hard to have a conversation with a ghost.
+%0%a001240
+	It's not our fault. It was already in a bad state when we found it.
+%0%a001250
+	Is there no way we can make the tea set all nice again for him, Dad?
+Sancho
+	There was a fine tea set een Gotha a long, long time ago.
+Sancho
+	I no remember what happened to eet now.
+	Maybe esomeone, they broke eet? Sí...
+	Maybe eet was your clumsy Uncle Sancho...
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	The Order of Zugzwang!? Then they must've bin at the temple that time. I hope they're alright.
+Nera
+	I'm sorry, darling. I'm just finding it hard to have a conversation with a ghost.
+%0%a001240
+	I'm not scared of ghosts if they're all like him!
+%0%a001250
+	The Count wants us to help him. What's this tea set he's on about, though? Do you think it's here in the castle somewhere?
+Sancho
+	Uf. Thees count, hees esoul can no rest, eh?
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	Do you think it's really okay for us to get hold of a crown like this? I dun't feel worthy!
+Nera
+	A p-p-present from a ghost. How l-lovely...
+%0%a001240
+	(sniff sniff)
+%0%a001240
+	It's okay! I was thinking it might be a bit stinky because it's so old, but it's actually not too bad.
+%0%a001250
+	Don't give that crown to me, will you? I'm worried
+	I'll stop growing if I wear something too heavy on
+	my head.
+Sancho
+	Uf! Ees a fine article, eh, friend?
+	You must look after eet, okay?
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	It's funny seein' the flash of light when he's angry
+	at you sayin' no! Takes me back to the last time we met him!
+%0%a001240
+	Did the Count make that flash of light? It's a bit
+	mean of him to do that just because he didn't like
+	our answer.
+%0%a001250
+	That tea set used to belong here in the castle, right? But now it's got into a bad way.
+%0%a001250
+	I thought you were supposed to keep precious things like that safe, though. Don't all adults know that?
+Tuppence
+	Waaah! Ghosts!
+Bianca
+	Well, we can hardly accept responsibility for that now, can we?
+Nera
+	What a shame they've been disappointed!
+%0%a001240
+	It must be a bit rubbish being dead. I'll have to be careful it doesn't happen to me.
+%0%a001250
+	Don't the Count and Countess need to go and be
+	with the Goddess? Or are they just going to stay here forever?
+Tuppence
+	You can't taste anything when you're dead? How tiresome! I'll have to make sure I eat and drink as many delicious things as I can while I'm alive, then.
+Bianca
+	Fancy comin' back here! Dun't you worry, though.
+Bianca
+	I still en't forgotten how good it was to come explorin' here with you when we were kids.
+Nera
+	If there was a castle like this near Mostroferrato, I know I would've had to explore it when I was little.
+Nera
+	Oops! I'd better not let the children hear me say things like that.
+%0%a001240
+	Do you know this place, Dad? That's cool! Maybe I should go off adventuring of a night too!
+Bianca
+	Oi! I dun't think so! Your dad and I only came here adventurin' for good reason, I'll have you know.
+%0%a001240
+	Huh!
+%0%a001250
+	I can hear the little birds singing. They're saying that all is well here at the castle now.
+Sancho
+	I no believe you and Bianca, you went out of the town alone like thees all those years ago, friend.
+Sancho
+	But ees okay. Ees no esometheeng to be angry about now. Ees too long ago. And you are no the boy you were then.
+Sancho
+	I never came to thees place weeth señor Pankraz. I believed ees just an old ruin.
+Tuppence
+	Are there ghosts here?
+Tuppence
+	I suppose I'd consider a beautiful female ghost if I had to. You can't accuse me of being closed-minded.
+Bianca
+	I reckon it was the bad ghosts that made it so scary last time. Walkin' around now, even of a night, dun't scare me at all.
+Nera
+	You and Bianca came adventuring here in the middle of the night once, didn't you? I wish I'd been there.
+%0%a001240
+	I reckon %a001250 and I are big and brave enough to explore somewhere like this on our own!
+%0%a001250
+	When you were here as a boy, there were lots of evil ghosts, weren't there? How scary!
+Sancho
+	You and Bianca, you came here to thees place een the middle of the night, sí? When you were just a leettle boy.
+Sancho
+	You know, I believed you were a well-behaved young boy, but no. You are truly the eson of señor Pankraz. I, I am eso happy!
+Tuppence
+	Brrr... There's a bit of a chill in the air here. Oh...
+	I'm the only one feeling it, am I?
+Bianca
+	I can't sense anything sinister here now.
+	That's a relief.
+%0%a001240
+	It'd be really fun to come exploring here just with kids of my own age.
+Bianca
+	The place looks a bit tidier than the last time
+	we came, eh? Maybe those two lovebirds
+	fixed it up a bit.
+Bianca
+	We did a good job of rescuin' %a001210 by comin' here all those years back. I couldn't have done it without you, %a000090.
+Nera
+	Old buildings always have a certain smell to them. Maybe it's just mould, I don't know. But it's not a
+	bad smell.
+Nera
+	I can't imagine how worried I'd be at the thought of %a001240 and %a001250 here all alone.
+Nera
+	You'd be worried too, right? That's probably just how Pankraz felt when you came here as a boy.
+%0%a001240
+	Are all the bad ghosts gone now? If I see any, I'll soon send them packing!
+%0%a001240
+	Look! There's a huge spider's web up there. Wow!
+	It looks amazing.
+%0%a001240
+	We don't have any ghosts in Gotha.
+	It would be fun if we did.
+%0%a001240
+	I reckon I could stay undiscovered here for ages if we had a game of hide-and-seek.
+%0%a001250
+	This castle's not scary. Not now all the nasty ghosts have gone away.
+%0%a001250
+	There are so many stairs and corridors here.
+	I'm worried I'm going to get lost.
+%0%a001250
+	You did well here, Dad. The people seem really grateful to you.
+%0%a001250
+	My favourite castle of all is Gotha, of course. That's where all my friends are. And it's much warmer than here too.
+Sancho
+	You no theenk ees a really beeg castle?
+	Ees like a giant paella. Ees a waste
+	to leave eet.
+Sancho
+	To restore thees castle to eets former glory, ees gonna take muchos, muchos time, eh?
+	Sí. Many, many years.
+Tuppence
+	Tuppence Castle... No, not grand enough. Great Tuppence Castle? Hmm... I know! I could call it Tupptaten Towers!
+Tuppence
+	Sorry! I was just trying to figure out what name I'll give my castle in the future.
+Tuppence
+	Watch where you're walking, won't you, %a000090? The floorboards might be a bit weak in places.
+Debora
+	It's a bit of a small town, but it has a few shops, so it's not so bad.
+Debora
+	If there are things you need to do here, that's fair enough, but if this is just a trip down memory lane, you'll have to wait until it's all over.
+Debora
+	People like him are always the first to do a runner when the going gets tough.
+Debora
+	He was lucky to be forgiven if he deserted the army! The ruler of Coburg must be a more lenient soul than I am.
+Tuppence
+	Er, wh-why are you looking at me when you say that? I have n-no intention of deserting.
+Debora
+	I should think he'd be a bit overwhelmed if we told him about your bloodline and about me being descended from the Zenithians.
+Debora
+	I don't need to bother myself with cooking.
+	That's what people have chefs for.
+%0%a001240
+	Can't you cook at all, Mum? I'd love to taste a homemade dish of yours, even just the once.
+Debora
+	Of course I can cook! I suppose I could make you something one day if you really want me to.
+~ Debora gives %a000090 a meaningful glance. ~
+~ It seems that he's going to be the one doing the cooking... ~
+Debora
+	This inn is where Bianca lived as a little girl, isn't it? It's a bit common for my tastes, but it could be worse, I suppose.
+Debora
+	It smells quite nice. Could be the perfect accompaniment to a nice afternoon siesta.
+Debora
+	So she's a follower of the Order of Zugzwang?
+	Hmm... We might've defeated Korol, but there are still believers like her dotted about the place.
+Debora
+	This inn must be full of memories from your younger years, %a000090.
+Debora
+	I wonder how he'd react if we told him %a001240 was the legendary hero. Not that I'm planning on finding out.
+Debora
+	It's getting late now. Maybe we should stay here for the night. Hurry up and find us a room!
+Debora
+	If there are things you need to do here, that's fair enough, but if this is just a trip down memory lane, you'll have to wait until it's all over.
+Debora
+	I wonder how he'd react if we told him %a001240 was the legendary hero. Not that I'm planning on finding out.
+Debora
+	I couldn't quite seem to focus on that woman properly. I must be tired or something.
+Debora
+	So many people have been taken in by the Order of Zugzwang. I just don't understand it.
+Debora
+	So many people have been taken in by the Order of Zugzwang. I just don't understand it.
+Debora
+	So many people have been taken in by the Order of Zugzwang. I just don't understand it.
+Debora
+	You don't think that wearing that crown makes you transparent or anything, do you? No, surely not...
+Debora
+	What's going on with all this lightning?
+	It keeps giving me a fright.
+Debora
+	It must be terrible not being able to taste anything. Even money can't buy taste.
+Debora
+	What are we doing at this stinky old castle?
+	Let's hurry up and leave.
+Debora
+	Is it me, or has it suddenly gone cold?
+Debora
+	It's nicer in here than I thought. I wouldn't want to live here, though. Far too old-fashioned.
+Tuppence
+	It's quite a lively little town considering its size.
+	If only there were a few more beauties about
+	for me to enjoy.
+Debora
+	I beg your pardon, Tuppence! Is it not enough to be accompanied by a beauty such as I?
+Tuppence
+	Er, I, er, yes! Yes, of course.
+	More than enough!
+Tuppence
+	It's quite a lively little town considering its size.
+	If only there were a few more beauties about
+	for me to enjoy.
+Debora
+	I beg your pardon, Tuppence! Is it not enough to be accompanied by a beauty such as I?
+Tuppence
+	Er, I, er, yes! Yes, of course.
+	More than enough!

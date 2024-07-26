@@ -1,0 +1,62 @@
+~ But %a020100 %M0100%Xdon't%Ydoesn't%Z seem to need any polishing. ~
+~ %0%a000010 wipes some of the dust off %a020100. ~
+~ %0%a000010 polishes %a020100. ~
+~ But %a020100 might break if %M0100%Xthey were%Yit was%Z polished. It's probably best not to. ~
+~ The Whealbrook sapphire is dazzling enough already! ~
+~ %0%a000010 polishes the toff's tea set. ~
+~ The fine silverware regains the lustre it once enjoyed when it was lovingly used by the Count of Uptaten Towers. ~
+~ But the desert rose looks like it would fall apart if it were polished. Better give it a miss. ~
+~ %0%a000010 puts some serious elbow grease into polishing the maxi medal. ~
+~ Phew! All that rubbing can really take it out of you... ~
+~ %0%a000010 polishes Madalena's locket. ~
+~ It seems to stir up some painful memories inside %A0010%Xhim%Z%B0010%Xher%Z%C0010%Xit%Z. ~
+~ %0%a000010 polishes Madalena's locket. ~
+~ Mada's smiling face beams from within it. ~
+~ %0%a000010 polishes the Catas Trophy. ~
+~ Just touching it gives %A0010%Xhim%Z%B0010%Xher%Z%C0010%Xit%Z bad vibes. ~
+~ But there doesn't seem to be much point in pouring water over %a020100. Better not. ~
+~ But %a020100 would get soaked if you poured water over %M0100%Xthem%Yit%Z. Better not. ~
+~ But %a020100 would dissolve if you poured water over %M0100%Xthem%Yit%Z. Better not. ~
+~ But the eerie aura surrounding %a020100 just repels the water! ~
+~ But the blooming branch is blooming already. ~
+~ It doesn't appear to need any water. ~
+~ Oh, no... You wouldn't want to dilute Zoomshine with water. It's much better neat. ~
+~ But they might go mouldy if you soak them. ~
+~ Better not. ~
+~ But it'll disintegrate if you pour water over it. Better not. ~
+~ %0%a000010 pours the water from the aspersorium over the Yggdrasil sapling. ~
+~ It regains the vitality it boasted before Zenithia fell! ~
+~ The Yggdrasil sapling thirstily soaks up the water from the aspersorium and blooms with vitality! ~
+~ One of the fresh new leaves falls off and flutters down to the ground. ~
+~ %0%a000120 finds an Yggdrasil leaf! ~
+~ %0%a000180 puts the leaf away for safe-keeping. ~
+~ But the ink in the tusk-tusk tusk inkwell would thin out if you poured water into it. Better not. ~
+~ But there's nowhere on %a020100 to put a jewel of any sort. ~
+~ %0%a000010 presses the Whealbrook sapphire into the marital organ. ~
+~ It fits perfectly, and makes the marital organ substantially more valuable! ~
+~ %0%a000010 pushes the jewel firmly into the honey buns. ~
+~ It leaves a noticeable dent in the surface of one of them! ~
+~ %0%a020100 %M0100%Xaren't%Yisn't%Z classed as a knick-knack. ~
+~ %0%a020100 %M0100%Xare%Yis%Z certainly impressive, but %M0100%Xdon't%Ydoesn't%Z really count as a knick-knack. ~
+~ %0%a020100 clearly %M0100%Xaren't%Yisn't%Z a knick-knack. ~
+~ King Korol's Catechism isn't really the sort of thing you want to be displaying in the knick-knackatory just yet... ~
+~ The Whealbrook bluestone probably needs something doing to it before it can count as a knick-knack... ~
+~ It feels like %a020100 needs something doing to it before it can count as a knick-knack. ~
+~ Place a knick-knack here? ~
+~ Exhibit which knick-knack? ~
+~ %0%a020180 isn't carrying anything. ~
+~ The bag is currently empty. ~
+~ Place %a020100 on the stand? ~
+~ %0%a000120 carefully places %a020100 on the stand. ~
+~ It's a pedestal. Suddenly an eerie voice appears from nowhere... ~
+Old Man Nick Knack
+	Now don't ye be polishin' the exhibits or changin' anytin' around while we've visitors in the place.
+	I told ye to do that at night, so I did.
+~ Take %a020100 off %M0100%Xtheir%Yits%Z pedestal? ~
+~ %0%a000120 carefully removes %a020100 from the pedestal and puts %M0100%Xthem%Yit%Z in the bag. ~
+~ It's a pedestal for a knick-knack exhibit. But the best time to change things around or polish exhibits ~
+~ is at night when the visitors have gone home. ~
+~ It's probably best not to go flaunting something like %a020100. %M0100%XThey're%YIt's%Z not really suitable for public display. ~
+~ %0%a020100 is needed for all the other knick-knacks on display. It's an item to use, not exhibit. ~
+~ If a visitor was cursed by touching %a020100, the repercussions could be severe. Think of the legal fees! ~
+~ Some visitors might be tempted to play around with %a020100 or throw %M0100%Xthem%Yit%Z or something. Better not. ~

@@ -1,0 +1,1081 @@
+Rodrigo Briscoletti
+	So you know your charge.
+	I want a strict watch kept night and day!
+Rodrigo Briscoletti
+	And if anything happens, don't hang about
+	finishing your cappuccino before you report
+	back to me, capice?
+*: 
+	%0%a000090! Have you seen Mr Briscoletti?
+	He's been waiting for you at La Guardia.
+*: 
+	Welcome to Mostroferrato, ancient stronghold of the Briscoletti family.
+*: 
+	You'll never guess what I found! There's a funny pot in a shrine to the west of Stockenbarrel that's glowing an eerie red colour!
+*: 
+	When I told Mr Briscoletti about it, he turned as white as a sheet and said something like,
+	ⓗFor the love of linguine!ⓘ
+*: 
+	I hope I haven't said something I shouldn't have...
+	Oops.
+*: 
+	No, surely not!
+	It's...%a000090, isn't it?
+*: 
+	That's one face I could never forget, no matter how many years go by.
+*: 
+	So have you seen Mr Briscoletti already?
+*: 
+	He's been acting really strangely recently.
+	And he looks terrible too.
+Bingo
+	Aaarf! Bau bau bau!
+*: 
+	Urgh. I drank far too much last night.
+	Hair of the dog's the only answer!
+	Glug, glug, glug, glug...
+*: 
+	Urgh! (burp)
+*: 
+	I hate the daytime. There's no atmosphere
+	during the day.
+*: 
+	Mr Briscoletti's in here quite a bit these days,
+	you know.
+*: 
+	It's funny, because he never used to show his face in the pub at all.
+*: 
+	Well, well! Young %a000090!
+	How are you?
+*: 
+	It seems like yesterday that you were getting married, you know.
+*: 
+	Good Goddess! Surely I'm looking at your offspring, aren't I? You can't mistake those eyes!
+*: 
+	Is that you, %a000090?
+	You look even tougher than I remember.
+*: 
+	And you're a father now!
+	Well done, my boy!
+*: 
+	Yes, congratulations, congratulations!
+*: 
+	Two people from different upbringings, joining as man and wife, setting off on a new journey together as a family...
+*: 
+	When I think about it, marriage is another example of the many wonders the Goddess has bestowed upon us all.
+*: 
+	Stop lazing about and put some tea on,
+	you old waster!
+*: 
+	Oh! You're not my wife!
+	I, I do apologise.
+*: 
+	You've got to treat them mean to keep them keen, you know! Ha ha ha ha hah!
+*: 
+	Did you know my husband was such a strong man? I had no idea.
+*: 
+	I've fallen in love with him all over again!
+Crispin
+	............!
+	It can't be...can it?
+Crispin
+	It is you, %a000090! It feels like years and years since I last saw you.
+Crispin
+	We're always talking about you, though. You made a big impression back then.
+Crispin
+	Oh, yes! I should introduce you, shouldn't I?
+	This is my wife, Nera! Heh heh.
+Nera
+	It's wonderful to see you again after all this time, %a000090. How are you?
+Nera
+	It's really thanks to you that Crispin and I fell in love in the first place, you know.
+Nera
+	We're so happy together.
+Nera
+	Everything's just perfect. Except...
+Crispin
+	Except Nera's father, Mr Briscoletti.
+	He seems a bit off just recently.
+Crispin
+	He's always on edge. He never seems to be able to relax any more.
+Nera
+	Would you mind talking to him? I'm sure he'd open up to you. He always really liked you.
+Crispin
+	Yes, would you mind?
+	As a favour to us?
+Crispin
+	Perhaps you could find out what it is that's bothering him and maybe help him get over it.
+Crispin
+	............!
+	It can't be...can it?
+Crispin
+	It is you, %a000090! It feels like years and years since I last saw you.
+Crispin
+	We're always talking about you, though. You made a big impression back then.
+Crispin
+	Oh, yes! I should introduce you, shouldn't I?
+	This is my wife, Ashlee!
+Ashlee
+	ⓗEllo, %a000090. It is such a plaisir to meet you at last. My 'usband 'as told me so much about you.
+	Tee hee hee!
+Crispin
+	Ashlee used to be a famous dancer, you know, amongst other things.
+Crispin
+	The way she moves is hypnotic... And she does the most amazing...
+Crispin
+	Oh, dear! Sorry! I get a bit carried away sometimes.
+	But that's hardly appropriate conversation now.
+Crispin
+	Actually, there's something bothering me at the moment you might be able to help with.
+	It's Mr Briscoletti. He's behaving really strangely.
+Crispin
+	He's always on edge. He never seems to be able to relax any more.
+Crispin
+	Perhaps you could find out what it is that's bothering him and maybe help him get over it.
+Ashlee
+	My 'usband is always talking about %O0960%Xyou, %a000090%Y%a000090%Z.
+Ashlee
+	Ze way 'e describes %O0960%Xyou%Y'im%Z, sometimes I feel weak at ze knees! Tee hee hee!
+*: 
+	Welcome to the Briscoletti residence.
+Romana
+	%0%a000090!
+	You've come back to visit us?
+	How wonderful it is to see you!
+Romana
+	The Goddess has been watching over us all.
+Romana
+	But there is one thing you could help me with, %a000090.
+Romana
+	My husband has been behaving very oddly ever since he spoke to a travelling merchant who came to town a few days ago.
+Romana
+	But he just won't tell me what's bothering him.
+	I'm starting to worry about him...
+*: 
+	Welcome to the Briscoletti resiⓚⓛ
+*: 
+	What a surprise! %0%a000090, sir!
+	Welcome home!
+Romana
+	%0%a000090!
+	You've come back to visit us?
+	How wonderful it is to see you!
+Romana
+	The Goddess has been watching over us all.
+Romana
+	But there is one thing you could help me with, %a000090.
+Romana
+	My husband has been behaving very oddly ever since he spoke to a travelling merchant who came to town a few days ago.
+Romana
+	But he just won't tell me what's bothering him.
+	I'm starting to worry about him...
+*: 
+	Please, %a000090, sir. I... I couldn't help overhearing Mr Briscoletti talking to himself before.
+*: 
+	He said something about a jar, and that if it was glowing red, some monster or other would come back to life!
+*: 
+	He was standing by the bookshelf in the living
+	room. It sounded like he was reading some old
+	diary or the like.
+*: 
+	I'm worried he's in trouble, you see.
+	You'll help him though, won't you, %a000090?
+~ ⓗYou are reading my diary, the diary of Rodolfo Briscoletti. What I write here is of utmost importance. It must never be lost. ~
+~ ⓗJust a short time ago, I succeeded in sealing away a giant beast in a jar. ~
+~ ⓗA beast so gigantic, his head pierced the clouds and scratched the heavens. ~
+~ ⓗLeft unchecked, he would have destroyed not only our village, but the entire world. ~
+~ ⓗBut the seal will not last forever. Perhaps one hundred years... One hundred and fifty at best... ~
+~ ⓗWhen the jar loses its sacred powers, it will begin to glow red. And when it does, the beast will be free once more! ~
+~ ⓗTo my as yet unborn grandchildren and grandchildren's grandchildren, good luck! ~
+~ ⓗI have decided to make a bambino with my wife, so that I can pass on this warning to the world that follows me. ~
+~ ⓗAnd to those of my heirs unlucky enough to be born one hundred and fifty years after myself, I pray for you.                                             R. Briscoletti.ⓘ ~
+~ %0%a000090 returns the diary to the bookshelf. ~
+Rodrigo Briscoletti
+	Holy rigatoni! %0%a000090, you old scaramouch!
+	When did you get back?
+Rodrigo Briscoletti
+	N-Never mind. There'll be plenty of time for all that bologna later.
+Rodrigo Briscoletti
+	Right now, I need you to do me a favour.
+	I can rely on you, I presume?
+Rodrigo Briscoletti
+	There's a small island to the west of Stockenbarrel. That's the village just north of here, if youⓚⓛ
+	Are you listening?
+Rodrigo Briscoletti
+	So anyway, on that small island to the west of Stockenbarrel, there's an equally small shrine.
+Rodrigo Briscoletti
+	Inside the shrine is an old jar.
+	That's all. Just that one, small jar.
+Rodrigo Briscoletti
+	I need you to go there and give me a bulletin on what colour the jar is.
+Rodrigo Briscoletti
+	I realise the request might sound a little cavalier, but it's really very important.
+Rodrigo Briscoletti
+	And if the jar's red, don't waste any time getting back here. Capice? You must hurry.
+Rodrigo Briscoletti
+	I just hope this has all been some terrible misunderstanding...
+Rodrigo Briscoletti
+	Well, I suppose time can turn any man's heart to stone...
+Rodrigo Briscoletti
+	Holy rigatoni! %0%a000090, you old scaramouch!
+	When did you get back?
+Rodrigo Briscoletti
+	N-Never mind. There'll be plenty of time for all that bologna later.
+Rodrigo Briscoletti
+	Right now, I need you to do me a favour.
+	I can rely on you, I presume?
+Rodrigo Briscoletti
+	There's a small island to the west of Stockenbarrel. That's the village just north of here, if youⓚⓛ
+	Are you listening?
+Rodrigo Briscoletti
+	So anyway, on that small island to the west of Stockenbarrel, there's an equally small shrine.
+Rodrigo Briscoletti
+	In fact, I think you went there for me once before, didn't you? I asked you to tell me what colour the jar inside was, if you remember.
+Rodrigo Briscoletti
+	Well I need you to go there again and give me another bulletin on what colour it is now.
+Rodrigo Briscoletti
+	I realise the request might sound a little cavalier, but it's really very important.
+Rodrigo Briscoletti
+	And if the jar's red, don't waste any time getting back here. Capice? You must hurry.
+Rodrigo Briscoletti
+	I just hope this has all been some terrible misunderstanding...
+Rodrigo Briscoletti
+	What!? You won't even hear what the favour is?
+	From your own father-in-law?
+Rodrigo Briscoletti
+	I won't have my daughter married to a useless buffone, %a000090!
+Rodrigo Briscoletti
+	You would never have had my bambina's
+	hand in marriage in the first place were it
+	not for my consent!
+*: 
+	What are you doing out and about at this
+	time of night?
+*: 
+	If I mistake you for a monster and slash you down, don't come complaining. You won't have
+	a leg to stand on. Ha ha ha!
+Bingo
+	Au au au...
+*: 
+	You'll never guess what I found! There's a funny pot in a shrine to the west of Stockenbarrel that's glowing an eerie red colour!
+*: 
+	When I told Mr Briscoletti about it, he turned as white as a sheet and said something like,
+	ⓗFor the love of linguine!ⓘ
+*: 
+	I hope I haven't said something I shouldn't have...
+	Oops.
+*: 
+	Hi! Are you after a tasty drink?
+	Or a tasty something else? Hee hee hee!
+*: 
+	Mr Briscoletti's in here quite a bit these days,
+	you know.
+*: 
+	It's funny, because he never used to show his face in the pub at all.
+*: 
+	Phew! You're travelling with a stunner there,
+	my friend! Hic!
+*: 
+	What? You're mirⓚⓛ You're merriⓚⓛ You're married!? You luckyⓚⓛ Hiccup!
+*: 
+	Ah-phew, ah-phew.
+*: 
+	Have you heard about that glowing red jar the travelling salesman's been talking about?
+*: 
+	I've seen it too, as it goes. Only it wasn't glowing when I saw it. It was just a normal-looking jar.
+*: 
+	No? Where have you been?
+*: 
+	You wanna listen to what people say a bit more, or you'll end up paying for it.
+*: 
+	When everyone's down in the dumps about all the bad stuff that's going on, it ⓚⓛ Hic! ⓚⓛ makes for a pretty depressing evening.
+*: 
+	What? What bad stuff? Well, there's the evil darkness that's ⓚⓛ Hic! ⓚⓛ going to swallow up the whole world for starters...
+*: 
+	But that White King's Paradise sounds too good to be ⓚⓛ Hic! ⓚⓛ true if you ask me. D'you think you'd really be saved there? Hiccup.
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Ah-phew... Ah-phew...
+*: 
+	My poor husband's completely exhausted.
+*: 
+	Better let him rest.
+Rodrigo Briscoletti
+	Ha ha ha hah! Ha ha ha ha hah!
+	Tutti-frutti! Tutti-frutti!
+Rodrigo Briscoletti
+	Just as I finish getting ready, the battle is finito! You defeated the beast already.
+Rodrigo Briscoletti
+	Fine work, %a000090!
+	Tutti-frutti indeed!
+Rodrigo Briscoletti
+	I like you more and more, you ripe young ragazzo!
+Rodrigo Briscoletti
+	You and your family will do well on your quest, I've no doubt. And my best wishes go with you!
+Romana
+	It's wonderful that you've managed to have children of your own.
+Romana
+	Can I tell you something, %a000090?
+	Just having children doesn't make you a parent,
+	you know.
+Romana
+	We learn from our little ones, and bit by bit we develop into true parents.
+Romana
+	There's no need for you to worry, though.
+	I've no doubt you'll make a wonderful father.
+*: 
+	Thank you, %a000090, for helping us.
+*: 
+	It's such a relief to see Mr Briscoletti looking cheerful again.
+*: 
+	And it's great that people in town didn't have to suffer. Most of them hardly know anything about what happened.
+*: 
+	Welcome, %a000090. Come in and relax, won't you?
+Rodrigo Briscoletti
+	Ha ha ha hah! Ha ha ha ha hah!
+	Tutti-frutti! Tutti-frutti!
+Rodrigo Briscoletti
+	Just as I finish getting ready, the battle is finito! You defeated the beast already.
+Rodrigo Briscoletti
+	Fine work, %a000090!
+	Tutti-frutti indeed!
+Rodrigo Briscoletti
+	I like you more and more, you ripe young ragazzo!
+Rodrigo Briscoletti
+	And there's my beautiful bambina too!
+Rodrigo Briscoletti
+	You're a lucky girl to have such fine men in your life, eh, Nera? Ha ha ha hah!
+Romana
+	It's wonderful that you've managed to have children of your own.
+Romana
+	Oh! Does that...make me a grandmama?
+Romana
+	Well! That's wonderful. It's...just a bit unexpected,
+	I suppose. I don't quite know how to feel.
+Romana
+	Can I tell you something, %a000090?
+	Just having children doesn't make you a parent,
+	you know.
+Romana
+	We learn from our little ones, and bit by bit we develop into true parents.
+Romana
+	There's no need for you to worry, though.
+	I've no doubt you'll make a wonderful father.
+Romana
+	Although, it's a bit of a shame they have to fight monsters with you.
+Romana
+	Let me give you a little spending money.
+	Here you are. Your father will buy you something nice with this.
+~ %0%a000090 and family receive five thousand gold coins! ~
+Romana
+	I still don't quite know how to react to becoming a grandmama! Ha ha hah. Hah...
+Romana
+	Can I tell you something, %a000090?
+	Just having children doesn't make you a parent,
+	you know.
+Romana
+	We learn from our little ones, and bit by bit we develop into true parents.
+Romana
+	There's no need for you to worry, though.
+	I've no doubt you'll make a wonderful father.
+Romana
+	Although, it's a bit of a shame they have to fight monsters with you.
+Romana
+	Let me give you a little spending money.
+	Here you are. Your father will buy you something nice with this.
+~ %0%a000090 and family receive five thousand gold coins! ~
+*: 
+	Mr Briscoletti has a wonderful son-in-law.
+	Defeating a giant beast like that barely before setting foot in the hallway.
+*: 
+	It's such a relief to see Mr Briscoletti looking cheerful again.
+*: 
+	And it's great that people in town didn't have to suffer. Most of them hardly know anything about what happened.
+*: 
+	Welcome home, sir.
+*: 
+	And welcome home, Ms %a001230.
+*: 
+	There's a lot of laughter coming from the Briscoletti residence now.
+*: 
+	Looks like whatever the problem was has been cleared up now. That's good news.
+*: 
+	Have you been to the shrine north-west of here?
+*: 
+	Ever since what happened before, I've been a bit worried about it, so I keep going to check up on the jar there.
+*: 
+	The last time I went, it was rattling and jumping about all over the place.
+*: 
+	I'm worried something bad's going to happen again.
+*: 
+	Did you feel that tremor just now?
+	It was a really strong one.
+*: 
+	It felt almost like some giant creature plodding on its way to battle.
+*: 
+	What? Mr Briscoletti's back to his usual, cheerful self, you say?
+*: 
+	Oh. Well, that's one less customer for me then.
+*: 
+	Mind you, he never really looked at home in
+	a pub, anyway.
+Crispin
+	I see...
+	So the monster was sealed away one hundred and fifty years ago.
+Crispin
+	I suppose to the monster itself, it probably felt like just a few days had passed or something.
+Crispin
+	So it wouldn't have realised that Mr Briscoletti's great, great, great, great...
+	Ahem! How many greats was that?
+Crispin
+	Well anyway, it wouldn't have realised that
+	Mr Briscoletti's forefather, Rodolfo, passed
+	away years and years ago.
+Nera
+	Thank you. For helping my father, and for
+	saving the town.
+Nera
+	I'll pray for you all, that the Goddess watches over you as you go on your way.
+Crispin
+	I see...
+	So the monster was sealed away one hundred and fifty years ago.
+Crispin
+	I suppose to the monster itself, it probably felt like just a few days had passed or something.
+Crispin
+	So it wouldn't have realised that Mr Briscoletti's great, great, great, great...
+	Ahem! How many greats was that?
+Crispin
+	Well anyway, it wouldn't have realised that
+	Mr Briscoletti's forefather, Rodolfo, passed
+	away years and years ago.
+Ashlee
+	Oh là là, what a powerful and strong man %O0960%Xyou are, %a000090%Y%a000090 is%Z! Tee hee hee!
+*: 
+	Ah-phew... Ah-phew...
+*: 
+	I reckon there was a monster or something in that jar at the shrine.
+*: 
+	It's gotta have been, right? I mean, it was glowing red and everything.
+*: 
+	I'm sorry, sir. Everyone in the house has already retired for the night.
+*: 
+	You must be exhausted being up at such a late hour, sir. I hope you have a good night's sleep.
+Rodrigo Briscoletti
+	Ah-phew... Ah-phew...
+*: 
+	Ah-phew, ah-phew...
+~ Rest here? ~
+~ %0%a000090 climbs into bed and goes to sleep... ~
+Nera
+	I expect you're tired, aren't you?
+	Do you want to rest?
+Nera
+	Alright, then.
+	Good night...husband!
+Nera
+	Good morning, darling.
+	Shall we get going now?
+Nera
+	Really? You're full of energy, aren't you?
+	Make sure you don't push yourself too hard, darling.
+Crispin
+	............!
+	It can't be...can it?
+Crispin
+	It is you, %a000090! It feels like years and years since I last saw you.
+Crispin
+	We're always talking about you, though. You made a big impression back then.
+Crispin
+	Oh, yes! I should introduce you, shouldn't I?
+	This is my wife, Nera! Heh heh.
+Nera
+	It's wonderful to see you again after all this time, %a000090. How are you?
+Nera
+	It's really thanks to you that Crispin and I fell in love in the first place, you know.
+Nera
+	We're so happy together.
+Nera
+	Everything's just perfect. Except...
+Crispin
+	Except my new father-in-law, Mr Briscoletti.
+	He seems a bit off just recently.
+Crispin
+	He's always on edge. He never seems to be able to relax any more.
+Nera
+	Would you mind talking to him? I'm sure he'd open up to you. He always really liked you.
+Crispin
+	Yes, would you mind?
+	As a favour to us?
+Crispin
+	Perhaps you could find out what it is that's bothering him and maybe help him get over it.
+Rodrigo Briscoletti
+	Holy rigatoni! %0%a000090, you old scaramouch!
+	When did you get back?
+Rodrigo Briscoletti
+	N-Never mind. There'll be plenty of time for all that bologna later.
+Rodrigo Briscoletti
+	Right now, I need you to do me a favour.
+	I can rely on you, I presume?
+Rodrigo Briscoletti
+	There's a small island to the west of Stockenbarrel. That's the village just north of here, if youⓚⓛ
+	Are you listening?
+Rodrigo Briscoletti
+	So anyway, on that small island to the west of Stockenbarrel, there's an equally small shrine.
+Rodrigo Briscoletti
+	In fact, I think you went there for me once before, didn't you? I asked you to tell me what colour the jar inside was, if you remember.
+Rodrigo Briscoletti
+	Well I need you to go there again and give me another bulletin on what colour it is now.
+Rodrigo Briscoletti
+	I realise the request might sound a little cavalier, but it's really very important.
+Rodrigo Briscoletti
+	And if the jar's red, don't waste any time getting back here. Capice? You must hurry.
+Rodrigo Briscoletti
+	I just hope this has all been some terrible misunderstanding...
+Rodrigo Briscoletti
+	What!? You won't even hear what the favour is?
+	From your own father-in-law?
+Rodrigo Briscoletti
+	That's not the %a000090 I know.
+Rodrigo Briscoletti
+	When you did me the service ofⓚⓛ
+	I mean, when you chose Debora as your bride, I took you to be a, a, well...
+Debora
+	Well, well. %0%a000090, isn't it?
+Debora
+	Pardon? You thought I'd be married by now because Nera's been a fool and accepted that flake of a man?
+Debora
+	Pardon? Aren't I married yet?
+Debora
+	A husband would just get under my feet.
+	Like you are at the moment, really. Do you mind?
+Debora
+	Well, well. %0%a000090, isn't it?
+Debora
+	And my dear sister, Nera.
+	I haven't seen your long face in aⓚⓛ
+	Sorry. I haven't seen your face in a long time.
+Debora
+	Pardon? Aren't I married yet?
+Debora
+	A husband would just get under my feet.
+	Like you are at the moment, really. Do you mind?
+Debora
+	What is it now? Do you want something, or not?
+Debora
+	You've finally come to realise that you should've picked me when you had the chance, I suppose?
+Debora
+	Well it's too late. Unless you can just flick a switch and replay the adventures of your life. No doubt you once confessed your love for me in church...?
+Debora
+	If you don't want anything, then don't bother me with your whiny voice.
+Rodrigo Briscoletti
+	Ha ha ha hah! Ha ha ha ha hah!
+	Tutti-frutti! Tutti-frutti!
+Rodrigo Briscoletti
+	Just as I finish getting ready, the battle is finito! You defeated the beast already.
+Rodrigo Briscoletti
+	Fine work, %a000090!
+	Tutti-frutti indeed!
+Rodrigo Briscoletti
+	I like you more and more, you ripe young ragazzo!
+Rodrigo Briscoletti
+	And here's my bundle of trouble too!
+	How are you, Debora?
+Rodrigo Briscoletti
+	You're a lucky girl to have such fine men in your life, eh? Ha ha ha hah!
+Debora
+	What is it now? Do you want something, or not?
+Debora
+	Wasn't I bothered by all the commotion outside?
+Debora
+	As far as I can see, it was nothing. I don't know what in the world everyone was so het up about.
+Debora
+	So...this is your offspring, I suppose?
+Debora
+	Hmph. Wimp begets wimp.
+Debora
+	I suppose that makes me an aunt, doesn't it?
+Debora
+	But I don't want to be called auntie, got it?
+	Make sure your kids call me Signorina Debora.
+	Yes, beautiful Signorina Debora!
+Debora
+	Don't bother trying to hide it. The similarity
+	is uncanny.
+Debora
+	If you don't want anything, then don't bother me with your whiny voice.
+Nera
+	Thank you. For helping my father, and for
+	saving the town.
+Nera
+	I'll pray that the Goddess watches over you all as you go on your way.
+Nera
+	Tell me, how is my sister?
+	I hope she's well.
+Nera
+	You could ask her to come and visit once in a while. I'd like to see her.
+Nera
+	I, I'd heard that you had children, but...
+	Is this...?
+Nera
+	I knew it! You look so alike!
+Nera
+	I can't believe it, though. Children grow up so fast...
+Nera
+	Time passes so quickly, doesn't it?
+Nera
+	Really? But there's such a striking resemblance.
+Nera
+	Tell me the truth now, %a000090. You do have children, don't you?
+Nera
+	Thank you. For helping my father, and for
+	saving the town.
+Nera
+	I'll pray for you all, that the Goddess watches over you as you go on your way.
+Nera
+	Don't be a stranger, Debora. Come and visit us from time to time, won't you?
+Nera
+	Mama and Papa would never admit it, but they really worry about you, you know.
+Debora
+	Alright, alright. I get the picture, Nera.
+	I'll drop in sometime if the mood takes me.
+Debora
+	If you're tired already, I suppose it'd be okay for you to have a rest here. Well? Do you want to?
+Debora
+	Alright. But the bed's far too narrow for two.
+	You can sleep on the floor.
+Debora
+	You're awake now, are you?
+	Right then, let's get going.
+Debora
+	Just so long as you're not too tired. I don't want you collapsing while we're travelling. I could really damage my nails dragging you to an inn.
+~ There's a jar glowing rather eerily red. ~
+~ %0%a000120 examines it... ~
+~ It's a very unsettling experience. ~
+~ There's a jar glowing serenely blue. ~
+~ %0%a000120 examines it... ~
+~ It looks like Rodrigo's succeeded in sealing the beast away again. ~
+~ There's a jar bubbling and rattling about on the floor. %0%a000120 examines it... ~
+~ Oops! Without really thinking, %A0110%Xhe%Z%B0110%Xshe%Z takes the lid off! ~
+*: 
+	Booork! Schnip! I'm finally free!
+*: 
+	How dare thet surn ef Rodolfo seal me
+	efay like thet!
+*: 
+	Shmurgnie flurgnie burgnie!
+	Vhet heppened to my burdy?
+	Vhen did it get so smurl?
+*: 
+	Ergh! Curse Rodrigo!
+	He used the furbidden seal!
+*: 
+	Curse him fur being so curful!
+	Vill I be sturk like thes furever?
+*: 
+	And who are yoo? Schnippy schnip!
+	Now I remembur!
+*: 
+	Yoo're the vens who beat me befur.
+	It's yoor felt thes hes heppened.
+*: 
+	Schmurgnie schmie!
+	I'll curm elong veeth yoo.
+*: 
+	Hurpfully I'll fend e fay to get my urld
+	burdy beck.
+*: 
+	I'm still Bjørn, but I've been bjørn egain, only smaller. I'm Rebjørn. Cen I trevel veeth yoo?
+~ Rebjørn joins the party. ~
+Rebjørn
+	Vhet!? Yoo're a nerroo-mended furl.
+	See how yoo like it vhen yoo're sealed efay!
+Rebjørn
+	Who are yoo? Schnippy schnip! I remembur!
+Rebjørn
+	Yoo're the vens who beat me befur.
+	It's yoor felt thes hes heppened.
+Rebjørn
+	Schmurgnie schmie!
+	I'll curm elong with yoo.
+Rebjørn
+	Hurpfully I'll fend e fay to get my urld burdy beck.
+	Cen I trevel veeth yoo?
+~ Rebjørn joins the party. ~
+Rebjørn
+	Vhet!? Yoo're a nerroo-mended furl.
+	See how yoo like it vhen yoo're sealed efay!
+Rebjørn
+	Beck egain? Schmurgnie burgnie. Then I'll curm elong with yoo egain.
+Rebjørn
+	Hurpfully I'll fend e fay to get my urld burdy beck.
+	Cen I trevel veeth yoo?
+~ Rebjørn joins the party. ~
+Rebjørn
+	Vhet!? Yoo're a nerroo-mended furl.
+	See how yoo like it vhen yoo're sealed efay!
+~ Rebjørn sprints off happily towards the wagon. ~
+~ But the wagon's already full! ~
+~ Which party member do you want to send off to Monty, the monster monitor? ~
+~ Give up on recruiting Rebjørn? ~
+~ Send %a000180 to Monty? ~
+~ Rebjørn sprints off happily in the direction of the monstergarten! ~
+~ %0%a000180 heads off to the monstergarten and Rebjørn joins the party! ~
+*: 
+	Whatever could it be that Mr Briscoletti's so afraid of, I wonder.
+Rodrigo Briscoletti
+	Ah, you came.
+	...Wait a minute! Why isn't %a000090 with you?
+Rodrigo Briscoletti
+	I need %a000090 too.
+	Bring him here now!
+Rodrigo Briscoletti
+	Ah, you're here at last, %a000090.
+	I see... The jar was red, was it?
+Rodrigo Briscoletti
+	You need not be a fortune-teller to know that from the expression on your face. I'm afraid that confirms my worst fears.
+Rodrigo Briscoletti
+	We have very little time, then. Come!
+Rodrigo Briscoletti
+	The gargantuan beast within the jar is about to come back to life.
+Rodrigo Briscoletti
+	One hundred and fifty years ago, my great-great-great-great-great-great grandfather...
+Rodrigo Briscoletti
+	...in other words, one of my revered ancestors, sealed it away in the jar, like meat inside ravioli.
+Rodrigo Briscoletti
+	But the seal is about to break.
+	The pasta is about to burst open!
+Rodrigo Briscoletti
+	And the beast will no doubt embark on a vendetta.
+	He will be after blood. My blood!
+Rodrigo Briscoletti
+	After that you can be sure he will turn his
+	fury on Mostroferrato!
+Rodrigo Briscoletti
+	I must return home and make preparations
+	for battle.
+Rodrigo Briscoletti
+	I need you to remain on watch here until
+	I return, %a000090!
+*: 
+	Aaaaeh... Thet ves a gut nep.
+	Bjørn feels murch better.
+Bjørn
+	Noo, vhere is Rodolfo?
+	No ven hides frem mee.
+Bjørn
+	Oo, vell... I seppoose I could uoose yoo es
+	an appeteeser.
+Rodrigo Briscoletti
+	Ah, you're alright, %a000090?
+	I had an uneasy feeling, so I hurried back here.
+Rodrigo Briscoletti
+	What!? The beast has already surfaced?
+	You fought Bjørn?
+Rodrigo Briscoletti
+	It's happening faster than I feared!
+	I must speed the battle plans along.
+	You can manage here, I trust?
+Bjørn
+	Ergnie bergnie shmergnie!
+	Yoo egain?
+Bjørn
+	Vhet, are yoo stoopid?
+	This time, I'll goobble yoo all ep!
+~ Amazing! Bjørn the Behemoose drops ~
+~ the ultimate key! ~
+~ %0%a000180 picks it up. ~
+*: 
+	A warm and windy welcome to Zoomingale!
+*: 
+	Professor Toilen Trubble must still be in bed. You can tell when he's up and about, 'cos there's always smoke comin' out of his chimney.
+*: 
+	He works too hard, I reckon. He's busy with that research of his all day long. It's too much for a man his age.
+*: 
+	Have you heard? Apparently, the world is about to be swallowed up by darkness.
+*: 
+	And only people who are followers of the Order of Zugzwang will be saved.
+*: 
+	I'm not too sure about that Order of Zugzwang.
+*: 
+	This is just a rumour, but...
+*: 
+	Well, I heard that lots of people were forced into slavery some years back to build that temple of theirs, the Crocodilopolis.
+*: 
+	Ooh, what good timing!
+*: 
+	I have something great to sell to you if you're interested. It's a book by the great Korol, leader of the Order of Zugzwang.
+*: 
+	And it could be yours for just three thousand gold coins! So, do you want to buy it?
+*: 
+	Here we are, then. Korol's Catechism is all yours!
+~ %0%a000120 receives Korol's Catechism! ~
+~ %0%a000180 acquires Korol's Catechism! ~
+*: 
+	The Order of Zugzwang is sure to bring peace back to our world. We must all have faith!
+*: 
+	Oh! I was sure you'd want it. It's for your own good, after all.
+*: 
+	Oh dear! It looks like you can't afford it,
+	I'm afraid.
+*: 
+	Oh no! I'm lost yet again!
+*: 
+	No matter how many times I come to this town,
+	I just can't seem to find my way around.
+*: 
+	There's no better feeling than the breeze that blows here.
+*: 
+	I wish I could just stay here
+	and soak it up forever.
+~ ⓗWanted: magic research assistant. ~
+~ Head south at this corner to apply.ⓘ ~
+~ ⓗMagic research assistant no longer required.ⓘ ~
+*: 
+	Them was right! These city inns is much 'n' more sophistimicated than what we got in the country.
+*: 
+	Don't be gawkin' at everythin' like a proper daft'un! Just keep cold an' they'll never know we'm not from 'round these parts.
+*: 
+	According to ancient legend, there's a tower somewhere that leads right up into the heavens.
+*: 
+	It's not clear whether it still exists, mind you.
+*: 
+	It don't look like the pub's open yet.
+	Uhh, I need a drink!
+*: 
+	Heh heh! About time too!
+	Hurry up and gimme a drink, will ya?
+*: 
+	Eh? You don't work 'ere?
+	Crikey! Sorry!
+*: 
+	Right then, looks like I'm ready
+	for another night of serving.
+*: 
+	Hm? Zoomshine? Ooh, no. We don't stock that!
+	No one in their right mind would drink it.
+*: 
+	I beg your pardon? You have some Zoomshine of your own, you say?
+*: 
+	Oh, I see. Professor Toilen Trubble gave you some, did he?
+*: 
+	I'm sure he must've explained the delicate nature of the situation to you, then.
+*: 
+	It's imperative that you keep Zoomshine's tastiness to yourself and don't tell any outsiders.
+*: 
+	Ah-phew, ah-phew...
+*: 
+	That son of mine is a worry and a half.
+*: 
+	It's going to be a long time before I see any grandchildren at this rate, that's for sure.
+*: 
+	Yum yum!
+*: 
+	I seem to be putting on a bit of weight just lately, but never mind that!
+*: 
+	Nothing makes people happier than
+	tucking into some tasty food, I say!
+*: 
+	Everything else is just by the by, in my opinion.
+*: 
+	I sense of late that the power of darkness is growing stronger.
+*: 
+	Somewhere in this world, the doors to the underworld, Nadiria...
+*: 
+	Those doors will be broken by Grandmaster Nimzo, or the legendary hero will pass through them to the other side.
+*: 
+	Then it will just be a race against time.
+*: 
+	Talkin' of legends, have you heard of the local brew, Zoomshine?
+*: 
+	Oh, right. You young travellers certainly know your stuff then, eh?
+*: 
+	It's been around for about a hundred years now. ⓗLife is but a drinkⓘ, that's what those who know about it say.
+*: 
+	It's such potent stuff that it even has the power to frighten monsters away!
+*: 
+	You can't buy it at the pub any more. It's pretty much impossible to get hold of nowadays.
+*: 
+	Yay! Yay!
+*: 
+	Shh! Just try to be patient.
+*: 
+	You mustn't cause a fuss in church, dear!
+*: 
+	Bang! Bang! That's the sound of a good piece of armour being made!
+*: 
+	You there! If you're after some fantastic
+	armour, come back to my shop at night
+	and check out my stock!
+Professor Toilen Trubble
+	(cough cough)
+	Hm? A visitor?
+Professor Toilen Trubble
+	Sorry, but I'm in rather a bad way. I won't be needing a research assistant any more.
+Professor Toilen Trubble
+	I wonder what became of that young lad who helped me revive the Zoom spell all those years ago.
+Professor Toilen Trubble
+	(cough cough)
+	Hm? Oh! It's you, %a000090!
+Professor Toilen Trubble
+	I knew you'd be back one day.
+	I've been waiting for you.
+Professor Toilen Trubble
+	(cough cough)
+	I've finally managed to revive another ancient spell.
+Professor Toilen Trubble
+	It's a bit of an awkward one, but I'm sure you'll be able to make it work.
+Professor Toilen Trubble
+	Aaah! Now then...
+Professor Toilen Trubble
+	Listen carefully. The spell is called...
+	Ho㈢cus ㈢Po㈢cus!
+Professor Toilen Trubble
+	If you use this spell during battle, something very interesting will happen.
+Professor Toilen Trubble
+	The thing is, I'm not sure what! So you'd better be a little bit careful about when you use it.
+Professor Toilen Trubble
+	I'm feeling a bit worn out now, I'm afraid.
+	Aaah...
+Professor Toilen Trubble
+	(cough cough)
+	I should know who you folk are.
+Professor Toilen Trubble
+	I didn't do all my research into ancient spells for nothing, you know.
+Professor Toilen Trubble
+	I just hope it will be of some use to you...
+Professor Toilen Trubble
+	(cough cough)
+	I should know who you folk are.
+Professor Toilen Trubble
+	I didn't do all my research into ancient spells for nothing, you know.
+Professor Toilen Trubble
+	I just hope it will be of some use to you...
+Professor Toilen Trubble
+	I almost forgot! I wanted to celebrate reviving that old spell with you.
+Professor Toilen Trubble
+	I've been saving it for you especially...
+Professor Toilen Trubble
+	Here it is! A bottle of the legendary Zoomshine.
+	Now you can find out for yourself if life really is but a drink!
+Professor Toilen Trubble
+	Hm? What is it? You look rather troubled.
+Professor Toilen Trubble
+	Oh! I see. You've been taken in by what the townspeople told you, have you? Ha ha ha!
+Professor Toilen Trubble
+	Zoomshine is a very precious local brew only to be found in Zoomingale. And it tastes just wonderful!
+Professor Toilen Trubble
+	But it takes a terribly long time to make it, and there's barely a drop of it around nowadays.
+Professor Toilen Trubble
+	If outsiders found out about it and demand spread, it would be chaos, you see.
+Professor Toilen Trubble
+	So that's why we all fib a little. We don't
+	mean anything bad by it. Here you are,
+	anyway. This one's yours!
+~ %0%a000120 receives some Zoomshine! ~
+~ %0%a000180 acquires some Zoomshine! ~
+*: 
+	Meow?
+*: 
+	I should feel like the cat that got the cream now that Professor Toilen Trubble's garden isn't smoky any more.
+*: 
+	But now I'm so purrturbed to see the old man in bed all the time that I just can't enjoy it.
+*: 
+	I feel better now I've got it off my whiskers and confided in you, though.
+*: 
+	Let me tell you something
+	purrtinent by way of thanks.
+*: 
+	All over the world, there are special regional items purrculiar to each location.
+*: 
+	If you travel around a lot, you should try
+	to collect them. Then you'll be like the cat
+	that got the cream!
+*: 
+	Meow...
+*: 
+	A warm and windy welcome to Zoomingale!
+*: 
+	As long as I'm with her, all of my worries are blown away in an instant.
+*: 
+	This must be love...
+*: 
+	Oh no! Not another dead end!
+*: 
+	No matter how many times I come to this town,
+	I just can't seem to find my way around.
+*: 
+	I just can't get used to this fancy pillow.
+	Give me my old hay bale any day of the week.
+*: 
+	Oo-ar-phew...
+*: 
+	Dear Goddess! How could you abandon us in this way? (sob)
+*: 
+	Another drink, please, miss!
+	Amen to that... Hic!
+*: 
+	I'm afraid the priest's a bit
+	worse for wear again tonight.
+*: 
+	I'm not too sure about that Order of Zugzwang.
+*: 
+	This is just a rumour, but...
+*: 
+	Well, I heard that lots of people were forced into slavery some years back to build that temple of theirs, the Crocodilopolis.
+*: 
+	Zzzz...
+*: 
+	According to ancient legend, there's a tower somewhere that leads right up into the heavens.
+*: 
+	There are some rather nasty rumours going around about the Order of Zugzwang.
+*: 
+	I've got a lot more faith in
+	the legendary hero, myself.
+*: 
+	Hey! Don't put me off my stride!
+*: 
+	I'm about to start my song.
+*: 
+	A one two...
+*: 
+	Oh! I just can't seem to get to sleep!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	ZZZZ! ARGH-PHEW!
+*: 
+	How's a woman supposed to get a decent night's sleep with that snoring going on!? I'm exhausted!
+*: 
+	Aaah! This is heaven!
+*: 
+	You can't beat a nice, cool drink just
+	after you get out of the bath.
+*: 
+	Everything else is just by the by, in my opinion.
+*: 
+	What? This is Zoomshine!?
+*: 
+	That's absurd! I wouldn't drink something that disgusting, surely...!? Ha ha ha!
+*: 
+	Wait a minute! Isn't that a bottle of Zoomshine you've got right there?
+*: 
+	So you know the truth, then.
+	Well, I didn't see that coming!
+*: 
+	Zzz... Zzz...
+*: 
+	Ah-phew...
+	No outsiders can know... Zzzz...
+*: 
+	After some weapons, are ya, mate? Then you'd better come back durin' the day.
+*: 
+	I just rent this place of a night, see.
+~ ⓗThis stone must not be moved!ⓘ ~
+~ An ominous odour of monsters begins to ~
+~ float through the air. ~
+~ The odour of monsters has disappeared! ~
+~ ⓗHe who seals away all monsters shall have bestowed upon him my glorious mantle.ⓘ ~
+~ The odour of monsters has disappeared! ~

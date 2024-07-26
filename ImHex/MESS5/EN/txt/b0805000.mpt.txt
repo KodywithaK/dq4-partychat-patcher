@@ -1,0 +1,110 @@
+~ %0%a000120 looks at the bookshelves. ~
+~ There's a book called ⓗThe Monster Book of Jokesⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ ⓗWhat do you call a warthog who's always out to get you? ~
+~ ㈡ ~
+~ ⓗA thwarthog!ⓘ ~
+~ Unfortunately, %a000090 can't read and doesn't get the joke. ~
+~ There's a book called ⓗFamily Recipesⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ It's full of notes on choosing ingredients, methods of seasoning and tips for achieving the best results. ~
+~ But %a000090 can't read any of them! ~
+~ %0%a000090 takes a book from the shelf. ~
+~ ⓗ......ch......ng...... Wi......?ⓘ ~
+~ Unfortunately, he can't read what it says. ~
+~ How exciting! There's a book all about Zenithia. ~
+~ ⓗHigh in the heavens, there existed a castle. But, alas, it fell to the ground when its orbs were plundered. ~
+~ ⓗWhen the orbs are returned to their rightful home, the castle will once again return to the skies.ⓘ ~
+~ There's a picture book called ⓗThe Four Great Furry Friendsⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ ⓗLet me introduce four great furry friends. There's clever Saber, kind Leo, sweet Mohicat and brave Purrcy. ~
+~ ⓗNone of them are the slightest bit alike. They're good at different things, and none of their favourite foods are the same. ~
+~ ⓗAnd yet, they're the very best of friends. They do argue from time to time, of course, but they always make up and play nicely together again. ~
+~ ⓗClever Saber, kind Leo, sweet Mohicat and brave Purrcy. You'll never find four friends so great...or so furry!ⓘ ~
+~ The story strikes something of a chord with %a000120. ~
+~ There's a book called ⓗA Collection of Love Poemsⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ There's an inscription inside the cover which reads: ~
+~ ⓗHow dooo I love zee? Let me count ze vays... ~
+~ For my dear Miss Count, viz love.ⓘ ~
+~ There's a book called ⓗA Collection of Love Poemsⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ But it's too difficult to read. ~
+~ %0%a000120 returns the book to the shelf. ~
+~ There's a book called ⓗThe Life of Humansⓘ. %0%a000120 takes it from the shelf and reads an excerpt. ~
+~ ⓗThe human is a creature that ages significantly faster than we faeriekind. ~
+~ ⓗIt's not unknown for humans to change so quickly that, even if two parties have met relatively recently, they do not recognise one another. ~
+~ ⓗThis is just one example of the hurried and busy lives humans lead, a world apart from our tranquil faerie ways.ⓘ ~
+~ %0%a000120 tries to read a book on the bookshelf, but it's full of long words, and impossible to understand. ~
+~ There's a book called ⓗFrom the Mouths of Treesⓘ. %0%a000120 takes it from the shelf and reads an excerpt. ~
+~ ⓗTrees are living beings. ~
+~ ⓗThey feel the breeze in their leaves, the ground with their roots, and they touch the sky with their uppermost branches. ~
+~ ⓗThey feel more strongly than any other beings when change takes place in the world. ~
+~ ⓗAnd it is they, with their mighty trunks, who tell the tales of all that has passed.ⓘ ~
+~ %0%a000120 tries to read a book on the bookshelf, but it's full of long words, and impossible to understand. ~
+~ There's a book entitled ⓗThe Maiden of Abovitall Towerⓘ. %0%a000120 takes it from the shelf and reads an excerpt. ~
+~ ⓗThere was once a girl who climbed a tower where the Goddess was said to live, because she wanted to find out if the Goddess really existed. ~
+~ ⓗThe Goddess put many obstacles in the young girl's path, but she courageously persevered until she reached the top of the tower. ~
+~ ⓗThere, legend has it that the Goddess rewarded her by bestowing on her a mysterious mirror with the power to reflect the truth.ⓘ ~
+~ It's the lighthouse keeper's diary. %0%a000120 takes it from the shelf and reads an excerpt. ~
+~ ⓗBlue skies and high seas again today. And there was yet another visitor come huntin' me out, thinkin' I was some kind of ogre or other. ~
+~ ⓗI just can't fathom it! I know I'm not the prettiest of folk, but even so... ~
+~ ⓗI keep lookin' in the mirror to see if I can find me an answer, but I'm still completely stumped.ⓘ ~
+~ There are lots of intellectual-looking books lined up. ~
+~ But, on closer inspection, they appear to be full of children's scribblings. ~
+~ There's a book of Zugzwang teachings entitled ⓗKing Korol's Catechismⓘ. %0%a000120 takes it from the shelf and reads an excerpt. ~
+~ ⓗFirst Commandment ~
+~ Those who disobey the doctrine of the Order will not be granted access to the White King's Paradise. ~
+~ ⓗSecond Commandment ~
+~ Those who have faith in King Korol will in turn have the love of the Goddess.ⓘ ~
+~ The rest of it seems to go on in much the same way. ~
+~ There's a book called ⓗAn Illustrated Guide to Medicinal Herbsⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ It's full of pictures and detailed descriptions of the different types of medicinal herbs and what they do. ~
+~ %0%a000120 takes a book from the shelf and has a closer look. ~
+~ Tucked in between the pages is a chimaera wing! ~
+~ %0%a000180 acquires the chimaera wing. ~
+~ There's a book called ⓗWholesome Matrimonyⓘ. %0%a000120 takes it from the shelf and reads an excerpt. ~
+~ ⓗLife is long and hard. If one is alone, it can be easy to fall into despair. This is why one really must wed! ~
+~ ⓗWith a companion at one's side throughout life, happiness is doubled and worries are halved! For a long and joyous life, marriage is the only answer.ⓘ ~
+~ ⓗHurrah for Herbsⓘ ~
+~ ⓗFun Gus's Guide to Edible Mushroomsⓘ ~
+~ ⓗNever Bore of Wild Boar Stew - 101 Recipesⓘ ~
+~ %0%a000120 suddenly feels rather hungry. ~
+~ The books are lined up neatly on the shelves, divided up by category. ~
+~ There's a book called ⓗSurviving in the Sandⓘ. %0%a000120 takes it from the shelf and reads an excerpt. ~
+~ ⓗThe heat in the desert can be so intense that it's not unknown for people to collapse. In extreme cases, this can even result in death. ~
+~ ⓗIt's imperative, therefore, that travellers are well-prepared and take plenty of water, sunhats and other necessary equipment.ⓘ ~
+~ There's a book called ⓗThe Monster Book of Jokesⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ ⓗWhat do you call a bludgerigar with a chip on his shoulder?  ~
+~ ㈡ ~
+~ ⓗA grudgerigar!ⓘ ~
+~ There's a book called ⓗAn Encyclopaedia of Eccentricsⓘ. It seems to be a sort of directory of all the strange folk in the world. ~
+~ ⓗOn an island in the south-east lives King Dominicus. A rather odd fellow, he gives away his treasures in exchange for mini medals, of all things. ~
+~ ⓗOn a tiny island in the north-east lives a man who had a dream. Alas, he died before fulfilling it, and now he seeks someone to finish the task.ⓘ ~
+~ There's a bookmark in a book called ⓗInn Decision - Your Guide to Choosing a Good Innⓘ. %0%a000120 opens it at the marked page. ~
+~ Top-Ranking Highland Inn: Battenberg ~
+~ ⓗThe highest inn in all the world. What a view! The homemade mountain dishes will also make your mouth water. ~
+~ ⓗThe bathing facilities here are fairly basic. ~
+~ Satisfaction Rating: ⒹⒹⒹⒹⒸ ~
+~ Ease of Access: ⒹⒸⒸⒸⒸⓘ ~
+~ There's a book called ⓗThe Rookie's Guide to Winning at Chessⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ It's full of detailed strategies that each span several pages. ~
+~ There's a book labelled ⓗGertie's Diaryⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ Written on the cover in huge letters is the warning, ~
+~ ⓗANYONE WHO READS MY DIARY WILL BE HUNG, DRAWN AND QUARTERED!ⓘ ~
+~ There's a book entitled ⓗThe Will of Our Leaderⓘ. ~
+~ %0%a000120 takes it from the shelf and has a closer look. ~
+~ ⓗOur great leader and monarch, wiser than wisdom itself, a deity born amongst lowly disciples... ~
+~ ⓗAlas, the Darkness did swallow him up before he could impart his many teachings to us. ~
+~ ⓗYet his will is everlasting. Even now, he waits, where no sun shall ever shine, for the Great One to arrive. The one true hero.ⓘ ~
+~ There's a rather dog-eared diary that looks to have been written by a Zenithian. %0%a000120 takes it from the shelf and has a closer look. ~
+~ ⓗTo have violated the sacred oath! To descend to the world below! Alack! Howsoever shalt the Zenith Dragon forgive...ⓘ ~
+~ The pages that follow are too worn to read. ~
+~ There's a book called ⓗHeavenly Starsⓘ. %0%a000120 takes it from the shelf and has a closer look. ~
+~ It's full of myths and legends all about the stars. ~
+~ It's an ancient collection of paintings. %0%a000120 takes it from the shelf and has a closer look. ~
+~ One of the paintings has the following note: ~
+~ ⓗSome pictures manage to portray the very soul of the person who painted them. I hope that this is one such picture.ⓘ ~
+~ There's something written on the back of a book in really terrible handwriting: ~
+~ ⓗGrarrrgh...Madalena! Come back to us soon, grarrrgh!ⓘ ~
+~ There's a book called ⓗMeditationsⓘ. ~
+~ ⓗNo being in this world may ever enjoy victory against such a formidable might as I possess. ~
+~ ⓗBut those who dare venture into my deep lair deserve a morsel of glory. ~
+~ ⓗThose who dare venture far to the north, to the poisonous swamp that lies south of Mt Zugzwang.ⓘ ~
+~ There don't seem to be any books of particular interest. ~
+~ Oops! This seems to be the back of the bookshelf! ~

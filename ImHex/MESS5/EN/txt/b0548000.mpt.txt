@@ -1,0 +1,67 @@
+%0%a001240
+	Look, Dad! It's a Treasures & Trapdoors board!
+%0%a001240
+	I love T 'n' T just as much as you do! Is that why you brought me here?
+%0%a001250
+	Have you got a T 'n' T ticket, Dad?
+	I'd love to have a go!
+%0%a001250
+	Of course! We've got a free pass so we can play as many times as we like! That's okay, right?
+%0%a001250
+	Hmm. This is a tricky one.
+	I wonder which way to move.
+Sancho
+	When I ees travelling weeth señor Pankraz, we find many boards of T 'n' T. But we never estop to play, you know.
+Sancho
+	I no put the espoon een. Ees good. Ees like the
+	fiesta. Sancho, he likes the fiesta almost as
+	much as the paella!
+Tuppence
+	This is a big T 'n' T board. Quite an achievement for whoever built it, I'd say.
+Tuppence
+	You must let me try, %a000090! I've got lucky fingers, you know. I'll win us something good, trust me!
+Bianca
+	I'm not really very good at T 'n' T. I never seem to roll a good throw.
+Bianca
+	It can't hurt to let our hair down every once in a while. We could have a game here before movin'
+	on, eh?
+Nera
+	I absolutely adore T 'n' T. It's so much fun
+	rolling the dice!
+Nera
+	It's a shame that only one of us can go up on
+	the board. It's so tense having to watch from
+	the sidelines!
+%0%a001240
+	You defeated a bad monster here once, didn't you, Dad? You're cool!
+%0%a001250
+	Has that skeleton been left here all on his own?
+	Poor thing!
+Sancho
+	You can walk all around thees board, sí?
+	Ees a good idea to esee what you must do
+	before you estart the game, no?
+%0%a001240
+	Wow! He made this place all on his own?
+%0%a001250
+	Wouldn't it have been easier to build some
+	stairs so he could get out, rather than
+	building a T 'n' T board?
+Sancho
+	Thees man, he make esometheeng from notheeng, eh?
+	Ees a good quality, thees.
+Tuppence
+	Some people would have probably just given up the ghost if they fell down a hole like that.
+Tuppence
+	We're lucky that it was someone like him instead. Now, let's have some fun!
+Bianca
+	He certainly rolls with the times, eh? Fancy buildin' a T 'n' T board just because he got stuck in a hole!
+Nera
+	It's understandable that he felt the need to do something to ease his boredom. I was so bored I could have cried during those years as a statue.
+Debora
+	I don't dislike T 'n' T, but I'm not very good at it.
+	If only beauty could influence the roll of a die!
+Debora
+	It's good to come up for air sometimes. Come and hang around with me here for a while if you want to take a break from the game.
+Debora
+	If he was going to build something, why didn't he build some stairs so he could get out? I don't see his logic at all!

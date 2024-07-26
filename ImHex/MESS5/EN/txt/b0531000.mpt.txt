@@ -1,0 +1,716 @@
+Bianca
+	We come here not long after we was married, eh, %a000090? You remember, right?
+Nera
+	I found the heat here almost intolerable before, but it's not too bad this time.
+Nera
+	My happiness at being with you all again is obviously taking my mind off it.
+%0%a001240
+	It's hard work walking on the sand.
+	My feet are killing me.
+%0%a001240
+	What's such a huge castle doing stuck out here in the middle of the desert? Do you know, Dad?
+%0%a001250
+	I'm worried I might shrivel up and die if I don't find some shade soon.
+%0%a001250
+	I'd be much happier if I could wait in the wagon.
+	Can I, Dad? Please!
+Sancho
+	You no theenk we eshould find esome eshade?
+	Your Uncle Sancho, he, he can no estand thees heat much longer.
+Sancho
+	I would die for esome cold water now.
+	I would dive eento the cold esea now.
+	I would definitely esay sí to the siesta now!
+Sancho
+	When I travel weeth señor Pankraz, he no breeng me to esuch a place like thees. Ees too much!
+Tuppence
+	It really is unbearably hot here. What I'd give to be standing in the snow on Mt Batten!
+Tuppence
+	Ouch! I have sand in my eyes!
+	I'm afraid we'll have to chat later.
+%0%a001240
+	I wonder where the water can be coming from,
+	all the way out here in the desert. It's a welcome sight, though.
+%0%a001250
+	I've read about oases, and that definitely looks like one. An oasis is an area of greenery in the middle of a desert, you see.
+%0%a001240
+	Aaah! What a relief to be out of the sun.
+%0%a001250
+	I wish we didn't have to go outside again.
+Tuppence
+	There's a fair amount of sand in here, isn't there?
+	I suppose it can't be helped in a place like this.
+%0%a001240
+	I was happy just like him when you came home
+	again, Dad.
+%0%a001250
+	You won't go missing again, will you, Dad?
+Sancho
+	Sí, sí. Ees the best when the whole family, they are together. Sí, sí...sí... (sob)
+Tuppence
+	A spa town? How nice. I should take my old mother to a spa one of these days.
+%0%a001240
+	Her youth's fading away... Does that make her about the same age as Sancho, then?
+Tuppence
+	If only I'd been able to meet that lovely lady before the years had taken their toll.
+Tuppence
+	It's always rather fascinating to meet a woman with a past.
+%0%a001250
+	I love seeing the colours of the sky change at sunset and sunrise. It's so pretty!
+%0%a001240
+	I managed to equip the Zenithian Sword, so does
+	that make me the hero? I'm a bit confused. I don't really get it.
+Bianca
+	Makes you wonder why people are sayin' that all of a sudden, eh? Rumours are funny old things.
+%0%a001250
+	That man had such a nice voice! Yours is nice too, Dad, but his is something really special.
+Tuppence
+	The time of the legendary hero may be upon us now, but I wonder if the time of Tuppence will ever come to pass.
+Tuppence
+	I mean, I am the chosen soldier accompanying the hero on his quest, after all. Surely that deserves some recognition.
+%0%a001240
+	So he'd forgotten his hat the last time you saw
+	him too? You'd think he'd know better after all
+	these years!
+Tuppence
+	There are some scatterbrained folk about, aren't there? I'm not at all...um...scatterbrained, of course.
+%0%a001250
+	I've seen pictures of desert roses in books before. They're really pretty.
+%0%a001240
+	Um... So does that mean Mum's a Zenithian?
+Bianca
+	I'm sure my mum and dad were just regular folk, though. Maybe the hero just comes out of nowhere.
+Nera
+	That means that one of my real parents must have had the blood of a Zenithian.
+Nera
+	Maybe that's why our family had the Zenithian Shield.
+Tuppence
+	So, if I marry that Zenithian woman in Gotha, maybe I'll become the father of the legendary hero!
+Tuppence
+	Hmph. No doubt my bloodline still wouldn't be good enough, though, even if my wife was a Zenithian.
+%0%a001240
+	Um, Dad... I don't smell, do I?
+%0%a001250
+	It's so nice and cool in here! Even the walls are cold to the touch.
+Tuppence
+	Cleohatra, Queen of the Desert...
+	I'll have to jot that down so I don't forget!
+%0%a001250
+	So women can rule over places too? It's probably quite hard work, though.
+Bianca
+	Well, that's a relief. We could do with a break from the heat, eh?
+%0%a001240
+	The legendary hero can't be born of the blood of a Zenithian alone. He needs the blood of another...
+%0%a001240
+	Hey! How did I know that!?
+%0%a001250
+	Ooh! This place is brilliant. Look at all the books!
+Sancho
+	Everyone ees talking about the legendary hero.
+	Ees a leettle estrange, thees place, eh?
+Tuppence
+	That sounds just like my situation! Maybe I'll settle somewhere and build my own kingdom too!
+%0%a001240
+	How long ago do you think she means? When you were a boy, Dad? Or ages and ages ago, when Sancho was?
+%0%a001250
+	I can't understand why he would've wanted to settle here, of all places. It's just so hot!
+%0%a001240
+	How come Queen Cleohatra can see into the future? She's a bit strange, isn't she?
+%0%a001250
+	It's just like Queen Cleohatra said. It's amazing how she knows these things.
+Tuppence
+	A truly beautiful woman needs to have a certain air of mystery to her.
+Tuppence
+	Queen Cleohatra has got that down to a T!
+%0%a001250
+	Did you marry Mum because she's pretty, Dad?
+%0%a001250
+	Hmm. I thought so.
+%0%a001250
+	You chose her because of her personality?
+	How romantic!
+Sancho
+	Anda! I no believe the esoldiers, they can practise een eso much heat like thees.
+	I esweat just to look at them!
+Sancho
+	Friend! Ees dangerous!
+	You no go eso close!
+Bianca
+	He's enthusiastic, I'll give him that. But fightin' against a mannequin en't goin' to be of any
+	use to him in a real battle.
+%0%a001250
+	That poor doll! It's taking such a beating, even though it hasn't done a thing to deserve it.
+Sancho
+	No! Hahh... Ees no fair!
+	I puff all the way up ⓚⓛ hahh ⓚⓛ thees estairs, but ees no the right way!
+Bianca
+	Oh yeah. It's bin a while since we was last here, so I'd forgotten that's her favourite haunt.
+%0%a001240
+	It's funny seeing a throne room all empty like this. Does the Queen never sit in here?
+Nera
+	That garden is really beautiful. I can understand why she'd want to spend all her time in it.
+Tuppence
+	They're rather delightful, these assistants to the Queen. Quite lovely, in fact!
+%0%a001250
+	Queen Cleohatra knows everything! If only I could see into the future too. Then I'd be of much more use to you.
+Sancho
+	Thees eshadow, you theenk ees the esame evil that ees behind the death of señor Pankraz?
+Sancho
+	Then we can no wait no more!
+	We must meet weeth thees queen, friend.
+	Now!
+Bianca
+	The smell of the grass and the water is so strong! This place is always really relaxin', eh?
+%0%a001240
+	Wow! Look at all the water and flowers! I never expected something like this inside a castle!
+%0%a001250
+	I can't believe they have so many lovely flowers inside the castle like this!
+Nera
+	What a yummy smell. It really is something special, finding a place like this in the middle of the desert.
+Tuppence
+	Goodness! It's like magic. Who would've thought such a beautiful garden could thrive like this in a desert?
+%0%a001240
+	Beetle's blood? I never knew that was precious.
+%0%a001240
+	I'd say this garden must be a million times more precious than that!
+Sancho
+	But eshe can no be eso beautiful like señora %a001230, eh, friend?
+Sancho
+	And I no believe any señora, eshe could ever be more beautiful than señora Mada.
+Tuppence
+	Ooh! Look at that bed over there. Perhaps it belongs to Queen Cleohatra...aaah.
+Bianca
+	It's pretty hard work keepin' plants goin' indoors like this, you know.
+Bianca
+	And yet they always seem to manage to have the place lookin' so nice.
+Nera
+	Oh no! We don't want to forget about our
+	monsters! You'd better not look at the
+	flowers too much, darling.
+%0%a001240
+	If they had their flower beds outside, they'd probably get destroyed by monsters. That
+	must be why they have them in here.
+Sancho
+	Sí. Ees a very well-kept garden. The flowers, they are eso beautiful. I, I...
+	No! I no gonna cry!
+%0%a001250
+	It's hard to imagine a time when the castle would've been surrounded by greenery instead of sand.
+Sancho
+	You theenk thees means that the places where ees green now, they can one day become like the desert?
+Bianca
+	It's amazin' how she knew about %a001240 even though he's not with us!
+%0%a001250
+	So she wants to meet %a001240? We should go and bring him to her, then.
+Tuppence
+	Such a beautiful woman, and yet she only has eyes for the boy. What a waste.
+Nera
+	We should go and fetch %a001240. The fact that he was able to equip the Zenithian Sword should speak volumes.
+Bianca
+	That helmet...
+Nera
+	That's the...
+%0%a001240
+	We've finally found it!
+	It's mine, isn't it, Dad?
+%0%a001250
+	Hahh, hahh... Sorry, I'm a bit tired.
+	You all walk so fast.
+Tuppence
+	If only Her Majesty and I could have some moments here alone...
+Tuppence
+	I wouldn't mind trying it on myself before %a001240 has a go, but I suppose that wouldn't be the done thing.
+%0%a001240
+	Yay! It's exactly my size!
+Nera
+	Well! Goodness! I don't know what to say. Does this mean %a001240's the one? That I gave birth to the legendary hero?
+Bianca
+	I still had my doubts even though he managed to equip the Zenithian Sword, but now it looks like %a001240 really is the hero.
+%0%a001250
+	%0%a001240's still just %a001240 to me. Just because he's the hero, that doesn't mean he's not my brother any more.
+Sancho
+	I... I, I no know what to esay!
+	When I theenk back now, there were many esigns, but, but...ees a miracle!
+%0%a001240
+	Brrr! It's c-c-cold in the desert of a night, isn't it?
+%0%a001250
+	It's so dark and quiet in the desert at night.
+	Far too eerie for my liking.
+Sancho
+	Ees dangerous to estay outside een the desert eso late een the night.
+Sancho
+	We go to the inn and espend the night there, okay?
+Tuppence
+	Ouch! I have sand in my eyes!
+	I'm afraid we'll have to chat later.
+Bianca
+	It feels like a dream, bein' able to visit places like this with you again.
+Nera
+	Suffering this cold is nothing compared to the agony I was in during all those years I was away from you and the children.
+%0%a001240
+	Looks like we can't do anything of a night.
+	I'm pretty tired now, anyhow.
+%0%a001250
+	(yawn) I'm fine. I'm not...sleepy...at all yet. 
+Sancho
+	You no remember what your Uncle Sancho always tell you, friend? You always visit people een the daylight hours.
+Bianca
+	It's not just cold, it's blimmin' freezin'! We should rest for the night before we freeze our whatsits off.
+Nera
+	Dear me. I hope that nun's feeling alright.
+%0%a001240
+	She's right! Look, Dad! The moon's reflected in the water. It looks amazing.
+%0%a001250
+	It's a welcome sight during the day, but I bet the water in there is as cold as ice at night.
+Tuppence
+	What a pity I didn't have the opportunity to meet her during her dancing days.
+Nera
+	I remember him... But he was only a young boy the last time we saw him. It just goes to show how time's moved on.
+Bianca
+	He was just a lad the last time we was here! It's funny to think how time only stood still for you and me durin' them years we spent as statues.
+Nera
+	He may sound angry, but I'm sure it's all just talk. It's good that they're on the road to making up.
+Sancho
+	Sí, sí. Ees the best when the whole family, they are together. Sí, sí...sí... (sob)
+%0%a001240
+	Yeah, the desert's a pretty tough place, but I like it. It's a bit different to everywhere else.
+%0%a001250
+	Each to their own, I s'pose. They must like the place, otherwise they wouldn't stay.
+Tuppence
+	I must admit that I'm not overly partial to the desert myself. Naturally, though, I'd venture anywhere you wished me to, Your Majesty.
+Sancho
+	No, friend. Ees no good to wake up people when they are esleeping. The esleep, ees very important, you know.
+%0%a001240
+	That man's funny! He says funny things in his sleep.
+%0%a001240
+	So he was like that the last time you met him?
+	Sounds like he's been in a tizz for quite a few
+	years now, then.
+%0%a001250
+	I've seen pictures of desert roses in books before. They're really pretty.
+Bianca
+	Well, we've got the Zenithian Helm now.
+	It's time we moved on.
+Nera
+	I found the heat here almost intolerable before,
+	but it's not too bad this time.
+Nera
+	My happiness at being with you all again is obviously taking my mind off it.
+%0%a001240
+	So the people of Helmunaptra have all been waiting for me to turn up? I feel all embarrassed now!
+%0%a001240
+	It's strange, but I felt a sort of connection with the Zenithian Helm when I saw it.
+%0%a001240
+	It was like I'd seen it somewhere before, and yet I knew it was only the first time.
+%0%a001250
+	Everyone here goes on about %a001240 all the time. I'm starting to find it a bit boring.
+%0%a001250
+	It's just so hot here!
+	It's starting to make me feel dizzy.
+Sancho
+	Now we can be esure thees esword that señor Pankraz, he found, ees the real theeng, sí? The Zenithian Sword.
+Sancho
+	Sí, sí. Ees good to know.
+Sancho
+	Just estanding up een thees place, ees enough to make room for mucha paella!
+Tuppence
+	It really is unbearably hot here. What I'd give to be standing in the snow on Mt Batten!
+Tuppence
+	So %a001240 really is the one. Which makes me the companion of the legendary hero!
+%0%a001240
+	I wonder where the water can be coming from,
+	all the way out here in the desert. It's a welcome sight, though.
+%0%a001250
+	I've read about oases, and that definitely looks like one. An oasis is an area of greenery in the middle of a desert, you see.
+%0%a001240
+	Aaah! What a relief to be out of the sun.
+%0%a001250
+	I wish we didn't have to go outside again.
+Tuppence
+	There's a fair amount of sand in here, isn't there?
+	I suppose it can't be helped in a place like this.
+%0%a001240
+	I was happy just like him when you came home
+	again, Dad.
+%0%a001250
+	You won't go missing again, will you, Dad?
+Sancho
+	Sí, sí. Ees the best when the whole family, they are together. Sí, sí...sí... (sob)
+Tuppence
+	A spa town? How nice. I should take my old mother to a spa one of these days.
+%0%a001240
+	Her youth's fading away... Does that make her about the same age as Sancho, then?
+Tuppence
+	If only I'd been able to meet that lovely lady before the years had taken their toll.
+Tuppence
+	It's always rather fascinating to meet a woman with a past.
+%0%a001250
+	I love seeing the colours of the sky change at sunset and sunrise. It's so pretty!
+%0%a001250
+	%0%a001240's really popular around here, isn't he? It doesn't seem fair in a way. I mean, we're twins, so what makes him so much better than me?
+Tuppence
+	I do hope I become a man of legend one of
+	these days.
+%0%a001240
+	Ⓠ My mighty hero! Ⓡ Le-gend-a-ry hero! Ⓠ
+	Ⓠ You know... Um...
+%0%a001240
+	I can't remember the rest of the words.
+%0%a001250
+	Hmph. It's all about %a001240.
+	I want my own song too!
+Sancho
+	No. I esorry, friend, but I can no understand
+	your tastes.
+Bianca
+	Oh! Did you not think that was any good, %a000090?
+%0%a001240
+	I think it's a good song. Didn't you like it, Dad?
+	How funny!
+Tuppence
+	Maybe there's something wrong with my ears.
+	It didn't sound like much of a song to me.
+Nera
+	Ⓠ My mighty hero! Ⓡ Le-gend-a-ry hero! Ⓠ
+	Ⓠ You know no fear...that much is clear. Ⓡ
+	Ⓠ My mighty hero...we hold you dear! Ⓡ Ⓡ
+Nera
+	Ha ha! Looks like I've gone and learnt the words without even trying!
+%0%a001240
+	Ⓠ My mighty hero! Ⓡ Le-gend-a-ry hero! Ⓠ
+	Ⓠ Oust our foe... Um...
+%0%a001240
+	I can't remember the rest of the words.
+%0%a001250
+	%0%a001240's so lucky. I wish someone would write a song about me.
+Sancho
+	No. I esorry, friend, but I can no understand
+	your tastes.
+Bianca
+	Oh! Did you not think that was any good, %a000090?
+%0%a001240
+	I think it's a good song. Didn't you like it, Dad?
+	How funny!
+Tuppence
+	Maybe there's something wrong with my ears.
+	It didn't sound like much of a song to me.
+Nera
+	Ⓠ My mighty hero! Ⓡ Le-gend-a-ry hero! Ⓠ
+	Ⓠ Oust our foe...go on, have a go. Ⓡ
+	Ⓠ My mighty hero...you'll steal the show! Ⓡ Ⓡ
+Nera
+	Ha ha! Looks like I've gone and learnt the words without even trying!
+%0%a001240
+	So he'd forgotten his hat the last time you saw
+	him too? You'd think he'd know better after all
+	these years!
+Tuppence
+	There are some scatterbrained folk about, aren't there? I'm not at all...um...scatterbrained, of course.
+%0%a001250
+	I've seen pictures of desert roses in books before. They're really pretty.
+Bianca
+	Hmm. I en't too sure about that.
+Bianca
+	Mum and Dad certainly didn't act like they had any Zenithian blood in 'em.
+%0%a001240
+	My Mum's really special! And I'm sure you probably are too, Dad.
+Nera
+	That means that one of my real parents must have had the blood of a Zenithian.
+Nera
+	Maybe that's why our family had the Zenithian Shield.
+Tuppence
+	So, if I marry that Zenithian woman in Gotha, maybe I'll become the father of the legendary hero!
+Tuppence
+	Hmph. No doubt my blood isn't good enough, though, even if it was mixed with some so worthy.
+%0%a001240
+	I feel like everyone's watching me. I don't know where to look!
+Sancho
+	Everyone een the castle, they look eso happy, no? You theenk ees because of %a001240?
+%0%a001240
+	I wonder what all this talk of the hero is about.
+	How come everyone's been waiting for me?
+%0%a001240
+	Dad... Being the hero doesn't change anything,
+	does it? I'm still your son, right?
+%0%a001250
+	It's a bit sad, really. I feel like there's a sort of distance between us and %a001240 now.
+Tuppence
+	Queen Cleohatra...
+	What a beautiful name!
+%0%a001250
+	What do you suppose you have to do to
+	become queen? Do you think you just have
+	to study really hard?
+%0%a001240
+	The world is saved? Yes, well, I'll do my best. You're going to come with me and help out, right, Dad?
+Bianca
+	Yep. We'd better give it our all, eh, %a000090? It'll be nice to put smiles back on folks' faces.
+Nera
+	The world isn't saved automatically just because the hero exists. It's going to take a lot of effort.
+Nera
+	We'll have to do our very best to support %a001240 so that he can manage to fulfil his destiny.
+Sancho
+	Señor Pankraz...you, friend...and %a001240...
+Sancho
+	Sí. The fate, ees no gonna be like normal for %a001240. Your Uncle Sancho, he ees very worried, you know.
+%0%a001240
+	I'm not all that young! I get up in the night to go to
+	the bathroom all by myself! And I always eat up all my dinner!
+%0%a001250
+	She's right. %0%a001240 is still pretty small.
+	He's no taller than me, even.
+Sancho
+	Sí, thees ees right. %0%a001240, he ees the legendary hero, but he ees just a leettle boy.
+Sancho
+	You must protect heem well, friend.
+%0%a001250
+	Yeah, he even still wets the bed sometimes!
+	...Er, but don't tell him I told you that.
+Bianca
+	So they've still bin snatchin' young kids durin' that time we was statues? Of all the evil things!
+Nera
+	Children are being kidnapped? That's just terrible! We must hurry up and put a stop to all this evil.
+%0%a001250
+	%0%a001240's handsome!? Hah! People often say I look sweet, but I've never heard anyone say he looks handsome before!
+Sancho
+	Sí. He ees handsome. And kind, and wise,
+	and macho!
+Sancho
+	And %a001250, eshe ees the esame.
+	Ees true, no, friend?
+Tuppence
+	I'm afraid it doesn't look like anyone here is going to have eyes for me now.
+%0%a001250
+	Girls like that are so silly. Why would she swoon over someone like %a001240?
+%0%a001240
+	She's got quite a voice on her! My ears are ringing from all that squealing she just did.
+Bianca
+	Ha ha ha! Looks like %a001240 has himself a few fans around here, eh?
+Nera
+	It feels rather odd seeing someone behave like that around my little boy.
+Tuppence
+	If only I could have that kind of effect on a girl!
+	I wouldn't mind a bit of squealing in my direction
+	for once.
+%0%a001250
+	Did you marry Mum because she's pretty, Dad?
+%0%a001250
+	Hmm. I thought so.
+%0%a001250
+	You chose her because of her personality?
+	How romantic!
+%0%a001250
+	Huh! Why would %a001240 want to marry her? He'll always have me around, so he doesn't need anyone else.
+Bianca
+	The folk of Helmunaptra all seem so patriotic.
+	I reckon they'd pull through anythin'.
+Bianca
+	And it's all because Queen Cleohatra has
+	such a good way with 'em. There's a lesson
+	to be learnt there.
+%0%a001240
+	That's like saying the people of Helmunaptra are less important than the helmet. That's weird!
+%0%a001240
+	I mean, I know the Zenithian Helm is precious and all that, but it doesn't mean as much to me as %a001250 and Sancho and everyone.
+Sancho
+	Friend! Ees dangerous!
+	You no go eso close!
+Bianca
+	He's enthusiastic, I'll give him that. But fightin' against a mannequin en't goin' to be of any
+	use to him in a real battle.
+%0%a001250
+	That poor doll! It's taking such a beating, even though it hasn't done a thing to deserve it.
+%0%a001240
+	Maybe I'd better start putting in some practice too. It's a big responsibility being the legendary hero.
+Tuppence
+	Her Majesty's assistants are certainly something special, aren't they, %a000090?
+%0%a001240
+	It's a bit embarrassing being called a hero all the time.
+Tuppence
+	Her Majesty's assistants are certainly something special, aren't they, %a000090?
+%0%a001250
+	People are expecting an awful lot of %a001240. I hope it won't be too much of a trial for him.
+Sancho
+	Ees eso hard work for thees one young boy to esave the whole world.
+Tuppence
+	She's another fine specimen, I must say.
+Bianca
+	It's reassurin' to know that she had that sort of premonition, eh?
+Nera
+	We can't let such a big responsibility fall to %a001240 alone. We'll all have to pull together as a family if the world's to be saved.
+%0%a001240
+	Written in the stars? She must have good eyesight!
+%0%a001240
+	Oh, I get it. She means it's a sort of destiny. Well, I'll do my best. You'll help out, right, Dad?
+%0%a001250
+	When Queen Cleohatra prayed for us just then,
+	I got a really warm feeling inside.
+Sancho
+	Eef the world, ees no eso loco like thees, poor %a001240, he could leeve like the normal boy.
+Tuppence
+	What a travesty! Her Majesty seems to just look right through me.
+Bianca
+	That's odd. I suddenly feel a lot stronger since the Queen said that little prayer for us.
+Nera
+	It's such a terrible burden for %a001240.
+	He's still so young.
+Sancho
+	Señor Pankraz, now he ees een the esky weeth the Goddess. They are looking down on you and praying for your esafety and happiness, friend.
+Tuppence
+	What a travesty! Her Majesty seems to just look right through me.
+Bianca
+	That's odd. I suddenly feel a lot stronger since the Queen said that little prayer for us.
+Nera
+	It's such a terrible burden for %a001240.
+	He's still so young.
+Bianca
+	The smell of the grass and the water is so strong! This place is always really relaxin', eh?
+%0%a001240
+	It's just like a normal garden, apart from the fact that it's inside. It's so lovely and cool!
+%0%a001250
+	It's like a dream seeing so many lovely flowers inside a castle like this!
+Nera
+	What a yummy smell. It really is something special, finding a place like this in the middle of the desert.
+Sancho
+	You know, being een the desert, eet makes you eso happy there are the green plants and water een the world, eh?
+Tuppence
+	People say that you can tell a lot about someone from how their house looks. I don't think that's ever been more true than here.
+%0%a001240
+	Beetle's blood? I never knew that was precious.
+%0%a001240
+	I'd say this garden must be a million times more precious than that!
+Sancho
+	But eshe can no be eso beautiful like señora %a001230, eh, friend?
+Sancho
+	And I no believe any señora, eshe could ever be more beautiful than señora Mada.
+Tuppence
+	Ooh! Look at that bed over there. Perhaps it belongs to Queen Cleohatra...aaah.
+Bianca
+	It's pretty hard work keepin' plants goin' indoors like this, you know.
+Bianca
+	And yet they always seem to manage to have the place lookin' so nice.
+Nera
+	Oh no! We don't want to forget about our
+	monsters! You'd better not look at the
+	flowers too much, darling.
+%0%a001240
+	If it came to it, I'd still rather she spent her time making us some tasty dinner rather than looking after the plants!
+Sancho
+	Sí. Ees a very well-kept garden. The flowers, they are eso beautiful. I, I...
+	No! I no gonna cry!
+%0%a001250
+	It's hard to imagine a time when the castle would've been surrounded by greenery instead of sand.
+Sancho
+	You theenk thees means that the places where ees green now, they can one day become like the desert?
+Sancho
+	For eso long, your father, he esearched for the
+	legendary hero. And now we find out ees
+	hees own grandson!
+Sancho
+	I am esure señor Pankraz, he ees very surprised, even though he ees up een heaven.
+%0%a001240
+	I've been feeling like something's calling out to
+	me ever since we arrived here. Looks like it was
+	the Zenithian Helm.
+%0%a001250
+	I'm not the legendary hero or anything, but you do still love me, right, Dad?
+Tuppence
+	Um... Are we going up or down?
+Tuppence
+	All these stairs have gone and got me quite confused!
+Tuppence
+	If I'd been born as your son...
+	Does that mean I would've been...? Ha ha!
+Debora
+	Hmph. There's sand all over the place and all over me. I want a bath.
+Debora
+	We should go indoors as soon as we can. It's not good to be out in strong sunshine for too long.
+Debora
+	If I'm a descendant of the legendary hero, that means I must have some Zenithian blood in me.
+Debora
+	Perhaps that explains my other-worldly beauty.
+Debora
+	I've had just about enough of the heat here.
+	It's high time we went somewhere cooler.
+Debora
+	%0%a000090, when this is all over, we'll make a garden in our castle to rival this one. Got it?
+Debora
+	Oh, it's going to be wonderful! We'll make the loveliest garden ever and then dedicate it to me!
+Debora
+	I'll be able to spend time there catching up on lost time with my people. Ah, I'm such an excellent queen!
+Debora
+	Never mind. Your opinion doesn't count for anything. If I've decided on a garden, I'm having a garden.
+Debora
+	What a lovely smell! I suppose it's all the more welcome because we've been traipsing about in
+	a sandstorm. 
+Debora
+	Go and get %a001240, %a000090.
+	Go on! Hurry!
+Debora
+	That helmet...
+Debora
+	It stands to reason that he's special ⓚⓛ he's my son ⓚⓛ but even I didn't expect him to be the legendary hero!
+Debora
+	The desert gets very cold at night. It'd be stupid of us if we ended up catching a chill, so we'd better hurry up and find a place to stay.
+Debora
+	Surely this can't be the little boy we met the last time we were here? So much time has passed!
+Debora
+	Stubborn old man! Poor Cleo sounds like she's had quite a time of it with him. I know the feeling.
+Debora
+	If it wasn't for the sandstorms and the sun being unbearably strong, this wouldn't be such a bad place to live.
+Debora
+	I didn't know you had an ear for music, %a000090. Marriage is full of surprises, isn't it?
+Debora
+	You didn't really like that song, did you?
+	It was rubbish! And as for the lyrics...!
+Debora
+	If I'm a descendant of the legendary hero, that means I must have some Zenithian blood in me.
+Debora
+	Perhaps that explains my other-worldly beauty.
+	I'm sure %a001250's going to be lovely too.
+Debora
+	I never imagined we'd turn out to be the heroes of a faerie tale.
+Debora
+	It's a bit of a chore, but I can't stand it when people do a half-baked job of things, so we'd better give it all we've got.
+Debora
+	How ironic that their kidnapping children because they were afraid they'd turn out to be the legendary hero actually led to the hero being born.
+Debora
+	I know I'll have to get used to my son being idolised, but it'd be nice if the girls could hold off on that awful screeching.
+Debora
+	Save the world, she says! As if it's as easy as clicking your fingers! Do these people have no idea what we're up against?
+Debora
+	It's okay, %a001240. %0%a000090, %a001250 and I will all be here to help you. That's what families are for.
+Debora
+	We're all going to help %a001240, %a000090.
+	That goes without saying.
+Debora
+	%0%a000090, when this is all over, we'll make a garden in our castle to rival this one. Got it?
+Debora
+	Oh, it's going to be wonderful! We'll make the loveliest garden ever and then dedicate it to me!
+Debora
+	I'll be able to spend time there catching up on lost time with my people. Ah, I'm such an excellent queen!
+Debora
+	Never mind. Your opinion doesn't count for anything. If I've decided on a garden, I'm having a garden.
+Debora
+	What a lovely smell! I suppose it's all the more welcome because we've been traipsing about in
+	a sandstorm. 
+Debora
+	%0%a000090, when this is all over, we'll make a garden in our castle to rival this one. Got it?
+Debora
+	Oh, it's going to be wonderful! We'll make the loveliest garden ever and then dedicate it to me!
+Debora
+	Never mind. Your opinion doesn't count for anything. If I've decided on a garden, I'm having a garden.
+%0%a001250
+	I don't understand. We both have the same parents, so why am I not some sort of legendary heroine?
+	Oh! I wish I could save the world!
+Debora
+	You're a lot like your father, %a001250. I mean, you can empathise with monsters for one thing, right?
+Debora
+	So you're not the legendary hero. It doesn't matter. The powers you have are still remarkable, and they can help many people.
+%0%a001250
+	Thanks, Mum. I'll try my best. There are lots of people I want to help.
+Debora
+	%0%a000090, when this is all over, we'll make a garden in our castle to rival this one. Got it?
+Debora
+	Oh, it's going to be wonderful! We'll make the loveliest garden ever and then laze about in it all day long!
+Debora
+	Never mind. Your opinion doesn't count for anything. If I've decided on a garden, I'm having a garden.

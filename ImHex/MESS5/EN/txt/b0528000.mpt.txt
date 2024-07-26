@@ -1,0 +1,289 @@
+Bianca
+	Here again, eh? I wonder how many mini medals we've got now.
+Bianca
+	It's always so hot here. I bet it's impossible tryin' to sleep of a night.
+Nera
+	This tiny castle tucked away on its own island in the south is like a little world all of its own.
+Nera
+	Mini medals are so pretty and sweet. I can understand why people start collecting them.
+%0%a001240
+	I know, Dad! Why don't we have a race and see who can run around the castle the fastest?
+%0%a001240
+	A tiny little castle on a tiny little island.
+	It looks just like a toy!
+%0%a001250
+	Every single thing here seems to glisten and shine.
+	My eyes are starting to get worn out!
+%0%a001250
+	Huh. It's a bit hot here, isn't it?
+Sancho
+	Thees castle, ees esmall, but ees made well, si?
+	Eef esomething ees made well, ees okay to be esmall.
+	But n-no the paella. The paella, eet m-must be beeg!
+Sancho
+	Thees place, ees een the m-m-middle of the sea. Every day they g-gonna have the fr-fresh fish, no? Si, ees p-perfect for the paella.
+Tuppence
+	It's rather on the small side for a castle. I think I'll be setting my sights somewhat higher when I build mine.
+Tuppence
+	I'm rather impressed at how anyone could manage to survive out here on this island, aren't you?
+Bianca
+	You can't knock him for bein' ambitious, but can slimes even make themselves bigger through trainin'?
+Nera
+	How funny to see a slime in training! But if it wants to be like the one on the roof, I'd say eating a lot would be the answer.
+%0%a001240
+	That was training? It looked more like bouncing about to me.
+%0%a001250
+	What a clever little slime! Maybe I'll start training so I can be big and strong, too!
+Sancho
+	I n-never imagine I would m-meet a slime weeth dreams! Ees amazing!
+Tuppence
+	Maybe I should put in a bit of training. It wouldn't do to be bested by a measly little slime.
+Bianca
+	He's right there. Them chocolate medalliyums
+	are delicious.
+Bianca
+	Er... Sorry, %a000090. Truth is, I used my own savings to buy some, and I ended up wolfin' down the lot!
+Nera
+	I think you'd need to be quite brave to wander about in your pyjamas all the time.
+%0%a001240
+	I love chocolate medalliyums! But Sancho said we can only eat a maximum of two at a time.
+%0%a001250
+	I like eating chocolate, but Sancho's always such a nag afterwards trying to get me to clean my teeth.
+%0%a001250
+	I don't think I'll bother having any today.
+Sancho
+	Djou collect these m-mini medals too, si, chico?
+Sancho
+	I n-no believe another señor, he ees collecting thees estupid bric-a-brac. The whole world, ees l-loco!
+Tuppence
+	Powjamas? They sound like just the kind of nightwear for a strapping young warrior like me!
+Bianca
+	Um, d'you reckon the bank here's above board, %a000090? It smells a bit fishy to me.
+Nera
+	He seems like a trustworthy fellow. It's nice to know he takes such good care of his customers' money.
+%0%a001240
+	There was something a bit too jolly about him.
+	I'm not sure if I trust him or not.
+%0%a001250
+	I feel all nervous now. It's like we're being put to the test to see if we trust in people.
+Sancho
+	Ees a j-joke? Or thees señor, he ees eserious?
+Sancho
+	Eef we ask heem to p-put a galleon of garbanzos een hees pocket, ees n-no gonna go, eh?
+Tuppence
+	There's plenty of space in my pocket if you
+	need more!
+Tuppence
+	...Oh. No one's listening, as usual.
+Bianca
+	Blimey! What a delicious-smellin' chocolate! That smell alone is enough to send you wobbly!
+Nera
+	Seeing this  chocolate medalliyum reminds me of Papa.
+Nera
+	He used to be really skinny when he was younger, apparently. But then he developed a taste for these and there was no looking back.
+%0%a001240
+	Yay! Chocolate! Is it okay if we eat it later, Dad?
+%0%a001250
+	If you eat too much chocolate, you get fat.
+	That's what Gertie told me, anyway.
+Sancho
+	No, no. N-No chocolate for djour Uncle Sancho.
+	No, no, no. I must l-l-lose esome weight.
+	To m-make espace for the paella.
+Tuppence
+	Looks rather tasty, I must say. Perhaps I should buy one to take home to Mother.
+Bianca
+	I could eat these chocolate medalliyums until the cows come home, but I suppose we shouldn't be too frivolous, eh?
+Nera
+	We mustn't overindulge in these 
+	chocolate medalliyums, otherwise
+	we'll get fat. Let's not buy too many.
+%0%a001240
+	Oh! Aren't you getting any?
+Bianca
+	Uh-oh. Looks like we en't bin managin' our finances all that well if we can't even afford to buy chocolate.
+Nera
+	We can buy some chocolate the next time we're here.
+%0%a001250
+	Couldn't we afford it? Well, I don't mind having a small dinner today if that helps.
+Tuppence
+	Don't worry, %a000090. I won't tell anyone you didn't even have enough money to buy some chocolate!
+Bianca
+	The lanterns look so pretty, dun't you think?
+	All elegant, like.
+Nera
+	Those lanterns were probably made to commemorate departed slimes, don't you think?
+%0%a001240
+	The castle looks even prettier of a night. Maybe it's the slime lanterns that do it.
+%0%a001250
+	Ooh! Look at all the slime lanterns floating by.
+	They look so pretty!
+Sancho
+	Si. The floating lanterns, they are eso b-beautiful.
+Tuppence
+	I say! Surely it's not the done thing to throw rubbish in the river like that!? ...Or am I missing something?
+Bianca
+	It dun't look like hard work to me.
+Nera
+	That poor old man, having to come out
+	at this time of night to do that.
+%0%a001240
+	So he's the one who sets the lanterns afloat.
+%0%a001250
+	I'd like to try setting a lantern afloat one day.
+Tuppence
+	I'm rather worried that old man might put a foot wrong and end up being carried away himself.
+	It's rather stressful for me, you know.
+Bianca
+	D'you reckon there really is some
+	great treasure hidden here?
+Bianca
+	We could try askin' around and
+	seein' if we get any clues.
+Nera
+	I don't imagine we'll be able to acquire this
+	ⓗgreat treasureⓘ all that easily.
+Nera
+	It would be a lovely thing to add to the museum's collection. Let's see if we can find it.
+%0%a001240
+	So there's some kind of rare treasure hidden here? Then I'm going to find it!
+%0%a001250
+	I wonder what the rare treasure could be.
+	How exciting!
+Sancho
+	Qué? A r-rare treasure?
+	Thees castle, ees esmall.
+	Ees gonna be a c-cinch to f-find eet.
+Tuppence
+	I suppose the best way to start is by talking to lots of people and seeing if we can find any clues.
+Bianca
+	It's almost like that bloke's not from round here.
+	I s'pose it's fair enough that he dun't know, though.
+Nera
+	It looks like this treasure we're looking for isn't something that everyone knows about.
+%0%a001240
+	I wonder what that man's doing here.
+	Do you think he just spends all his days
+	eating chocolate medalliyums?
+%0%a001250
+	If he's never heard of it, maybe that means it's really old.
+Tuppence
+	Looks like we won't be getting any more information out of him. Let's try someone else.
+Bianca
+	Puzzling little thing? I wonder what it is!
+Nera
+	He gave it to the woman at the inn? It can't be that great a treasure if he just gave it away!
+%0%a001240
+	He gave it away just like that!?
+	If only he'd given it to us!
+%0%a001250
+	I wonder what it is exactly...
+Sancho
+	Where ees thees rear dominium?
+	But eef he has a p-pain there, thees treasure, eet must be esomething h-hard, no?
+Tuppence
+	I thought we had no chance of getting hold of it, what with it supposedly being so rare, but now I'm full of hope!
+Bianca
+	She must be talkin' about the treasure we heard about, eh, %a000090?
+Bianca
+	We should try and find the thing now we've trailed after it this far!
+Nera
+	It sounds like this treasure is really doing the rounds. I'm so curious about what it is!
+%0%a001240
+	So she didn't want it either? This thing is starting to sound more useless by the minute!
+%0%a001250
+	It sounds like they're all just passing it on because no one can find a use for it.
+Sancho
+	I j-just ask one time, okay? Thees ⓗspecial thingⓘ,
+	ees the esame as the r-rare treasure, si?
+Tuppence
+	I'm afraid the value of this supposed rare treasure is starting to go down rather in my estimation.
+Bianca
+	He dumped it!? D'you think it's really that worthless?
+Nera
+	Hm. I'm not sure about going after something that's been thrown out, but I suppose we should go and find it after all this.
+%0%a001240
+	He threw it out!? But there's an old man out there who really wants it!
+%0%a001250
+	Shall we go and have a look outside and see if we can find it, Dad?
+Sancho
+	Ah-ha! Now we f-find out esomething important about thees thing, si? Ees esome kind of eshield!
+	Qué? Ees n-no thees that ees important?
+Tuppence
+	A rare treasure is one that remains out of reach... I'm starting to see the point to that proverb now.
+Bianca
+	Crikey! Is it me or is that medal talkin'!?
+Nera
+	It sounds like someone's squashed underneath.
+	We must help them!
+%0%a001240
+	Wow! It's a maxi medal! Hey! Do you think it could be the rare treasure?
+%0%a001250
+	Dad! He says he's being squelched!
+	We have to help him. Hurry!
+Sancho
+	Chico! I know djou are l-looking at the medal,
+	b-but djou must help thees slime now!
+Tuppence
+	What an enormous medal! It would be impossible to get out from under it without any help.
+Bianca
+	Fancy that poor slime bein' squashed like that!
+Bianca
+	This must be this so-called ⓗgreat treasureⓘ we've bin hearin' so much about.
+Bianca
+	I've gotta say, it's a bit of a let-down.
+Nera
+	Well. I, er, suppose we've found the
+	ⓗgreat treasureⓘ then.
+Nera
+	Old Man Nick Knack will be thrilled with this. We must take it to him at once.
+%0%a001240
+	Er... So, I suppose we should be pleased, right?
+	Yay...!
+%0%a001250
+	Phew! Thank the Goddess that poor little slime didn't get totally squashed.
+Sancho
+	Anda! Now even the slimes, they are t-telling us what to do!
+Tuppence
+	I suppose that means the museum is ours! We should hurry on over and claim our prize.
+Bianca
+	It is pretty solid, I suppose. Maybe it could be used as a shield, after all! I wonder...!
+Nera
+	I think maxi medals are quite pretty, too, personally. Papa would love to see it.
+%0%a001240
+	Yeah, I'd say mini medals are lots prettier.
+	And they're nowhere near as heavy either!
+Sancho
+	No. I n-no agree. Thees maxi medal, ees muchos functional. Ees esomething I can equip myself weeth, djou see?
+Bianca
+	So it was in the fountain. No wonder
+	Old Man Nick Knack couldn't find it.
+Nera
+	Ah, that must be why it has that funny smell to it, because of being in the water all that time.
+%0%a001240
+	So the King didn't take very good care of it.
+	That's a shame.
+%0%a001250
+	Urgh! This maxi medal's got a bit of a nasty smell to it.
+Sancho
+	The cleaning, ees v-very important!
+	B-But maybe thees time, we n-no need to worry, eh?
+	Ees okay like thees.
+Tuppence
+	She found it in the fountain? Sounds like they didn't even notice it fall, then.
+Bianca
+	Blimey! I hope no one was too badly hurt. So much for treasure bein' good!
+Nera
+	Goodness! What a huge-scale treasure hunt that would have been. Papa would've loved it.
+%0%a001240
+	So lots of these maxi medals were sent flying around the world?
+%0%a001240
+	Was the game that you were supposed to dodge them when they landed or something? Oh no, it was a treasure hunt, right?
+%0%a001250
+	Do you think the person who started all that thought it would be fun? It sounds pretty scary to me.
+Sancho
+	Si. A l-long, long time ago, Gotha C-Castle, eet was d-damaged by esomething.
+Sancho
+	I remember esome people, they were t-talking about treasure. Maybe eet was one of the m-maxi medals!
+Tuppence
+	How terrifying! If one of these hit you on the head, it'd be goodnight nurse, and that's for sure!

@@ -1,0 +1,85 @@
+%0%a001240
+	What do you suppose this place is, Dad?
+%0%a001250
+	I don't like this place. It's scary.
+Sancho
+	Hmmm... I no esure, but... You theenk maybe ees estopping esometheeng from coming out?
+Nera
+	So you're curious too? I've been wondering about that jar for a while now myself.
+%0%a001240
+	This must be the place Mr Briscoletti was
+	talking about.
+%0%a001250
+	The air here's really heavy.
+	It's almost painful to walk in it.
+Nera
+	We must hurry, darling.
+Bianca
+	We'd better hurry, %a000090.
+%0%a001240
+	Um, Dad... Did you hear a voice then?
+	Or did I just imagine it?
+%0%a001250
+	Be careful, Dad!
+Tuppence
+	What do you suppose the meaning of that strange jar is?
+Nera
+	The jar doesn't seem to have changed colour, but I can't help feeling uneasy. We should go and see Papa.
+%0%a001240
+	I feel all nervous for some reason.
+%0%a001250
+	We should hurry, Dad.
+%0%a001240
+	Yikes! Did you hear that voice!? We should get back to Mr Briscoletti's place fast, Dad!
+%0%a001250
+	Waah! Dad! It looks like something's trying to get out!
+Sancho
+	Galleons of garbanzos! The jar ees red.
+	Ees very, very red. Red like the cape of the matador!
+	We must hurry now!
+Tuppence
+	It's rather a sweet little jar.
+	Much smaller than I was expecting.
+%0%a001240
+	It looks like it's still sealed up nicely. That's a relief.
+%0%a001250
+	We put things right this time, but do you think people will be in danger again in another hundred and fifty years' time?
+Tuppence
+	Ha ha ha! I don't imagine he'll be setting foot in the outside world again after the trouncing we gave him!
+Bianca
+	Ha ha! What a funny little monster! We couldn't very well take him along if he's tryin' to recover his old self, though.
+%0%a001240
+	Is that really Bjørn, that huge monster we fought!? But he's become so tiny!
+%0%a001250
+	Isn't Mr Briscoletti clever!? He must've been worried someone would just open the jar out of curiosity.
+Nera
+	We needn't worry. I'm sure the seal Papa put in place is a strong one.
+Nera
+	It's a shame for Bjørn, or Rebjørn as he calls himself now, but he's definitely not going to be
+	able to return to his original size.
+Sancho
+	I no believe we make like amigos weeth a monster that ees eso monstrous like thees one.
+	You are a very remarkable man, friend.
+%0%a001240
+	It's weird that he was just standing there in front of the jar all that time. Maybe he's not bad any more.
+%0%a001250
+	I'm not scared of monsters. Not if they're nice
+	and small.
+Bianca
+	We can hardly take on every waif and stray we come across, can we? We've got our hands full enough as it is.
+Nera
+	It doesn't look like he's capable of doing any harm any more. I think we're safe to just leave him be.
+Debora
+	This is the place we came to check on that strange jar, isn't it?
+Debora
+	I have a nasty feeling about this. Hurry up and see what's going on, %a000090.
+Debora
+	The jar's still blue.
+Debora
+	It's been ten years now, though. We should go and report back to Papa.
+Debora
+	So the seal Papa put in place reduced him to that? Ha ha!
+Debora
+	I must admit, Papa is a lot sharper than he looks.
+Debora
+	The cheeky little thing! I've a good mind to force him back inside that jar.

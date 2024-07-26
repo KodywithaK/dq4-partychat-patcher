@@ -1,0 +1,100 @@
+*: 
+	All living creatures are children of the Goddess. What brings you to our church, child?
+*: 
+	What brings you to our church in the dead of night, child?
+*: 
+	Confess all that you have done before the almighty Goddess, child. 
+*: 
+	And would you permit me to record your works in an adventure log?
+*: 
+	Into which adventure log do you wish me to record this?
+*: 
+	In that case, I must overwrite
+	ⓗ%a000660: %0%a000090 %a000240ⓘ.
+	Do you wish me to proceed, my child?
+~ Saving adventure log. ~
+~ Do not turn the power OFF ~
+~ or remove the DS Game Card! ~
+*: 
+	By the Goddess, whatever could have happened? It appears that my attempt to record the adventure log has failed!
+*: 
+	I have successfully recorded your adventure log. Do you intend to continue on your adventure at this point, my child?
+*: 
+	You would prefer not to record your adventure? Well, that is your decision.
+*: 
+	Do you intend to continue on your adventure at this point, my child?
+*: 
+	By the Goddess! You intend to rest from your adventures without recording what you have done in an adventure log?
+*: 
+	You would have to restart your adventure from the time of your last confession. Are you sure this is what you want?
+*: 
+	O great and compassionate Goddess, please grant this child a peaceful respite!
+~                   Bless you, my child. ~
+~              Please turn the power OFF. ~
+*: 
+	The great and benevolent Goddess offers
+	her wisdom...
+*: 
+	Faithful servant, %a000060!
+	You appear to be strong enough as you are!
+*: 
+	%0%a000060, my child!
+	You require %a000080 experience point%H0080%X%Ys%Z to reach the next level.
+*: 
+	Whom do you wish brought back to the world of the living?
+*: 
+	Surely you jest?
+	%0%a000180 looks very much alive to me!
+*: 
+	In order to carry out this task, I shall require a small contribution of %a000650 gold coins. Will you oblige, my child?
+*: 
+	O great and benevolent Goddess!
+*: 
+	I beseech you to breathe life once more into your faithful servant, %a000180!
+~ %0%a000180 is resurrected! ~
+*: 
+	Whom shall I treat for poison?
+*: 
+	Why, there doesn't seem to be a trace of poison in %a000180's system!
+*: 
+	In order to carry out this task, I shall require a small contribution of %a000640 gold coins. Will you oblige, my child?
+*: 
+	O great and benevolent Goddess!
+	Please rid your faithful servant %a000180 of this unholy poison!
+*: 
+	From whom do you wish to lift a curse?
+*: 
+	Pardon me, but %a000180 does not seem to be cursed, child.
+*: 
+	Ah, it seems that the problem lies not with %a000180, but with %M0070%Xthose equipped items%Ythat equipped item%Z.
+*: 
+	I trust you will be able to remove the %M0070%Xcursed items%Ycursed item%Z without my assistance, child.
+*: 
+	In order to carry out this task, I shall require a small contribution of %a000400 gold coins. Will you oblige, my child?
+*: 
+	O great and benevolent Goddess, lend us your almighty power! Lift the infernal curse afflicting %a000180!
+*: 
+	Donations to the church are an expression of gratitude to the great and benevolent Goddess!
+	㈡
+	*: But one must not request from people something that is beyond their means. Forgive me.
+*: 
+	It seems that you cannot afford to make this humble donation.
+*: 
+	Indeed?
+	Very well. The choice is yours.
+	May the Goddess smile upon thee.
+*: 
+	Is there any other way we can be of assistance?
+*: 
+	Great Goddess, may you watch over and protect this poor child!
+~ The adventure log could not be ~
+~ accessed. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ The adventure log could not be ~
+~ saved. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+*: 
+	Welcome back, %a000120!
+	I trust you had a peaceful respite?
+*: 
+	Great Goddess, may you watch over and protect this poor child! Amen!

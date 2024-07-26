@@ -1,0 +1,104 @@
+Debora
+	I'd never be able to sleep in a place like this.
+	You probably knew that already, though.
+Debora
+	Argh! That noise really gets on my nerves.
+	We're leaving, %a000090. Now!
+Debora
+	Prince Harry is a good friend of my servant's. Ha! It's nice to have something to gloat over like that.
+Debora
+	I always drink plenty of water after I've had a bath. They say it's good for keeping you
+	looking beautiful.
+Debora
+	He really wants to keep that drink a secret, doesn't he? You'd think he'd have honed his lying technique a bit more, though.
+Debora
+	This is where the Circle of Fire was hidden, isn't it? It's a pretty apt location for it, given its name.
+Debora
+	It's so hot in here! I suppose that's to be expected of a volcano.
+Debora
+	I'll have to get out of here soon. It's good to sweat a little to clean out your pores, but there are limits.
+Debora
+	Who'd have thought there'd be a cave like this hidden behind the waterfall? And...I suppose it's quite pretty as caves go.
+Debora
+	This is where the Circle of Water was, isn't it?
+	It's quite a pretty place, but it's a bit on the chilly side. Maybe because of the water.
+Debora
+	Will you come here a minute, %a000090?
+Debora
+	Ah, much better! Now I'm not cold at all.
+	It can't hurt to share a bit of body heat for a while...
+Debora
+	Surely you're not shy!?
+	Never mind. I'll go to you.
+Debora
+	Well? Much warmer, don't you think?
+	It can't hurt to share a bit of body heat for a while...
+Debora
+	So they reckon the only one who can open these doors is a maiden with the blessing of the Goddess?
+Debora
+	That means you must've found yourself a maiden if you've been in there before. You'll have to tell me about that one day.
+Debora
+	This is a mysterious place. Nera would be thrilled to see something like this. Me? I'm not that bothered.
+Debora
+	I wonder why you can't pass through at night.
+	Do you think the place on the other side is too dangerous or something?
+Debora
+	I think I've heard about this place. About there being a castle somewhere in the world that's almost falling to pieces. I wonder if it's here.
+Debora
+	A castle with no people in it feels really strange.
+	I don't mean I'm scared or anything.
+Debora
+	Urgh! It's so dusty in here. There's a bit of a chill in the air too, unless I'm imagining it.
+Debora
+	So you came here when you were little?
+Debora
+	Ha ha! You came ⓗghost bustingⓘ?
+	Very funny!
+Debora
+	You must've been either brave or stupid, coming to explore such a creepy castle. Especially at night!
+Debora
+	What? There used to be coffins where those beds are? And skeletons...?
+Debora
+	Hah! If you think talk like that's going to scare me, %a000090, you've got another thing coming.
+Debora
+	I didn't see a thing.
+	Not a thing, I tell you!
+Debora
+	Ah, love across boundaries...
+	Just like us. The servant and his boss.
+	We seem to be doing okay, though.
+Debora
+	The only thing left when you die is your grave. They can only enjoy their lives together if they're alive.
+Debora
+	That Bianca was buried alive here!?
+Debora
+	For goodness' sake, %a000090! If you carry on with silly stories like that, I'll bury YOU alive!
+Debora
+	Um, %a000090...If I happen to...you know...before you...um... Never mind!
+Debora
+	I can't seem to focus on that man very well.
+	I must be tired.
+Debora
+	%0%a000090, I do hope you've dragged me out to the middle of nowhere for a good reason.
+Debora
+	I suppose all they see is that %a001210 destroyed their crops, so it stands to reason that they're scared to see us with him.
+Debora
+	How dare he! I have plenty of money of my own, thank you very much. I don't need to sink to those levels for their grubby small change!
+Debora
+	You take care of this, okay?
+Debora
+	I don't want their stupid money! And they don't have to tell me to leave. I'll do it gladly! Come on, %a000090. I've had enough!
+Debora
+	That's weird. Why doesn't it want to attack me?
+	Am I not alluring enough?
+Debora
+	Wait! Why's it so transfixed on you?
+	It's usually me who stops people in their tracks!
+Debora
+	What? You know this beast from when you were small? I hope you're not trying to make a fool of me.
+Debora
+	I like this place. I'd like to climb up to the highest point and look down on all the people.
+Bianca
+	This is where that mate of yours lives, en't it? Harry, I mean.
+Bianca
+	But now we've found the Circle of Water, we'd best hurry up an' get it to Nera.

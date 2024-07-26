@@ -1,0 +1,21 @@
+*: 
+	Welcome to the poker table!
+	Care to try your luck at a hand or two?
+*: 
+	Maybe some other time.
+~ It looks like you don't have any casino tokens. Come back again when you've bought some! ~
+~ How much do you want to put down? ~
+~ You can bet up to ten tokens. ~
+~ Decide which cards you want to hang on to, and then select ⓗDealⓘ. ~
+~ %0%a001320! What a hand! ~
+~ You win %a000720 casino token%H0720%X%Ys%Z. ~
+~ You can play Double or Nothing to try and increase that to %a000690! Are you ready for round number %a000460 of Double or Nothing? ~
+~ Try to guess if the next card will be higher or lower. If it's the same, another one will be drawn. ~
+~ That's a Double or Nothing win! ~
+~ You gain %a000720 casino token%H0720%X%Ys%Z. ~
+~ You already have the maximum number of tokens, and you can't carry any more. Play anyway? ~
+~ Congratulations! You won %a000720 token%H0720%X%Ys%Z! ~
+~ It's the same. ~
+~ Congratulations! You won %a000720 token%H0720%X%Ys%Z! ~
+~ Bad luck! ~
+~ Do you want to try another hand of poker? ~

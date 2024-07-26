@@ -1,0 +1,148 @@
+*: 
+	I'm Monty, the famous monster monitor.
+Monty
+	I take care of folks' monsters for them.
+	What can I do for you today?
+Monty
+	Sorry, %A0110%Xmister%Z%B0110%Xlady%Z, but the monstergarten is full to bursting at the moment.
+Monty
+	I'm afraid you'll have to part ways with someone to free up some space if you want to give me any new little ones to look after.
+Monty
+	Come on now, %A0110%Xmister%Z%B0110%Xlady%Z! I hardly think you need me to look after you.
+Monty
+	Which monster would you like me to look after?
+Monty
+	Come on now, %A0110%Xmister%Z%B0110%Xlady%Z! I hardly think you need me to look after you.
+Monty
+	I don't know how happy %a000180 would be about that.
+Monty
+	Besides, I only take care of monsters here.
+Monty
+	But if I took you in, who would that leave to look after the wagon?
+Monty
+	You're not planning on giving me someone in a coffin to look after, surely!? That seems a bit rough.
+Monty
+	I suppose you're going to tell me you can't afford to pay for a resurrection at the moment, right?
+Monty
+	Well, then I suppose there's nothing for it.
+	Consider %a000180's coffin duly in my care.
+Monty
+	In that case, I suggest you bring %a000180 back to life first. It's only polite, after all.
+Monty
+	You'd like me to look after %a000180?
+	Very well.
+Monty
+	I'll put any items that aren't equipped into your bag there for you, okay?
+Monty
+	Some folk have a tendency to forget who has what otherwise, you see.
+Monty
+	Would you like me to take care of anyone else for you today?
+Monty
+	I don't think it'd be very clever to make your party any bigger than it already is.
+Monty
+	Why don't you check someone else in here with me first?
+Monty
+	There must be some sort of misunderstanding. I don't have any of your monsters in the monstergarten at the moment.
+Monty
+	Who've you come to collect?
+Monty
+	Hey, %a000180! It's home time!
+~ %0%a000180 joins the party. ~
+~ %0%a000180 gets into the wagon. ~
+Monty
+	Will you be taking anyone else with you today?
+Monty
+	There must be some sort of misunderstanding. I don't have any of your monsters in the monstergarten at the moment.
+Monty
+	Who would you like to check up on first?
+Monty
+	Do you want to check up on anyone else?
+Monty
+	There must be some sort of misunderstanding. I don't have any of your monsters in the monstergarten at the moment.
+Monty
+	If there's a monster you'd like to part ways with, you need to check them in with me first.
+Monty
+	So you've decided it's time to permanently part ways with one of your monsters?
+Monty
+	It's sad, that's for sure, but I can't go on looking after these little guys forever.
+Monty
+	Time to wipe away the tears and decide who it's to be. Who would you like to say goodbye to?
+Monty
+	I do hope you're joking!
+	%0%a001210 would be devastated!
+Monty
+	I'm sure %a000180 will go back to live happily in the wild.
+Monty
+	I see. Then it falls to me to give %a000180 a respectful burial.
+Monty
+	You know this means you'll never see %a000180 again, don't you? Are you sure you're okay with that?
+Monty
+	Very well. Then we'll set %a000180 free.
+~ %0%a000180 returns happily to the wild. ~
+Monty
+	Much-loved %a000180, may the Goddess grant you eternal peace.
+~ %0%a000180's spirit rises up into the heavens. ~
+Monty
+	Ah, you'd like to change someone's name, would you? Who's it to be?
+Monty
+	Oh dear! It seems that %a000180 has incurred the wrath of the naming god. There'll be no name-changing going on here!
+Monty
+	Unless you want to pay 5000 gold coins to appease the almighty one, of course...
+Monty
+	What do you say?
+Monty
+	Ah, it looks like that's a bit beyond your means. You'll just have to put up with the name as it is for now, I'm afraid.
+~ %0%a000090 pays 5000 gold coins. ~
+Monty
+	Okay, now you can tell me what you'd like to change %a000180's name to.
+Monty
+	No problem, then. We'll leave it as it is.
+Monty
+	%0%a000180? Okay.
+	What name do you have in mind?
+Monty
+	You want to give your bag a name?
+	You're sharp, aren't you? I can tell that.
+Monty
+	Hah hah. Yes, the bag is practically a living, breathing member of the party, after all. It's a nice idea to give it a name.
+Monty
+	So, what are you going to call it then?
+Monty
+	Changed your mind, have you?
+	Fair enough. It's your decision!
+Monty
+	Hmm... I don't think that's really going to work. It might be better to think up something else.
+Monty
+	Okay, %a001270 it is... Wait a minute! There's already someone in your party with the exact same name.
+~ %0%a001270!? Don't you think that might be a little bit tricky to pronounce? ~
+Monty
+	%0%a001270!? Are you trying to make fun of the whole naming business, %A0110%Xmister%Z%B0110%Xlady%Z?
+Monty
+	You're not making fun, and that's the name you genuinely want to use?
+Monty
+	Then let's try to come up with something else. What's %a000180's new name to be?
+Monty
+	So you want to change %a000180's name to %a001270? Are you sure about that?
+Monty
+	Then so be it! Henceforth, may %a000180 be known as %a001270!
+Monty
+	Well, don't come crying to me if you incur the wrath of the naming god! Are you sure you want to risk it?
+Monty
+	Then so be it! Henceforth, may %a000180 be known as %a001270! ...Yikes!
+Monty
+	Look! I warned you this might happen! You've only gone and angered the naming god!
+Monty
+	Now %a000180 will be stuck with the name %a001270 for evermore!
+Monty
+	Why don't you try a different name?
+Monty
+	Do you want to do any more renaming today?
+Monty
+	Changed your mind, have you? Okay!
+Monty
+	Can I do anything else for you today?
+Monty
+	Remember, I'm here to help whenever you need me. You take care out there, won't you?
+Monty
+	Ah, you want to see how your monsters are getting on, do you?
+~ %0%a000180's coffin is carried off and loaded into the wagon. ~

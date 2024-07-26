@@ -1,0 +1,802 @@
+Bianca
+	This is another big old tower, eh? What's the plan, anyway? I'm not sure that climbin' it is the best idea at the moment.
+Nera
+	What are we doing here? Oh! So this is where
+	the Zenith Dragon's powers were supposedly
+	sealed away?
+%0%a001240
+	I knew about this island existing before, but I had no idea there was this tower here.
+%0%a001250
+	Oh! I hate heights!
+Sancho
+	J-Just l-l-looking at all those estairs...
+	I no feel so good.
+Tuppence
+	Who'd have thought there'd be a tower hidden among all these big mountains? Seems a bit odd to me.
+%0%a001240
+	What a cool tower, having the entrance at the top!
+%0%a001240
+	Shame we have to go all the way down to the bottom to get out.
+%0%a001250
+	Um, are we still high up?
+	Or is it safe to open my eyes now?
+Sancho
+	Thees p-p-place, ees estrange... Djou c-can
+	f-f-feel the evil h-here as esoon as djou enter. 
+Sancho
+	My M-M-Majesty. We must br-brace ourselves
+	f-for trouble.
+Tuppence
+	I s-say, %a000090! The monsters in this tower are rather f-formidable!
+%0%a001240
+	Did... Did that woman back there just die?
+%0%a001240
+	Wow... If only we'd got here a bit sooner.
+%0%a001250
+	What did she mean about the dragon's eyes? Why would anyone care so much about that?
+%0%a001250
+	Dad... Will you hold my hand?
+Sancho
+	No! The monsters, they cannot
+	g-g-g-get away with this!
+Sancho
+	I n-never have the honour of kn-knowing djour name, señorita. But I pr-promise djou, we, we gⓚgonna avenge djour death!
+Tuppence
+	We can't run away just because she told us to.
+Tuppence
+	Goddess rest her soul, though, the poor woman.
+%0%a001240
+	Hey! What's that? Let's go and have a
+	closer look, Dad.
+Sancho
+	Careful. Esomething just moved.
+%0%a001240
+	So we're at the bottom level. It's just how it looks from outside; bigger than all the other floors.
+%0%a001250
+	Is that...a dragon's neck? Is there more of it
+	further down?
+%0%a001240
+	What's wrong, Dad? You look like
+	you've seen a ghost.
+%0%a001240
+	Did you know that monster guy back there
+	or something?
+%0%a001250
+	Um, Dad. That monster then...
+%0%a001250
+	Um... Never mind.
+Sancho
+	Come, we must carry on. We estill have many things to do here een this tower.
+Tuppence
+	That was a shock. That monster certainly put up quite a fight.
+%0%a001240
+	Turned Pankraz to ashes? So he's the one who killed grandpa? I'll never forgive him!
+%0%a001250
+	This is the first time I've ever felt pure hatred for a monster. I'll fight with all my might next time.
+Sancho
+	E-Eet was h-heem? He k-k-killed señor Pankraz?
+	No! Th-The pain in my heart, ees t-t-too m-much!
+Tuppence
+	I thought we were for it more times than I can
+	count. That was one battle that was a little too
+	close for comfort.
+%0%a001240
+	It looks fairly straightforward from the outside, but this tower is as complicated as you like.
+%0%a001240
+	I don't think I've ever seen so many stairs!
+	It's okay, though. I can handle it.
+%0%a001240
+	This must be the tower we heard about in Zenithia. The tower where the Zenith Dragon's powers were sealed away.
+%0%a001250
+	I don't like anywhere that I can
+	see a long way down.
+%0%a001250
+	I know I have to just put up with situations like this if we're going to find Mum.
+Sancho
+	Ees my duty to protect djou weeth my life,
+	My Majesty.
+Sancho
+	B-B-But this place, ees so d-dark. There ees n-no even one w-w-w-window.
+Tuppence
+	The monsters here are a bit too strong for my liking. Are you doing alright, %a000090?
+Tuppence
+	I'll watch your back, don't you worry.
+	You just keep pushing on ahead!
+%0%a001240
+	It's a bit weird that it has a basement even though it's a tower.
+%0%a001250
+	It's dark, isn't it? ...I'm not scared, though.
+	I've got my eyes closed, you see.
+Sancho
+	Esuddenly, the air, eet has changed. Ees n-no like before. We do not know what ees coming.
+	We must b-be careful.
+Tuppence
+	Yikes! It's a poisonous swamp!
+	Mind how you go, %a000090!
+%0%a001240
+	Brrr... Is it me, or is it getting colder in here?
+%0%a001240
+	This is quite big for an underground chamber.
+	I wonder which way we need to go.
+%0%a001250
+	Um, don't go running off anywhere fast, will you? I've got my eyes closed, you see.
+%0%a001250
+	Brrr... I don't like the feel of this place.
+Sancho
+	These things, they are esent to try us by the Goddess. We must take care, and move eslowly.
+Sancho
+	Esince just now, I have the estrangest feeling.
+Sancho
+	As eef ees d-d-destiny that I have c-come here this day.
+Tuppence
+	It seems that the monsters are getting stronger the further down we go. Or is it just my imagination?
+Tuppence
+	I'll watch your back, don't you worry.
+	You just keep pushing on ahead!
+%0%a001240
+	Why do you suppose those monsters were so interested in the dragon's eyes?
+%0%a001240
+	There seem to be a lot of mysteries about this tower.
+%0%a001240
+	Do you think we're getting any closer to finding Mum with all this travelling we're doing, Dad?
+%0%a001240
+	I wonder how the Zenith Dragon's powers were sealed away? Do you know, Dad?
+%0%a001250
+	Bad monsters are bad through and through, right? They never just turn good and start behaving themselves?
+%0%a001250
+	There's something bothering me about that dragon statue. There seemed to be something missing around its face.
+Sancho
+	I, I did not expect this... I n-never imagined I would f-find señor Pankraz's k-k-k-keeller here. I, I am overcome by my f-f-f-feelings...
+Sancho
+	But now h-he has escaped, we must f-finish what we came here to do.
+Tuppence
+	Erm, so what do we do now again?
+%0%a001240
+	I didn't expect the dragon's face to have a device like that hidden in it!
+%0%a001240
+	Whoever came up with the idea of going along on its tongue must have been an eccentric one. Just like Dr. Agon, in fact!
+%0%a001250
+	It's fun walking along a dragon's tongue. And it's not even scary, even if it is high up.
+Sancho
+	This contraption, it ees loco, no!?
+Sancho
+	I have forgotten the estress of the battle we just fought already.
+Tuppence
+	What do you suppose is waiting for us in
+	here? There seem to be ferocious monsters
+	all over the place.
+%0%a001240
+	Looking through that hole is really scary! I bet %a001250 would cry if she had a look!
+%0%a001250
+	Aren't we done here yet? Ohhh!
+Sancho
+	The l-ladders and the ropes, they are dangerous, amigo. If djour mind wanders and djou are thinking about paella, djou will fall!
+%0%a001240
+	So this is a dragon orb.
+%0%a001240
+	I bet the monsters we saw before would love to get their claws on it.
+%0%a001240
+	I wonder if the powers of the Zenith Dragon really are inside this orb. It's all a bit weird, really.
+%0%a001250
+	What a pretty orb. It's glowing even more brightly than the gold orb.
+Sancho
+	At last, we have completed this task.
+	It was no cinch, no?
+Tuppence
+	Um, don't have me carry anything too important,
+	will you? I'd never forgive myself if I dropped it and it broke!
+%0%a001240
+	I would never have believed there was such a big room inside a statue like this!
+%0%a001250
+	This dragon is so big and majestic.
+%0%a001240
+	Wow! What an amazing-looking staff!
+Sancho
+	This staff, ees p-p-perfect for djou, My Majesty. It esuits djou so well.
+%0%a001240
+	Look how high up the ceiling is! We did well climbing all the way down here!
+%0%a001250
+	This tower is just full of stairs and ladders and ropes. It's totally exhausting!
+Sancho
+	I, I cannot estop th-th-thinking about the monster...
+	Its face ees g-gonna h-haunt me forever.
+Tuppence
+	Brrr... Here's hoping we won't be running into any more monsters that strong.
+Bianca
+	Okay, I get it. You all explored this place. Very nice. Now can we move on?
+Nera
+	We don't have much time. Maybe you could show me around this place when everything's calmed down and got back to normal?
+%0%a001240
+	We don't need to do anything here any more, right, Dad? Let's go!
+%0%a001250
+	I've had enough, Dad. When we've finished what we're doing, I want to go straight home. I'm not very good with towers.
+Sancho
+	We have no more to do een this tower.
+	We must move on.
+%0%a001240
+	I wonder what we're supposed to do with this orb. We've brought it here to Zenithia, but now what?
+%0%a001250
+	It's a relief to have made it here to Zenithia.
+Sancho
+	Djou no w-wonder where ees señor Agon?
+%0%a001240
+	It's a bit nerve-racking moving the castle about
+	the place. We'd never be able to afford to pay
+	for any damage.
+%0%a001250
+	I can't help feeling a bit bad about landing the castle on the ground. I mean, Zenithia's supposed to float up above the clouds, after all.
+%0%a001240
+	This is from the Yggdrasil tree?
+	A tiny little sapling like this?
+%0%a001250
+	It's so tiny and delicate!
+	Can I give it some water, Dad?
+%0%a001250
+	This tiny sapling's done so well in all that water.
+	It's a determined little thing.
+Sancho
+	They esay djou can br-bring esomeone who has passed away b-b-back from the dead weeth the leaf of Yggdrasil.
+Sancho
+	But thees ees j-just a sapling. Eet n-no has esuch estrong power djet, I believe.
+Tuppence
+	If we can keep this sapling going, we'll have all the Yggdrasil leaves we could possibly need! Now we can fight to the death without having to worry!
+%0%a001240
+	ⓗThe darkness spreadethⓘ... I think that means
+	we'd better hurry, Dad.
+%0%a001250
+	That poor sapling, confined to such a tiny pot!
+%0%a001250
+	Once we've defeated Nimzo, we'll have to make
+	sure it's moved to a nice big place with lots and
+	lots of sunshine!
+Sancho
+	Si, ees j-just the esapling, but ees fr-fr-from the Great W-World Tree. Eef djou n-no look after eet well, the Goddess, she gonna m-make djou pay!
+%0%a001240
+	A present? We're not supposed to take presents from strangers. But I suppose it's okay if you're here, Dad.
+%0%a001240
+	I didn't know there were faeries here, too. Do you think Zenithians and faeries are all good friends?
+%0%a001250
+	Is that grass Yggdrasil? Ooh...
+Sancho
+	Uf! The dew of Yggdrasil, ees a v-very
+	v-v-valuable thing.
+%0%a001240
+	That's not fair! Why can we only have one lot at
+	a time? It'd be much better if we could takes loads of it!
+%0%a001250
+	We'll have to make sure we use the bit of Yggdrasil dew we have carefully then, Dad.
+Sancho
+	Si. Ees true. Eef djou h-have too much of esomething like thees, djou f-forget the true v-value of life.
+Tuppence
+	You'd think she could just slip us a few extra lots out of goodwill, wouldn't you? We are fighting for world peace, after all.
+%0%a001240
+	We would never have made it inside the tower without that grappling hook.
+%0%a001240
+	It's a good job we found that in his cupboard, rather than just a load of old man's pants!
+%0%a001250
+	I wonder why the old man had that grappling hook in the first place.
+%0%a001250
+	You don't think he used to be a burglar, do you?
+%0%a001240
+	Centuries? Wow! I didn't realise this place
+	was so old.
+%0%a001250
+	Have you ever met the Zenith Dragon, Dad?
+	I've only ever seen pictures of him in books.
+Sancho
+	Then we m-must find thees Zenith Dragon, si?
+Tuppence
+	Are humans really all that noble? I'd say gods have the edge there, myself.
+%0%a001240
+	Zenithia is certainly a fairly tricky place to find your way around!
+%0%a001240
+	Can the castle still only fly low to the ground?
+	I want to see it float right up to the heavens!
+%0%a001250
+	It looks like things have dried out nicely. The castle has a much happier feel to it now.
+%0%a001250
+	Zenithia used to be much, much higher all those
+	years ago, didn't it? We're lucky we didn't have to climb so high.
+Sancho
+	Eso, thees ees h-how the eenside of Zenithia looks?
+	Ees v-very interesting, no? Eef we h-had more time, I l-like to look around...
+Tuppence
+	I'll be able to hold my head up high when we get back to Gotha, so I will! There's not many folk who can say they've been to Zenithia.
+%0%a001240
+	What a long ladder!
+	And it's really dark, too...
+%0%a001250
+	I'm okay. As long as I don't look down, I'm okay.
+%0%a001240
+	That all  sounds a bit odd.
+	What do you suppose has been going on?
+Sancho
+	Ees v-very estrange, si?
+%0%a001240
+	But Dad! Dr. Agon's not evil!
+	We have to do something to help him.
+Sancho
+	We can n-no just ignore thees, eh?
+	Djou must d-d-do esomething, My Majesty.
+%0%a001250
+	Yikes. It's scary seeing a Zenithian get angry
+	like that!
+Tuppence
+	Hmph! Well, well, well...
+	What a turn up for the books!
+Tuppence
+	Well, %a000090, you know you can count on me to help you put this Dr. Agon in his place if he isn't what he seems.
+%0%a001240
+	Dr. Agon isn't a bad man, Dad!
+	I just know he isn't.
+%0%a001250
+	I feel so nervous! I wonder what would happen if we gave him the orb.
+Sancho
+	Djou n-never know wh-what ees gonna happen, eh?
+	I n-no like thees...
+%0%a001240
+	Wow!
+%0%a001240
+	Th-That was a surprise!
+	I didn't see that coming, did you, Dad?
+%0%a001250
+	The Zenith Dragon... So Dr. Agon was the
+	Zenith Dragon all along!
+Sancho
+	When djou travel, m-many, many things, they surprise djou. B-But thees...?
+	No, I n-no believe thees.
+Sancho
+	Ees, ees... Eet h-hits djou like the armada!
+Tuppence
+	To think that Dr. Agon was actually the
+	Zenith Dragon...
+Tuppence
+	Forgive me, o Great One, for my ignorance!
+%0%a001240
+	I quite liked his human form, actually.
+%0%a001240
+	But it is good to see him back to his true self.
+	I mean, he's pretty cool!
+%0%a001250
+	Is that really the Zenith Dragon in the flesh?
+	This is like living a dream.
+Sancho
+	T-To have the Z-Zenith Dragon esay gracias to djou, ees, ees...
+Tuppence
+	Yes, well. He was rather powerless.
+Tuppence
+	Oops! Not that I mean any offence, of course!
+Bianca
+	So the Zenith Dragon was masqueradin' as a bumblin' middle-aged man?
+Bianca
+	What I'd give to have bin able to see that!
+Nera
+	The great Zenith Dragon...
+	I'm quite overwhelmed.
+%0%a001240
+	Well, it can't be helped. There's no way any of us could've known his true identity.
+Sancho
+	But ees because he was tr-trying to protect Zenithia, si? Thees ees why he d-doubted señor Agon. Ees n-nothing to be ashamed.
+Tuppence
+	I also feel great shame for my faithlessness.
+%0%a001240
+	It's a relief to know that the Zenith Dragon is back on form again. I feel much more confident about everything now.
+Sancho
+	We n-no need to worry about Zenithia no more, eh?
+%0%a001240
+	I suppose he's right. We still have a battle to win. We'd better get to it, then!
+%0%a001250
+	That old man can't know much about what's going on in the outside world, being holed up here all the time.
+%0%a001250
+	It's good that we passed on the news about the Zenith Dragon.
+%0%a001240
+	Dr. Agon didn't exactly have to do all that much, though, did he?
+%0%a001240
+	Oh well. It's hardly worth going into that now.
+%0%a001240
+	The Zenith Dragon's really amazing. Do you think he can fly even higher than the castle?
+Bianca
+	I never imagined for one minute that I'd ever have the chance to visit Zenithia.
+Bianca
+	I can't help feelin' a bit out of sorts. Maybe it's my Zenithian blood at work.
+Nera
+	So this is the home of my ancestors...
+	But I belong with you now, in Gotha.
+Nera
+	Being here makes me feel relaxed and on edge all at the same time!
+Nera
+	I can't really explain it, but something in my heart just won't settle.
+%0%a001240
+	Zenithia is certainly a fairly tricky place to find your way around!
+%0%a001240
+	Can the castle still only fly low to the ground?
+	I want to see it float right up to the heavens!
+%0%a001250
+	It looks like things have dried out nicely. The castle has a much happier feel to it now.
+%0%a001250
+	Zenithia used to be much, much higher all those
+	years ago, didn't it? We're lucky we didn't have to climb so high.
+Sancho
+	Djou know, when djou l-look again, ees a
+	v-very b-b-beautiful castle, si? Djou f-feel eso much h-history.
+Tuppence
+	I'll certainly have a story to tell back in Gotha! Imagine people's reactions when they hear I was responsible for the Zenith Dragon's resurrection!
+%0%a001240
+	Did you see that little room by the entrance, Dad? What do you think it's for?
+%0%a001240
+	This building's incredible. I can't imagine how
+	they managed to build something so huge on
+	top of a mountain!
+%0%a001240
+	Brrr. It's a bit c-c-cold here, isn't it, D-D-Dad?
+%0%a001240
+	I s-s-suppose it's because we're high up.
+	We're even above the c-c-clouds. Brrr.
+%0%a001250
+	Hahh, hahh, hahh... It's weird. Why am I so out of breath even though I'm not...hahh...doing anything?
+%0%a001250
+	Hahh, hahh, hahh...
+%0%a001250
+	Look, Dad! There's a cloud underneath us!
+	I've never been this high up before.
+Sancho
+	A g-g-giant temple on the t-top of Mt. Azimuth?
+	Ees, ees amazing!
+Sancho
+	Djou esee? I am estill j-just a djoung man.
+	There ees eso much I n-no know about the world!
+Tuppence
+	That Zenith Dragon is rather spectacular, being able to fly up above the clouds like this.
+Tuppence
+	It's hard to believe He's the same creature as that funny Dr. Agon we were spending our time with not so long ago.
+%0%a001240
+	Is that... Is that armour mine?
+%0%a001240
+	Dad! What are you doing? If that's the Zenithian Armour, then we have to have it!
+%0%a001240
+	...Oh, I get it. You're planning on going away to get ready first so that we definitely win, right?
+	That's really clever.
+%0%a001250
+	Phew. Looks like we managed to avoid a bit of a
+	fight there.
+Sancho
+	Thees señor, he n-no realise we are n-no from thees place like heem, eh?
+Sancho
+	Djou have become v-very clever like thees, chico.
+	Si, djou are a m-master of the tactics now.
+%0%a001240
+	Why should we be soulless?
+	That's a bit of a weird thing to say.
+%0%a001250
+	Was that soldier a monster?
+	Then that means this temple is... Hmm.
+Tuppence
+	Dear me. He was rather alarming, wasn't he?
+%0%a001240
+	So this is the armour the legendary hero wore!
+	Wow! It's so cool!
+%0%a001250
+	Does this armour belong to %a001240 now, too? That's so unfair! ...Um, I mean, how lovely!
+Sancho
+	I n-no expect to find the legendary armour een a
+	p-p-place like thees.
+Tuppence
+	Oof! It's rather heavy, isn't it? I suppose that just means I'm not cut out for this kind of armour.
+%0%a001240
+	Looks like he thinks we're part of the following.
+%0%a001250
+	What is this place? It's full of lots of really
+	strange-looking people.
+Sancho
+	He can n-no imagine any other p-p-people, they gonna c-come eenside, eh?
+Sancho
+	We must pretend we are w-w-worshipers eso he no th-think we are esuspicious.
+Tuppence
+	Tsk tsk! What a useless guard he is, actually encouraging us intruders inside like that!
+%0%a001240
+	The people in here don't seem to notice us at all.
+%0%a001240
+	It's like they're all totally mesmerised by something.
+%0%a001250
+	That person just said something about Mada.
+	Isn't Mada Grandma's name, too?
+Sancho
+	Hmm... Si, djour Uncle S-Sancho, he knows wh-what ees happening here now.
+Sancho
+	Djou listen to me, chico. Whatever djou esee here, djou must n-n-no believe eet, okay?
+Tuppence
+	M-Mada? Surely it couldn't be...?
+%0%a001240
+	Why should we be soulless?
+	That's a bit of a weird thing to say.
+%0%a001250
+	Was that soldier a monster?
+	Then that means this temple is... Hmm.
+Sancho
+	Si! Ees tr-true! Ees the monsters! They are een
+	c-control of thees Order of Zugzwang!
+Tuppence
+	Dear me. He was rather alarming, wasn't he?
+%0%a001240
+	That kid's eyes looked really empty. It's like he couldn't see properly or something.
+Sancho
+	Ees no r-r-right. He can n-no esee us, even when we espeak to heem.
+%0%a001250
+	Do you think that person's okay, Dad?
+	The people here are making me nervous.
+Tuppence
+	It's rather tricky to fathom whether the people here are alive or dead sometimes.
+%0%a001240
+	That statue almost looks like it's alive.
+	...Hang on! I've seen a statue like this before...
+%0%a001240
+	I know! It looks just like you did when you were a statue! Does that mean...?
+%0%a001250
+	That lady looks so kind. I feel like I want to hug her for some reason.
+Sancho
+	Ch-Chico!
+	Ees, ees djour w-w-wife!
+	Ees %a001230!
+Tuppence
+	Hmm... What an exquisite-looking lady.
+Tuppence
+	It's rather odd, though. I can't help feeling like I've seen the same image somewhere before.
+%0%a001240
+	Can you believe he had the cheek to pretend to
+	be Grandma?
+%0%a001240
+	Huh! Now I'm even more determined than ever.
+	I won't rest until the world's at peace again.
+%0%a001240
+	Everyone seems to have livened up all of a sudden. Do you think that means they're back to normal again?
+%0%a001250
+	I knew deep down that wasn't really Grandma, but I was a little bit worried that it might be.
+%0%a001250
+	It's a relief that it wasn't her, but what do you think that nasty monster meant when he said she's not part of this world any more?
+%0%a001250
+	Maybe we should try having a word with everyone here, Dad. We might be able to find out something useful.
+Sancho
+	Djou no have t-t-time to feel the blues, chico.
+Sancho
+	Djou must c-c-concentrate and think of a way to esave %a001230.
+Sancho
+	Si, thees señora Mada, she was j-just a monster. But estill... N-Now djou can be esure djour madre, she ees een the underworld.
+Tuppence
+	The God-King, Korol... No doubt the time will come when we have to pit our strength against him.
+%0%a001240
+	No way! So this Korol character placed a curse on Mum as well as turning her into a statue?
+%0%a001240
+	Do you think the curse will be lifted if we manage to defeat him?
+%0%a001250
+	So...that really is Mum, then?
+Tuppence
+	Fancy not even realising that the legendary hero was born years ago. These monster types are terribly ignorant.
+%0%a001250
+	Isn't that boy the one from the house where you stayed when you were a statue, Dad? It's great that we were able to rescue him.
+Sancho
+	Ees, ees eso w-w-wonderful news! Thees muchacho's p-papá, he ees g-gonna be eso,
+	eso h-h-h-happy! (sniff)
+Tuppence
+	It could be quite tricky for him to get home from here, though, couldn't it? I wonder how he'll manage.
+%0%a001240
+	A hidden staircase? We should go and find it
+	right away!
+%0%a001250
+	Have you been to this place before, Dad?
+	Hmm, I had a feeling you had.
+Sancho
+	The estage?
+	He means the p-place where ees the estatue of señora %a001230, no?
+%0%a001250
+	You have to accept people's thanks gracefully and tell them it was no trouble. That's manners.
+Sancho
+	Esacrificed? Si, when the t-temple ees c-completed, all the eslaves, they g-gonna be keelled.
+Tuppence
+	I'd wager that she's rather a lovely specimen when she's smartened up a bit. It's all in the cheek bones, you know.
+%0%a001240
+	Quite a few people seem to be a bit dazed.
+	I hope they'll be alright.
+Sancho
+	Ees, ees eso s-sad... Thees señors and señoras, they have been l-l-lied to for eso long.
+%0%a001250
+	The people up here must've been the important
+	ones, then.
+Tuppence
+	If Korol took a liking to him, that probably means he did lots of evil things here.
+%0%a001240
+	So the stairs were right in the middle of the stage. That's a bit easy to find, considering it was supposed to be a hidden staircase!
+%0%a001250
+	We have to hurry up and help Mum.
+	I'm going to try really hard to do my bit.
+Sancho
+	Djou m-must be careful, chico. Djour Uncle SⓚSancho, he has a b-b-bad feeling, djou know.
+%0%a001240
+	He must be a right coward to have built a secret staircase and hidden himself down here!
+%0%a001250
+	What's wrong, Dad? You look a bit troubled.
+%0%a001250
+	Of course... This is the place where you were made to work as a slave all those years ago.
+Sancho
+	Anda! Ees thees p-place djou were...
+Sancho
+	Si, but n-now djou are back again.
+	Ees esome kind of d-destiny, no?
+Tuppence
+	Don't worry about me. I'm happy to follow you wherever you go, %a000090!
+%0%a001240
+	This place is pretty huge. And the monsters here are more than a bit scary, too.
+%0%a001240
+	Oh! I'm totally lost now. You'll have to figure out which way we need to go, Dad.
+%0%a001250
+	This place is like a labyrinth. You have to plan your next move really carefully otherwise you get lost.
+%0%a001250
+	This place is really hard to get around. I wonder why they made it this way. Don't the monsters
+	get lost?
+Sancho
+	Ees eso much work to b-b-build a place eso beeg under the ground like thees, eh?
+Sancho
+	Anda! Djou n-no feel dizzy when djou w-w-walk around een the circles like thees?
+Tuppence
+	Hmph. These complicated paths are becoming really rather irritating.
+Tuppence
+	I'll just follow your lead, %a000090. I'm sure you'll be able to guide us through this place.
+%0%a001240
+	Looks like all the soldiers in this place are monsters. We'd better be careful, Dad.
+%0%a001250
+	Yikes! That's scary! It sounds like the monsters here have been feasting on the slaves.
+Sancho
+	The b-best thing, ees n-no to be found by
+	the guards, si? Djou must take m-muchos
+	care for thees.
+%0%a001240
+	We're almost there.
+	Korol can't be far away now.
+%0%a001250
+	We must be careful, Dad. I'm sensing something evil down below.
+Sancho
+	Thees m-monster, he n-no realise he t-t-told us that thees Korol, he ees near here.
+Sancho
+	Chico! Ees t-time to regain djour estrength, no?
+	Then we g-g-go eento battle! Olé!
+%0%a001240
+	That poor man! He must've been desperate,
+	writing something like that in the hope that she'd
+	read it one day.
+%0%a001250
+	Dear Goddess,
+	Please grant this tormented soul peace within your safe haven. Amen.
+Sancho
+	Come, chico. We pr-pray, okay?
+Tuppence
+	I don't have any brothers or sisters, but I can still feel this poor chap's pain. What a way to go.
+%0%a001240
+	We are going the right way, aren't we?
+	I'm not too sure...
+%0%a001250
+	I feel like we keep going round and round in circles. Everywhere seems to look the same.
+Sancho
+	Djou are l-lost, si, chico?
+Tuppence
+	How to find our way around this place is a complete mystery. I've never seen anywhere so complicated.
+%0%a001240
+	Up and down, big spaces and tiny spaces...
+	This place is such a mishmash!
+%0%a001250
+	Um, do you think I've got a bit stronger, Dad?
+	Am I being of any use to you?
+Sancho
+	Djou know, chico, esince we f-find thees estatue of señora %a001230, djou n-no look the esame.
+Sancho
+	Djou n-no geeve up now! Ees t-time to fight!
+	Eef djou n-no fight now, when do djou fight, eh?
+Tuppence
+	Where is this confounded Korol fellow anyway?
+	I hope he doesn't just pop out and catch us unawares.
+%0%a001240
+	I can sense a really strange aura. Wow! It's the strongest one I've felt yet, that's for sure.
+%0%a001250
+	Um... Is it okay if I hold your hand, Dad?
+	I'm a little bit scared.
+Sancho
+	Are djou r-r-ready, chico?
+Tuppence
+	We won't let anyone get the better of us. No one can! I hope...
+%0%a001240
+	Hahh...Hahh... That Korol guy was really strong.
+%0%a001240
+	And then that Ladja character appeared.
+	I can hardly get my head around it all.
+%0%a001240
+	You did pick up that ring, didn't you, Dad?
+	I wonder where it came from. It's so shiny.
+%0%a001250
+	I hate Ladja! We'll have to make sure we give him a good hiding next time!
+%0%a001250
+	Is it okay if I have a bit of a look at that ring?
+%0%a001250
+	It's strange, but just holding it makes me feel all warm inside.
+%0%a001250
+	Sorry. I shouldn't have asked.
+Sancho
+	Aargh! Thees Ladja, he must p-p-p-pay for señor P-P-Pankraz! Next time, we n-no gonna let heem
+	get away.
+Sancho
+	Ees estrange. When I l-look at thees ring, I can n-no help think of señora Mada.
+Sancho
+	Maybe ees j-just because we esee thees f-fake señora Mada before.
+Tuppence
+	Thank the Goddess I'm still alive! Even in the face
+	of such a trying battle, Tuppence survives to fight another day!
+Tuppence
+	Well, we should be heading back to that big room so we can try to figure out how to bring %a001230 back to life.
+%0%a001240
+	I don't sense any monsters about.
+	Maybe Korol was in charge of them all.
+%0%a001250
+	It's so much easier to walk about with no monsters coming and getting in our way. If only it could always be like this.
+Sancho
+	We were t-told señora Mada, she ees een the underworld, no?
+Sancho
+	Uf! Our quest, how long ees g-g-gonna last?
+Tuppence
+	What a gift it is that there are no monsters around. We should make the most of it and check there aren't any treasure chests we've missed.
+%0%a001240
+	D-Do you think that was really Grandma's voice we could hear?
+%0%a001240
+	She said even the legendary hero can't take on Grandmaster Nimzo, but surely that can't be right?
+%0%a001250
+	Grandma sounded so kind and gentle...
+%0%a001250
+	Oh! I wish I could speak to her more. There's so much I want to talk to her about.
+Sancho
+	I...!
+	Ees...!
+	Señora Madaaa!
+Sancho
+	Her words, eso f-full of l-l-love...
+	Djou n-no forget thees words, chico. Never!
+Tuppence
+	Ah yes. A mother always puts the safety and needs of her children first.
+Tuppence
+	My mother's just the same.
+%0%a001240
+	Now I'm totally confused about what we should do.
+%0%a001240
+	I mean, I can understand how you feel, Dad.
+	But I can see where Grandma's coming from, too.
+%0%a001250
+	Oh! I really wish I could get to meet Grandma.
+Sancho
+	Thees time I n-n-no gonna esay anything.
+	Djou th-think for djourself what djou gonna do.
+Sancho
+	But djou n-no think I am c-c-cold, okay?
+	Djou are the K-King of Gotha, My Majesty.
+	Djou can n-no rely on djour Uncle Sancho forever.
+Tuppence
+	I'll have to give my old mum a nice shoulder rub when I go home to Gotha.
+Tuppence
+	I'm probably causing her no end of worry and stress at the moment, so it's the least I can do.
+Bianca
+	Aah... This is the temple I spent all them years in, stood stock-still as a statue.
+Bianca
+	Ha ha! This'll probably sound quite daft, but I almost feel a bit sentimental about the place.
+Nera
+	I hardly remember anything at all about those years I spent here as a statue.
+Nera
+	Maybe I was asleep most of the time.
+%0%a001240
+	What's up, Dad? What are we doing here?
+%0%a001240
+	We've rescued Mum now, so we don't have anything left to do here, right?
+%0%a001250
+	This is the place we had our reunion with Mum.
+	But I'd still rather not come here.
+%0%a001250
+	Now she's with us again, I don't see the point in being reminded of those sad times without her.
+Sancho
+	We no have time to w-walk like a dog, chico.
+	When djou are tr-travelling, djou must always
+	know where djou are going and g-go there.
+Tuppence
+	I'd heard rumours about the Order of Zugzwang, of course. I always had a feeling there was something suspicious about them.

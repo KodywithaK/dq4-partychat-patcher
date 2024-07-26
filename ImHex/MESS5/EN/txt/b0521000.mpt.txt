@@ -1,0 +1,121 @@
+Bianca
+	So we've gotta get over this mountain... Looks like it'll be hard work, but I'm sure we'll manage.
+Nera
+	I don't think I've ever seen such a tall mountain range. I hope we'll manage to cross it.
+Bianca
+	Do you think I'm jumpin' the gun a bit, sayin' Gotha must be your homeland?
+Bianca
+	Fair enough. I just have this feelin', though. I'm sure that's where you're from!
+Bianca
+	So you have the same feelin' too, then? I'm so sure Gotha must be where you were born!
+Nera
+	Do you think I'm being a bit presumptuous, assuming that Gotha must be your birthplace?
+Nera
+	Sorry. It's just that I have this feeling
+	deep inside. I'm convinced that that's where you're from.
+Nera
+	Well, it's been a long time.
+	Are you ready to go home?
+Bianca
+	This really is a tricky path. It's almost impossible to keep goin' in a straight line!
+Nera
+	I feel like I've been all lop-sided for most
+	of this journey! It certainly is hard work climbing mountains.
+Bianca
+	Haah... Haah...
+	I'm fine, really. Dun't worry about me.
+Nera
+	I-I'm fine, honestly. I can keep up with you.
+	You don't need to be concerned.
+Nera
+	I can't believe Papa sent a messenger all the way out here!
+Nera
+	What a wonderful thing to send to us.
+	How generous of Papa!
+Bianca
+	This place is givin' me the willies. How d'you suppose that skeleton ended up over there?
+Nera
+	There's a horrible cold feeling to this place.
+	I'm probably just imagining things, but it feels sort of sinister.
+Bianca
+	I dun't much like the sound of that old woman's laugh. She sounds like a witch or somethin'.
+Nera
+	I probably shouldn't really say so, but I'm not all that taken with the old woman. She makes me feel a bit uneasy.
+Bianca
+	She wasn't a bad old stick, after all. I feel bad for doubtin' her now.
+Nera
+	I feel so guilty for doubting such a kind old lady. It looks like I still have a lot to learn when it comes to judging others.
+Bianca
+	That strange laugh is enough to give anyone
+	a fright!
+Nera
+	Waaah! I'm frightened! That old woman's laugh really is scary!
+Bianca
+	First a mountain path and then a cave.
+	Up and down, up and down. I'm startin'
+	to feel like a yo-yo!
+Nera
+	I'm not very good with heights, so I feel a bit less anxious now we're here inside this cave.
+Bianca
+	It must be because we're high up. I seem to be gettin' tired more quickly than normal.
+Bianca
+	I can see light. That means the exit can't be
+	far away.
+Nera
+	........................
+Nera
+	I-I'm fine, really. I'm just finding it a bit of a struggle to keep up with you sometimes because you're so fast.
+Nera
+	I'm probably stronger than when we first set out on our travels together, don't you think?
+Nera
+	That's a relief. I wouldn't want you to feel
+	like you have to leave me behind because I can't keep up.
+Nera
+	Oh dear. I'm sorry. I'll try harder from now on, I promise. I'll make you proud.
+Bianca
+	I'm glad I've got you and all your funny friends to travel with, %a000090. Life's never lonely for me.
+Nera
+	I don't think I would've set off on my travels alone. You've opened up a whole world of possibilities to me.
+Debora
+	I'm so tired. I've just about had enough.
+	You'll have to do all the work now, %a000090.
+Debora
+	You probably think I'm getting ahead of myself, just assuming that Gotha's your hometown, right?
+Debora
+	And yet you'd still have me climbing mountains to get there! I wouldn't stand for that! No, Gotha has to be your hometown. I'm sure of it.
+Debora
+	Good. You know better than to say something like that to me.
+Debora
+	Ouch, ouch, ouch! What are you looking at?
+	I haven't got a blister, if that's what you're thinking.
+Debora
+	Haah... Haah...
+	How are you managing this so easily?
+	You could at least offer to carry me!
+Debora
+	You could learn a lot from a warrior like him.
+	Make yourself a better servant still.
+Debora
+	I'll take that. You don't mind, do you?
+	It's a gift from Papa, after all.
+Debora
+	There's nothing for us in this nasty place.
+	Hurry up and get moving!
+Debora
+	We didn't come all this way to talk to that old woman. Hurry up and get back outside. That's an order!
+Debora
+	I've had enough, I really have.
+	We're leaving. Now.
+Debora
+	I couldn't laugh in such a creepy way if I tried.
+Debora
+	So now we have to traipse through a cave?
+	I'm starting to think I should've worn some more sensible clothes.
+Debora
+	The problem is that sensible clothes never seem to be very pretty.
+Debora
+	I'm getting a bit tired. Given that you're my personal slave, I really think you should give me a piggyback.
+Debora
+	I wonder if we're near the exit. I wouldn't mind having a rest before long.
+Debora
+	Travelling alone could probably be quite good fun, but it's so much easier with a servant around to do all the hard work.

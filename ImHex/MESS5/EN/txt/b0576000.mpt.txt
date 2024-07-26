@@ -1,0 +1,791 @@
+Bianca
+	Blimey, this place brings back a few memories, eh? This is where old Briscoletti give us the boat.
+Bianca
+	The first time we come here was just after we got married, eh? And now here we are again today.
+Bianca
+	I wonder what kind of situation we'll be in next time we're here.
+Nera
+	Oh, how funny it is to be here again! We were here just after we were married, remember?
+Nera
+	It's from here that we set sail out into
+	the big, wide ocean.
+%0%a001240
+	Hey! You can really smell the sea from here!
+%0%a001240
+	Gotha isn't all that far from the ocean, but this place is practically right on top of it!
+%0%a001240
+	(yawn) The noise of the waves is starting to make me feel sleepy.
+%0%a001250
+	The breeze here feels so refreshing. You can hear it come swooshing in over the waves.
+%0%a001250
+	It's such a nice day again today. I love sunshine.
+Sancho
+	Eh! Ees a long time esince I am een thees town.
+Sancho
+	We came here when we were travelling to find you, My Majesty. But we left empty-handed. Eet was eso esad a time.
+Tuppence
+	Ooh! So you came here on your honeymoon,
+	did you, %a000090?
+Tuppence
+	How lovely! You can't beat a honeymoon by the sea. Maybe I'll meet my special someone here!
+Bianca
+	This place really feels like it's part of the ocean.
+Bianca
+	Fancy bein' able to fish when you're in town!
+Nera
+	The smell of the sea water is really strong.
+	Just like before.
+Tuppence
+	A port town... I imagine there are lots of pretty young fillies here!
+Bianca
+	Hmm... A monster the size of a mountain?
+	Sounds like a bit of a tall tale to me.
+Nera
+	A monster the size of a mountain... Where have I heard something like that before?
+%0%a001250
+	If we had a key like that, we could probably travel almost anywhere we wanted!
+%0%a001250
+	I wonder if it's still inside that monster's belly.
+Sancho
+	For me, I worry about what would happen eef esuch a key would fall eento the wrong hands. Ees gonna be a beeg problem, eh?
+Tuppence
+	With a key like that, maybe I could unlock the hearts of women the world over!
+Tuppence
+	...Er, maybe that was rather crude of me. It doesn't do to be greedy, after all.
+Bianca
+	That poor old man. I hope that dun't mean he's all on his own now.
+Nera
+	People say there's nothing worse for a parent than outliving a child.
+Nera
+	It's hard to find the right words to console
+	that poor old man.
+%0%a001240
+	What a shame for the old man!
+%0%a001250
+	That poor old man!
+Sancho
+	I hope thees old man, he gonna find een esometheeng another reason to leeve. Ees eso esad for heem.
+Sancho
+	For me, my esoul was esaved because I can raise %a001240 and %a001250.
+Tuppence
+	It's like time has stood still for that old man ever since his son died.
+Tuppence
+	Every day he's just there moping around and
+	doing nothing. His son would be really upset
+	if he could see him now.
+Bianca
+	Any idea what that bloke was on about?
+	It all went right over my head!
+Nera
+	Did you understand what that man was talking about? I'm afraid I had no idea!
+%0%a001250
+	He didn't even tell us what he was on about,
+	and now he thinks whatever it is is true! 
+Sancho
+	You must listen to what people esay, my friend.
+	Ees very important.
+Tuppence
+	Did you understand what that was all about, %a000090? Goodness! You're much brighter than I am, then.
+%0%a001240
+	Mt Azimuth is the highest mountain in the world.
+	Did you know that, Dad?
+Sancho
+	Thees Mt Azimuth, ees a very high mountain.
+	How ees possible they are building there esuch
+	a temple?
+Bianca
+	He's a brave one! Talkin' to people like that really gets you all buoyed up!
+Nera
+	Maybe we should join forces with him and fight together. It's a bit tricky trying to explain what we're up to, though.
+%0%a001240
+	We'd better hurry, Dad! Otherwise he'll get to Grandmaster Nimzo first and defeat him before
+	we have the chance!
+%0%a001250
+	What would happen if he succeeded and really did destroy the world? How scary!
+Tuppence
+	Anyone can say things like that!
+Tuppence
+	It's the folk who actually put their money where their mouth is and act on it who are the real heroes. Like me, for instance!
+Bianca
+	When I look at the monsters you've managed to befriend, %a000090, I find it hard to believe that all of them can be bad.
+Nera
+	I suppose it can't be helped. The Dragon God probably needs his rest just like we do.
+Sancho
+	Ees true. We all estruggling here to protect the world. Thees Dragon God, he eshould be helping us.
+Bianca
+	It looks like they get their fair share of church donations here, eh?
+Nera
+	I wouldn't be surprised if lots of people don't even realise there's a bank here.
+%0%a001240
+	Wow! It's amazing that you managed to find a bank in a place like this!
+%0%a001240
+	Sancho had no idea it was here, you know.
+Bianca
+	I know him! He used to study under the man who made us some medicine for my father back when I was little!
+Nera
+	To think that man once dreamt of being a pharmacist and yet he's ended up a sailor! You never can tell where life will take you.
+Sancho
+	I feel as eef I know thees señor...
+	Who ees he?
+Bianca
+	It's a bit damp down here, en't it? Maybe the monsters prefer it that way.
+Nera
+	The monsters here are very well-looked-after. They certainly seem happy and healthy enough.
+%0%a001240
+	Why are these monstergartens always underground? Maybe Monty doesn't like sunshine. 
+%0%a001250
+	Yay! It's Monty the monster monitor! I really like him!
+%0%a001250
+	I mean, how could you not like a man who's
+	so nice to monsters!?
+Sancho
+	Thees señor, he ees here to look after the monsters for us, friend.
+Sancho
+	Maybe we should cook for heem a paella next time, eh?
+Bianca
+	There's all sorts of treasure around the world, but I'm your prized one, right, %a000090?
+Bianca
+	Ha ha ha! Thanks!
+Bianca
+	Fine! Then my treasures are %a001240 and %a001250!
+Nera
+	How nice to be able to realise a dream you've had since childhood.
+Nera
+	It's so easy to lose your ambitions or allow them to be changed along the way.
+%0%a001240
+	I wonder what my dream is... Bringing peace to the world maybe? Hmm...
+%0%a001250
+	We've travelled so much that we have
+	lots of treasure!
+%0%a001250
+	But the greatest one of all is you, Dad...obviously!
+Sancho
+	Eet, eet makes me eso happy to esee the young man weeth esuch dreams!
+Sancho
+	Eet reminds me of the days when I was esuch a man. I, I was also full of dreams.
+Tuppence
+	My dream is... Hey! Why's no one listening!?
+Bianca
+	I suppose we can't really expect people to believe a thing like that. I dun't think I believed you until I saw it for myself!
+Nera
+	If he's lived all his life on the ocean, I suppose it's only natural that he won't believe us.
+%0%a001240
+	But we're not lying!
+%0%a001250
+	But we do have a magic carpet!
+Bianca
+	That's right. And our kids are the cutest of them all, eh, %a000090!?
+%0%a001250
+	It's good to hear people saying nice things about our monsters, isn't it, Dad?
+Tuppence
+	I wouldn't say all of them are cute, would you?
+	Or maybe you would...
+Bianca
+	I suppose we shouldn't really expect folk to believe a thing like that.
+%0%a001240
+	So you know more than he does, Dad! That's cool!
+	I hope I end up knowing more than other people
+	one day!
+%0%a001250
+	He he! It's funny that you know the place better than he does.
+Bianca
+	Ten years ago would've bin around the time we were here together last, eh?
+Bianca
+	I dun't really remember, but maybe we met those folk that time too.
+Nera
+	It must be a terrible strain for them, a scholar who's not used to fighting and his wife travelling around like that.
+Nera
+	I feel so grateful to them for their efforts.
+%0%a001240
+	Ten years ago? I wasn't even born then.
+%0%a001240
+	And yet people were looking for me already!
+Bianca
+	Do you think that man's alright? He seems a bit troubled if you ask me.
+Nera
+	We must defeat Grandmaster Nimzo at once and set that poor man's mind at ease!
+%0%a001240
+	Okay, I heard him. I'll do my best.
+Tuppence
+	Goodness me! What a diligent man he is, being so determined to get his message across!
+Bianca
+	Oh dear. Bit disappointed, are you, %a000090? Wanted her autograph, did you?
+%0%a001240
+	What's an autograph?
+%0%a001250
+	It sounds like hard work being a dancing girl.
+Tuppence
+	What a pity! I was hoping I might be able to trick her into signing a marriage contract with me.
+Bianca
+	So the show's only on of a night? I don't remember it bein' that way when I was here before.
+Nera
+	Those dancing girls are wearing rather skimpy outfits! I hardly know where to look!
+%0%a001250
+	Their clothes are pretty, but I think I'd be too shy to wear them.
+Bianca
+	It looks like a tough old job bein' a dancin' girl. I'd hate to have to wear make-up like that.
+Nera
+	Make-up? Well, I must admit, I, er, do use the tiniest amount every now and then.
+%0%a001250
+	I just can't seem to get my make-up right
+	at all today.
+%0%a001250
+	Only joking! I just wanted to say it to see what it felt like to be all grown-up.
+Tuppence
+	What an outfit! Phwoar! Now I'm really glad I came along on this trip!
+Bianca
+	Blimey! This place is bigger than it looks!
+Nera
+	I've been here lots of times before with Papa.
+%0%a001240
+	Wow! This place is huge! And it echoes
+	when you speak!
+Tuppence
+	I should imagine they can fit some fairly large ships in here.
+Bianca
+	This ship in a bottle is really well-made.
+Nera
+	The ship inside this bottle looks just like
+	Papa's ship.
+%0%a001240
+	Who did you get that for? Is it for me?
+Bianca
+	Oh! What a shame we can't afford it!
+Nera
+	Oh well. We'll just have to come back another time.
+%0%a001250
+	Didn't you have enough money, Dad? I don't mind not eating today if that helps.
+Tuppence
+	Don't worry, I won't tell anyone back home that
+	His Majesty couldn't afford to shell out a thousand gold coins!
+Bianca
+	Uh-oh! Looks like that's on its way out to sea!
+Nera
+	I do feel sorry for the man, but he probably should've been a bit more careful with it if it means that much to him.
+%0%a001240
+	Oh dear, it's drifted out really far already.
+%0%a001250
+	I think that man's crying a bit.
+Tuppence
+	There are some clumsy folk around, aren't there!
+Bianca
+	M. Bezzler... You can't blame the man for becomin' a thief with a name like that!
+Bianca
+	Still, I suppose we en't got much room to talk, eh!
+Bianca
+	Haah, haah...
+	Spiral staircases are pretty hard work, eh?
+Nera
+	This staircase is rather frightening.
+	You won't let me fall, will you?
+%0%a001240
+	I never knew lighthouses were so big on the inside.
+%0%a001250
+	Do you think these stairs are safe? I'm a bit scared.
+Sancho
+	Hahh...hahh... Huhh...huhh...
+	I must...no eat...eso...much...paella...
+	Hahh...hahh...
+Bianca
+	We sorted that now, so we dun't need to think about it any more.
+Bianca
+	The main thing is defeatin' Grandmaster Nimzo before it's too late!
+Nera
+	Even though the Dragon God has been awoken, %a001240's duties are still not done. The poor thing.
+%0%a001240
+	I wonder if he could see us defeating Korol through the telescope... No, I suppose not.
+Bianca
+	Wow! The view from here's blimmin' incredible!
+Nera
+	Don't walk too close to the edge, will you?
+	I know the view's nice, but it's a bit too
+	scary for me.
+%0%a001240
+	Woo hoo! I love being up high like this!
+%0%a001250
+	Um, Dad... Can you hold my hand?
+Sancho
+	Eh! Look at the beautiful view!
+	The nature, ees eso magnificent!
+	Eso wonderful! (sob)
+Tuppence
+	Goodness! Aren't we high up!
+Bianca
+	Ugh! Some people are just awful. Let's keep our distance from that one, %a000090.
+%0%a001240
+	I don't get it, what is it he wants to see so badly?
+Tuppence
+	Ooh! Is there something to see?
+Tuppence
+	Huh! You can't see a thing!
+Bianca
+	Dark already, eh?
+	Shall we stay the night here?
+Nera
+	I can't believe it's night already! Time flies so quickly when I'm with you. 
+%0%a001240
+	Hey! You can really smell the sea from here!
+%0%a001240
+	Gotha isn't all that far from the ocean, but this place is practically right on top of it!
+%0%a001240
+	(yawn) The noise of the waves is starting to make me feel sleepy.
+%0%a001250
+	The breeze here feels so refreshing. You can hear it come swooshing in over the waves.
+%0%a001250
+	Ooh, look at the stars! Aren't they pretty?
+Sancho
+	Eh! Ees a long time esince I am een thees town.
+Sancho
+	We came here when we were travelling to find you, My Majesty. But we left empty-handed. Eet was eso esad a time.
+Tuppence
+	Ooh! So you came here on your honeymoon,
+	did you, %a000090?
+Tuppence
+	How lovely! You can't beat a honeymoon by the sea. Maybe I'll meet my special someone here!
+Bianca
+	Pretty impressive. He's still keepin' up the chatter even though he's sloshed.
+Nera
+	Oh dear! Do you think that man's alright?
+	He seems to have drunk rather a bit too much.
+%0%a001250
+	Urgh! He smells of drink.
+Bianca
+	So it's not just on land. The monsters in the sea are gettin' more vicious too. Things are goin' from bad to worse.
+Nera
+	I'd better try to make myself a bit stronger so that I don't end up being a hindrance to you.
+%0%a001240
+	We're always taking our lives in our hands!
+	Every day!
+Tuppence
+	What a brave man, risking the only life he has
+	like that.
+Bianca
+	That poor old man. I feel really sorry for him.
+Nera
+	I know the poor man must be feeling terribly desperate, but he really shouldn't be sleeping in a place like this. He'll catch his death of cold.
+%0%a001250
+	That poor old man!
+Sancho
+	............
+Sancho
+	Thees poor man, he, he ees remembering esometheeng terrible from hees past. To esee the people esuffering... Eet tugs at my heart... (sniff)
+Bianca
+	We must make the world peaceful again as soon as we possibly can.
+Bianca
+	It's horrible to see so many people scarred by what's happened. We dun't want that to get any worse.
+Nera
+	If we ever see a flame like that, we should go and help. I can't bear to see people so upset.
+%0%a001240
+	Huh, I can't see anything.
+	Does that mean it's all safe today?
+%0%a001250
+	I can hear it... The sound of sad crying...
+	Or maybe it's singing...
+Bianca
+	Um, %a000090... Do you understand how that man feels at all...?
+Nera
+	I hope you feel like that about seeing my sleeping face! I'll try to be a good wife so that you do.
+Nera
+	Ah-phew, ah-phew...
+Nera
+	Is that how I look?
+%0%a001240
+	That's what happened to me! When I saw that statue of you, it made me forget my exhaustion too! 
+%0%a001250
+	Zzzz...
+Sancho
+	Ah, the love of the man for hees wife!
+	Ees eso moving.
+Tuppence
+	I think I usually feel even more exhausted when I go home and see Mother's face. I wonder why.
+%0%a001250
+	Ah-phew, ah-phew...
+Bianca
+	It's a tough old life being a parent.
+Bianca
+	Not that there's any point standin' here worryin' about it. We need to be proactive and sort things out.
+Nera
+	She's right, life really is the greatest treasure of all.
+Nera
+	But we can't very well say something like that to %a001240. It's very hard.
+Sancho
+	The Goddess, eshe no bless me weeth the
+	children, but estill, I understand thees señora very well.
+Sancho
+	My Majesty. Promise me you gonna have the long and happy life, eh.
+Bianca
+	Looks like someone fancies a treasure hunt!
+	I was always dreamin' of adventures and treasure when I was his age.
+%0%a001240
+	Wow! A treasure map! I want to see it!
+	...Oh, but I suppose he's just dreaming.
+Bianca
+	What exactly is his career? Spectatin'?
+	That en't much of a career!
+%0%a001240
+	Fifteen years! I haven't even been alive that long!
+%0%a001250
+	I'm sleepy...
+Bianca
+	That bloke's really creepy. I dun't much like seein' men act like that.
+Nera
+	I could never dance or dress like that.
+	I'd be too embarrassed!
+%0%a001240
+	She's really pretty. Almost like a flower!
+Tuppence
+	Lyn Gerie...
+	Ohhh...
+Bianca
+	Do you reckon the girl in the middle's pretty too, %a000090?
+Bianca
+	Hmph!
+Bianca
+	Good!
+Nera
+	The girl in the middle certainly is the most striking. I can see why she's so popular.
+%0%a001240
+	Eight times!? Now that's dedication!
+%0%a001250
+	That could get really annoying.
+Bianca
+	Do you think he was talkin' about Pankraz?
+Bianca
+	I'm pretty sure he must've bin. He really was a brave man. A hero.
+Nera
+	The last time we met that old man, I'm sure he remembered Pankraz's name correctly.
+Nera
+	Time must have really moved on for him to forget something so important.
+%0%a001240
+	How rude! My name isn't Pancakes!
+	It's %a001240!
+%0%a001250
+	Hm? Is it night already? Then it's almost time for bed. (yawn)
+Sancho
+	Uf! Thees old man, hees memory ees mushy like the avocado. But me, I remember like eet was yesterday!
+Sancho
+	Señor Pankraz, he esaved thees old man from the monsters. He was eso brave and wonderful capitán!
+Sancho
+	After thees, the old man esay that señor Pankraz, he ees the legendary hero, no? Thees ees how he remembers heem.
+Tuppence
+	He doesn't really seem to know what he's talking about. Do you think he's all there?
+%0%a001240
+	Of course we won't give up! We found you, Dad, so we can find Mum too!
+Bianca
+	So that fella makes ships in bottles? He dun't seem the type somehow.
+Nera
+	He wouldn't be able to sell so many of them
+	if they weren't of a decent quality. He must
+	be very skilled.
+Sancho
+	Ees for the best that he no go to thees White King's Paradise, no?
+Bianca
+	Let's go over there. We don't want to hang around here too long otherwise people'll start to think we're with him.
+Nera
+	How bizarre! Men can be ever so funny sometimes.
+Sancho
+	Okay, friend! Ees time for bed!
+	Rápido, eh? Rápido!
+Sancho
+	Ees notheeng to worry about. I going esleep too. You no wake up and find me no here. I no be een the pub. No, no, friend! No!
+Tuppence
+	Fair enough. You are married, after all, %a000090.
+Tuppence
+	I, on the other hand, am not! If they need a seventh ⓗblokeⓘ, I'm their man!
+Bianca
+	Well, looks like we've started.
+Bianca
+	Started what? One day of me not talkin' to you,
+	that's what!
+Nera
+	Huh! It's not always appropriate to joke around like that, you know!
+~ Nera seems to be quite angry. ~
+Sancho
+	Now you are a man, eh, friend? But you are also a king. Maybe ees no eso good for you to behave like thees.
+Tuppence
+	We'd better hurry up and find somewhere before all the good spots are taken by other people!
+Bianca
+	Urgh. That man looks like a really dirty piece
+	of work.
+Nera
+	I don't think I've ever seen anyone with quite that expression on their face before.
+%0%a001240
+	That man's a grown-up, but he was
+	dribbling when he spoke!
+Bianca
+	Our journey can be a bit of a bind at times, but it dun't look like dancin' girls have it easy neither.
+Nera
+	I wonder how Cleo is.
+%0%a001240
+	Do you know this Cleo person, Dad? Hmm...
+Tuppence
+	Lyn Gerie is positively glowing!
+Tuppence
+	I don't know where to look with all these beautiful dancing girls everywhere!
+Bianca
+	Hey! What d'you think you're doin'? You think it's alright to go bargin' in on people like that, do you?
+Bianca
+	Pah! Pankraz must be cryin' tears of disappointment if he's lookin' down on you
+	now from heaven!
+Bianca
+	Right answer.
+	So let's go.
+Nera
+	I've made up my mind!
+Nera
+	I'm going to give you a nasty surprise one of these days and see how you like it!
+%0%a001240
+	A bath would be nice. I wouldn't mind one too.
+Tuppence
+	I don't think you made yourself very popular there, %a000090!
+Bianca
+	It's pretty here at night with the moonlight shinin' in.
+Nera
+	It's so pretty here with the moonlight shining in.
+%0%a001250
+	I can see the moon and the stars through
+	the window.
+Bianca
+	En't this bloke supposed to be the one takin'
+	care of the lighthouse? I wonder if the flame's still goin'.
+Nera
+	Surely night-time is when the lighthouse flame is most needed. Maybe we should wake him up.
+%0%a001240
+	That's a serious snore he's got on him there!
+Bianca
+	Hey! Maybe it's the cat who's keepin' watch over the lighthouse! Ha ha ha!
+Nera
+	Perhaps it's the cat's turn to tend to the flame at night. Cats can be quite clever, you know.
+%0%a001250
+	What a sweet cat! If the flame goes out, it's going to wake the man up.
+Bianca
+	This is amazin'! I feel like I could reach out and touch the stars!
+Nera
+	Don't walk too close to the edge, will you?
+	I know the view's lovely at night, but it's
+	a bit too scary for me.
+%0%a001240
+	The sea's so dark at night. It's a little bit spooky.
+%0%a001250
+	Wow! Look how close we are to the sky!
+	Look at all those stars!
+Sancho
+	Look at the lights from the buildings. They are eso... They are eso pretty! Eet breengs the tear to my eye!
+Debora
+	This is where we first set sail from all those years ago, isn't it?
+Debora
+	I'm still as beautiful as I ever was, but you've aged a bit, haven't you?
+Debora
+	Don't think that means I'll go easy on you.
+	Consider yourself still at my beck and call!
+Debora
+	Hmm, I suppose you'd have aged much more if you hadn't been a statue for all those years.
+Debora
+	This place is just the same as it was years ago, even down to the smell of the sea air.
+Debora
+	It'll probably be just the same when we next come too. If not for all eternity!
+Debora
+	Hurry up and find us an inn, will you?
+	I want a bath.
+Debora
+	A monster the size of a mountain...
+	I'm sure I heard something like that before, but I can't quite remember where...
+Debora
+	We should leave him to his thoughts.
+	That's about all we can do for him.
+Tuppence
+	Ooh! I didn't realise you were such a softie at heart, Miss Debora!
+Debora
+	What's that supposed to mean?
+	Come on, spit it out!
+Tuppence
+	Um, er, n-nothing.
+	I didn't mean a thing!
+Debora
+	You shouldn't just answer questions like that without thinking, %a000090.
+Debora
+	What if it's a lie? Don't come crying to me if someone makes a fool of you.
+Debora
+	Do you think he'd really take our place and go
+	to Nadiria to fight Nimzo? It's a lot easier said
+	than done.
+Debora
+	If the Dragon God's been taking a break for a while, then it's about time he sprung into action and helped out a little bit.
+Debora
+	I've no interest in money. I can always get some from Papa if I ask for it, and now I have another purse that goes by the name of %a000090 too!
+Tuppence
+	Do you know this man, %a000090?
+	You have such a wide circle of friends!
+Debora
+	Life takes some funny turns. There I was thinking I'd got myself a servant, and it turns out he's a prince!
+Debora
+	I must be a woman of greater foresight than I give myself credit for.
+Tuppence
+	I think there's a monstergarten in the pub in
+	Gotha too.
+Debora
+	If you're done here, let's go outside.
+	I don't like dark, cramped places like this.
+Debora
+	You have so much treasure already ⓚⓛ me and %a001240 and %a001250. The only one left is...well, it's obvious.
+Debora
+	Oh well. I doubt I would've believed it if I hadn't seen it with my own eyes.
+Debora
+	They are quite sweet. It's nice to have plenty of servants who hang on your every word.
+Nera
+	I don't blame him. I never would've believed anyone would travel with monsters, much less that I'd ever do it myself!
+Debora
+	Travelling with monsters isn't that bad, though, is it? They don't talk back as much as humans, for
+	one thing.
+Debora
+	I think I remember seeing those two when we were here on our honeymoon all those years ago.
+Debora
+	Back then, the hero and Grandmaster Nimzo were just the stuff of legend as far as I was concerned. I never saw this coming!
+Debora
+	Foolish man, trying to do more than he's capable of! You'd think a scholar like him would behave a bit
+	more intelligently.
+Debora
+	He won't be able to go any further now. He needs to rest. You'll take care of Nimzo anyway, won't you, %a000090?
+Debora
+	So the show's still only on at night. If you want to come and watch it, %a000090, I'll gladly come with you.
+Debora
+	I never have trouble with my make-up.
+Debora
+	And I make sure to go to bed early every night.
+	I actually make quite an effort to keep myself looking beautiful, you know.
+Debora
+	Papa brought me here lots of times.
+Debora
+	This ship in a bottle isn't bad. I wonder what Papa would say if I bought one for him.
+Debora
+	How embarrassing, not even being able to afford a measly one thousand gold coins! Don't you dare show me up like that again, %a000090.
+Debora
+	What a klutz! I find people like that so irritating.
+Tuppence
+	These stairs are nothing!
+	I could run up them if I wanted to!
+	Um...are we nearly there yet?
+Debora
+	How much longer do these stairs go on?
+	My feet are killing me!
+Debora
+	You already took care of everyone at the Crocodilopolis. Now it's just Nimzo we have to
+	finish off.
+Debora
+	The view's not bad. It would be a lot better if we hadn't had to climb all those stairs to get to it.
+Nera
+	What do you suppose it is he's trying to look at?
+Nera
+	S-Surely not? How embarrassing!
+	I can't understand that at all!
+Debora
+	Fancy going to all this effort just to sneak a peek at someone. What a waste of space!
+Debora
+	We're leaving, %a000090. Come on, %a001240. You too, %a001250. We don't want to be tarred with the same brush as this oaf.
+%0%a001240 & %0%a001250
+	Coming, Mum!
+	Okay, Mum!
+Debora
+	Time's getting on, so you'd better hurry up and find us a room. Staying up late is bad for the complexion.
+Debora
+	Yuck! He reeks of drink. You'll never get yourself into a state like that if you value your life, %a000090!
+Debora
+	Yes, you should make yourself stronger, %a000090. We don't want you dragging me and the kids down.
+Debora
+	Can't he do his crying in private? Besides anything else, he's old and he could catch his death out here.
+Debora
+	We need to hurry up and bring peace to the world. I'm starting to get tired of all this travelling.
+Debora
+	I don't tend to feel tired when you're
+	around, actually.
+Debora
+	That's probably because I make you take care of all the hard work, though!
+Debora
+	I've always thought parents tend to go on a bit.
+Debora
+	I still think it now, even though I'm a mum.
+	Mama and Papa definitely worry too much.
+Debora
+	That's why Papa's so bald, you know. You'll have to watch out for that. Our kids are fine, so don't worry about them.
+Debora
+	That reminds me of how Nera used to bury her things and draw treasure maps when she was little.
+Debora
+	Did I do the same? No, but I had a whale of a time digging up her stash! Ha!
+Debora
+	Naturally, Crispin was always the one who dug it up. I wouldn't want to break a nail or anything.
+Nera
+	He's been coming here every day for fifteen years? What a dedicated man!
+Debora
+	He's been coming here every day for fifteen years? He must have plenty of time on his hands, the lucky thing.
+Debora
+	I suppose she's quite pretty.
+	Still not a patch on me, though.
+Debora
+	I suppose the one in the middle is the prettiest.
+	She's still not a patch on me, though.
+Debora
+	I'm sure this old man was much more together when we saw him all those years ago.
+Debora
+	The passing of time can be very cruel.
+Tuppence
+	They say a man is the sum of his achievements, and they're right. I must try harder!
+Debora
+	So he escaped being roped in with the Order of Zugzwang because these ships in bottles made
+	him rich.
+Debora
+	It just goes to show how having a skill can get you somewhere in life. I have you, though, so I don't need to bother with anything like that.
+Debora
+	I suppose you think that's funny, do you, %a000090?
+~ Debora seems rather angry. ~
+Debora
+	Men like him really are a waste of space.
+Debora
+	I wonder how Cleo is getting along back in
+	her hometown.
+Debora
+	What are you thinking of, charging into private rooms as if you owned the place?
+Debora
+	Well, I shouldn't be surprised to see you being so thoughtless. You never think of anyone but yourself!
+Debora
+	What a lovely bright moon! All the better for you to enjoy my beauty by the light of, %a000090!
+%0%a001250
+	I'm feeling...a bit...sleepy too...
+Debora
+	Um... If he sleeps at night, then he's not much of a lighthouse keeper, is he? What a useless creature!
+Debora
+	Is the cat acting as lighthouse keeper?
+	...Surely not!
+Debora
+	The stars are lovely, aren't they? I'm very drawn to pretty things. I suppose like attracts like.
+Nera
+	I used to draw treasure maps when I was his age. I'd even go so far as to bury the treasure myself. He he!
+Nera
+	But it was really very strange. I'd always end up finding the treasure mysteriously back inside my cupboard.
+Nera
+	Debora always said it was the faeries up to their tricks, but now I come to think of it, it was
+	probably her!
+%0%a001240
+	What is it that you can see? I want to have a look!
+Debora
+	ⓗI wantⓘ doesn't get. We're leaving.
+	Understood?
+%0%a001240
+	...Yes, Mum.
+%0%a001240
+	What is it that you can see? I want to have a look!
+Debora
+	ⓗI wantⓘ doesn't get. We're leaving.
+	Understood?
+%0%a001240
+	...Yes, Mum.
+Tuppence
+	What a pity there are no beauties to be seen from here! I thought it would be a prime spot.
+Debora
+	Excuse me, Tuppence, but are you blind?
+	Or are you daring to say that I'm not beautiful?
+Tuppence
+	Um, er, I, er... My dear Queen D-Debora...
+	There's not a s-star in the sky more beautiful
+	than you!
+Debora
+	You know, Tuppence, I've noticed lately that you tend to stutter a lot when you're being honest.

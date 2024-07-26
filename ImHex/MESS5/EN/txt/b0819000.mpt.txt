@@ -1,0 +1,103 @@
+*: 
+	Wayward sheep of the great shepherdess, welcome to this house of the Goddess.
+	How may we help you?
+*: 
+	Welcome to our house of the Goddess.
+	Is something troubling you at this late hour, child?
+*: 
+	Confess all that you have done before the almighty Goddess, child. 
+*: 
+	Would you allow me to record your works in an adventure log?
+*: 
+	Into which adventure log do you wish me to record this?
+*: 
+	In that case, I must overwrite
+	ⓗ%a000660: %0%a000090 %a000240ⓘ.
+	Do you wish me to proceed, my child?
+~ Saving adventure log. ~
+~ Do not turn the power OFF ~
+~ or remove the DS Game Card! ~
+*: 
+	Woe is me! Alas, unhappy day!
+	It appears my attempt to record the adventure log has failed!
+*: 
+	I successfully recorded your adventure log.
+	Do you plan to continue on your adventure at this point?
+*: 
+	You would prefer not to make a record of your adventure? Then so be it. You are free to do as you please.
+*: 
+	Do you plan on continuing your adventure at this point?
+*: 
+	You intend to rest from your adventures without recording your deeds in an adventure log?
+*: 
+	This will mean you will restart your adventure from the point of your last confession. Are you sure this is what you want?
+*: 
+	O great shepherdess, please allow this faithful lamb to rest in peace for a while!
+~                   Bless you, my child. ~
+~              Please turn the power OFF. ~
+*: 
+	The great and benevolent Goddess offers
+	her wisdom...
+*: 
+	The Goddess smiles upon you, %a000060!
+	You appear to be as strong as you can possibly be!
+*: 
+	Faithful servant %a000060.
+	The almighty one declares you need %a000080 experience point%H0080%X%Ys%Z to reach the next level.
+*: 
+	Whom shall we ask the Goddess to return to the world of the living?
+*: 
+	You must be mistaken.
+	%0%a000180 seems rather too lively to be dead!
+*: 
+	If I may... In order to perform this task, I shall require a small contribution of %a000650 gold coins. Can you oblige me?
+*: 
+	O Goddess of light!
+	Our great and benevolent shepherdess!
+*: 
+	If it is your will, please bring your faithful servant, %a000180, back to this world!
+~ %0%a000180 is resurrected! ~
+*: 
+	Whom shall I treat for poison?
+*: 
+	But %a000180 does not seem to be poisoned!
+*: 
+	If I may... In order to perform this task, I shall require a small contribution of %a000640 gold coins. Can you oblige me?
+*: 
+	O great and benevolent Goddess, lend us your awesome power! Please purge the poison from your faithful servant, %a000180!
+*: 
+	From whom do you wish to lift a curse?
+*: 
+	You must be mistaken, my lost sheep.
+	%0%a000180 does not seem to be cursed.
+*: 
+	Ah, it seems that the problem lies not with %a000180, but with %M0070%Xthose equipped items%Ythat equipped item%Z.
+*: 
+	I trust you will be able to remove the %M0070%Xcursed items%Ycursed item%Z without my assistance, child.
+*: 
+	If I may... In order to perform this task, I shall require a small contribution of %a000400 gold coins. Can you oblige me?
+*: 
+	O omnipotent Goddess, reveal your heavenly might! Remove the unholy curse that torments poor %a000180!
+*: 
+	I will not linger over the matter.
+	Just remember, the Goddess smiles upon those who give of themselves.
+*: 
+	I'm afraid I seem to have asked for more than you can part with.
+*: 
+	I see. As you wish.
+	May the Goddess smile upon thee.
+*: 
+	Is there anything else I can help you with?
+*: 
+	May the Goddess be with you.
+	I hope to see you in our church again soon.
+~ The adventure log could not be ~
+~ accessed. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+~ The adventure log could not be ~
+~ saved. Please turn the power OFF ~
+~ and reinsert the DS Game Card. ~
+*: 
+	My prayers have been answered! You have joined us again, %a000120! May the great shepherdess continue to watch over you!
+*: 
+	O Goddess, our great and benevolent shepherdess! Please protect this poor lost sheep!

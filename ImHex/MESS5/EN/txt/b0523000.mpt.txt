@@ -1,0 +1,184 @@
+Bianca
+	So we're finally off to Gotha.
+	Are you ready to leave, %a000090?
+Nera
+	Time for us to make a move at last. There's
+	no need to worry about me. I feel fine after
+	that rest.
+Bianca
+	It's all downhill to Gotha, so hopefully it shouldn't be too tirin' a journey.
+Nera
+	There seem to be an awful lot of monsters about. Do be careful, won't you?
+Bianca
+	Did you see that insignia by the stairs? I wonder if that had somethin' to do with Gotha.
+Nera
+	I can't believe one of Papa's messengers would come all the way out to this cave of all places!
+Bianca
+	He's a bit of a scaremonger, eh? It would help if he told us what happened to him if he's goin' to dish out advice like that.
+Nera
+	It can't be helped. No matter what that man says, we have to keep pushing onwards.
+Bianca
+	Looks like that peddler fell down too, eh? What a pain havin' to go all the way back again.
+Nera
+	Oh dear! That was a bit of a shock! I wonder if there are other places you can't reach unless you take a flying leap!
+Bianca
+	I'm startin' to get used to this jumpin' about the place. We'd better watch out for places where the light shines in, eh?
+Nera
+	Ouch! I think I might've bruised my...er, behind, when we dropped down that last time.
+Bianca
+	I hope we're doin' the right thing, droppin' about left, right and centre. We probably couldn't get back to Battenberg now if we wanted to.
+Nera
+	I don't think I've ever visited a cave that's had me on tenterhooks as much as this one. Travelling isn't all fun, is it?
+Bianca
+	Um, %a000090...
+	I think there's a chance I might be...
+Bianca
+	Um. Never mind.
+	Just forget I said anything.
+Nera
+	Thanks for being so considerate of me and asking how I feel all the time. You needn't worry. I feel fine, honestly.
+Bianca
+	I've totally lost track of what level we're on after all that jumpin' about.
+Bianca
+	Of course! Now would probably be a good
+	time to use that compass. What was it called? The Batten binnacle?
+Nera
+	I was expecting the road to Gotha to be mountainous, but I didn't think it would
+	be all caves.
+Nera
+	I feel totally losⓚⓛ Wait a minute! Maybe that compass we have, the Batten binnacle, would be of some use!
+Bianca
+	There are so many stairs here.
+	We're bound to get lost.
+Nera
+	I'm glad you're here with me. I'm sure I'd never find my way out of here if I were alone.
+Bianca
+	You should be careful not to go droppin' things about the place, %a000090! I dun't remember droppin' that, mind.
+Nera
+	What a nice old man, finding our belongings for us like that. I'm not sure we dropped it in the first place, mind you.
+Bianca
+	%0%a000090! That flowin' dress en't ours! You mustn't tell lies like that!
+Nera
+	You really shouldn't tell fibs like that. It's wicked. You know that flowing dress doesn't really belong to us.
+Bianca
+	Wow! Look at all these things we've got! Just goes to show honesty's the best policy!
+Nera
+	I do hope it's alright for us to take all these things off that old man. Wasn't he generous!
+Bianca
+	That's weird. The stairs down only led here.
+Bianca
+	Oh no! You dun't think we have to climb all the way back up to the top, do you?
+Nera
+	It looks like this is a dead end. I wonder if there's another way out.
+Bianca
+	Huh! I didn't expect to come all this way down only to have to climb all the way back up again!
+Bianca
+	There's all these huge holes all over the place.
+	If only there was some way of knowin' which of them leads to the way out.
+Nera
+	I thought the path to Battenberg was difficult, but this is a whole new story.
+Nera
+	What enormous holes! Surely we're not going to have to jump down one of those too!?
+Bianca
+	Brilliant! Fancy you findin' this!
+Nera
+	You're truly amazing, being able to find something in a place like this!
+Bianca
+	We've come a long way up now. I wonder if we're on the right path.
+Nera
+	I wonder if everyone who travels to Gotha has to suffer this awful journey.
+Bianca
+	Wait a minute!
+	See that peddler over there?
+Bianca
+	I wonder if we went and fell down the
+	wrong hole...
+Nera
+	I'm sure I've seen that peddler before.
+Nera
+	Perhaps we took the wrong path. Or maybe we dropped down in the wrong spot. Either way, it looks like we'll have to try again.
+Bianca
+	Blimmin' marvellous! We finally cracked it!
+Nera
+	What a relief! This was starting to feel like an awfully long journey.
+Nera
+	I don't think my stomach knows where it is after all that dropping about all over the place.
+Bianca
+	Just when you think you're outside again, there's another cave! But the exit can't be far away now.
+Nera
+	Oh dear. Not inside the cave again! I'm sure the exit isn't far away now, though.
+Bianca
+	Do you think Sancho could be our Sancho?
+	We have to find out! Come on, %a000090!
+	Let's hurry to Gotha!
+Nera
+	Does the name Sancho mean something to you?
+	It seemed to strike something of a chord...
+Debora
+	The journey should be much easier now we've crossed that flimsy bridge and we're on the
+	downhill path.
+Debora
+	I don't think it's very good for the skin, all this trudging about in places like this.
+Debora
+	You will protect me if it comes to it, won't you, %a000090? I take care of you the rest of the time.
+Debora
+	It's all very well him saying it's too dangerous, but we don't have any choice but to keep going.
+Debora
+	Just keep going, %a000090. Have no fear!
+	You lead the way, okay?
+Debora
+	Ouch! Why didn't that peddler warn us that that would happen?
+Debora
+	You'd have had to have serious words with him if I'd hurt one of my lovely feet, wouldn't you, %a000090?
+Debora
+	I do hope you're not just jumping about the place for the sheer fun of it.
+Debora
+	I'm sure I'd never have found myself having to fight off monsters in caves if I hadn't married you.
+Debora
+	Not that I regret it. No, I'm having a whale of a time.
+Debora
+	You know... I think I might be...
+	Never mind. Let's keep going.
+Debora
+	Have you any idea where we are, %a000090?
+Debora
+	In fact, haven't you got that thing from Battenberg? You know, that thing that tells you the way.
+Debora
+	I don't take kindly to men who are slow on the uptake, so hurry up and figure out where we are.
+Debora
+	If you get discouraged, I'll always spur you along.
+	Not that I know the way, mind you.
+Debora
+	Oh! How did you manage that?
+	I always knew you were a scatterbrain.
+Debora
+	You weren't lying just then, were you?
+	I don't forgive liars.
+Debora
+	I knew you were honest. You were true to your feelings and chose to marry me, after all.
+	Do you think he really did find all those things?
+Debora
+	Are you lost? Never mind. At least your life's on the right track since you chose to marry me.
+Debora
+	I always thought Papa making me live on the top floor of the house was bad enough.
+Debora
+	But we've probably done the equivalent of the stairs up and down to my old room more than a hundred times here alone!
+Debora
+	Do you think we really have to jump down one of those holes? Go slowly, okay? If that's even possible.
+Debora
+	Not bad. It was quite clever of you to find this place along the way.
+Debora
+	We've climbed so far. This puts my moaning about all the stairs up to my old room into perspective.
+Debora
+	Well done. You've gone and brought us back to the same place.
+Debora
+	Still, I suppose it's not all bad. You quite enjoy flinging yourself down those holes, don't you?
+Debora
+	I feel all exhilarated. A bit like how you feel when you learn how to do something for the first time.
+Debora
+	Not more caves! I've had enough spelunking to last me a lifetime. Still, hopefully it's not too far.
+Debora
+	Do you know this Sancho man? I'm sure he'll be nice. Prince Harry was lovely too.
+Debora
+	In fact, everyone you know is nice.
+	Is that by luck or design?

@@ -1,0 +1,103 @@
+%0%a001240
+	This place is huge. Fancy being able to
+	fit a whole ship inside!
+%0%a001240
+	The breeze tastes all salty. I suppose it's always like this by the sea.
+%0%a001240
+	Do you think someone made this? Or do you think it's natural? It's amazing, don't you think, Dad?
+%0%a001250
+	It's pitch black, but you can still see the waves glistening. How pretty!
+%0%a001250
+	Someone's calling us... They don't want us now.
+	They say to come later.
+%0%a001250
+	I can hear the waves coming crashing in.
+	What a sound!
+Sancho
+	Ees no need to worry een here. Eef we are lost, we have the eseafood all around. We can make the paella! Sí, ees a good idea, no?
+Sancho
+	Maybe, when we finally reach the end of thees tunnel, we come to a new world, no?
+Sancho
+	Don't you theenk eso too, friend?
+	Maybe the world full of paella!
+Sancho
+	Esometimes een the dark, you can esee the hands.
+	But who ees the owner of these hands, eh?
+Sancho
+	Ees no like the normal cave. Thees place, eet has the feeling of the cathedral or the waiting room of the medic. Ees no place for a fiesta, eh?
+Tuppence
+	............
+Tuppence
+	Oh! Sorry! I was totally taken up with
+	looking at the scenery.
+Tuppence
+	You can see a faint blue light in the darkness.
+	What an odd cave this is!
+Bianca
+	This place is certainly big enough. There's not many a cave you can sail a ship through.
+Bianca
+	Look how high the ceilin' is as well! This place dun't feel anythin' like any other caves I've bin in.
+Nera
+	It's funny feeling a breeze from outside even though we're in a cave. It's a nice feeling.
+Nera
+	I can't explain it, but it feels like this cave doesn't try to shut people out.
+Bianca
+	I wonder what this place is. It feels almost like a temple or somethin'.
+Nera
+	What do you suppose this place is? It looks almost like a temple or a shrine.
+%0%a001240
+	This looks like the entrance to a shrine or something.
+	I wonder what kind of key you need to get inside.
+%0%a001250
+	I'm sensing that there's something mysterious inside. What do you think it could be?
+Sancho
+	Ees no gonna open, eh? First you must ask around for information. Maybe you weell find esometheeng about unlocking eet.
+Bianca
+	This must be Estuary Sanctuary. That means we're finally at the place where you can open the doors to Nadiria...and your mother.
+Nera
+	This has to be Estuary Sanctuary. It's time, darling.
+%0%a001240
+	What do you think that statue's all about, Dad?
+	It's a bit odd, don't you think?
+%0%a001240
+	Grandma said we mustn't come, but that doesn't mean we'll get told off if we do, does it?
+%0%a001240
+	She won't end up hating us or anything, will she?
+%0%a001250
+	I don't like this place.
+	There's lots of nastiness in the air.
+Sancho
+	Thees ees eet, My Majesty! Ees the place we have been looking for, I am esure!
+Sancho
+	Now remember what Uncle Sancho, he always tell you, friend. Check you have no forgotten esometheeng important.
+Tuppence
+	The sound of the water running by is
+	almost deafening.
+Tuppence
+	I wonder what lies ahead of us now...
+%0%a001240
+	I wonder why the statues have their arms stretched out like that. Hey! You don't think...
+Bianca
+	Those doors to the underworld... Just lookin' at them gives me the willies.
+Nera
+	So we've finally opened the doors to Nadiria.
+	I can already sense an ill-omened air.
+%0%a001240
+	The entrance at the waterfall... There it is, Dad.
+%0%a001250
+	Um, Dad... Are we going through? Or aren't we?
+Debora
+	I thought all caves were as bad as each other, but this place is actually quite pleasant.
+Debora
+	It doesn't look like this cave is natural, but who would build something like this and why?
+Debora
+	I'll never understand why anyone would go to the effort of building a cave. It's such a waste of time and money.
+Debora
+	How irritating that we can't go inside!
+Debora
+	You'll have to find a key so we can open it up, %a000090.
+Debora
+	This has to be Estuary Sanctuary.
+	Come on, %a000090. Follow me!
+Debora
+	So the entrance to Nadiria is open. Come on, %a000090. This is what we've been waiting for.

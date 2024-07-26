@@ -1,0 +1,77 @@
+*: 
+	Welcome to the item shop.
+	How can I serve you?
+*: 
+	What would you like to buy?
+*: 
+	Sorry, but you don't seem to have enough money with you.
+*: 
+	%0%a040100? Your custom's most appreciated.
+*: 
+	%H0840%X%0%a040100%Y%a000840 %a010100%Z?
+	Thank you very much.
+*: 
+	You might want to try using %H0840%X%M0100%Xthem%Yit%Z%Yone of them%Z as an item during battle!
+*: 
+	Who's going to carry the goods?
+*: 
+	Well, there's always room in your bag!
+*: 
+	You can't carry any more items, %a000180. Would you like me to reorganise what you've got?
+*: 
+	All done. I've sorted things out for you!
+*: 
+	Unfortunately, you're carrying a lot of important items, %a000180. I can't mess with them!
+*: 
+	Can someone else carry the goods?
+*: 
+	Would you like to equip %M0100%Xthem%Yit%Z right away?
+*: 
+	I'm sure %M0100%Xthey'll%Yit'll%Z be just perfect for your needs.
+~ %0%a000180 equips %a020100! ~
+*: 
+	You can't equip this particular item, %a000180. Do you still want it?
+*: 
+	Here you are, %a000180!
+*: 
+	I'll just place the goods in %a000180's coffin.
+*: 
+	Okay. I'll make sure the goods get to %a000180 in the wagon, then.
+*: 
+	I'll put the remaining item%H0880%X%Ys%Z in your bag, then.
+*: 
+	Can I help you with anything else?
+*: 
+	Who has something to sell?
+*: 
+	Oh dear. I'm afraid you don't seem to have a single item to your name there, %a000180.
+*: 
+	Um, I'm afraid your bag appears to be empty.
+*: 
+	%0%a040100? I don't think you should part with %M0100%Xthem%Ythat%Z.
+*: 
+	You know, you can always put things you don't use very often in your bag if you feel like they're in the way.
+*: 
+	If you sell %H0840%X%M0100%Xthose%Ythat%Z%Ythose%Z, you might never be able to get %H0840%X%M0100%Xthem%Yit%Z%Ythem%Z back. Are you sure you want to do this?
+*: 
+	I'll take %M0100%Xthose%Ythat%Z %a000100 off your hands for %a000620 gold coin%H0620%X%Ys%Z. Okay?
+*: 
+	How many would you like to sell?
+*: 
+	So you want to sell me %H0840%X%a040100%Y%a000840 %a010100%Z? I'll take %H0840%Xit%Ythem%Z off your hands for %a000620 gold coin%H0620%X%Ys%Z. Okay?
+*: 
+	That's a shame...
+*: 
+	It amazes me to say this, but you can't carry any more gold!
+*: 
+	Why don't you buy something from me first?
+*: 
+	A pleasure doing business with you!
+*: 
+	Would you like to sell anything else?
+*: 
+	Is there anything else I can help you with?
+*: 
+	Come again any time!
+*: 
+	How about a tombola ticket as a little thank you? I'll put it in your bag for you, alright?

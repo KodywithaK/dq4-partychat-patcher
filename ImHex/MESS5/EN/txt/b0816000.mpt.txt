@@ -1,0 +1,17 @@
+*: 
+	Welcome to our inn, weary %H0860%Xtraveller%Ytravellers%Z!
+*: 
+	Welcome to our inn, weary %H0860%Xtraveller%Ytravellers%Z!
+*: 
+	It must be tiring for you travelling alone.
+	Our rate is %a000510 gold coins per night.
+	Would you like to stay?
+*: 
+	I hope you enjoy your stay.
+*: 
+	I trust you had a good night's sleep.
+	May the fortunes of battle be with you!
+*: 
+	Oh dear! It looks like you don't have the necessary funds.
+*: 
+	Well, take care on your travels now, won't you?

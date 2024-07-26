@@ -1,0 +1,137 @@
+%0%a001240
+	Do you think he's just going to give up? I'd never give up having got this far!
+%0%a001250
+	It didn't look like that man had a flying carpet.
+	I wonder how he managed to get here.
+Tuppence
+	That treasure's ours!
+	Er, I mean, yours, %a000090.
+%0%a001240
+	Oh! So Zenithia's at the bottom of a lake now?
+	So much for it being a castle in the sky!
+Sancho
+	Thees man, he ees Zenithian, no?
+Sancho
+	You remember the Zenithian señora een Gotha?
+	Eshe, eshe be eso happy that we esee thees man here! Ees wonderful news for her!
+%0%a001250
+	I'm quite good at using staffs. Let me try it out, Dad!
+Tuppence
+	The stairs leading up cut off just there. I wonder if there really used to be a castle at the top of them.
+%0%a001240
+	Hey! Where did that old man go? Do you think he went home to the sky?
+%0%a001250
+	Was that old man a ghost? He wasn't at all scary.
+Tuppence
+	It would've been helpful if he could've told us which lake the castle is in before he disappeared like that.
+Sancho
+	Ees okay. Een thees world, there are no eso
+	many lakes. We visit them all, and we find
+	thees castle, sí?
+%0%a001240
+	What an amazing tower! It really does feel like it reaches up to the sky!
+%0%a001250
+	Make sure you guide me, won't you, Dad? I'm walking with my eyes shut, you see!
+Sancho
+	When you are climbing eso high up, ees important to eswallow sometimes.
+	Otherwise your ears, they estart to hurt.
+Tuppence
+	Are you sure this tower is perfectly safe? It won't collapse while we're climbing, will it?
+%0%a001240
+	There are so many pillars here! I wonder how many there are exactly...
+%0%a001250
+	Um... This is basically the first floor, right?
+	So why is it so high?
+Sancho
+	Uf! Tomorrow, we wake up esteeff like the estale tortilla, eh?
+Tuppence
+	I'm fine with high places after all my time working as a castle guard. So let's just keep on climbing!
+%0%a001250
+	Yikes! The floor's all cracked. You don't think it'll collapse, do you?
+Tuppence
+	I'd be completely lost by now if I were here
+	on my own. Thank the Goddess you know the
+	way, %a000090!
+%0%a001240
+	Don't worry about monsters jumping out on us.
+	I can handle them!
+%0%a001250
+	It's in a bit of a state now, but it's quite a pretty tower. Or is that a silly thing to say?
+Sancho
+	Hahh...hahh...
+	Ees...hahh...getting hard to...hahh...breathe, no?
+	Hahh...hahh...
+Tuppence
+	I must say that I'm delighted you've been able to bring me to so many different places, %a000090.
+%0%a001240
+	It really helps to have people fighting alongside
+	you, don't you think? That's why I feel like I can handle anything.
+%0%a001250
+	It's nice to be able to see up into the sky from here. But it's annoying not to be able to look down!
+Sancho
+	More estairs!? You know Sancho, he no like heights eso much... I estart to feel dizzy.
+Tuppence
+	Good heavens! What an incredible view. The only thing around us now is sky.
+%0%a001240
+	Hey! Are we at a dead end?
+Sancho
+	Ees no time for siesta, friend? Your Uncle Sancho, he no eso young these days, you know.
+%0%a001250
+	I'm a bit tired after all that climbing up and down.
+Tuppence
+	Hm? What is it we're doing here again?
+%0%a001240
+	Wow! We're so high up!
+	Look, Dad! Look at that view!
+%0%a001240
+	I hope we get to show Mum this place sometime too.
+Sancho
+	When the ground...hahh...ees flat...hahh...I feel...hahh...eso young...hahh...
+	Here, I am feeling old...
+%0%a001240
+	Ouch! My neck really hurts now after all that craning to look up at the top of the tower.
+%0%a001250
+	We're finished here now, right? Can we go, then?
+	I'm not very good with heights.
+Sancho
+	Ees more easy for losing your feets on the way down. You must be careful.
+Tuppence
+	I imagine it would be rather nice to have a picnic at the top of the tower here. Delightful, in fact!
+Bianca
+	So this is the tower to Zenithia? It's a bit of a mess, but I s'pose it's pretty impressive considerin' its history and all that.
+Nera
+	So this tower used to connect to Zenithia? I wonder how many heroic people climbed it in the past.
+Bianca
+	En't you got that treasure already, %a000090?
+Bianca
+	Then you should've told him, the poor bloke!
+	That was a bit mean of you.
+Nera
+	Oh dear! Fancy giving up after coming this far!
+%0%a001240
+	He was talking about the magma staff, right? Don't you think we should tell him we already found it?
+Bianca
+	I'll bet the legendary hero climbed this tower,
+	you know.
+Nera
+	I'm not usually very good with heights, but I don't mind this place. It doesn't seem to bother me for
+	some reason.
+%0%a001240
+	It'd be nice to fix this place up and have it looking all grand again.
+%0%a001250
+	I usually try my best not to say anything too babyish. But I'm going to say this anyway...
+%0%a001250
+	You won't stop liking me, will you, Dad?
+Sancho
+	Hahh...hahh...
+	Ees...hahh...getting hard to...hahh...breathe, no?
+	Hahh...hahh...
+Sancho
+	You know, weeth señor Pankraz, I am travelling all over the world. But the estrange places, estill there are eso many.
+Tuppence
+	Ooh, do be careful where you walk!
+	It's rather treacherous underfoot.
+Debora
+	What a waste, giving up so easily after making it all this way!
+Debora
+	This place was probably quite spectacular in its day. It's in a terrible state now, though.

@@ -1,0 +1,187 @@
+Bianca
+	So we're finally here in Gotha.
+	It was a long old journey, eh?
+Bianca
+	I wonder why they've got walls all 'round the castle like that.
+Nera
+	So this is Gotha. We're here in your birthplace at last. It's been quite a journey to get here.
+Nera
+	It's certainly an impenetrable-looking castle.
+	I wonder what it's like inside.
+Bianca
+	We can't prove it yet, eh? He'll be in for a shock when he finds out you are royalty, though!
+Nera
+	How frustrating! We can't argue with him at the moment, but the truth is that you really are royalty!
+Bianca
+	Looks like we can't get any further, then. We'll have to try another route.
+Nera
+	The King is probably just inside. How frustrating not to be able to reach him.
+Bianca
+	She's got a bit of a mouth on her, but bein' a princess alone is enough to impress me.
+Nera
+	That poor princess seems rather down in the dumps. Still, I think I can imagine how she must feel.
+Bianca
+	The more things we hear, the harder it is to forget we're here in your birthplace, eh, %a000090?
+Nera
+	We should try to find this Sancho character, then.
+	It sounds like he's somewhere in the castle.
+Bianca
+	Wow! This place is amazin'! There's a whole town inside the castle walls!
+Bianca
+	There's prob'ly some folk here who know about you, %a000090. We should talk to as many of 'em as we can.
+Nera
+	So the town is inside the castle walls. I must say, it's a lovely place, with all its gardens and light spaces.
+Nera
+	Let's try talking to as many people as we can.
+	We might just find someone who remembers you.
+Bianca
+	Hearin' him say that really brings it home to me that we've made it here to Gotha at last!
+Nera
+	So we've finally made it to Gotha. Thank the Goddess we were able to get here safely.
+Bianca
+	D'you think King Pankraz was really your dad, %a000090?
+Bianca
+	It's a bit hard to get your head 'round it all, eh?
+Nera
+	King Pankraz must've been quite a man to go to such trouble to ensure the safety of his people.
+Bianca
+	Sounds like they all got tired of waitin' for the old king to come home, eh?
+Nera
+	I wonder what kind of character this Prince Albert is. I do hope he's not a bad sort.
+Bianca
+	A craftsman, eh? It's funny that he left the castle like that. He must've bin ever so attached to
+	King Pankraz.
+Nera
+	A god among jewellers? This must be a good place to live if they've had people of that kind of calibre here.
+Bianca
+	What a funny little boy! It could've bin fun to take him along with us if only he was a bit older.
+Nera
+	By the time he's grown up and become a soldier,
+	we'll be middle-aged.
+Bianca
+	I second that! If I was a mum, I'd be sayin' exactly the same thing.
+Nera
+	I couldn't agree more. I hope our children never have to experience battles and danger like we've had to.
+Bianca
+	If it's the same Sancho as our Sancho, I'll bet he was in the church the whole time prayin' you'd be safe, %a000090.
+Nera
+	In church every day? Maybe he was praying someone dear to him would come home safe
+	and sound.
+Bianca
+	We'd better try and find this Sancho character a bit sharpish. Come on!
+Nera
+	I wonder where we have to go to find this
+	Sancho fellow.
+Bianca
+	Ten thousand gold coins? That's a bit neither here nor there, eh? Not a fortune, but not somethin' to be sniffed at neither.
+Nera
+	It looks like the new king did what he could to try to find the missing royal couple.
+Bianca
+	I can understand folk wantin' to remember King Pankraz, but they're goin' to have to move on
+	sooner or later.
+Nera
+	It's not good for people to be so resistant to
+	the truth.
+Nera
+	I'm sure King Pankraz wouldn't want him to be living in the past like that.
+Bianca
+	I wonder what this Albert character's like.
+	I'm startin' to get a bit worried now.
+Nera
+	Does that mean King Albert has no dreams, then?
+	It doesn't sound like he's very popular, does it?
+Bianca
+	Did you see that!? She had wings on her back!
+	D'you think they were real? Just what kind of a character was she!?
+Nera
+	I think that lady was probably a Zenithian. I've read about them in the past.
+Nera
+	I never imagined I'd ever meet one in the
+	flesh, though.
+Bianca
+	Sounds like Queen Mada was a lot like you, if she was the sort to keep a slime as a pet!
+Nera
+	Did you see that slime? He has the same kind of look in his eyes as the monsters you've befriended.
+Bianca
+	That's a shame. Dun't look like we're goin' to get any further this way.
+Nera
+	Oh well. We'll just have to try somewhere else.
+Bianca
+	Researchin' Zenithia, eh? King Pankraz was certainly a man of many secrets.
+Nera
+	I wonder why King Pankraz was carrying out research on Zenithia.
+Nera
+	If only that were clear, then there might be a way of putting the results to good use.
+Bianca
+	Do you know how to play?
+Bianca
+	Really? When did you learn that? Oh right, Pankraz taught you when you were little, eh?
+Bianca
+	Me neither. I wonder if it's really as much fun as it's cracked up to be.
+Nera
+	I remember watching Mama and Papa play that a
+	long time ago. I'm afraid I've no idea what the rules are, though.
+Debora
+	It's fairly impressive as castles go.
+Debora
+	There are probably people here who know you.
+	Let's hurry up and go inside.
+Debora
+	I can't wait to see his face when he finds out who you really are!
+Debora
+	Well there's no point in just hanging around here forever. Let's move on.
+Debora
+	I think I could probably get on with her.
+Debora
+	If this Sancho's a friend of yours, we should go and hunt him out.
+Debora
+	There's a whole town inside the castle walls.
+	It's quite an interesting place by all accounts.
+Debora
+	I wonder if there's anyone who knows you here.
+	You may not recognise them, but maybe they'll recognise you.
+Debora
+	I'm tired after all that trekking in the mountains.
+	I wouldn't mind a bit of a rest.
+Debora
+	This is great. You can even shop here in the rain without getting wet.
+Debora
+	It doesn't seem to have done the place any harm not having a king all these years.
+Debora
+	I don't really see the need for them to have bothered having someone take his place.
+Debora
+	I remember Papa telling me that story once.
+Debora
+	I thought about having him make me something.
+	I wonder if his son's any good.
+Debora
+	He seems nice and obedient. If he's lucky, I'll hire him as a servant when he's older.
+Debora
+	That's the reason why you have to get on and find the legendary hero.
+Debora
+	He's probably sick of the sight of the place.
+	Three days would be about my limit.
+Debora
+	I doubt that Sancho character will turn up here.
+	We should go and look for him somewhere else.
+Debora
+	Only a measly ten thousand gold coins for whoever finds the King?
+Debora
+	That's nothing! I certainly couldn't be bothered to go looking for him for that paltry reward.
+Debora
+	Why do some people have to insist on living in the past? This is why I always find old folk so annoying.
+Debora
+	I should think it's more important for a king to be realistic than to be forever chasing dreams.
+Debora
+	I think she was probably a Zenithian. I saw a picture of one before in a book of Papa's.
+Debora
+	I wonder what a Zenithian would be doing here in Gotha.
+Debora
+	So you're not the only one who can befriend monsters then.
+Debora
+	The soldiers' quarters are bound to be filthy anyway. Nothing in there of interest to us.
+Debora
+	Surely he can figure that out for himself rather than just moaning about it.
+Debora
+	Mama and Papa used to play that a lot.
+	I was never interested myself.

@@ -1,0 +1,573 @@
+~ The doors are locked tight and won't budge. ~
+~ The doors are locked tight... ~
+~ ...but %a000090 uses the secret knowledge of ⓗLots about Locksⓘ and opens them! ~
+*: 
+	Who are you? And whad d'you wand wid da White Dwarf? Hm? No, not Dwight Dwarf... Da White Dwarf! Ahchoo!
+Dwight
+	I suppose you're one of Treacle's lot, come to (sniff) ged dat Herald of Sprig flute back, are you?
+Dwight
+	Well you can tell Treacle it's da White Dwarf she's dealigⓚⓛ
+	Hey! It's da White Dwarf, not Dwight Dwarf!
+Dwight
+	So if you want da flute back, come and ⓚⓛ Ahchoo! ⓚⓛ ged it!
+Dwight
+	Come back for more, huh?
+	No one wins against da White Dwarf!
+	Ahchoo!
+Dwight
+	You can tell Treacle dat too...once I've beaden you ub!
+Dwight
+	So if you want da flute back, come and ⓚⓛ Ahchoo! ⓚⓛ ged it!
+Dwight
+	Drat! Dat's nod fair!
+	You're doo strong!
+Dwight
+	Whad? Id wasn't Treacle who drew grandad out of Faerie Lea?
+Dwight
+	But da Winter Queeⓚⓛ
+The Winter Queen
+	Kah ha ha ha hah!
+	I see we have %H0860%Xa visitor%Yvisitors%Z! Wonderful!
+The Winter Queen
+	So rude of me to leave a child in charge of reception. Even if he is a wannabe superhero!
+The Winter Queen
+	I do apologise. But I assure you,
+	I'll make up for it now.
+	Kah ha ha ha hah!
+~ The Winter Queen suddenly turns into a monster! ~
+Dwight
+	It's you again!
+	I...urgh...
+The Winter Queen
+	Kah ha ha ha hah!
+	I do hope my hospitality last time was to your satisfaction.
+The Winter Queen
+	And now I'll be more than happy to entertain you again!
+The Winter Queen
+	Ah! Aaaargh!
+	My body! I'm burning up!
+	Aaaargh...
+Dwight
+	Ahchoo! Dat was a surprise.
+	I had no idea da Winter Queen was an evil monster.
+Dwight
+	She tricked me. She tricked da White Dwarf!
+Dwight
+	Uh-oh! I'll be in trouble now. Grandad'll be furious!
+	I bedda ged back to da cave... (sniff sniff)
+Dwight
+	Oh, yeah! I nearly forgot...
+	Da Herald of Spring's in dat treasure chest dere.
+Dwight
+	You'd bedda take id back to Treacle, I suppose.
+	Da White Dwarf reigns supreme!
+	Ahchoo!
+*: 
+	You found the Herald of Spring for Treacle?
+*: 
+	That's amazing! You're amazing!
+	I'm amazed! Tee hee hee!
+*: 
+	So it was the Winter Queen behind it all from the very beginning? I wonder who she is...
+*: 
+	So all the snow will goo away now?
+	Thank the Gooddess!
+*: 
+	Boing along and give Treacle the flute, then. Or you'll be accoozed of dawdling.
+*: 
+	So someone was trying to freeze us all into early graves, were they?
+*: 
+	Well I hope this is the end of all the trouble now. I'd hate to think it was the start of even bigger problems...
+*: 
+	You're certainly brave for a young'un. So this long winter's finally drawing to a close, eh? Better get down to business then...
+*: 
+	Unbelievable! You really did get the Herald of Spring back!
+*: 
+	There's more to you than meets the eye!
+*: 
+	Aaah, nothing like a good soak! Some people go wrinkly if they stay in too long, but not me!
+*: 
+	Have you ever heard of the underworld? Brrr, it's cold down there. Bone-rattlingly cold!
+*: 
+	I don't want to go back there. Not ever!
+	They don't have baths in the underworld!
+*: 
+	I hadn't had a customer in such a long time, I thought spring had come early when you first came to Faerie Lea.
+*: 
+	And now it has come. But you're going, I suppose. Spring's arrived, and my only customer's leaving! Best not waste any time, eh?
+*: 
+	Treacle sees everything. She was watching when you fought the Winter Queen.
+*: 
+	You saved us and our faerie world.
+	Thank you, %a000090.
+*: 
+	Oh, my! You got it back! The Herald of Spring!
+	I suppose humans have their uses sometimes.
+*: 
+	The faeries are responsible for the passing of the seasons.
+*: 
+	If winter had gone on much longer, the world might have frozen over completely.
+*: 
+	The view from here in springtime is breathtaking.
+*: 
+	As soon as Treacle blows the Herald of Spring, a warm breeze will bring all the pretty little petals and buds of the new season.
+*: 
+	Now we can call spring like we're supposed to. Thank you, %a000090.
+Treacle
+	Spritely saints! The Herald of Spring!
+Treacle
+	Come, %a000090.
+	Let me take a good look at your face...
+Treacle
+	We couldn't have asked for more from anyone, %a000090.
+Treacle
+	At last I can fulfil the duty of the faeries: to call an end to this long, harsh winter and summon spring into the world.
+Treacle
+	I really don't know how we can thank you.
+	Except, perhaps, to promise you this...
+Treacle
+	If you ever find yourself in trouble ⓚⓛ when you are a little older, I mean ⓚⓛ come to our land again.
+Treacle
+	We will do whatever we can to repay you for your bravery. So remember us, %a000090.
+Treacle
+	And now it's time for you to return to the world where you belong.
+Honey
+	%0%a000090! I'll never forget you!
+Honey
+	Here. Have this so that you never forget me either.
+~ %0%a000090 receives a branch. ~
+Honey
+	Tee hee hee! Were you expecting something better?
+	Don't worry, it's only withered now because of the cold.
+Honey
+	Once spring comes, it'll be bursting with hundreds and hundreds of pretty little flowers.
+Honey
+	Goodbye, %a000090.
+	Take care.
+~ Treacle puts the Herald of Spring gently to her lips... ~
+Sancho
+	Eh, friend! Where you been?
+Sancho
+	A messenger came from Coburg Castle when you were away. Your papá, he ees already on hees way there.
+Sancho
+	He wanted to take you weeth heem, but he could no find you anywhere.
+Sancho
+	But he only leave a few moments ago.
+Sancho
+	Eef you hurry, maybe you catch up weeth heem. Go now, rápido!
+Sancho
+	Eh, friend! Wait!
+	Esometheeng fell out of your pocket...
+Sancho
+	Look! Ees a beautiful blossom!
+Sancho
+	Sí, ees a leettle warmer now. All the pretty flowers, they gonna be bursting eento life.
+Sancho
+	I put eet een your room, okay?
+	Ees gonna make a nice ornament, no?
+Sancho
+	Okay, friend. Leave eet to me. Now hurry, or you
+	no catch up weeth your papá.
+Sancho
+	No? Okay, friend. But remember, esometheeng eso beautiful, eet needs looking after, uh? Now, go find your papá!
+Sancho
+	A messenger came from Coburg Castle when you were away. Your papá, he ees already on hees way there.
+Sancho
+	He wanted to take you weeth heem, but he could no find you anywhere.
+Sancho
+	But he only leave a few moments ago.
+Sancho
+	Eef you hurry, maybe you catch up weeth heem. Go now, rápido!
+*: 
+	Aah. Maybe it's just my imagination, but it feels a bit warmer all of a sudden.
+	Perhaps spring's here at last.
+*: 
+	It's extremely dangerous outside of the village. You be a good boy now and go back home where you'll be nice and safe.
+*: 
+	Sorry? Have I seen Pankraz leavin' town?
+	Well, no. I can't say I have.
+*: 
+	It certainly seems to be gettin' warmer. Hopefully now I'll finally be able to get my crops a-growin'.
+*: 
+	Hey! Where did you get that stone, boy? Find it at the bottom of the well, did you?
+*: 
+	I went huntin' about in the cave back in my younger days, lookin' for some of them famous Whealbrook bluestones.
+*: 
+	Ah, yes. I remember pokin' about them big
+	rocks hopin' for a sign of some ore. It doesn't
+	half take me back.
+*: 
+	It certainly seems to be gettin' warmer. Hopefully now I'll finally be able to get my crops a-growin'.
+*: 
+	I'll be needin' some water from the well before long, I'd say.
+*: 
+	Meow!
+*: 
+	Whealbrook here's only a tiny village. If it's castles and the like you're after, you'll have to go to Coburg. Off to the east, it is.
+*: 
+	You're Pankraz's son, if I'm not mistaken.
+*: 
+	This might just be hearsay, but it sounds like he's got an almighty enemy out there somewhere.
+*: 
+	If only you were more grown up, you'd be able to help him out.
+*: 
+	You're not thinkin' of explorin' that cave again, are you? Your father was lookin' for you, you know.
+*: 
+	You should forget about the cave and go and see what it is he wants.
+*: 
+	Hm? You need to look for somethin' in there, you say? Well, what are you goin' to do if he ends up leavin' without you?
+*: 
+	You worry about what's in the cave after you've been and seen your dad. Go on now, run along!
+*: 
+	Ah, hello there, %a000090. I was just prayin' for your father's safety on his journey.
+*: 
+	The King of Coburg's got a bit of a cheek, summonin' your father without so much as a by your leave.
+*: 
+	If he's the one who wants to meet, then he's the one who should go trekkin' across country to do it!
+Pankraz
+	There you are, %a000090.
+	Where have you been? I've been looking all over for you.
+Pankraz
+	Never mind. It doesn't matter now.
+	I was just saying a prayer before setting off again.
+Pankraz
+	You should do the same. I'll be waiting for you at the town entrance.
+*: 
+	I hear Pankraz has bin summoned over to Coburg Castle.
+*: 
+	He's more than a little bit famous around these parts for how strong he is, so I s'pose that's why they want him.
+*: 
+	Oh, not again! Someone's gone and written something strange here in my guest book.
+*: 
+	Now what's this all about...
+*: 
+	ⓗThank you so much, %a000090.
+	Can't wait to meet again one day!
+	Sweet wishes, Honeyⓘ
+*: 
+	What a load of nonsense!
+*: 
+	So you're Pankraz's son are you, boy?
+*: 
+	Come to think of it, I seem to remember there bein' a King Pankraz of somewhere or other once.
+*: 
+	Not that that has anythin' to do with your dad, of course!
+*: 
+	My old man found the glass he was after, but it doesn't look like the thing Pankraz is lookin' for is so easily found.
+*: 
+	I heard it was somethin' to do with a legendary hero or the like.
+*: 
+	Sorry! Listen to me, borin' a kid with grown-up stuff like that!
+*: 
+	Dear, oh dear, oh dear! Not another empty pot!
+*: 
+	This is all very odd!
+*: 
+	I decided to have a feast. That's what the old dragon thought I'd done anyway, so I may as well get some pleasure out of the ear-bashin'!
+*: 
+	If only I was as good as my old man at makin' medicine. One of these days...
+Mr Rockefeller
+	So Pankraz has been called to Coburg Castle, eh?
+Mr Rockefeller
+	There's all sorts of kerfuffle there at the moment about who's goin' to succeed to the throne. You want to be careful.
+Pankraz
+	All done, %a000090?
+	Good, then we'll get going. I've been summoned to Coburg Castle.
+Pankraz
+	Don't worry, it's not too far. Nothing like the long sea voyage I took you on before.
+Pankraz
+	And once this little trip's over with, I think we'll settle down for a while.
+Pankraz
+	I've put you through enough. It's time you had a bit of fun, don't you think?
+Pankraz
+	Right, then! Let's be off!
+*: 
+	Have a good trip, Pankraz!
+Pankraz
+	I am Pankraz Gotha of Whealbrook.
+Pankraz
+	I've been summoned by King James, and am on my way to Coburg Castle at his request. Please allow me to pass!
+Checkpoint Charlie
+	Ah! So you're Pankraz, are you?
+Checkpoint Charlie
+	I had word that you'd be coming. Please pass on through!
+Pankraz
+	We'll be in the Kingdom of Coburg before long, %a000090.
+Pankraz
+	People say the view of the river from up top is quite something.
+Pankraz
+	Come on! We don't have much time, but it'll be fun to go and have a look.
+Pankraz
+	Here we are. Let's see...
+Pankraz
+	Erm... I hope you don't mind my asking, but are you alright there, old man?
+*: 
+	Oh yes. Don't mind me. I'm just watching the river go by and thinking about what the future holds for our kingdom.
+Pankraz
+	I see... Well, be careful not to catch a cold from standing up here too long.
+Pankraz
+	Do excuse us!
+Pankraz
+	We must hurry! We're supposed to be in Coburg by now!
+*: 
+	Halt!
+	What business do you have in Coburg Castle?
+Pankraz
+	My name is Pankraz. I was summoned from Whealbrook by the King.
+*: 
+	Ah! My apologies, good sir.
+	The King is expecting you.
+*: 
+	Please, follow me.
+*: 
+	Your Majesty!
+	Pankraz of Whealbrook requests an audience.
+King of Coburg
+	Thank you. I will see him.
+	You may leave.
+*: 
+	At once, Your Majesty!
+King of Coburg
+	Well, Pankraz. Your reputation precedes you.
+	I have heard much about your bravery.
+King of Coburg
+	As such, I have summoned you here to ask you a favour...
+	I, er... Ahem!
+King of Coburg
+	Please, approach the throne.
+	Guards, dismissed!
+Pankraz
+	It'll be incredibly dull for you just standing there, %a000090.
+Pankraz
+	I'm sure His Majesty wouldn't mind if you looked around the castle. It's a fine opportunity for you.
+Pankraz
+	We'll have finished our discussion by the time you get back.
+King of Coburg
+	So this is the son of the brave Pankraz?
+	Hm, you have your father's eyes, boy.
+	Good, honest eyes.
+*: 
+	These are His Majesty's personal
+	chambers, lad.
+*: 
+	If you want a place to play, you'll have to look elsewhere.
+*: 
+	Ah, there's nothing like the breeze up here on top of the castle! It almost sends...you...to sleep...
+*: 
+	Argh! I've had about as much of Prince Harry's mischief as I can take!
+*: 
+	The Goddess only knows what kind of a king that little rascal will make! The worry keeps me awake at night.
+*: 
+	I wonder what's so secret about the favour the King's asking your father.
+*: 
+	Maybe he's hoping he can knock some sense into Prince Harry!
+*: 
+	So you and your father come from Whealbrook, do you?
+*: 
+	I, I feel sure I've seen him somewhere before...
+	In a castle, was it...? No, it must just be my imagination.
+*: 
+	This is Her Majesty the Queen Consort's bedchamber. She and her son, Prince Wilbur,
+	both sleep in here.
+Queen Consort
+	Who are you? You'd like to make friends with a real prince, would you? Ah ha hah!
+Queen Consort
+	Well, you certainly have a shrewd eye for one so young.
+Queen Consort
+	That's right, my Wilbur would be a far more suitable successor to the throne than that naughty half-brother of his!
+Queen Consort
+	That's what you were thinking, wasn't it? Yes, you're very shrewd. Very shrewd indeed, my boy.
+Prince Wilbur
+	I don't want to be king!
+Prince Harry
+	Hmph. Who are you?
+	Ah! I know, I know!
+Prince Harry
+	You're the son of Pankraz, the man my father ordered to come here from Whealbrook.
+Prince Harry
+	I'm the Prince of Coburg. The next in line to the throne! I expect you want to serve me by being my lackey, do you?
+Prince Harry
+	Hah! What sort of a prince would want a puny little boy like you as a lackey? Get out of my sight!
+Prince Harry
+	Sorry? I didn't quite catch that.
+	What did you say?
+*: 
+	Wondering who the next king will be, are you? Prince Harry or Prince Wilbur?
+*: 
+	Well unless something happens to stop it, it'll be Prince Harry. He's the oldest son.
+*: 
+	I don't like all this talk about who's going to succeed to the throne. His Majesty the King is still in excellent health!
+*: 
+	There are far more pressing concerns. Like these rumours about children being kidnapped all over the place, hm.
+*: 
+	You should be careful, lad. Don't go wandering off without your father, alright?
+*: 
+	What should I do...?
+*: 
+	Her Majesty the Queen Consort has been meeting with some very unsavoury characters recently.
+*: 
+	I feel compelled to inform His Majesty the King, but...perhaps I shouldn't be meddling in Her Majesty's affairs...
+*: 
+	What's happened to your father, lad?
+	You can't just go wandering off out of the castle on your own, you know.
+*: 
+	Ow... This bump on my head's killing me...
+	Why does Prince Harry find flicking people so amusing? It's not funny. It hurts!
+*: 
+	Do you know the tale about the great castle that fell from the sky a long, long time ago?
+*: 
+	According to the legend, it was from that moment on that monsters started to prey on us humans again.
+*: 
+	Do you believe in legends, child?
+*: 
+	Only the Goddess on high in her infinite wisdom knows the truth.
+*: 
+	Everyone says what a naughty little boy young Harry is, but I don't think so.
+*: 
+	It's only 'cos he lost his mother so young. I mean, I know he's got the Queen Consort now, but...
+*: 
+	Well, it's not the same as your real mum now, is it?
+*: 
+	And anyway, she dotes on that Wilbur of hers like there's no tomorrow, so it's no wonder Harry's gone off the rails a bit, is it?
+*: 
+	Oh, you must be Prince Harry's new playmate.
+	You poor thing!
+*: 
+	Aaaaaaaah!
+*: 
+	Phew! You scared the life out of me!
+	I thought it was Prince Harry again.
+*: 
+	He knows I hate frogs, but he still puts them down my back. Just 'cos he's a prince, he thinks it's okay to be mean!
+King of Coburg
+	Ah, Pankraz's boy!
+	Yes, you've a keen eye, lad. I can see that.
+King of Coburg
+	Well, I've entrusted your father with looking after my eldest son, Prince Harry.
+King of Coburg
+	I want you to make friends with him too.
+	It'll do him good to have someone to play with.
+Pankraz
+	Ah, there you are, %a000090. The King's asked me to look after his son, Prince Harry.
+Pankraz
+	I'd feel much happier if I could keep a closer eye on him, but it seems he's not too fond of me.
+Pankraz
+	Why don't you try to make friends with him, %a000090? You're about the same age. I'm sure you'll get on.
+Pankraz
+	I'll stay out here so I can be sure he doesn't go anywhere while you go in and play with him, okay?
+Pankraz
+	That's my boy!
+Prince Harry
+	Oh, no! Not you again!
+	I suppose you've come back because you want to be my lackey, have you?
+Prince Harry
+	Well, you're probably not up to it, but I'm prepared to give you one chance.
+Prince Harry
+	There's a chest in the room next door with a lackey's badge in it. Go and get it!
+Prince Harry
+	You must have a badge if you want to be my lackey. Otherwise I won't let you.
+Prince Harry
+	Good! Because I wouldn't let you, anyway!
+	Now go away!
+Pankraz
+	What's the matter, %a000090?
+	What!? Prince Harry's disappeared!?
+Pankraz
+	But this is the only way out of that room, and he didn't come past me.
+Pankraz
+	Are you sure? Come along, show me.
+Prince Harry
+	Pankraz! I thought I ordered you to stay out of my room!
+Pankraz
+	Phew! You really don't like me, do you?
+	So sorry, Your Highness.
+Pankraz
+	You must have been daydreaming, %a000090.
+	The Prince hasn't gone anywhere, has he?
+Pankraz
+	I know it's hard, but try to make friends with him, will you?
+Prince Harry
+	So, you've brought the lackey's badge like I told you to, I presume?
+Prince Harry
+	Oh, really? Alright, then, show it to me.
+	Hah! You were lying! You don't have it at all!
+Prince Harry
+	What? There's nothing in the chest?
+	Don't be absurd! Of course there is!
+Prince Harry
+	I simply won't accept a lackey who doesn't have a lackey's badge. Go and look properly this time, you nincompoop!
+Pankraz
+	What's the matter, %a000090? Hm?
+	The Prince has disappeared again?
+Pankraz
+	Are you absolutely sure? He didn't come past me.
+Pankraz
+	Did you check his room properly? Behind all the furniture, as well?
+	Shall I come and look with you?
+Pankraz
+	Alright, then. Follow me.
+Pankraz
+	I know it's hard, but please try to make friends with the Prince, %a000090. For me.
+~ %0%a000090 moves the chair aside and searches underneath it. ~
+~ There's a secret staircase leading down! ~
+Prince Harry
+	How dare you discover my secret staircase!?
+	Hmph! I didn't like you the moment I had the misfortune of laying eyes on you!
+Prince Harry
+	But I bet you didn't find the lackey's badge, did you? Well you can't be my lackey then. So there!
+Prince Harry
+	Hm? What's that?
+*: 
+	You Prince 'Arry?
+Prince Harry
+	No, I'm Prince Harry. With an aitch, you imbecile!
+	And who are you filthy louts?
+*: 
+	Filfy wots!? Sorry mate, but you're comin'
+	wiv us!
+Prince Harry
+	Urgh!
+*: 
+	Oi, step on it!
+	Get 'im on the raft!
+*: 
+	Comin', guv!
+*: 
+	I heard a bit of a commotion from the far side of the castle just now...
+*: 
+	If you've gone and got yourself in trouble, lad, you'd better go and own up to your father, not me!
+*: 
+	Your father just shot out of the castle like a rocket. I wonder what's...
+*: 
+	Oh, I know! I bet Prince Harry got him with one of his tricks! Ha ha ha! Poor fellow!
+*: 
+	You and your father like travelling, don't you?
+*: 
+	This globe here was made by a great adventurer. Have a look at it. Maybe you'll recognise a place or two!
+Pankraz
+	What on earth's the matter, %a000090?
+	What!? Prince Harry's been kidnapped!?
+Pankraz
+	Dear Goddess!
+Pankraz
+	Now listen to me, %a000090. No one must know of this. It'd be a disaster if people were to find out.
+Pankraz
+	We'll have to rescue the Prince before he's missed. Come on! Follow me now!
+*: 
+	Welcome to Coburg.
+*: 
+	I heard there's a really big ruin north-east of here.
+*: 
+	But my mum said I mustn't go there.
+	She said it's too dangerous.
+*: 
+	Hello there. Well, it's your lucky day!
+	I'm a travelling salesman, you know.
+*: 
+	Ruff! Ruff, ruff!
+~ %0%a000090 tries to read the sign... ~
+~ But he hasn't actually learnt how to read yet! ~
+*: 
+	Usually I travel about buying and selling stuff, you know. But the monsters I've been running into lately are so tough.
+*: 
+	I hope it doesn't mean anything. I'd hate to think there was trouble brewing.

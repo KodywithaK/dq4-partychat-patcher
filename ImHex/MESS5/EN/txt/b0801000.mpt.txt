@@ -1,0 +1,437 @@
+~ %0%a040130 appears! ~
+~ %0%a040130 draws near! ~
+~ %0%a050130 appear! ~
+~ %0%a050130 draw near! ~
+~ But %a020130 doesn't notice %H0860%X%a000120's%Ythe party's%Z presence! ~
+~ But %a030130 don't notice %H0860%X%a000120's%Ythe party's%Z presence! ~
+~ But the enemy don't notice %H0860%X%a000120's%Ythe party's%Z presence! ~
+~ But %a020130 is too stunned to move! ~
+~ But %a030130 are too stunned to move! ~
+~ But the enemy are too stunned to move! ~
+~ %0%a020130 suddenly attacks! ~
+~ %0%a030130 suddenly attack! ~
+~ The enemy suddenly attack! ~
+~ %0%a020130 makes the first strike before %H0860%X%a000120 has%Ythe party have%Z time to prepare! ~
+~ %0%a030130 make the first strike before %H0860%X%a000120 has%Ythe party have%Z time to prepare! ~
+~ The enemy make the first strike before %H0860%X%a000120 has%Ythe party have%Z time to prepare! ~
+~ %0%a020130 is asleep! ~
+~ %0%a030130 are asleep! ~
+~ The enemy are all asleep! ~
+~ Stone the crows! %0%a020130 shows its true colours! ~
+~ %0%a020010 attacks! ~
+~ Critical hit! ~
+~ %0%a020010 makes a desperate attack! ~
+~ Does %a000430 %H0430%Xpoint%Ypoints%Z of damage to %a020180. ~
+~ Does %a000430 %H0430%Xpoint%Ypoints%Z of damage to %a020180. ~
+~ %0%a020180 is defeated. ~
+~ %0%a020180 takes %a000430 %H0430%Xpoint%Ypoints%Z of damage! ~
+~ %0%a020180 takes %a000430 %H0430%Xpoint%Ypoints%Z of damage! ~
+~ %0%a020180 collapses! ~
+~ %0%a020180 takes %a000430 %H0430%Xpoint%Ypoints%Z of damage! ~
+~ %0%a020180 dies! ~
+~ Miss! Does no damage to %a020180! ~
+~ Miss! %0%a020180 takes no damage! ~
+~ %0%a020180 smoothly dodges the attack! ~
+~ But a curse throws the attack off course! ~
+~ %0%a020010 casts %a000170! ~
+~ But %a020010's spell is neutralised! ~
+~ But %a020010 is prevented from casting spells! ~
+~ The wall of light deflects the spell! ~
+~ The spell is deflected by the wall of light! ~
+~ Not enough MP! ~
+~ But the spell is neutralised by a curse! ~
+~ The members of the party join forces to cast Kazapple! ~
+~ The members of the party join forces in an attempt to cast Kazapple! ~
+~ But the attempt fails. ~
+~ The party is in no fit state to cast that spell ~
+~ right now. ~
+~ %0%a020010 is assessing the situation. ~
+~ %0%a020010 chuckles. ~
+~ %0%a020010 is miles away... ~
+~ %0%a020010 stoically endures the assault. ~
+~ %0%a020010 desperately tries to remember something! ~
+~ %0%a020010 takes a deep breath. ~
+~ %0%a020010 is saving %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z strength. ~
+~ %0%a020010 attacks! ~
+~ Miss! %0%a020180 takes no damage! ~
+~ Theⓚⓛ The slimes... They're... ~
+~ They're fusing together! ~
+~ The slimes merge into an enormous king slime! ~
+~ %0%a020010 begins to meditate. ~
+~ %0%a020010 defends. ~
+~ %0%a020010 charges! ~
+~ %0%a020010 rips into %a020180 with razor-sharp claws! ~
+~ %0%a020010 makes a violent slashing attack! ~
+~ %0%a020010 goes for %a020180's jugular with a snap of the teeth! ~
+~ %0%a020010 spits forth a spray of stinging saliva! ~
+~ %0%a020010 stamps on %a020180 with %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z giant foot! ~
+~ %0%a020010 cackles insanely and launches an attack! ~
+~ %0%a020010 puffs up and smothers %a020180! ~
+~ %0%a020010 stabs savagely with %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z super-sharp spear! ~
+~ %0%a020010 flails %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z weapon about fiercely! ~
+~ %0%a020010 raises %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z foot high and kicks %a020180 hard! ~
+~ %0%a020010 suddenly grabs %a020180! ~
+~ %0%a020010 spews forth a cloud of dust! ~
+~ A savage sandstorm swirls around %A0010%Xhim%Z%B0010%Xher%Z%C0010%Xit%Z! ~
+~ %0%a020180 gets more sand in %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z eyes! ~
+~ %0%a020180 gets sand in %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z eyes! ~
+~ %0%a020180 quickly wipes the sand from %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z eyes! ~
+~ %0%a020010 launches %A0010%Xhimself%Z%B0010%Xherself%Z%C0010%Xitself%Z high into the air! ~
+~ %0%a020010 completely loses it and starts on %a020180! ~
+~ %0%a020010 does a weird dance! ~
+~ %0%a020180's MP decrease by %a000810! ~
+~ %0%a020010 breathes a fiery breath! ~
+~ %0%a020010 exhales a fierce fire! ~
+~ %0%a020010 belches out blistering flames! ~
+~ %0%a020010 spews forth blazing fire! ~
+~ %0%a020010 exhales a cool breath! ~
+~ %0%a020010 exhales a chilly breath! ~
+~ %0%a020010 b-b-breathes out a c-c-cold breath! ~
+~ %0%a020010 spews forth %a000040! ~
+~ %0%a020180 dodges the cloud of breath! ~
+~ %0%a020120 flees! ~
+~ But the enemy blocks the way! ~
+~ The party flees! ~
+~ %0%a020010 flees! ~
+~ It sounds like someone's calling %a020010 from somewhere... ~
+~ A dark haze emanates from %a020010 and engulfs the surroundings! ~
+~ %0%a020010 emits an eerie glow! ~
+~ %0%a020180 is swallowed up in the spooky aura! ~
+~ But %a020180 expertly avoids the aura! ~
+~ %0%a020010 vomits forth a venomous vapour! ~
+~ %0%a020180 is already envenomated! ~
+~ %0%a020180 becomes envenomated! ~
+~ But %a020180 eludes the mist! ~
+~ %0%a020010 charges at full pelt! ~
+~ %0%a020180 is sent flying back to the wagon! ~
+~ %0%a020010 licks %a020180 all over %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z face! ~
+~ %0%a020180 gets goosebumps! ~
+~ %0%a020010 makes the opening moves of a really catchy dance. ~
+~ %0%a020180 gets caught up in the mood and starts to boogie! ~
+~ %0%a020180 doesn't get into the groove! ~
+~ %0%a020010 shouts suddenly! ~
+~ %0%a020180 becomes frozen with fear. ~
+~ %0%a020180 is completely unsurprised. ~
+~ %0%a020010's entire body flashes brightly! ~
+~ %0%a020180 is dazzled! ~
+~ %0%a020180 is dazzled! ~
+~ %0%a020180 closes %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z eyes and avoids the attack. ~
+~ %0%a020010 calls forth terrible lightning! ~
+~ The flashes of light veil the surroundings. ~
+~ %0%a020010 emits a disruptive wave of energy. ~
+~ All magic affecting %a020180 is neutralised! ~
+~ %0%a020010 turns around and slams the wagon door shut! ~
+~ %0%a020010 imitates %a000090's voice and barks some orders! ~
+*: 
+	%0%a001310!
+~ %0%a000090's tactics change! ~
+~ The party's tactics change! ~
+~ %0%a020010 is blown away! ~
+~ %0%a020010 attempts to slam %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z body into %a020180! ~
+~ %0%a020010 calls for backup! ~
+~ %0%a040180 shows up! ~
+~ %0%a020010 defends. ~
+~ %0%a040180 comes to %a020010's aid! ~
+~ %0%a020010 cries out loudly! ~
+~ %0%a020010 casts Kazap! ~
+~ Not enough MP! ~
+~ %0%a020010 casts Omniheal! ~
+~ Not enough MP! ~
+~ %0%a020010 casts Kaboom! ~
+~ Not enough MP! ~
+~ %0%a020010 flings a Blade of Ultimate Power! ~
+~ Not enough MP! ~
+~ %0%a020010 casts Kathwack! ~
+~ Not enough MP! ~
+~ %0%a020010 invokes a curse! ~
+~ %0%a020180's movements become cursed! ~
+~ %0%a020180 can't focus on a target because of the curse! ~
+~ %0%a020180's head is cursed! ~
+~ %0%a020180's HP are cursed! ~
+~ %0%a020180's MP are cursed! ~
+~ But %a020180 is unaffected! ~
+~ %0%a020010 uses a medicinal herb. ~
+~ %0%a020010 raises the lightning staff into the air. ~
+~ Lightning bolts crackle furiously from the staff! ~
+~ %0%a020010 raises the staff of antimagic into the air. ~
+~ A mysterious mist appears! ~
+~ %0%a020010 tosses a rockbomb shard! ~
+~ %0%a020010 beats the war drum! ~
+~ %0%a020010 uses an Yggdrasil leaf. ~
+~ %0%a020010 summons lightning from the dark realm! ~
+~ %0%a020010 does a Starkers Slash! ~
+~ %0%a020010 tries to use %a040100... ~
+~ ...but nothing happens. ~
+~ %0%a020010 uses %a040100! ~
+~ ...but nothing happens. ~
+~ %0%a020010 raises the cautery sword above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ Flames burst forth from the blade! ~
+~ %0%a020010 raises the icicle dirk above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ A blizzard springs forth from the blade! ~
+~ %0%a020010 raises the faerie foil above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ %0%a020010 raises the staff of salvation above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ %0%a020010 raises the staff of divine wrath above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ The almighty fury of the heavens rains down on the enemy! ~
+~ %0%a020010 raises Stolos' staff above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ %0%a020010 raises the magma staff above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ A ball of fire erupts from the tip of the staff! ~
+~ %0%a020010 raises the staff of resurrection above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ A heavenward-bound soul is drawn back towards the staff... ~
+~ %0%a020010 raises the dragon staff above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ %0%a020010 thrusts the fire claw into the air. ~
+~ A ball of fire leaps from the sharp tips of the claw! ~
+~ %0%a020010 waves the ionospear above %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z head. ~
+~ %0%a020010 waves the tempest shield towards the heavens. ~
+~ A savage storm sweeps down on the enemy! ~
+~ %0%a020010 waves the dark shield towards the heavens. ~
+~ A macabre mist falls and hangs over %A0010%Xhim%Z%B0010%Xher%Z%C0010%Xit%Z! ~
+~ %0%a020010 waves the power shield towards the heavens. ~
+~ %0%a020010 waves the Zenithian Shield towards the heavens. ~
+~ %0%a020010 holds the Circle of Fire aloft. ~
+~ Flames dance forth from the ring! ~
+~ %0%a020010 holds the Circle of Water aloft. ~
+~ A blizzard erupts from the ring! ~
+~ %0%a020010 uses an antidotal herb. ~
+~ %0%a020010 sprinkles holy water on %a020180. ~
+~ %0%a020010 sprinkles Yggdrasil dew on the party. ~
+~ %0%a020010 uses a moonwort bulb! ~
+~ %0%a020010 slides the prayer ring onto %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z finger and prays. ~
+~ %0%a020010's MP recover by %a000810 %H0810%Xpoint%Ypoints%Z! ~
+~ The ring disintegrates. ~
+~ %0%a020010 uses a phial of magic water. ~
+~ %0%a020010 opens a pouch of musk. ~
+~ A strange scent wafts out of the pouch. ~
+~ %0%a020180 looks happy. ~
+~ %0%a030130 look happy. ~
+~ %0%a020010 holds the sage's stone aloft. ~
+~ %0%a020010 uses %a040100! ~
+~ %0%a020010 chucks some monster munchies about the place. ~
+~ %0%a020180 jumps on the food! ~
+~ But %a020180 didn't even glance at it. ~
+~ %0%a020010 %N0180%Xdrinks some Paxa Punch%Ygives some Paxa Punch to %a020180%Z. ~
+~ But it doesn't seem to have any effect right now. ~
+~ %0%a020010 uses some elfin elixir. ~
+~ %0%a020180's MP are completely restored! ~
+~ %0%a020010 rings the cherub chime. ~
+~ %0%a020180 is no longer confused! ~
+~ %0%a020010 peers into Ra's mirror... ~
+~ %0%a020010 sees the image of %a040180 in place of %a020020 's reflection. ~
+~ %0%a020180 changes back to %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z original form. ~
+~ %0%a020010 sees a reflection of %a020180 in the mirror. ~
+~ %0%a020010 blows %a020100. ~
+~ ...but nothing happens. ~
+~ %0%a020010 uses the Zizzwizz Pillow. ~
+~ %0%a020010 brandishes the terrorcrow! ~
+~ %0%a020180 is stricken with terror! ~
+~ %0%a020010 whips out %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z %a000100! ~
+~ But it doesn't seem to impress monsters. ~
+~ %0%a020010 equips %A0010%Xhimself%Z%B0010%Xherself%Z%C0010%Xitself%Z with %a020100. ~
+~ %0%a020010 can't equip %A0010%Xhimself%Z%B0010%Xherself%Z%C0010%Xitself%Z with %a020100. ~
+~ %0%a020180 isn't affected! ~
+~ But nothing happens. ~
+~ But %a020180 isn't affected! ~
+~ ...but nothing happens. ~
+~ %0%a020180 is killed! ~
+~ %0%a020180 dies! ~
+~ %0%a020180 vanishes in a flash of light! ~
+~ %0%a020180 explodes into a thousand fragments! ~
+~ %0%a020180 is put to sleep! ~
+~ %0%a020180 falls asleep! ~
+~ %0%a020180 falls into an even ~
+~ deeper sleep. ~
+~ %0%a020180 loses consciousness! ~
+~ %0%a020180 is asleep! ~
+~ %0%a020180 doesn't fall asleep! ~
+~ %0%a020180 is poisoned! ~
+~ %0%a020180 is already poisoned! ~
+~ %0%a020180 is paralysed! ~
+~ %0%a020180 becomes confused! ~
+~ %0%a020180's mind is confused! ~
+~ %0%a020180 grows more confused! ~
+~ %0%a020180 is unable to cast spells! ~
+~ %0%a020180 is prevented from casting spells! ~
+~ %0%a020180 is still unable to cast spells. ~
+~ %0%a020180 is unable to cast spells for now! ~
+~ %0%a020180 starts to hallucinate! ~
+~ %0%a020180 continues to hallucinate! ~
+~ %0%a020180 is hallucinating! ~
+~ Absorbs %a000810 MP from %a020180! ~
+~ %0%a020180 has %a000810 MP drained from %A0180%Xhim%Z%B0180%Xher%Z%C0180%Xit%Z! ~
+~ A shining wall of light appears before %a020180! ~
+~ A shining wall of light appears once more before %a020010! ~
+~ Lowers %a020180's defence by %a000820! ~
+~ %0%a020180's defence decreases by %a000820! ~
+~ %0%a020180's defence increases by %a000820! ~
+~ %0%a000120 is enveloped in a soft light! ~
+~ The party is enveloped in a soft light! ~
+~ %0%a020180's attack power is doubled! ~
+~ %0%a020180 is already under the influence of Oomph! ~
+~ %0%a020010 transforms %A0010%Xhimself%Z%B0010%Xherself%Z%C0010%Xitself%Z into the spitting image of %a020180! ~
+~ %0%a020010 transforms into a giant dragon! ~
+~ %0%a020010's body hardens into a lump of steel. ~
+~ %0%a020180's steely body is unaffected. ~
+~ %0%a020180 recovers HP! ~
+~ %0%a020180 recovers %a000810 MP! ~
+~ %0%a020180 returns to life! ~
+~ %0%a020180 remains lifeless! ~
+~ %0%a020180's body becomes tinged with a pale light. ~
+~ %0%a020010 dies. ~
+~ %0%a020180's maximum HP increase by %a000770! ~
+~ %0%a020180's maximum MP increase by %a000810! ~
+~ %0%a000180's %a000230 increases by %a000820! ~
+~ %0%a020180 is unaffected. ~
+~ %0%a020180 absorbs %a000810 MP! ~
+~ %0%a020180 is killed! ~
+~ The poison afflicting %a020180 is neutralised! ~
+~ The Kamikazee bracer gleams strangely... ~
+~ The bracer falls apart! ~
+~ The dieamend protects %a001280 from the fatal spell! ~
+~ Now exhausted, it crumbles into dust. ~
+~ The rebirth stone shines brightly. ~
+~ The rebirth stone crumbles away into nothing. ~
+~ You don't have enough party members to change your line-up. ~
+~ %0%a020010 doesn't have enough MP! ~
+~ %0%a020010 hasn't learnt any spells or abilities for battle! ~
+~ %0%a020010 cannot equip %a020100. ~
+~ %0%a020100 cannot be equipped. ~
+~ %0%a020010 doesn't have any items or equipment. ~
+~ %0%a020010 is asleep! ~
+~ %0%a020010 is numb all over and can't move! ~
+~ %0%a020010 has been turned into a lump of steel! ~
+~ %0%a020010 is frozen with fear. ~
+~ Time is standing still for %a020010! ~
+~ %0%a020010 is busy boogieing! ~
+~ %0%a020010 has goosebumps! ~
+~ %0%a020010 is busy closing up the wagon! ~
+~ %0%a020010 is cursed and unable to move! ~
+~ %0%a020010 is busy making short work of the munchies! ~
+~ %0%a020180 is envenomated! ~
+~ %0%a020010 is confused. ~
+~ %0%a020010 stares blankly at the battle raging around %A0010%Xhim%Z%B0010%Xher%Z%C0010%Xit%Z. ~
+~ %0%a020010 flees! ~
+~ %0%a020010 attempts to slam %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z body into %a020180! ~
+~ %0%a020010 charges at the enemy! ~
+~ %0%a020010 still hasn't managed to find %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z feet again. ~
+~ %0%a020010 suddenly embraces %a020180! ~
+~ %0%a020010 crazily flails %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z weapon about! ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z puts too much force into it and pulls %A0010%Xhimself%Z%B0010%Xherself%Z%C0010%Xitself%Z over, taking a hit as %A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z goes! ~
+~ %0%a000010 wields %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z weapon in both hands and makes for the enemy! ~
+~ %0%a000010 attacks! ~
+~ Miss! Does no damage to %a020180! ~
+~ %0%a000010 attacks! ~
+~ Miss! Does no damage to %a020180! ~
+~ %0%a020010 seems to be a bit down in the dumps. ~
+~ %0%a020010 grabs %a020180 and throws %A0180%Xhim%Z%B0180%Xher%Z%C0180%Xit%Z with all %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z might! ~
+~ %0%a020180 is flung a fair way off! ~
+~ %0%a020010 sits down and starts muttering something. ~
+%0%a000010
+	%O0975%XHola, %a000180! You know, ees loco we fight like bull and matador. You no just wanna estop and eshare a paella?%Y%O0971%XCome on, %a000180. Fightin' like this is just silly.%YHey, %a000180. Let's stop all this fighting and just talk it over instead, okay?%Z%Z
+%0%a000010
+	%O0975%XThees fighting, eet, eet hurts my heart eso much! I, I, I no know...%Y%O0971%XThere en't no point in turnin' on each other. We're on the same team an' all that, eh?%YI mean, we're just hurting each other, and for what? War's so...blah, blah, blah...%Z%Z
+~ But %a020180 isn't listening to a word! ~
+~ %0%a020010 suddenly starts jabbering incessantly. ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z seems to be trying to reason with %a020180 or something... ~
+~ But %a020180 isn't listening to a word! ~
+~ The spell fizzles away into nothing. ~
+~ %0%a020010 tears off %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z equipped items! ~
+~ %0%a020010 suddenly decides %A0010%Xhe%Z%B0010%Xshe%Z%C0010%Xit%Z's ready to take on the world! ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z struts up to the head of the party! ~
+~ %0%a020010 tries to pick a fight with %a020180. ~
+%0%a000010
+	!!!
+~ But %a020180 just ignores the tirade! ~
+~ %0%a020010 decides to cast a spell. ~
+%0%a000010
+	............?
+~ Drat! %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z's forgotten how it goes! ~
+%0%a000010
+	............?
+~ %0%a020010 just doesn't know what to do for the best! ~
+~ %0%a020010 is tired of battle and really starting to miss the peace and quiet of the wagon. ~
+~ %A0010%XHe%Z%B0010%XShe%Z%C0010%XIt%Z heads back to the wagon without a word! ~
+~ For some unknown reason, %a020010 hugs %a020180! ~
+~ But %a020180's having none of it, and tosses %a020010 aside. ~
+~ %0%a020010 attempts to slam %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z body into %a020182! ~
+~ %0%a020010 flees! ~
+~ %0%a020010 attacks! ~
+~ But %A0010%Xhis%Z%B0010%Xher%Z%C0010%Xits%Z body just won't cooperate, and the attack falls flat. ~
+~ %0%a020010 performs a peculiar dance! ~
+~ But nothing happens. ~
+~ %0%a020010 cowers in fear. ~
+~ %0%a020010 is rooted to the spot, unable to move! ~
+~ %0%a020010 begins to howl in a rather disturbing way. ~
+~ %0%a020010 calls for backup! ~
+~ But nobody shows up. ~
+~ %0%a020010 accidentally summons something seriously scary. ~
+~ %0%a020180 becomes frozen with fear. ~
+~ %0%a020180 flees! ~
+~ %0%a020180's body becomes filled with a strange power. ~
+~ Time stops! ~
+~ The wheels of time start to turn once more! ~
+~ %0%a020180 loses all of %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z MP! ~
+~ An enormous genie the size of a mountain appears, booming a deep, worrying laugh. ~
+~ The genie leaves, laughing all the way. ~
+~ That's odd... ~
+~ The enemy's taken on a distinctly metallic sheen! ~
+~ %0%a020180 is paralysed! ~
+~ Rays of blindingly bright light shine down on %a020010. ~
+~ %0%a020010 transforms into a pure white lux dragon! ~
+~ A curious noise can be heard... ~
+~ It grows louder and louder at an alarming rate! ~
+~ %0%a000120 is too nervous, and flees before it's too late! ~
+~ The party are too nervous, and flee before it's too late! ~
+*: 
+	Hocus Pocus, Hocus Pocus...
+	㈡
+	The repetitive, reverberating incantation causes a tidal wave!
+~ %0%a020180's MP are completely restored! ~
+~ Meteorites shower the surrounding area! ~
+~ %0%a020010 suddenly leaps out of the wagon! ~
+~ %0%a020010 returns to the wagon. ~
+~ The party members in the wagon suddenly leap out and join the action! ~
+~ The party members from the wagon take their leave. ~
+~ Out of nowhere comes the sound of something breaking! ~
+~ Dusty goes crazy all of a sudden! ~
+~ The effect of %a020010's %a000250 wears off. ~
+~ %0%a020180 wakes up. ~
+~ %0%a020180 is no longer poisoned. ~
+~ %0%a020180 is no longer paralysed. ~
+~ %0%a020180 returns to %A0180%Xhis%Z%B0180%Xher%Z%C0180%Xits%Z senses. ~
+~ %0%a020010 can see again! ~
+~ %0%a020010 jumps out of the wagon. ~
+~ %0%a000090 falls unconscious! ~
+~ %0%a000120 is wiped out! ~
+~ The party is wiped out! ~
+~ %0%a020130 is defeated. ~
+~ %0%a030130 are defeated. ~
+~ The enemy are defeated. ~
+~ %0%a020130 disappears. ~
+~ %0%a030130 disappear. ~
+~ The enemy disappear. ~
+~ %0%a020130 flees! ~
+~ %0%a030130 flee! ~
+~ The enemy flee! ~
+~ %H0860%X%0%a020120%YEach party member%Z receives %a000470 experience %H0470%Xpoint%Ypoints%Z! ~
+~ %0%a020180's level increases to Lv. %a000800! ~
+~ Maximum HP increase by %a000770! ~
+~ Maximum MP increase by %a000810! ~
+~ %0%a020180's attributes improve! ~
+~ Strength +%a000821 Agility +%a000822 Resilience +%a000823 ~
+~ Wisdom +%a000824 Luck +%a000825 ~
+~ %0%a000180 learns a new spell: %a000170! ~
+~ %0%a000180 learns a new ability: %a000000! ~
+~ %H0860%X%0%a000120%YThe party%Z obtains %a000500 gold %H0500%Xcoin%Ycoins%Z! ~
+~ %0%a020180 drops a treasure chest! ~
+~ It contains %a040100! ~
+~ %0%a020180 obtains %a020100! ~
+~ %0%a000120 picks %M0100%Xthem%Yit%Z up and puts %M0100%Xthem%Yit%Z in the bag. ~
+~ %0%a020130 sidles away looking rather hurt. ~
+~ %0%a020130 joins the party! ~
+~ %A0130%XHe%Z%B0130%XShe%Z%C0130%XIt%Z happily clambers into the wagon. ~
+~ But the wagon's full! ~
+~ Which party member do you want to send off to Monty, the monster monitor? ~
+~ Abandon %a001290? ~
+~ Send %a000180 to Monty? ~
+~ %0%a001290 runs off happily in the direction of the monstergarten. ~
+~ %0%a000180 heads back to the monstergarten and %a001290 joins the party! ~
+~ %0%a020180 is dazzled all over again! ~

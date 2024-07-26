@@ -1,0 +1,79 @@
+*: 
+	Welcome to the village shop.
+*: 
+	I've got all kinds of things for sale here.
+	What can I do you for?
+*: 
+	Oh! You don't seem to have enough money for that.
+*: 
+	%0%a040100?
+	Right you are!
+*: 
+	%a000840 %a010100?
+	Coming right up!
+*: 
+	A wise buy, if I may say so. You can even use %H0840%X%M0100%Xthem%Yit%Z as an item%Ythem as items%Z in battle, you know.
+*: 
+	Who'll be carrying the goods?
+*: 
+	I'll put %H0840%X%M0100%Xthem%Yit%Z%Ythem%Z in your bag for you.
+*: 
+	But you already seem to have your hands full there, %a000180. Perhaps I could reorganise your items for you?
+*: 
+	That's better! You'll find it all much tidier now.
+*: 
+	Hmm... All of the items you've got there look a bit too important for me to be messing about with, %a000180.
+*: 
+	Maybe someone else could carry the goods?
+*: 
+	Will you be equipping %M0100%Xthem%Yit%Z now?
+*: 
+	Not a problem.
+	Just give me a minute...
+	There we go!
+~ %0%a000180 equips %a020100! ~
+*: 
+	You can't equip this particular item, %a000180. Do you still want it?
+*: 
+	It's all yours, %a000180!
+*: 
+	I'll just place the goods in %a000180's coffin.
+*: 
+	Right, I'll get the goods to %a000180 in the wagon, then.
+*: 
+	I'll put the remaining item%H0880%X%Ys%Z in your bag, then.
+*: 
+	Can I help you with anything else?
+*: 
+	Who'd like to sell something?
+*: 
+	Um... But you're not carrying anything, %a000180!
+*: 
+	Are you sure about that?
+	The bag's empty!
+*: 
+	Hmm... Sorry, but that kind of thing's a bit too valuable for the likes of me.
+*: 
+	I'd keep %M0100%Xthem%Yit%Z safe and sound in that bag of yours, if I were you.
+*: 
+	I doubt you'll ever come by anything similar again. Are you sure you want to sell %H0840%X%M0100%Xthem%Yit%Z%Ythem%Z?
+*: 
+	%0%a040100? I'll give you %a000620 gold coin%H0620%X%Ys%Z for %M0100%Xthem%Yit%Z.
+*: 
+	How many do you want to sell?
+*: 
+	%a000840 %a010100? I'll give you %a000620 gold coin%H0620%X%Ys%Z for them. How's that?
+*: 
+	Oh well. It was worth a try.
+*: 
+	Well I never! It looks like you've got more gold coins than you can carry there, %a000120!
+*: 
+	Looks like you'll have to buy a thing or two and free up some space in your wallet.
+*: 
+	Always a pleasure!
+*: 
+	Would you like to sell anything else?
+*: 
+	Anything else I can help you with?
+*: 
+	Hope to see you again soon!

@@ -1,0 +1,128 @@
+Bianca
+	This is a weird place, eh? It's really creepy seein' all them spots and speckles on the walls like that.
+Nera
+	You'd know this place was the underworld even without being told. There's such a nasty feeling
+	in the air.
+%0%a001240
+	Look, Dad! Look at that weird tree!
+%0%a001250
+	I wonder who was allowed in the great dungeon. Humans? Monsters? Maybe even both?
+Sancho
+	Anda! Sí, I believe thees ees once the dungeon.
+	Ees no a nice feeling een here.
+Sancho
+	I prefer we no come here.
+Tuppence
+	It feels like you'd end up cursed just from being inside the place! I'm sure that's not the case, though.
+Bianca
+	It's pretty big inside, eh?
+Nera
+	We mustn't let our guard down. We're in part of the underworld now, so we can't be sure what might happen.
+%0%a001240
+	Yuck! What a dirty, horrible place! And it smells.
+	Don't monsters ever do any dusting?
+%0%a001250
+	Urgh! I just got a cobweb caught in my hair!
+Sancho
+	We must be careful, okay? You no know
+	what might happen een a place like thees.
+Tuppence
+	Brrr... It's rather cold, considering that
+	we're indoors.
+Bianca
+	I certainly never expected to hear talk of local souvenirs here in Nadiria too!
+Nera
+	Well! I didn't expect to hear talk of local souvenirs here in Nadiria.
+%0%a001240
+	It always makes me wonder when we speak to a restless armour... What do you think their real faces look like?
+Bianca
+	Pah! Well, he's just told us, so I suppose that makes him a dead man.
+Nera
+	Nimzo is a great god?
+	Do you think that's really true?
+%0%a001240
+	Nimzo was a human!? Uh-oh! I've said it!
+	...Oh, but I don't seem to have died or anything.
+Tuppence
+	N-Nimzo is h-hu... Oh! I can't say it! I'm too scared of what might happen!
+%0%a001240
+	What do you suppose he's thinking about?
+	Do monsters play T 'n' T as well?
+%0%a001250
+	That rockbomb looked like he was really concentrating on something. Do you think he was planning a route around the T 'n' T board?
+Bianca
+	That dun't sound good! A mighty monster that even Nimzo couldn't defeat...
+Nera
+	So this monster's meditating? That probably
+	means it's conserving its energy and preparing
+	to take action.
+%0%a001240
+	Well, we'd better see to Nimzo first. We'll deal with this other monster when the time comes.
+%0%a001250
+	I wonder if the strange aura I've been feeling in the air since we came to Nadiria has been coming from that monster.
+Sancho
+	Your Uncle Sancho, he ees expecting thees,
+	you know.
+Sancho
+	When we found out that thees Nimzo, he was once a human, I estart to theenk, ⓗthen where ees the true king of the monsters?ⓘ
+Tuppence
+	Well, here's hoping that nothing terrible happens, then.
+Bianca
+	It's nice of the monsters here to give us so many
+	tips, eh?
+Nera
+	I wonder if he'll get into trouble for telling us things like that.
+Nera
+	I know it's not really our problem, but I can't help feeling a little bit worried for him.
+Tuppence
+	So the time's finally upon us. I suppose I'd better jot down my last will and testament.
+Bianca
+	I never expected them to have T 'n' T in Nadiria!
+	D'you reckon the monsters play it too?
+Bianca
+	I s'pose the monsters must use T 'n' T tickets too.
+	It's a bit hard to imagine, though.
+Nera
+	It's rather disconcerting seeing so many skeletons dotted about the place, isn't it?
+Nera
+	I adore Treasures and Trapdoors, but I don't think even I could enjoy a game in a place like this.
+%0%a001240
+	The T 'n' T board here looks pretty tricky.
+%0%a001240
+	Why do you suppose they've even got a T 'n' T board right in the middle of Mt Zugzwang, anyway?
+%0%a001240
+	Maybe it's to try and get us to let down our guard.
+%0%a001250
+	Oh! Don't disturb me now, Dad!
+	I'm trying to plot a route around the board.
+%0%a001250
+	This place is a bit scary with all its ghosts
+	and everything, but I still wouldn't mind a
+	quick game of T 'n' T.
+Sancho
+	You believe thees place, ees just a normal Treasures and Trapdoors board? Oh, no, no. I no theenk eso.
+Sancho
+	My Majesty! Ees no a good time for playing the games. You no play here, okay?
+Tuppence
+	I'm always free for T 'n' T!
+	...Or so I'd like to say, but I'm not too sure how I feel about a game in a place like this.
+Tuppence
+	It feels like this place is haunted by all those poor folk who were executed. I'm afraid it may be rather hard to concentrate on the game.
+Debora
+	The air out here doesn't look like it's very good for the skin. Can't we hurry up and go inside?
+Debora
+	It stinks a bit around here. Maybe it's best to pack perfume when you visit Nadiria.
+Debora
+	The ghoulroarer? Doesn't sound like much of
+	a treasure to me. The last thing we need is a
+	cursed souvenir.
+Debora
+	You don't need to worry. If the unthinkable happens, I'll put up a really spectacular tombstone for you.
+Debora
+	If the worst happens, I'll be counting on you, %a000090.
+Debora
+	Even if I thought I had what it takes, I don't find the idea of visiting a swamp overly appealing.
+Debora
+	This is a sinister-looking T 'n' T board. I'd rather go to the one on the Ventuno any day.
+Debora
+	Do you think the skeletons dotted about the place are of people who lost at T 'n' T?

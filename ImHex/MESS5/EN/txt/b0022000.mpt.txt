@@ -1,0 +1,1126 @@
+Harry
+	Buck up, Kendrick! Greet %a000090 properly and don't be so rude!
+Kendrick
+	Ouch!
+	Um... Pleased to meet you.
+Harry
+	Sorry about him. He's a bit of a cheeky one at times.
+Harry
+	You've got children now too, haven't you?
+Harry
+	I'd love to meet them sometime. You must bring them with you and introduce them one day.
+Harry
+	Hello, %a000090.
+	Good to see you again.
+Harry
+	You've got children now too, haven't you?
+Harry
+	I'd love to meet them sometime. You must bring them with you and introduce them one day.
+Harry
+	Hello, %a000090.
+	Good to see you again.
+Harry
+	You've got children now too, haven't you?
+Harry
+	I do beg your pardon. I'm afraid my son's manners are a bit lacⓚⓛ Oh!
+Harry
+	Good heavens! It's you, %a000090!
+	I've been hoping you'd pay a visit.
+Harry
+	I can't tell you how thrilled we were to hear you'd turned up in Gotha in one piece.
+Harry
+	You did have a rotten bit of luck there, eh?
+Harry
+	In fact, you've always seemed to be a bit jinxed, come to think of it.
+Harry
+	Still, it's great to see you here again safe and well.
+Harry
+	Oh yes! I'm a father now, by the way.
+Harry
+	This is my son, Kendrick.
+Kendrick
+	............
+Harry
+	Buck up, Kendrick! Greet %a000090 properly and don't be so rude!
+Kendrick
+	Ouch!
+	Um... Pleased to meet you.
+Harry
+	Sorry about him. He's a bit of a cheeky one at times.
+Harry
+	You've got children now too, haven't you?
+Harry
+	Ah! I see you are travelling as a family. Hello there. Yes, I can see the resemblance to how you looked at that age.
+Harry
+	I know! Why don't you children play together for a while? Kendrick can show you around.
+Harry
+	Kendrick! Why don't you be a good host and give your best guided tour of the castle?
+Kendrick
+	I suppose I could.
+Harry
+	That's good. Now we'll have a bit of peace and quiet for a while.
+Maria
+	Listen to you! You know you adore that boy, really.
+Harry
+	Ha ha ha! You've got me there, Maria!
+Harry
+	I don't know who Kendrick takes after sometimes, though.
+Harry
+	I'm sure I wasn't such a troublemaker when I was his age.
+Maria
+	It sounds like your travels are just as trying as ever, %a000090.
+Maria
+	I'm sure you'll be able to guide the world in the right direction towards peace, though.
+*: 
+	Meeeow!
+~ But it wouldn't be the done thing to leave without ~
+~ the children! ~
+%0%a001240
+	Dad! Dad! Kendrick's gone missing!
+%0%a001240
+	He told us to go and get some kind of lackey's badge, and then he disappeared while we were looking in the treasure chest.
+%0%a001240
+	Can you come and help us find him?
+~ %0%a000090 moves the chair aside and searches underneath it. ~
+~ There's a secret staircase leading down! ~
+%0%a001240
+	Hey! What a weird place for a flight of stairs!
+%0%a001240
+	You're amazing, Dad!
+	Fancy knowing they were there!
+Kendrick
+	Huh! You found the stairs already. That was no fun.
+Kendrick
+	I'll bet you didn't find the lackey's badge, though. That means you can't be my lackey!
+Kendrick
+	Hm?
+*: 
+	Prince Kendrick! I do hope you're not causing trouble down here again!
+Kendrick
+	What's your problem? I'm not doing anything wrong!
+*: 
+	Your father will be most displeased when he hears about this. Now, come along!
+*: 
+	Hello there, King %a000090. Your children are still within the castle walls.
+*: 
+	Please go ahead and collect them before continuing your journey.
+%0%a001240
+	Let's look for Kendrick, Dad.
+*: 
+	Ah, good day to you, King %a000090!
+*: 
+	We here in Coburg have been hearing
+	all about you.
+Maria
+	It sounds like your travels are just as trying as ever, %a000090.
+Maria
+	I'm sure you'll be able to guide the world in the right direction towards peace, though.
+Harry
+	Sorry Kendrick caused you a bit of bother there, %a000090.
+Harry
+	You can find me here all the time, by the way, so do drop in whenever you're passing.
+Harry
+	And do try not to go missing again, eh?
+Kendrick
+	Sorry about before. Dad said I had to apologise,
+	so I decided to give you this.
+~ %0%a000090 receives Hermes' hat! ~
+~ %0%a000180 acquires Hermes' hat! ~
+Kendrick
+	Make sure you put it to good use, won't you?
+Kendrick
+	What do you want?
+	Can't you see I'm busy?
+Harry
+	Sorry Kendrick caused you a bit of bother there, %a000090.
+Harry
+	I don't know who he takes after sometimes, though.
+Harry
+	I'm sure I wasn't such a troublemaker when I was his age.
+Harry
+	Oh yes! There's something I've been meaning to give you for ages now.
+Harry
+	Remember how we didn't manage to have you along to our wedding?
+Harry
+	Well, we'd very much like you to have a special souvenir from the day to make up for it.
+Harry
+	You remember where my old room is, right?
+	Kendrick sleeps there now.
+Harry
+	The souvenir is inside the treasure chest in that room, so just go along and help yourself.
+Maria
+	Coburg's finest music-box maker crafted us some commemorative souvenirs for our wedding.
+Maria
+	I don't know why Harry's gone and hidden one inside the chest in his old room, though.
+	How curious!
+~ %0%a000120 examines the treasure chest. ~
+~ It's empty! ~
+~ But there seem to be some letters carved on the bottom. %0%a000090 begins to read. ~
+~ ⓗI was too embarrassed to say this to your ~
+~ face, %a000090, so I thought I'd write it ~
+~ here instead. ~
+~ ⓗThere's not a day goes by even now when I don't spare a moment to remember your father. ~
+~ ⓗDuring our time as slaves, I always had an urge to make it up to you, the fact that I'd lived when he died. ~
+~ ⓗIt was that urge that took me through each day and helped me survive that awful time. ~
+~ ⓗI don't imagine there's anything in my power I can do to assist you in your quest for the legendary hero. ~
+~ ⓗBut it's my sincere hope that ruling this kingdom wisely and protecting my people will be of some help to you in some way or other. ~
+~ ⓗYou'll always be my lackey, %a000090... Ha ha ha! No, you'll always be my dear friend.ⓘ ~
+Harry
+	Hm? You couldn't find the wedding souvenir in the treasure chest?
+Harry
+	Ha ha ha! You're just as easy to trick as you
+	ever were!
+Harry
+	Very well. I'll give it to you properly this time.
+~ Harry proffers a beautifully crafted marital organ! ~
+~ %0%a000090 receives the marital organ! ~
+~ %0%a000180 acquires the marital organ! ~
+Harry
+	We actually intended to have a jewel set in the lid, but we couldn't find anyone able to do it.
+Harry
+	It's been great to see you again, old friend.
+Harry
+	You can find me here all the time, by the way, so do drop in whenever you're passing.
+Harry
+	And do try not to go missing again, eh?
+Maria
+	It sounds like your travels are just as trying as ever, %a000090.
+Maria
+	I'm sure you'll be able to guide the world in the right direction towards peace, though.
+Harry
+	Hello, %a000090.
+	Good to see you again.
+Harry
+	I don't know who Kendrick takes after sometimes, though.
+Harry
+	I'm sure I wasn't such a troublemaker when I was his age.
+*: 
+	The stars are so pretty. Aaah!
+*: 
+	It doesn't make any sense.
+	I can't fathom what I've done with it.
+*: 
+	I bought some armour from a peddler the
+	other day, you see, but I can't find it for the
+	life of me now.
+*: 
+	I made sure not to put it in amongst my things for sale, and I was trying to keep it safe. Hmph!
+%0%a001250
+	Dad! Dad! Kendrick's gone missing!
+%0%a001250
+	He told us to go and get a lackey's badge, and then he ran away while we were looking in the treasure chest.
+%0%a001250
+	You have to come and help us find him!
+%0%a001250
+	Ooh! This is a strange place for a flight of stairs!
+%0%a001250
+	You're amazing, Dad! How could you have known they were there?
+%0%a001250
+	We'd better look for Kendrick, Dad.
+Frank O'Phobe
+	Oh! If I remember rightly, you're that friend of Prince Harry's, aren't you?
+Frank O'Phobe
+	Well, well, well! It's been many a year since
+	I've seen you.
+Frank O'Phobe
+	...And yet, even after all this time, you look just the same as you did back then. Funny that.
+Frank O'Phobe
+	The kingdom of Coburg is just on from here.
+*: 
+	My little brother was over in Whealbrook hunting for those famous Whealbrook bluestones some years back.
+*: 
+	Seems the way to find them is to dig them out from the inside of large rocks.
+*: 
+	My elder sister runs a tombola place over in Lodestar Harbour.
+*: 
+	I may be wrong, but I seem to think the special prize is some kind of loyalty card or other.
+*: 
+	Hey! H-Haven't we met somewhere before?
+*: 
+	M-My poor h-husband was g-gobbled up by a m-monster, you know.
+*: 
+	What a t-terrible state the world's in now.
+*: 
+	You look nice and strong. Maybe you c-could round up all the n-nasty monsters and k-kill them all!
+*: 
+	I'm b-begging you! (sob)
+*: 
+	Zzzz... (sob)
+*: 
+	Hello there. Do I know you?
+*: 
+	Welcome to Whealbrook. The Goddess always watches over he who travels Her land.
+*: 
+	Don't be mean to me! I've boing living in Whealbrook a long time. I used to live in the cave.
+*: 
+	People say there's a T 'n' T place somewhere where you can get your hands on a goolorious
+	T 'n' T free pass. (slurp)
+*: 
+	We had a terrible time of it all those years back when our shop was set on fire.
+*: 
+	But seein' my daughter growin' up healthy and happy has done a lot to restore my optimism again.
+*: 
+	Life's not all bad after all, eh?
+*: 
+	There's nothin' of any value here any more, but we used to have people comin' in search of the famous Whealbrook bluestones.
+*: 
+	Maybe they're still here somewhere, hidden in big rocks in the cave or somethin'.
+*: 
+	Anythin's possible. There are rocks in there big enough to trap people underneath them, y'know.
+	㈡
+	*: Somethin' that big could easily be hidin' a gem.
+*: 
+	Yay! A customer! A customer!
+*: 
+	Hello there. Do I know you?
+*: 
+	That old man there took me in when I lost both my parents and had no one.
+*: 
+	It's thanks to him I was able to start up my shop too. I started off with the weapons he collected in Whealbrook Adit in his younger years.
+*: 
+	I'm just makin' the beds at the moment.
+	You have a good rest, won't you?
+*: 
+	Zzzz...
+~ %0%a000120 examines the floor. ~
+~ There's a blooming branch there! ~
+~ %0%a000180 acquires a blooming branch. ~
+*: 
+	Welcome to Roundbeck!
+*: 
+	A traveller, are you? I used to do a bit of travellin' myself in the past, goin' over Coburg way an' sellin' weapons.
+*: 
+	You can do a pretty good business in weapons here nowadays, mind. Just goes to show the sorry state the world's in, eh?
+*: 
+	People are sayin' that some almighty ⓗmaster of the underworldⓘ is tryin' to destroy us.
+*: 
+	But that the Order of Zugzwang will come to the rescue of anyone who chooses to follow them.
+*: 
+	I dunno, though. I think I'd rather look after myself and not go relyin' on others like that.
+*: 
+	This one here may be full of it now, but he was a right coward once upon a time.
+*: 
+	He ran away from Coburg when things got a bit hairy, you know!
+*: 
+	The fella in the pub said somethin' about how there's a grandchild of the legendary hero out there somewhere.
+*: 
+	If that's really true, it'd be great to meet them.
+*: 
+	Did you know that the Order of Zugzwang are based at Mt Azimuth? They have a big temple there.
+*: 
+	What I don't get is how normal folk like us
+	are supposed to climb up a huge mountain
+	like that, though!
+*: 
+	I've heard talk that somewhere in our world is a clan of people who guard the seal to the underworld.
+*: 
+	People say that those folk have some special power to communicate with the monsters.
+*: 
+	There are lots of scary rumours flyin' about at the moment about how the world's in peril.
+*: 
+	But there's not a fat lot I can do about it. So I just keep my head down, cook nice meals for
+	my son, and hope for the best.
+*: 
+	My old man and I bought this place years ago off a man called Whitaker, and we started runnin' our own inn.
+*: 
+	Why dun't you stay the night? We've got a special offer on at the moment where you get a souvenir if you stay two nights or more!
+*: 
+	Make sure you come and see me after two nights stayin' here, won't you?
+*: 
+	Hm? You've stayed two nights already?
+	What a good customer you are!
+*: 
+	Then I must give you one of our famous grape-scented Roundbeck Zizzwizz Pillows!
+~ %0%a000120 receives a Zizzwizz Pillow! ~
+~ %0%a000180 acquires a Zizzwizz Pillow! ~
+*: 
+	Oh dear. With business this bad, I dun't know how we're goin' to afford to pay our remittances to the Order of Zugzwang.
+*: 
+	Ooh! Hello there, young man!
+	Would you like a drink?
+*: 
+	Here you are. Enjoy!
+*: 
+	Then what can I do for you?
+	The legendary hero, eh? Just a sec!
+*: 
+	It's my dad who knows all about that.
+	Why don't you go on in and pick his brains?
+*: 
+	My dad knows a thing or two about the legendary hero. Ask him as much as you like.
+*: 
+	You want to know about the legendary hero, do you? Then you've come to the right place!
+*: 
+	Long, long ago, the Lord of the Underworld, Es...something or other, was resurrected, and set about destroying the world.
+*: 
+	But then the legendary hero, with the Zenithian Equipment on his side, defeated him and saved us all.
+*: 
+	He had four items altogether: the Zenithian Sword, the Zenithian Armour, the Zenithian Shield and the Zenithian Helm.
+*: 
+	Hm? What happened to him after that?
+*: 
+	Some say he returned to Zenithia up in the sky, but I don't know if that's what really happened or not.
+*: 
+	It was all a long time ago, anyway, so I very much doubt he'd still be alive now.
+*: 
+	I s'pose you might be able to find one of his descendants somewhere if you were lucky.
+*: 
+	A traveller, are you? I used to do a bit of travellin' myself in the past, over to Coburg
+	sellin' weapons.
+*: 
+	You can do a pretty good business in weapons here nowadays, mind. Just goes to show the sorry state the world's in, eh?
+*: 
+	I was still thinkin' of him as my little boy, but he's suddenly got so big!
+*: 
+	Still, he'll always be my baby!
+*: 
+	Goo! Goo!
+*: 
+	Ah-phew, ah-phew...
+*: 
+	Ah-phew...
+*: 
+	Did you know that the Order of Zugzwang are based at Mt Azimuth? They have a big temple there.
+*: 
+	What I don't get is how normal folk like us
+	are supposed to climb up a huge mountain
+	like that, though!
+Bianca
+	Oh! Sorry, %a000090. Did I wake you?
+Bianca
+	It's just, I've bin thinkin' a lot
+	about things in the past.
+Bianca
+	It's not that I'm feelin' sad or nothin'. That's all done and dusted now, I know that.
+Bianca
+	Um, can I come over to you, %a000090?
+Bianca
+	I want you to know...
+	I love you.
+Bianca
+	Don't be mean! I'm comin' anyway.
+*: 
+	Ooh! Hello there, young man!
+	Would you like a drink?
+*: 
+	Here you are. Enjoy!
+*: 
+	Then what can I do for you?
+	The legendary hero, eh? Just a sec!
+*: 
+	It's my dad who knows all about that.
+	Why don't you go on in and pick his brains?
+*: 
+	My dad knows a thing or two about the legendary hero. Ask him as much as you like.
+*: 
+	You want to know about the legendary hero, do you? Then you've come to the right place!
+*: 
+	Long, long ago, the Lord of the Underworld, Es...something or other, was resurrected, and set about destroying the world.
+*: 
+	But then the legendary hero, with the Zenithian Equipment on his side, defeated him and saved us all.
+*: 
+	Hm? What happened to him after that?
+*: 
+	Some say he returned to Zenithia up in the sky, but I don't know if that's what really happened or not.
+*: 
+	It was all a long time ago, anyway, so I very much doubt he'd still be alive now.
+*: 
+	I s'pose you might be able to find one of his descendants somewhere if you were lucky.
+*: 
+	Aaah! You can't beat a good drink! Well, a good drink in one hand and a big bag of gold in the other would be ideal, but...
+Miss Count 
+	Ooooooh! It has been many years now since ve are havink ze visitors.
+Miss Count 
+	My husband and I are livink alone here in zis peaceful castle. Feel free to looooook around.
+Count Uptaten
+	Yooo dooo not have tooo say anythink.
+	Already I am knowink.
+Count Uptaten
+	Never vill I forget how my castle vas saved by ze brave %a000090. Never, for all ze eternity.
+Count Uptaten
+	From zat day, ve are able tooo live here
+	in ze peaces.
+Count Uptaten
+	Some years ago, ze young couple once lived here for a time.
+Count Uptaten
+	But zey vere gone long ago now. Said zey are goink tooo somethink called Order of Zugzwang.
+Count Uptaten
+	Ze only zing zat vould make our lives more happier is if ve could once again enjoy takink ze tea here in our castle.
+Count Uptaten
+	Yooo dooo not have tooo say anythink.
+	Already I am knowink.
+Count Uptaten
+	Never vill I forget how my castle vas saved by ze brave %a000090. Never, for all ze eternity.
+Count Uptaten
+	From zat day, ve are able tooo live here
+	in ze peaces.
+Count Uptaten
+	Some years ago, ze young couple once lived here for a time.
+Count Uptaten
+	But zey vere gone long ago now. Said zey are goink tooo somethink called Order of Zugzwang.
+Count Uptaten
+	By ze vay, zis old tea set yooo have
+	about your person...
+Count Uptaten
+	It is remindink me of ze beautiful tea set ve once had here in our castle. But ours vas much more exquisite zan zat.
+Count Uptaten
+	Yooo dooo not have tooo say anythink.
+	Already I am knowink.
+Count Uptaten
+	Never vill I forget how my castle vas saved by ze brave %a000090. Never, for all ze eternity.
+Count Uptaten
+	From zat day, ve are able tooo live here
+	in ze peaces.
+Count Uptaten
+	Some years ago, ze young couple once lived here for a time.
+Count Uptaten
+	But zey vere gone long ago now. Said zey are goink tooo somethink called Order of Zugzwang.
+Count Uptaten
+	By ze vay, zis beautiful tea set yooo have
+	about your person...
+Count Uptaten
+	Ooooooh! I knew it! It is ze toff's tea set ve had here at our castle all zose years ago!
+Count Uptaten
+	Miss Count and I vould often enjoy ze tea together back in ze days ven ve vere livink.
+Count Uptaten
+	Can I ask that yooo vill return this tea set tooo me, my friend?
+Count Uptaten
+	You vill! Vunderful! Then yooo must have
+	zis as ze reward!
+~ %0%a000120 receives the Crown of Uptaten! ~
+~ %0%a000180 acquires the Crown of Uptaten! ~
+Count Uptaten
+	Zat crown has been handed over generations tooo show who is count of zis castle.
+Count Uptaten
+	I am no longer needink it. It is yours!
+Count Uptaten
+	Forgive me. I am not hearink your answer
+	so very vell.
+Count Uptaten
+	Perhaps yooo should be thinkink more carefully and then answerink once more?
+Count Uptaten
+	Now ve have back our toff's tea set, Miss Count and I can again enjoy takink ze tea together.
+Count Uptaten
+	But...maybe it is because ve are dead, but it has no taste like in ze past. It is great shame...
+~ The cat is enjoying prancing about the place. ~
+*: 
+	Welcome to Heaven's Above Abbey, a holy place of worship for women of the Goddess.
+*: 
+	Welcome to Heaven's Above Abbey, a holy place of worship for women of the Goddess.
+*: 
+	Heavens above! You're... Yes, I couldn't forget those kind eyes you have. So unlike my late
+	husband, Goddess rest his soul.
+*: 
+	If I remember rightly, you were travelling in search of your long-lost mother, weren't you?
+*: 
+	What? Now you've lost your wife as well!?
+	I see... She's been turned to stone. How terrible
+	for you.
+*: 
+	Well, we shall all pray for you, that you find them both unscathed.
+*: 
+	It happened for Maria. A dashing young prince on a dazzling white horse came to marry her and whisk her off into the sunset.
+*: 
+	Dear Goddess, when will my prince come?
+*: 
+	Oops! I drifted off again. Mum will be so angry if she catches me daydreaming again.
+	On with the cleaning! On with the cleaning!
+Nun of the Above
+	A rumour has reached me that there is a gateway to the Realm of the Faeries in a forest east of a town called Mostroferrato.
+Nun of the Above
+	If such a fantastic world really existed, I should certainly like to see it for myself.
+Nun of the Above
+	This is the visitors' lodgings. It's rather cramped, but would you like to rest for a while?
+Nun of the Above
+	Very well. I wish you pleasant dreams.
+Nun of the Above
+	Good morning! It's another beautiful day outside.
+Nun of the Above
+	We value every guest we have here at the abbey extremely highly. I do hope we'll make your acquaintance again.
+Nun of the Above
+	I'd like you to have this statue of the Goddess as a good luck charm for your safe onward journey.
+~ %0%a000090 receives a crude image. ~
+~ %0%a000180 acquires a crude image. ~
+Nun of the Above
+	That statue was carved with love and prayers by we nuns of Heaven's Above Abbey.
+Nun of the Above
+	It doesn't have any special powers or anything like that, but I hope it will at least make a nice keepsake of your time here.
+Nun of the Above
+	We make all of our own clothes and grow our own food here at the abbey, you see.
+Nun of the Above
+	So we're used to making things for ourselves.
+Nun of the Above
+	This room is set aside for when we receive important lady guests.
+Nun of the Above
+	We've had young ladies from some of the richest families in the world staying with us here, you know.
+Nun of the Above
+	Good heavens! A monster in our peaceful sanctuary!
+Nun of the Above
+	Oh, I see. You're with %a000090, are you? Well, I'm glad to hear you're working for a worthy cause.
+Nun of the Above
+	It's late. We're all just nuns here, you know.
+	We can't accept visitors at any hour. Please
+	come back in the morning.
+*: 
+	This here's the town of Fortuna, the land of hope and glory!
+*: 
+	Oh, yeah! I win! You know, every losing streak
+	has to end sometime. That's the lesson here.
+	I'm on fire now!
+*: 
+	I came here from a land far away to the north called Coburg.
+*: 
+	Perhaps you've heard of it? It used to be
+	plagued with problems, but it's a wonderful
+	place now, you know.
+*: 
+	Meooow...
+*: 
+	I came to Fortuna here because I heard of an amazing shop selling the most unusual items.
+	But it's closed during the day, apparently.
+*: 
+	I came to Fortuna here because I heard of an amazing shop selling the most unusual items.
+	But it's closed during the day, apparently.
+*: 
+	What!? You bought %a040100 there? I had no idea anything like that was even for sale!
+*: 
+	I'd love to head over there and buy one
+	myself, but my wife makes a terrible fuss
+	if I go out after dark.
+*: 
+	I'm just passing through here. I travel the
+	world in search of the strongest weapons
+	and the stoutest armour.
+*: 
+	Everyone always thinks of the so-called Zenithian Equipment when I say that. But only the legendary hero can use that.
+*: 
+	No, I've heard of even mightier weapons and armour in the world.
+*: 
+	Welcome!
+*: 
+	Ya can read, right? Like the sign says, customers only through here.
+*: 
+	You wanna talk to me, mister?
+*: 
+	I'm way too busy right now.
+	I'm playing tag, and I'm it!
+*: 
+	Not now! Johnny's coming, and he's it!
+~ ⓗNo passage without purchase! ~
+~ Store customers only, please!ⓘ ~
+~ ⓗThe Old Curiosity Shop. Your one-stop source of all things curio, served with a city-wide smile.ⓘ ~
+*: 
+	Do you know about the Old Curiosity Shop?
+*: 
+	Even the shop curtain is a really rare item. It's a Fortuna slime curio!
+*: 
+	Apparently it's the only one of its kind, so the storekeeper won't consider selling it to you unless you're a very special customer.
+*: 
+	No? It's a real strange place, on the far west side of town.
+*: 
+	No way! You bought the slime curio?
+*: 
+	That's amazing! If I was you, I'd put it on display in a museum or something. I mean, it's like, ultra-rare!
+*: 
+	I've heard people talk of this amazing weapon called the dragon staff. Do you know anything
+	about it?
+*: 
+	It actually turns you into a gigantic
+	dragon, apparently!
+*: 
+	I wish I could find it. So far all I've learnt is that it's in some tower where the soul of a dragon rests, whatever that's supposed to mean.
+*: 
+	Gosh, darn it, I'd give my right arm to be in that casino right now.
+*: 
+	Oh, what the heck! I'm sick o' this store. I'm goin'!
+*: 
+	Oh, why did I marry such a loser? He keeps leavin' the store open and makin' a beeline for the casino.
+*: 
+	I don't know! Men!
+*: 
+	Guess I shouldn't be sayin' all this to %H0860%Xyou%Yyou guys%Z.
+	It's not your problem, huh?
+*: 
+	That poet guy's in here everyday boozin' and drinkin'. Ya think he's okay?
+*: 
+	Too much drinkin's supposed to make your throat hoarse, or so I heard.
+*: 
+	Sorry, %H0860%X%A0110%Xyoung man%Z%B0110%Xlittle lady%Z%Ykids%Z. Adults only in here.
+*: 
+	Darn it, an' I thought I'd gone an' met my dream lady there for a while.
+*: 
+	Ain't you got enough women up there
+	already, Goddess?
+*: 
+	I gotta get dinner on the table before my old man and son get home.
+*: 
+	You look like %H0860%Xa traveller%Ytravellers%Z to me.
+	Don't you miss having a home to
+	go back to in the evening?
+*: 
+	No, I guess you're too young to feel
+	like that yet, huh?
+*: 
+	Yee-ha... Yee-phew... Yee-ha...
+	Store's only open after dark, pardner.
+*: 
+	Huh? Is there anythin' tougher than the
+	Zenithian Equipment?
+*: 
+	There surely is, my friend.
+*: 
+	The dragon staff, the shimmerin' shield, the Pallium Regale and that there sun crown.
+*: 
+	Them four are the toughest pieces of equipment y'ever doggone seen!
+*: 
+	I was a traveller myself, you know, back in the day.
+*: 
+	Ah, they were fine times. Fine times!
+Mystic Mridula
+	Kah ha ha hah! Well-well, well-well!
+	I am Mystic Mridula, please. The Fortuna
+	fortune-teller of fortunes! Kah ha ha ha hah!
+Mystic Mridula
+	I am very sorry, please, but I am only telling fortunes at night. Unless you would be a bit of handsome young totty, of course! Kah ha hah!
+Mystic Mridula
+	Kah ha ha hah! Well-well, well-well!
+	I am Mystic Mridula, please. The Fortuna
+	fortune-teller of fortunes! Kah ha ha ha hah!
+Mystic Mridula
+	Usually, I am only telling fortunes at night. But for a handsome young lovely like you, I will be doing it any time of day! Kah ha ha hah!
+Mystic Mridula
+	Kah ha ha hah!
+	Let me tell you what am I seeing...
+	Three rings will be guiding you.
+Mystic Mridula
+	The first is the Circle of Fire. The second is the Circle of Water. And the third is that toe-tapping number, the Cir-cle of Li-i-ife! Ⓠ Ⓡ
+Mystic Mridula
+	Bringing all of these three circle rings together
+	will open up the way for you. A brand-spanking
+	new way.
+Mystic Mridula
+	And I am seeing one more thing...
+	This the Circle of Life, it is in a very high up place.
+	High, I tell you! High! Kah ha ha hah!
+Mystic Mridula
+	Kah ha ha hah! Well-well, well-well!
+	I am Mystic Mridula, please. The Fortuna
+	fortune-teller of fortunes! Kah ha ha ha hah!
+Mystic Mridula
+	Usually, I am only telling fortunes at night. But for a handsome young lovely like you, I will be doing it any time of day! Kah ha ha hah!
+Mystic Mridula
+	Yesss... Yesss... Kah ha ha ha hah! The person who you are looking for is not in this land!
+Mystic Mridula
+	Many moons ago, I am hearing of these people who are guarding the gate to another world.
+	Your answers are lying there.
+*: 
+	Hi! I'm, like, Monty's assistant, Carla.
+Carla
+	There are these, like, totally weird monsters and they're, like, near the Neverglade and in the Realm
+	of the Faeries and stuff.
+*: 
+	Hi! I'm, like, Monty's assistant, Carla.
+Carla
+	There are, like, some special monsters that you can, like, only make friends with at T 'n' T boards and other, like, really special places.
+Carla
+	But you've gotta be, like, totally awesome before you can make friends with them.
+Carla
+	You're already, like, this totally awesome
+	monster handler.
+Carla
+	I'm, like, sooo not worthy of teaching you
+	anything now.
+*: 
+	This is the town prison. If you wanna talk to the inmates, better do it through the bars.
+*: 
+	How could you let a criminal like that go?
+*: 
+	But I guess, if the world's about to be swallowed up in some cloud of evil darkness, he should get the chance to go where he wants to.
+*: 
+	How long are they gonna keep me locked up in
+	here, huh?
+*: 
+	What? You're lettin' me out?
+*: 
+	Gee, thanks, pal!
+*: 
+	Oh, yeah. Check out that stool over there.
+	Think of it as a mini reward for helpin' me out.
+*: 
+	I've been locked up in 'ere fer ten years now.
+*: 
+	Yer the first %A0110%Xbloke%Z%B0110%Xperson%Z who's bothered to say anyfin' to me in all that time.
+*: 
+	I ain't got nuffin' to give ya, but I can tell ya somefin' that'll keep ya out o' trouble.
+*: 
+	The slot machine that's second from the left in
+	the back row o' the casino's the one wot pays out
+	the most.
+*: 
+	Welcome to the Fortuna casino!
+	I've gotta tell ya before ya start, we
+	only accept tokens in here.
+*: 
+	You can buy tokens from the cashier over there.
+*: 
+	Hey! Sorry, but kids can't play in here unless they're accompanied by an adult.
+*: 
+	Those are the rules. Can't ya get someone to
+	bring you?
+*: 
+	They never give you gold back, no matter how many tokens you win.
+*: 
+	The best way to enjoy the fun's to buy tokens with any leftover gold you have, but not to break the bank.
+*: 
+	Listen to this!
+*: 
+	See that monster? It's such a long shot, they're offering odds of forty to one! Can you believe it!?
+*: 
+	Go on! That's the way!
+*: 
+	I just don't ever seem to get a win.
+	Do you think someone's inside there,
+	fixing the results?
+*: 
+	Wahoo! Another win for Lucky Larry!
+	I'm on such a roll today!
+*: 
+	These performers aren't bad.
+*: 
+	Still nothing. Maybe it's bust or something...
+*: 
+	How's it goin', pal?
+	Are ya winnin'?
+*: 
+	Yeah? Go for it, then! You gotta go for it when you're on a winnin' streak!
+*: 
+	No? Don't worry, it'll come. Your luck's gotta change sometime, right?
+*: 
+	Folks are all talkin' about this darkness that's gonna destroy the world.
+*: 
+	But we've all gotta die sometime, right?
+	Gotta enjoy life while you can, I say.
+	Let the good times roll!
+*: 
+	There's people from all walks o' life in this here town. The good, the bad and the ugly.
+*: 
+	And it looks like you've had your fair share of suffering to me.
+*: 
+	Have ya heard about the legendary hero?
+	Everyone's speculatin' about whether he's
+	gonna show or not.
+*: 
+	I've got a thousand G down that says he does!
+Heidious
+	Hello everyone! I'm Heidious! I'm so beautiful, everyone turns to look at me.
+Heidious
+	Just look at my stunning dress.
+	It fits me so well, it hurts!
+Heidious
+	Poor Cindy. Is she beautiful? Oh, no she isn't!
+	Is her dress stunning? Say it together with me
+	now everyone... Oh, no it's not!
+Wicked stepmother
+	Have you seen my two daughters?
+	They couldn't be more different.
+	One is Heidious... (Why are you laughing?)
+Wicked stepmother
+	The other is Cindy, that shabby little witch my husband brought into the family.
+Wicked stepmother
+	But tonight is the night of the ball!
+	My Heidious will woo the handsome
+	young prince!
+Cindy
+	Hi, friends! I'm Cindy! I'm just a plain little girl. My stepmother's so kind, she lets me stay in the house. She's wicked.
+Cindy
+	I feel so nervous. My heart is pounding in my chest.
+Cindy
+	Tonight is the night of the ball!
+	And I'm actually going!
+Cindy
+	Please, faerie godmother!
+	Please don't spoil my dream!
+*: 
+	Good evening, ladies and gentlemen!
+	Tonight is the palace ball!
+*: 
+	Where's the stunning young beauty come to
+	steal a prince's heart? What? She's behind me?
+	Oh, no she isn't!
+*: 
+	This is our changing room.
+	Don't go peekin' in the closets, okay?
+*: 
+	The boss said he's gonna let that travellin' theatre group take the stage durin' the day.
+*: 
+	Hey! You ain't allowed in here when we're changin'! Even if you are a casino customer.
+*: 
+	What? These are the results?
+	Unbelievable!
+*: 
+	You just can't get a handle on these slimes,
+	no matter how much you study their form.
+	They're slippery ones, that's for sure.
+*: 
+	Boing, boing! (slurp)
+*: 
+	I'm a hopping slurpsation when I goo for it.
+*: 
+	You want me to tell you something good?
+	Err... I know! The weather gloopcast!
+	Today might be %a001220...
+*: 
+	Hmm... Yes, I better go this way around.
+	No, perhaps that way around would be better
+	after all...
+*: 
+	Hah hah hah! Fell off too, did ya?
+	So, you're a ⓗfell-aⓘ then, are ya?
+	Hah hah hah!
+*: 
+	I've been playin' this T 'n' T board for thirty years now, and I've never got to the end.
+*: 
+	I enjoy seeing other people fall off, though.
+	I've got a great joke about it!
+*: 
+	You're in Fortuna now! Everyone's welcome, and everyone can enjoy the fun!
+*: 
+	Unbelievable!
+	I lost again!
+*: 
+	If I hadn't bet on that one back there, I'd have been alright.
+*: 
+	Purrr...purrr...purrr...
+*: 
+	Ya like takin' a stroll around town at night?
+*: 
+	It's swell, ain't it? My wife and I used to
+	enjoy it too.
+*: 
+	No? Me neither. It just makes me think of my wife.
+Mystic Mridula
+	Kah ha ha ha hah!
+	I am mystic-mystic Mystic Mridula. And I don't like this person who is leading your party.
+Mystic Mridula
+	If you are giving to me a man of my liking, I will gladly look into a crystal ball, poke my finger in dirty tea leaves, whatever you are wanting...
+Mystic Mridula
+	Kah ha ha hah! Welcome to Mystic Mridula's super-duper fortune-telling mumbo-jumbo bonanza!
+	You wanna give it a go, no?
+Mystic Mridula
+	Okey-dokey! You're such a handsome cookie,
+	I'll do it for free!
+Mystic Mridula
+	Kah ha ha hah!
+	Let me tell you what am I seeing...
+	Three rings will be guiding you.
+Mystic Mridula
+	The first is the Circle of Fire. The second is the Circle of Water. And the third is that toe-tapping number, the Cir-cle of Li-i-ife! Ⓠ Ⓡ
+Mystic Mridula
+	Bringing all of these three circle rings together
+	will open up the way for you. A brand-spanking
+	new way.
+Mystic Mridula
+	And I am seeing one more thing...
+	This the Circle of Life, it is in a very high up place.
+	High, I tell you! High! Kah ha ha hah!
+Mystic Mridula
+	Oh... You are saying that you want to find your own way? Kah ha ha hah! Be my guest! Ka ha ha ha hah!
+Mystic Mridula
+	Kah ha ha hah! Welcome to Mystic Mridula's super-duper fortune-telling mumbo-jumbo bonanza!
+	You wanna give it a go, no?
+Mystic Mridula
+	Okey-dokey! You're such a handsome cookie,
+	I'll do it for free!
+Mystic Mridula
+	Yesss... Yesss... Kah ha ha ha hah! The person who you are looking for is not in this land!
+Mystic Mridula
+	Many moons ago, I am hearing of these people who are guarding the gate to another world.
+	Your answers are lying there.
+Mystic Mridula
+	Oh... You are saying that you want to find your own way? Kah ha ha hah! Be my guest! Ka ha ha ha hah!
+*: 
+	My husband's in the bathroom. You'll have to wait if you want to go in there.
+*: 
+	Hey, get out! Can't a man get a moment's peace around here?
+*: 
+	My kids have started playin' outside of town just recently. It's kind of a worry.
+*: 
+	I wish the world was a more peaceful place,
+	and we didn't have to think about monsters the
+	whole time.
+*: 
+	Ah-phew...
+*: 
+	Folks are complainin' a lot these days.
+	It ain't good for business.
+*: 
+	Hey, handsome! Sit down and enjoy a drink, huh?
+*: 
+	Hmm... The drinks in this bar are getting worse if you ask me.
+*: 
+	Oh, yeah!
+	The casino is my friend!
+*: 
+	I'm gonna celebrate tonight!
+*: 
+	Uuurgh, my 'ead! Hic!
+*: 
+	There's nothing like having your family
+	around you!
+*: 
+	Tag'zzz boring now...
+	Zzz... Zzz...
+*: 
+	Is Grandpa at the bar again?
+	Oh boy, he's gonna be in trouble!
+*: 
+	You want to talk to Grandma?
+*: 
+	She'll be around town somewhere telling
+	people's fortunes.
+Carla
+	Zzz... Zzz...
+	Like, zzz...
+*: 
+	Ah-phew, ah-phew.
+*: 
+	How long are they gonna keep me locked up in
+	here, huh?
+*: 
+	What? You're lettin' me out?
+*: 
+	Gee, thanks, pal!
+*: 
+	Oh, yeah. Check out that stool over there.
+	Think of it as a mini reward for helpin' me out.
+*: 
+	I've been locked up in 'ere fer ten years now.
+*: 
+	Yer the first %A0110%Xbloke%Z%B0110%Xperson%Z who's bothered to say anyfin' to me in all that time.
+*: 
+	I ain't got nuffin' to give ya, but I can tell ya somefin' that'll keep ya out o' trouble.
+*: 
+	The slot machine that's second from the left in
+	the back row o' the casino's the one wot pays out
+	the most.
+*: 
+	Now you look like a seasoned old trav'ller to me, pardner. In that case, you won't wanna be without this here Big Book of Beasts!
+*: 
+	I wanna say three thousand gold coins for it, but I just can't resist givin' you a discount, pardner! So how about we settle on a thousand?
+*: 
+	Yee-ha! You got yourself a deal!
+	I'll just go on and put it in your bag for you.
+	Ride 'em, %A0110%Xcowboy%Z%B0110%Xcowgirl%Z!
+*: 
+	Okay, pardner. You're the boss!
+*: 
+	Sorry, pardner, but you look to be a little
+	short of cash.
+*: 
+	Don't be a stranger now, pardner. If I git ahold of any more unusual items, I'll be puttin' them up for sale. So come on by again, y'hear?
+*: 
+	Howdy, pardner! Now didn't I just sell you one o' my fine monster menageries?
+*: 
+	I ain't got no other fancy goods to be sellin' you right now.
+*: 
+	But I can't let my best customer leave empty-handed now, can I?
+*: 
+	So how about this? The only one of its kind found anywhere in the world, the famous Fortuna slime curio!
+*: 
+	I wanna say ten thousand gold coins for this fine article, but I just can't resist givin' you a discount, pardner! So how about five thousand?
+*: 
+	Hot dog! You're really gonna buy this slime curio from me for five thousand bucks?
+*: 
+	You got yourself a deal, pardner! I'll just put it right into your bag there for you and take that cash off your hands. Thank you kindly!
+*: 
+	Okay, pardner. You're the boss!
+*: 
+	Still too much for ya, huh, pardner?
+	I'm pretty attached to it myself, you know...
+*: 
+	Beggin' your pardon, pardner, but I ain't got a single curiosity left in stock.
+*: 
+	It ain't like the good old days now. Travellin's a dangerous game, an' I don't get out much to find
+	new stock.
+*: 
+	Hiya! Welcome to the casino. Relax, play some games, and have %H0860%Xyourself%Yyourselves%Z a great time!
+*: 
+	They never give you gold back, no matter how many tokens you win.
+*: 
+	The best way to enjoy the fun's to buy tokens with any leftover gold you have, but not to break the bank.
+*: 
+	Listen to this!
+*: 
+	The monster I backed's about to win!
+*: 
+	Go on! That's the way!
+*: 
+	There are three types of slot machine. There are single-token, ten-token and hundred-token machines.
+*: 
+	Always best to start off with the single-token machines, if you want my advice.
+*: 
+	This is the casino's one hundred token
+	mega-attraction!
+*: 
+	I finally did it! I won a hundred tokens on the
+	slot machines!
+*: 
+	That makes me even for today. I got back what I lost. Not bad for a day's work.
+*: 
+	I can't wait to be among the performers who get a changing room to use.
+*: 
+	Where's the stunning young beauty come to
+	steal a prince's heart? What? She's behind me?
+	Oh, no she isn't!
+*: 
+	It's weird. I'm losing my voice here. I won't be able to perform soon. Ahem! Ahem, ahem!
+*: 
+	There's people from all walks o' life in this here town. The good, the bad and the ugly.
+*: 
+	And it looks like you've had your fair share of suffering to me.
+*: 
+	Have ya heard about the legendary hero?
+	Everyone's speculatin' about whether he's
+	gonna show or not.
+*: 
+	I've got a thousand G down that says he does!
+*: 
+	These dancers aren't bad.
+*: 
+	Don't disturb me now, pal!
+	This is a really good bit!
+*: 
+	La la la Ⓠ,
+	Can't express my love,
+	But ooh... Ⓡ
+*: 
+	La la la Ⓠ,
+	Please, baby, ooh,
+	I need you... Ⓠ
+*: 
+	Well? Do you think the way I dance is classy too, honey?
+*: 
+	You wanna join in the dance, sweetie pie?
+	Sure! Just swing those hips!
+	Da-da-daa, Da-da-da-daaa Ⓠ
+*: 
+	You look like you've got rhythm.
+	Come on, sugar, let's dance!
+*: 
+	Oh, yeah! You sure can move!
+Heidious
+	Wow! That's one heavy costume!
+	And real princesses wear this kind
+	of thing all the time?
+Wicked stepmother
+	It's my job to support the lead. It's one of the most difficult acting roles there is, you know.
+Cindy
+	You get to meet all kinds of people travelling
+	around. It's great experience. It helps me brush
+	up my acting skills.
+Carla
+	Wow! What a hero, getting, like, sooo many monsters to join you. You're way cool!
+Carla
+	But with that many monsters already part of your team, you're gonna find it hard to recruit any others.
+Carla
+	If you wanna, like, get some other monsters to join the party, you better say bye to some of these guys, huh?

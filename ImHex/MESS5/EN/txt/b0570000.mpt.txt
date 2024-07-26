@@ -1,0 +1,1114 @@
+%0%a001240
+	What a transformation! Dr Agon looks totally amazing when he turns into the Zenith Dragon!
+%0%a001240
+	He should try to be a bit cooler in his human form, then it wouldn't be such a shock when he changes.
+%0%a001250
+	Dad, our quest's over now, isn't it?
+	I mean, the world's at peace, right?
+Bianca
+	Come on, then. Time to go. The people of Gotha are waitin' for their great leader to come home.
+Nera
+	You've been so good, %a001240. And you, %a001250. You've both been so wonderⓚⓛ
+	Oh, no. Now, now I'm going to cry.
+%0%a001240 & %0%a001250
+	Don't cry, Mum. Oh, Mum...
+%0%a001250
+	Dad, our quest's over now, isn't it?
+	I mean, the world's at peace, right?
+%0%a001240
+	Yeah, surely he'll go back to being that cool dragon again soon...won't he, Dad?
+%0%a001240
+	Hey, Dad. We'd better go and tell all the faeries what's happened sometime, hadn't we?
+%0%a001250
+	Yes! Sweet joy and candy kisses!
+	To you, Dad, and to Mum and %a001240.
+	And to everyone! Come on. Let's all dance!
+Nera
+	Oh, yes! Why don't we all dance?
+	I haven't felt so happy in years!
+%0%a001240
+	Busy but happy, though, right?
+	I know exactly how she feels.
+Bianca
+	That Zenithian got in a flap just now, eh?
+Bianca
+	D'you reckon the Zenith Dragon has a bit of a temper on him if things en't done right?
+Nera
+	Should we get going soon? I can't wait to see it with my own eyes. The world at peace!
+%0%a001240
+	I wonder where Dr Agon is.
+%0%a001240
+	Zenithia looks amazing now too.
+%0%a001240
+	It's hard to imagine it was completely flooded not that long ago.
+Bianca
+	It's hard to know what to do with yourself when someone's showin' so much gratitude, eh?
+Bianca
+	You deserve all the thanks you get, though, %a000090. You're the one who made all this happen.
+%0%a001240
+	Wow! Zenithia can fly really, really high, can't it!?
+%0%a001240
+	Whoa... L-Looking down gives you goosebumps!
+Bianca
+	Forever and ever and ever, eh?
+Bianca
+	I sometimes think it wouldn't be such a bad thing if
+	I got turned into a statue again one day.
+Bianca
+	That way, we could stay together for all eternity, you and me lined up side-by-side.
+Nera
+	Forever and ever...and ever?
+Nera
+	Some people say your feelings die with you when you pass away.
+Nera
+	But I know I'll always love you, forever and ever and ever.
+%0%a001250
+	I've been meaning to ask you, Dad...
+%0%a001250
+	Why does that old man live behind a fireplace?
+Bianca
+	It has bin a pretty tough old journey at times, eh?
+Bianca
+	At least the Goddess was there to guide us every step of the way.
+%0%a001250
+	It's a slime!
+%0%a001250
+	What a relief! I was worried that the good monsters would've disappeared from the world too.
+Nera
+	Is this slime trying to block our path?
+	Maybe it doesn't want us to leave here yet.
+Bianca
+	Ooh, what a pretty sky! It's the perfect backdrop for how triumphant we're all feelin', eh?
+Nera
+	What a beautiful view! In fact, ever since we were reunited, everything's been just perfect.
+Nera
+	What? What about the hard times? Well, if there were any hard times, I've completely forgotten
+	about them now.
+%0%a001240
+	Wahoo! Look how high we are!
+	Yoo-hoo! Yoo-hoo!
+%0%a001250
+	B-Be careful, Dad. M-Mind you don't fall.
+	It looks like it would hurt.
+%0%a001240
+	Yes! We're going to get to ride on the
+	Zenith Dragon again!
+Bianca
+	It's a shame we only got to meet your mum the once.
+Bianca
+	But I'm sure she's watchin' over you all the time. You'd better make sure you stay on your best behaviour!
+Nera
+	I-I'll never forget your mother.
+	She was such a wonderful woman, helping people and monsters even while she was held captive.
+%0%a001240
+	So, as well as having some of you and Mum in me,
+	I've got a little bit of Grandma and Grandpa in me too, right, Dad?
+%0%a001240
+	That's amazing. I, I feel really lucky.
+	Don't you, %a001250?
+%0%a001250
+	Yes! We are lucky, %a001240.
+%0%a001250
+	I, I wish I'd had the chance to talk to Grandma more, but I know she's happy now.
+%0%a001250
+	And whenever I think of her, I can feel her warm, loving eyes watching over us. Even though she's gone, she's still a part of all of us.
+Bianca
+	It would've bin interestin' to hear your mum's version of events, eh?
+Nera
+	I know exactly how your mother must have felt then.
+Nera
+	After all, I've had a light lit in my heart ⓚⓛ by you!
+%0%a001240
+	So Grandma was a captive princess and Grandpa was the knight who came to rescue her! Cool!
+%0%a001250
+	It's good that the people of Lofty Peak have realised Grandpa wasn't a bad person at last.
+%0%a001240
+	I don't have to feel sad any more now when I see Grandma's old room.
+%0%a001240
+	I mean, she's happy now, isn't she?
+	She and Grandpa are together again now.
+	I bet they're having fun somewhere.
+Bianca
+	So the world really is at peace. Comin' back down to earth really brings it home to you.
+Nera
+	A peaceful world... Is it just me, or does everything feel a bit different now? Even the air seems fresher somehow.
+%0%a001240
+	Everyone looks so happy.
+	That's our reward for all the things we've done.
+%0%a001250
+	Mum, Grandma's happy now, isn't she?
+	Somewhere up in the sky...
+Bianca
+	Yeah. I doubt we could've defeated Nimzo if it weren't for your mum's help.
+%0%a001240
+	They mean Grandma, right?
+	Madalena was Grandma's full name, wasn't it?
+%0%a001240
+	Everyone loved my Grandma. That's because she was the best!
+%0%a001250
+	Ha ha ha! This is so embarrassing!
+Nera
+	I know! It's difficult taking all this praise, isn't it?
+Bianca
+	I didn't know your mum and dad eloped! Nice one!
+Nera
+	It is romantic, isn't it? And all thanks to the hand of destiny. Just like me meeting you was.
+%0%a001250
+	That woman's completely wrapped up in the whole romantic idea of it all!
+Bianca
+	I'll be prayin' for 'em, prayin' that they all find their way to the Goddess.
+Nera
+	She's absolutely right. We mustn't forget all those who died for peace. I'm going to pray for them too.
+Nera
+	I wonder where mine and Debora's hometown is.
+	I mean the place I was born, before Mama and Papa adopted us.
+Nera
+	Oh well, it's not important. My home's wherever you are now, and that's all that matters to me.
+%0%a001240
+	Another home! Let's come back here sometimes then, Dad. It's a great place to play!
+%0%a001240
+	I think he should become a florist. Why not?
+%0%a001250
+	What a nice man! He's not even slightly upset, even though he won't be able to sell any of his stock now.
+Bianca
+	Ha ha. It's not like we managed it all by ourselves though, eh?
+Bianca
+	Folk from all over the world put their faith in us. Without that, we never could've done it.
+%0%a001250
+	That man smelt like old bottles. He's been in the pub, and it's still the middle of the day!
+%0%a001240
+	And now the world's at peace, she'll probably live lots, lots longer and see lots, lots more days. Right, Dad?
+Bianca
+	He's talkin' about when your mum and dad met,
+	en't he?
+Bianca
+	I wonder how they fell in love.
+	It's a shame we can't ask 'em.
+Nera
+	You wouldn't expect King Pankraz to get lost, would you? It must've been fate playing a hand.
+Bianca
+	Harry and Maria make a good couple, eh?
+	They seem to get on really well.
+Bianca
+	We'd better not let 'em beat us in the happily married stakes. Come here and gimme a kiss!
+Nera
+	I suppose that'll be us now too, won't it?
+	I mean, that's how we'll be, back at Gotha castle.
+Nera
+	It's a little bit hard to imagine at the moment,
+	to be honest.
+%0%a001250
+	Prince Harry looks like a nice man.
+	He's got kind eyes just like yours, Dad.
+Bianca
+	It's nice to have a good friend like that from way back. I'm a bit jealous, in fact.
+Nera
+	Young and beautiful!? You've got such nice friends, %a000090. I think I'll just block the ⓗblockⓘ part out!
+%0%a001240
+	Kendrick seems to be a really annoying, selfish brat, but he's alright underneath...I think.
+%0%a001250
+	It's Kendrick who should become %a001240's lackey, not the other way round!
+Bianca
+	The weather's amazin', en't it? Even the sky's smilin' down on us today.
+%0%a001240
+	Zenithia's way, way above the clouds, isn't it?
+%0%a001240
+	It's a bit hard to believe when you're down on
+	the ground.
+%0%a001250
+	You know what I'd really like?
+%0%a001250
+	Once we get home to Gotha, I'd like us all to take a packed lunch and go for a picnic in the woods.
+%0%a001230
+	Alright, then. I'll make lunch for all of us.
+%0%a001250
+	Really? You will? Excellent!
+Bianca
+	I wonder how everyone'll react when we get back
+	to Gotha.
+Bianca
+	We've not bin away all that long, and yet I sort of miss the place. Funny, en't it?
+Nera
+	I feel like I miss Gotha all of a sudden.
+Nera
+	I don't know why, really. It's not like I've been away for all that long.
+%0%a001240
+	King Wilbur's not like his brother Harry, is he?
+	He seems really nice.
+Bianca
+	Hey! You mind your mouth! Imagine how Harry would feel if he heard you say that!
+Bianca
+	This en't our first time in Coburg, but the place feels pretty different today somehow.
+Bianca
+	It's probably all the folk laughin' away that's doin' it. The atmosphere's totally changed.
+Nera
+	Coburg Castle seems like a far brighter place now than it used to be. Just listen to all that laughter.
+%0%a001240
+	Wow! Everyone's heard about us!
+	Everyone knows about what we've done.
+%0%a001240
+	Hey, you don't... You don't think they know about me wetting the bed lastⓚⓛ Oops! I mean... Nothing!
+%0%a001250
+	ⓗLegendary heroesⓘ!? What, we're all legendary heroes, are we?
+%0%a001250
+	Ha ha!
+Bianca
+	Hm? Did that soldier say somethin' just then?
+	Sorry, I weren't listenin'.
+%0%a001240
+	But...it's not a dream. The world really is at peace!
+Nera
+	It still seems like a dream to me, even though
+	I'm awake.
+Nera
+	No wonder this sleepy soldier can't quite believe it!
+%0%a001240
+	Nothing beats Gotha Castle, but this castle's really impressive too.
+%0%a001250
+	Isn't Dr Agon a god too? He's the Dragon God, isn't he? Does that mean he's married to the Goddess?
+	Poor Goddess.
+%0%a001240
+	A slap-up meal? Do you think we can join in if we hang around here a bit longer?
+%0%a001240
+	But I suppose we've got to get back to Gotha, haven't we? Everyone'll be waiting for the great heroes to return!
+%0%a001250
+	Wow! She's not scared of the dark! I'm impressed!
+Bianca
+	That nun's so ecstatic, it's impossible to keep the smile off your face when you talk to her!
+Bianca
+	This is what it's all about, though. That's why
+	we went to all that effort, so that folk could be happy again.
+Nera
+	I'm... I'm speechless! I don't think I've ever seen a nun so openly exuberant like that before!
+%0%a001240
+	Yay! Everyone's H-A-P-Y!
+	I mean, H-A-P-P-Y!
+%0%a001250
+	I feel like dancing!
+Bianca
+	I can't believe it. I feel like I must be dreamin' or somethin'. The village is back to normal again!
+Nera
+	This is such a quaint little village.
+	It's so nice to see it vibrant and alive again.
+	You must be really happy, darling.
+%0%a001240
+	I know what this place is! I know what this place is! It's where you used to live when you were a boy, isn't it, Dad?
+%0%a001250
+	I think I'd like to live here too. It's got such a welcoming feel.
+Bianca
+	Folk certainly don't mess around, eh? The world's only bin at peace for a little while.
+Bianca
+	Maybe the Goddess give them a bit of a helpin' hand, by way of thankin' us or somethin'.
+Nera
+	I'm quite surprised the village has managed to recover so quickly.
+Nera
+	It must be the work of the Goddess. She's lent the people here a helping hand, I expect.
+Bianca
+	I'll bet your old man preferred livin' here to livin' at the castle in Gotha.
+Bianca
+	Don't you reckon? Everyone liked him here, and he had loads of really good friends.
+%0%a001240
+	He hit Grandpa on the head!? I'll show him!
+%0%a001240
+	When he's looking the other way, I'll give him a taste of his own medicine.
+Bianca
+	Watch it, %a001240! You should think before you speak sometimes.
+%0%a001240
+	He hit Grandpa on the head!? I'll show him!
+%0%a001240
+	When he's looking the other way, I'll give him a taste of his own medicine.
+Nera
+	Good idea, %a001240.
+	I'll give him a thump as well!
+%0%a001240
+	N-No! I was only joking, Mum!
+	That went right over your head, didn't it?
+Nera
+	Oh! I, er...
+%0%a001250
+	I bet he feels really silly now!
+Bianca
+	............
+Bianca
+	I'm feelin' quite relieved. It looks like lots of folk managed to escape to safety when it all went to pot.
+Bianca
+	Ha ha ha! Imagine what he'd say if he found out you're the King of Gotha now!
+Nera
+	Ha ha hah. What a jolly old man!
+%0%a001240
+	Grandpa fooled everyone here.
+	No one had any idea he was a mighty king.
+%0%a001240
+	That's really cool!
+%0%a001240
+	I... I suppose we won't get attacked by monsters anywhere now, will we? Not outside towns, or in caves, even.
+%0%a001240
+	I can't really imagine it. I wonder what it's going to feel like.
+Bianca
+	Proud as Punch, eh? That's nice to hear, en't it?
+%0%a001250
+	I hope the people of Gotha will all be as proud as Punch of me one day. Although...what was Punch proud about?
+Bianca
+	So there are folk here who know you too, %a000090.
+Bianca
+	D'you get the feelin' that the Coburg soldiers let the villagers go before settin' fire to the place?
+Bianca
+	I could be wrong, but I reckon that's prob'ly
+	what happened.
+Nera
+	It seems like plenty of people have come back here. Whealbrook's going to be fine, I should think.
+Bianca
+	What's up, %a000090? You looked a bit lost for a minute.
+Nera
+	What's the matter, darling? I've never seen such a look of relief on your face before.
+%0%a001240
+	Wow! He managed to eat all of that before his wife noticed what he was doing. That could be a really useful trick!
+%0%a001250
+	I'm a bit hungry, actually. I hope there'll be something to eat back in Gotha.
+Bianca
+	Hey! That's the bloke who was studyin' under the man who give us the medicine for Dad all them
+	years ago.
+Bianca
+	It's good to see him back here safe and sound.
+Nera
+	I'm sure he'll make it.
+Nera
+	Anyone who refuses to give up on their dreams has the power to make them come true.
+Bianca
+	This place really takes me back.
+	Remember, %a000090?
+Bianca
+	That time... No, it dun't matter. It's no use just harpin' on about the past all the while.
+Nera
+	This is the house that was built in place of yours, isn't it?
+Nera
+	I hope the people who live here now will be happy.
+%0%a001240
+	You lived here when you were little, didn't you, Dad? Not at the castle?
+%0%a001240
+	It's like you were a secret prince or something. That's cool!
+%0%a001250
+	Oh, I wanted to lounge around here for a while.
+	I didn't think there'd be anyone living here now.
+Bianca
+	I don't know where he come from, but he dun't seem like a bad bloke.
+Bianca
+	Hopefully he'll take care of this place and keep it nice, eh?
+%0%a001240
+	Let's have his place as a holiday home, Dad!
+Bianca
+	Dun't be so rude, %a001240!
+	There are other folk livin' here now.
+%0%a001240
+	Oops! Sorry!
+%0%a001240
+	Why don't we buy this place as a holiday home, Dad?
+Nera
+	So you'd like to swap it for your castle then, would you, %a001240?
+%0%a001240
+	I, er, not really...!
+%0%a001240
+	Mr Briscoletti seems really happy.
+	Even happier than the time we defeated Bjørn.
+%0%a001250
+	Can I ask you something, Dad?
+%0%a001250
+	Mum seems really nervous coming here.
+	Did something happen to her here in the past?
+Bianca
+	I wonder how Nera and Debora are gettin' on.
+	We should drop in on 'em, %a000090.
+Bianca
+	It weren't just the boat he give us. He paid for our weddin' and everythin'.
+Bianca
+	I wonder if he's forgotten that bit.
+%0%a001240
+	We've been using the ship for ages, haven't we?
+	Even after we found you again, Dad.
+	It's been really useful.
+Nera
+	Papa really does look happy now.
+Nera
+	And he's a grandpapa now! That's a funny thought.
+Nera
+	I suppose I've been holding back slightly from Mama until now. It's probably made her feel a bit sad.
+Nera
+	But from now on, I think we'll have a proper mother-daughter relationship, with all the girly gossiping and quarrelling you'd expect!
+Nera
+	Papa's been so good to us. He let us use his ship, and gave us so many presents.
+Nera
+	We might not have been able to do it without his help, you know.
+%0%a001240
+	Mr Briscoletti's my grandpa too, isn't he?
+	Because he's your dad, right, Mum?
+Nera
+	That's right, %a001240.
+Bianca
+	It feels like only yesterday that we were here
+	gettin' wed.
+Bianca
+	Maybe it's all them years we spent as statues
+	that makes it feel that way. Nah, I think it's more than that.
+Nera
+	I've never seen Mostroferrato so lively.
+	I think I might join in the dancing!
+%0%a001240
+	Look at that! Every single person here's dancing.
+	It's like a festival!
+%0%a001250
+	Are you pleased you married Mum, Dad?
+%0%a001250
+	I am. I think you're both great parents, so it's a good job you married each other.
+%0%a001240
+	La la-la-lah... La la-la-lah...
+	La-di-dah-di-dah...
+Bianca
+	That girl's probably all excited about %a001240, you know. He is the legendary hero, after all.
+Bianca
+	So I don't know why you've got such a big smile on your face, %a000090!
+%0%a001240
+	Peace, man!
+Bianca
+	They look like they're havin' so much fun.
+	Want to dance, %a000090?
+%0%a001240
+	Here comes my special move...
+	The topsy-turvy bop!
+%0%a001250
+	Oh, I can't dance on my own!
+	Will you dance with me, Dad?
+%0%a001250
+	I think that man was crying. He doesn't seem the type to be moved to tears though, does he?
+%0%a001240
+	He's not as old as can be yet. He can get loads older now the world's at peace!
+Nera
+	Bingo's happy too, look. He can probably tell everyone else is, that's why.
+%0%a001240
+	Did you see how quickly that man gulped down
+	that glass? There won't be enough if he carries
+	on like that!
+%0%a001250
+	That sounds like an excellent idea.
+	I could get married too.
+%0%a001250
+	To a handsome slime!
+Bianca
+	Briscoletti's ever so generous, eh?
+Bianca
+	I reckon he's pretty canny when it comes to usin' his money, mind.
+Nera
+	It'd make Papa really happy if he saw everyone in town enjoying themselves in here.
+Nera
+	Isn't it wonderful, %a000090?
+%0%a001240
+	Wow. Do you think there'll be a feast as big as this when we get back to Gotha?
+Bianca
+	%0%a001240 and %a001250 could learn a thing or two from him, eh?
+Nera
+	I'm sure he'll have his own chance to enjoy the party. He'll be so happy to be able to play safely outside town now.
+Bianca
+	Crispin looks pretty pleased with himself, eh?
+Bianca
+	Men always like havin' somethin' or someone to look after. Makes 'em stronger, for some reason.
+%0%a001250
+	You competed for Nera's hand in marriage?
+	You mean, you might have got married to Nera instead of Mum?
+%0%a001250
+	Is that true, Dad? Is that really true?
+	What's he talking about?
+Bianca
+	Um, %a000090... D'you ever regret choosin' me that day instead of Nera?
+Bianca
+	I mean, she's so beautiful and graceful and...
+Bianca
+	Hey! Why en't you interruptin'!?
+	Blimmin' charmed, I'm sure!
+%0%a001240
+	But aren't all years the same length?
+Nera
+	I hardly recognise Crispin now. He's so much more manly than he used to be.
+Nera
+	Maybe it's because he's finally found someone to look after and protect.
+%0%a001250
+	Did you have to compete with that man to marry Mum, Dad?
+%0%a001250
+	I'm glad you won. I wouldn't want anyone else as
+	my parents.
+Nera
+	And she's turned Crispin into a fine, strong man too.
+Nera
+	Ashlee must be a wonderful woman. Full of spark!
+%0%a001240
+	What do you think of Ashlee's outfit, Dad?
+	Do you like it?
+%0%a001240
+	Why don't you get something like that for Mum, then?
+Nera
+	............
+%0%a001240
+	Uh-oh! Mum looks really angry now.
+%0%a001240
+	Oh. I thought you did. You seemed to be looking at it a lot.
+Bianca
+	Huh! I can never tell with Dad if he's genuinely worried or if he's just takin' the mick.
+Bianca
+	Either way, I'm not plannin' on comin' back to live here, %a000090. Just as long as you know that.
+%0%a001240
+	Grandpa must be lonely here all on his own.
+%0%a001240
+	Why don't we ask him to come and live in Gotha once we're settled in there, Dad?
+Bianca
+	That's a nice idea, %a001240.
+%0%a001250
+	I love Grandpa Whitey. He's one of the nicest men I've ever met.
+Bianca
+	You're very sweet, %a001250.
+Nera
+	Now the world's a bit more stable, I'm sure there'll be lots of men who'd make a good match for Bianca, don't you think?
+Nera
+	I hope she finds someone she'll be really happy with.
+Nera
+	No? You think no one could measure up to you,
+	do you? Ha ha hah! You old show-off!
+%0%a001240
+	Wow! Bianca's so pretty! Er...I mean...
+%0%a001250
+	What? You were no use, Dad? I don't believe that!
+%0%a001240
+	It's got nothing to do with being a king or anything though, has it? Friends are friends, right?
+%0%a001240
+	Let me come with you when you visit here,
+	Dad, okay?
+Nera
+	We feel exactly the same way about Bianca.
+	We've all got so much in common.
+Nera
+	It's almost as if she, Debora and I...
+Nera
+	No, forget it.
+Bianca
+	This place never changes, eh?
+Bianca
+	Knowin' that makes it easier to be away. I can be sure it'll be just the same whenever I come back.
+Nera
+	It's as quiet as ever here, but you can still tell that everyone's in a good mood.
+%0%a001240
+	It's okay to shout really loudly here, isn't it?
+	Because we're miles away from anywhere, I mean.
+%0%a001240
+	HELLOOOOOOOO! Ah! That felt good!
+Bianca
+	I dunno! We go to all the trouble of savin' the world an' that's all he can say! Ungrateful old beggar!
+Nera
+	Ha ha ha. Well I know I'd like to come to the baths here from time to time. The waters are so relaxing.
+Nera
+	We should all come together. It'd be a nice
+	family outing.
+%0%a001240
+	He's full of life isn't he! I hope I'm still going strong when I'm his age.
+%0%a001250
+	Great! I love baths!
+Bianca
+	That old bloke's always bin the same.
+Bianca
+	It's good that he's got a bit of life in him, but he does go a bit far sometimes.
+Nera
+	Well it's nice to see people staying young at heart, even when they're a bit ancient.
+%0%a001240
+	Everyone's prayers helped us to defeat Nimzo,
+	I suppose, didn't they?
+%0%a001240
+	That's what that man must've meant when he said it's thanks to his boy.
+Nera
+	Well I didn't expect to find anyone in a place like this! Oh, I see. He works for Mr Whitaker, does he?
+Bianca
+	I'm sure he'll find someone nice before long.
+%0%a001250
+	Mum...
+Bianca
+	Hm? What's up, %a001250?
+%0%a001250
+	Oh, it's nothing. I just...
+	I just wanted to say you're the best.
+Bianca
+	I'll never forget the look on your face when you brought me that veil, %a000090.
+Bianca
+	It was like everythin' goin' on around us was some kind of unbelievable dream.
+Nera
+	I still dream about you bringing me my veil sometimes, you know.
+Nera
+	Papa was so insistent about it, wasn't he?
+%0%a001240
+	It wasn't just me, though. It's because everyone pulled together. That's how we all saved the world.
+%0%a001240
+	It's not right just to say it was me who did everything. I don't want people to say that.
+%0%a001250
+	It seems like the whole world is on holiday today!
+%0%a001240
+	I wonder when all the troubles first started. Oh well, it doesn't matter now. The world's at peace, so we don't have to worry.
+%0%a001240
+	She's screeching so loudly, everyone can hear.
+	It's so embarrassing!
+%0%a001240
+	Are they going to have a feast here as well, then? I'm starting to get really hungry now, you know.
+Bianca
+	D'you think that's really true? It'd be quite a shock if it was.
+Bianca
+	Nah, but there's no way it can be true.
+Bianca
+	There's no way Mum and Dad could've kept somethin' like that from me all them years.
+Nera
+	What? Bianca too?
+Nera
+	............
+Bianca
+	Wow! What a welcome home, eh?
+Nera
+	Oh look, darling! Everyone's gathered to welcome
+	us home.
+%0%a001240
+	Everywhere we've been has been bustling, but nowhere else can compare to Gotha!
+%0%a001250
+	There's not a single person who isn't smiling.
+	What a fantastic atmosphere! Although...it does
+	smell a bit like a brewery.
+Bianca
+	Yeah, you can't run away, %a000090. I know this is all a bit embarrassin', but you've got to show your face.
+Nera
+	Aren't you the shy one? Fancy trying to slope off at a time like this!
+%0%a001240
+	Tuppence! I can go and see him again later, can't I?
+%0%a001240
+	What's wrong with grown-ups!? Every time something happens to celebrate, they start
+	talking funny.
+%0%a001250
+	Urgh! What a stink!
+Bianca
+	Patty's bin a big help to us, eh? We'll have to make sure we thank her prop'ly sometime.
+Nera
+	I suppose there'll be no more party planning now, will there? That's a bit sad.
+Bianca
+	Yeah, I reckon you could be. We'll make Gotha better than Pankraz ever dreamt.
+Bianca
+	No rest for the wicked, eh, %a000090?
+Nera
+	That's quite a compliment, isn't it, darling?
+	But it's well deserved. You've worked so hard to bring about peace.
+%0%a001240
+	I've got a lot to live up to, haven't I?
+%0%a001250
+	That old man's always been in bed whenever
+	I've seen him before. It's great that he's up and about now.
+%0%a001240
+	ⓗ%0%a001240 was too strongⓘ...
+	Heh heh heh! Cool! It sounds better when someone else says it, though.
+%0%a001250
+	The foe sat on a swan... No, that's not right.
+	Oh, it's a really hard poem to remember.
+Bianca
+	%0%a001210's bin a big help to us, an' all, eh?
+Nera
+	Look! %0%a001210 looks so calm now.
+Bianca
+	Did you hear that? Did you hear what he said?
+Bianca
+	If you didn't, then you should go and talk to
+	him again!
+Nera
+	Listen to him! Oh dear. Am I blushing?
+%0%a001240
+	Finally! We can actually join in and eat the food this time, right, Dad? We can, can't we?
+Bianca
+	I can understand how he feels, but we needed folk like him to stay here and protect this place, eh?
+Nera
+	It's so nice to know we had everyone's support,
+	isn't it?
+%0%a001240
+	Hurray! Hip-hip, hurray!
+	Come on, %a001250, join in!
+%0%a001250
+	Okay! Hurray! Yay! Hip-hip, hurray!
+Bianca
+	Hopefully monsters and humans should all be able to live together in peace from now on.
+Nera
+	It's heartening to know that even some monsters helped us out in our hour of need, isn't it?
+Nera
+	If they're ever in trouble, it'll be our turn to
+	help them.
+%0%a001250
+	Look! The slime's as happy as everyone else.
+%0%a001240
+	Does that mean we won't be able to see Zenithia any more when we look up in the sky? Oh...
+	That's a shame.
+Bianca
+	Was that funny character really the Zenith Dragon? I've never met him before.
+Bianca
+	Now I can see why the Zenithians were in such
+	a flap.
+Nera
+	That's Dr Agon? Ha ha hah. What a funny man!
+%0%a001240
+	Oh, no! Dr Agon's done-diddly-un it again!
+%0%a001240
+	How's he going to get back to Zenithia?
+	He'll be stuck here now, just like he was in the Diggery Pokery!
+%0%a001250
+	I think maybe Dr Agon wishes he'd been born
+	a human.
+Bianca
+	Looks like he en't budgin' out the way any time soon.
+Bianca
+	We'll just have to turn back. You don't want to mess with a bloke in his state.
+%0%a001240
+	Okay, I get that he's happy, but we want to get past.
+%0%a001250
+	Thank you, little beast. We couldn't have done it without you. You're a good boy, aren't you?
+	Yes. Good boy, good boy.
+%0%a001240
+	Ha ha! A shy monster! Your monsters are all so
+	cute, Dad!
+Bianca
+	Yeah, we'd better hurry up and get to the
+	throne room.
+Bianca
+	Or would you rather have a bit more of a chat with folk first? I'm easy either way.
+Nera
+	We can't keep everyone waiting any longer than we have already. Come on, darling.
+Bianca
+	Well, now the world's at peace again, it should be easy to come and go between here and Zenithia.
+Nera
+	She'll finally be able to go freely back and forth between here and Zenithia now. What a relief that must be for her.
+%0%a001240
+	I bet she'd be surprised if she knew the Zenith Dragon was right here in Gotha!
+%0%a001250
+	Is she going to leave Gotha now?
+	I was sort of hoping she might decide to stay.
+Bianca
+	Um, %a000090...
+Bianca
+	There's not a day goes by when I don't send up a prayer of thanks to the Goddess for havin' met you.
+Bianca
+	I hope we'll be together forever. Don't ever leave me, will you, %a000090?
+Nera
+	I don't know if it's seeing everyone's happy faces or what, but I feel like I'm wrapped up in a warm blanket of joy.
+Nera
+	And just think, if I hadn't met you, I'd never have experienced this wonderful feeling.
+Nera
+	I love you, darling. Now and for always.
+%0%a001240
+	Cousin Gertie seems a bit serious today, doesn't she?
+%0%a001250
+	I can't wait to tell Gertie all about everything that's happened!
+Bianca
+	We'd better get movin', %a000090.
+Nera
+	This marks the real end of our quest, I suppose.
+%0%a001240
+	There he goes again! Blubbing like a baby as usual!
+%0%a001250
+	Grandpa's watching over us all now.
+	He's watching over Sancho too.
+Debora
+	Time to go! People all over the world are waiting for our return.
+Debora
+	So my beauty will be recorded for all to see until the end of time!
+Debora
+	What an opportunity, being able to look down on the world from the back of the Zenith Dragon!
+	It's no less than we deserve, of course.
+Debora
+	She's right. You can hear them all down there hailing my greatness.
+Debora
+	...What's wrong? There's no need to look so put-out.
+	I know you played your part in it too. 
+	Surely that's recognition enough.
+Debora
+	Hmm... Forever?
+Debora
+	The idea of us being together forever is quite appealing too. No doubt you're thrilled?
+Debora
+	It means you'll have to dedicate yourself to me until the end of time, of course. And that's an order.
+Nera
+	I couldn't have said it better myself. We may have done great things, but they were all thanks to the guidance of the Goddess.
+Debora
+	Nobody guides me but myself! The things I've accomplished are all my own doing.
+Debora
+	It's an incredible view. I'm sure your mother and father are looking out on it too.
+Debora
+	Your mother remained strong right up to the end.
+	I think she's the first person I've ever met who I genuinely admire.
+Debora
+	I'm going to use her as a role model from now on and become stronger than ever. I won't be beaten!
+Debora
+	Your mother was really happy to have met your father, wasn't she? Just like you were happy to have met me.
+Debora
+	You can tell the world's at peace again.
+	You can see it in people's faces.
+Debora
+	I hardly think that the battle with Nimzo can be described as romantic!
+Debora
+	Yes, maybe I should say a few prayers too. I can't bear the idea of having to go through all that again.
+Debora
+	Talking of home, I wonder where it is I'm really from. And Nera too, of course.
+Debora
+	Not that it really matters any more.
+	You and the children are my family now.
+Nera
+	I'm convinced that our victory was only possible because people all over the world believed in us and prayed for us.
+Debora
+	He actually seems to get it. The reason we managed it is because of our own strength and that alone. Nothing to do with prayers or luck.
+Debora
+	It's funny how the littlest of things can spiral into something huge. Much like how we ended up
+	being married.
+Debora
+	That's right. I am too good for you, aren't I, %a000090?
+Debora
+	Right, %a000090? I know you're a bit slow, but even you must've figured that out.
+Debora
+	You two get along so well. It should be wonderful for relations between Gotha and Coburg.
+Debora
+	You'll have to think about things like that from now on, you know. Naturally they'll be lower down your priorities than I am, though.
+Debora
+	I suddenly feel a bit of a pang for Gotha.
+Debora
+	It's strange, really. I mean, it's just the place you were born.
+Debora
+	There's a lot more life to the place than there used to be. I suppose it stands to reason, what with the world being at peace now.
+Debora
+	Hmph. If he'd helped us, then he could've been sharing the glory too. But maybe that's a little unfair.
+Debora
+	I don't need to hear the ramblings of someone having a dream. Imagine his shock when he wakes up and finds the world really is at peace!
+Debora
+	Happy! Happy! Hapⓚⓛ
+	Er, I'm not getting carried away. No, not in the slightest. ...What are you laughing at?
+Debora
+	So this is how your old village should look. You must be pleased to see it back to normal, %a000090.
+Debora
+	Yes, it's thanks to our efforts for peace that Whealbrook has recovered so well.
+Debora
+	No doubt having a wonderful wife like me is what motivated you to give your best.
+%0%a001240
+	He hit Grandpa on the head!? I'll show him!
+%0%a001240
+	When he's looking the other way, I'll give him a taste of his own medicine.
+Debora
+	Good idea, %a001240.
+	I'll give him a whack as well!
+%0%a001240
+	N-No! I was only joking, Mum!
+	You almost sounded like you meant it.
+Debora
+	What makes you think I didn't?
+%0%a001240
+	Yikes!
+%0%a001250
+	Yikes indeed!
+Debora
+	Looks like he doesn't recognise you as being Pankraz's son.
+Debora
+	We'd better not let on.
+	The shock might finish him off.
+Debora
+	It must be good to see a friend safe and sound, %a000090.
+Debora
+	Maybe the soldiers from Coburg set everyone free before torching the place.
+Debora
+	So perhaps it wasn't as bad as it seemed after all.
+Debora
+	What's wrong? You look like a fish out of water!
+Debora
+	This place is on the mend. Now they have a pharmacist and everything. I'm not sure how
+	good he is, mind.
+Debora
+	Hmm, this isn't a bad little place. It's probably good that it was torched and rebuilt.
+Debora
+	Maybe this'll help you look to the future a bit, %a000090.
+%0%a001240
+	I like this place, Dad.
+	Let's buy it as a holiday home!
+Debora
+	Don't be so silly! Money can't buy everything, you know. I wonder who you take after sometimes!
+%0%a001240
+	Well, Mum, to be honest, er...
+	Never mind.
+Debora
+	Sounds like Papa's behind all this frivolity.
+	He's always doing things like this!
+Debora
+	Still, I suppose I can turn a blind eye just this once.
+Debora
+	What a good boy. Maybe we'll have to hire him as one of our royal staff when he grows up.
+Debora
+	How embarrassing! Papa's heart is almost as soft as his belly!
+Debora
+	It's sweet that he feels that way, but I wish he'd keep a bit of a lid on it.
+Debora
+	I'm sure Mama's been worried about this for years. Maybe that's why she always let me get away with behaving however I wanted.
+Debora
+	I'll have to try and tone it down a little bit from now on. ...What do you mean, that's not like me?
+Debora
+	How dare you say such a thing!
+	Er, I mean... Lovely, yes.
+Debora
+	Papa can be so embarrassing sometimes!
+	What he needs is a giant lasagne to shut him up.
+%0%a001240
+	Mr Briscoletti's my grandpa too, isn't he?
+	Because he's your dad, right, Mum?
+Debora
+	That's right, %a001240. And he spoils me something rotten! I'm sure you could wrap him round your little finger as well.
+Bianca
+	Debora en't changed a bit, eh?
+	It's good to see her well, anyhow.
+%0%a001240
+	ⓗThe likes of youⓘ?
+	What does that mean, Dad?
+%0%a001250
+	That lady always seems so...scary!
+Nera
+	I feared as much. Debora...
+Nera
+	............
+%0%a001250
+	What's wrong, Mum?
+	You look upset.
+Nera
+	Nothing's wrong, %a001250.
+	I'm just so happy, that's all.
+%0%a001240
+	ⓗThe likes of youⓘ? What does that mean?
+	Is she saying she likes you or something?
+%0%a001250
+	I thought maybe I was imagining it, but now I'm sure. Deep down, she's just like Mum.
+Debora
+	The whole town's celebrating!
+	They're making quite a noise about it too,
+	but I suppose I'll let them off just this once.
+Nera
+	She's embarrassed? Not nearly as embarrassed as I am to be spoken to like that!
+Debora
+	Oh my, indeed! It stands to reason %a001240's legendary. He's my son after all.
+Debora
+	He seems very excited. Maybe he can sense that everyone's in a good mood.
+Debora
+	Same old Crispin. He's always been that way, ever since he was little. Always getting carried away.
+Debora
+	Still, if it doesn't bother Nera, then who am I
+	to judge?
+%0%a001250
+	You competed for Nera's hand in marriage?
+	You mean, you might have got married to Nera instead of Mum?
+%0%a001250
+	I can't imagine that at all! She's so different toⓚⓛ Er, nothing, Mum. 
+Debora
+	I know it's a bit late to say this now, but...
+Debora
+	If you'd chosen Nera, I wouldn't have had to end up being related to Crispin!
+Debora
+	Oh well. As long as she's happy, I suppose.
+%0%a001240
+	But aren't all years the same length?
+Debora
+	Bianca seems well.
+	You must be relieved.
+Debora
+	I'm quite relieved too.
+	I feel connected to Bianca somehow.
+Debora
+	Maybe because we've both had to put up with you over the years.
+Debora
+	Hmph. If you're still worried about her, then why don't you just take her back on home to Gotha?
+Debora
+	Ha ha! I'm not really angry, don't worry.
+	And I don't mind you coming back every now and then to check she's okay. With me along, of course.
+%0%a001240
+	Wow! Bianca's so pretty! Er...I mean...
+%0%a001250
+	What? You were no use, Dad? I don't believe that!
+%0%a001240
+	It's got nothing to do with being a king or anything though, has it? Friends are friends, right?
+%0%a001240
+	Let me come with you when you visit here,
+	Dad, okay?
+Debora
+	So Bianca feels it too.
+	Nera and I have said the same thing.
+Debora
+	It's almost as if we all met once, a long long time ago.
+Debora
+	We're probably just imagining it, though.
+Debora
+	There's nothing here but the baths, just like always. There's a cheerful air to the place, though.
+Debora
+	What a silly old man. He wouldn't last five minutes in a fight at his age.
+Debora
+	If you turn out like him, %a000090, I'll never forgive you.
+Debora
+	You'll settle down and become a nice, obedient, docile old man. Or else!
+Debora
+	Hmm... So he's doing work on Bianca's place, is he?
+	Ha ha! I see!
+Debora
+	I still haven't forgotten the look on your face when you brought me that veil.
+Debora
+	It was as if you thought everything going on around you must be some kind of dream.
+Debora
+	Not Bianca too?
+Debora
+	...............
+Debora
+	Our people have obviously been dying to see our homecoming. Just look at them all!
+Debora
+	Where do you think you're off to at a time like this? I'm not going anywhere!
+Debora
+	We won't be setting off on any more adventures from here again. I feel a little bit sad in a way.
+Debora
+	You are great, %a000090. I've always known it.
+	I wouldn't have hired you as my servant otherwise.
+Debora
+	You'll have to work hard now to be a an even finer king than your father was. I know you'll manage it, because you want to keep me happy.
+Debora
+	%0%a001210 looks really happy.
+	I suppose he played his part too.
+Debora
+	If I had a gold coin for every time someone called
+	me beautiful!
+Debora
+	That wasn't the most eloquent version of it I've heard, but it still counts nonetheless.
+Debora
+	Do you ever think it might've been better to just take a royal army along to defeat Nimzo?
+Debora
+	You fool! We'd never have all fitted through the entrance to Nadiria!
+Debora
+	Quite a few monsters helped us out, didn't they?
+	I don't mind having the nice ones live alongside us here in Gotha.
+Debora
+	Don't talk to me at the moment.
+	I need to think.
+Debora
+	That man's Dr Agon... And Dr Agon is the Zenith Dragon! Ha ha! I don't believe it!
+Nera
+	Oh dear, he seems rather drunk. I'm afraid we probably won't be able to persuade him to make
+	way for us.
+Debora
+	Why are drunks always so irritating? I know he's happy, but can't he just get out of my way?
+Debora
+	We have been a while. We'd better make our way to the throne room now, %a000090.
+Debora
+	I suppose she can go home to Zenithia now it's been restored to its former glory. She won't find the Zenith Dragon there, though!
+Debora
+	This is perfect, %a000090.
+Debora
+	I couldn't be any happier.
+Debora
+	It's such a wonderful feeling to be adored by everyone like this.
+Debora
+	He cries at the drop of a hat, that one!
+	I suppose it's quite sweet in a way.
+Debora
+	Anyway, it's time to go. You'd better follow me.
+	You don't want to be late.
+%0%a001250
+	I'm so happy that the people here are thanking Grandpa at last.
+Debora
+	I'm pleased too, %a001250.
+	It's nice to see you so happy.

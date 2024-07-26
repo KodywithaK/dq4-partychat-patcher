@@ -1,0 +1,600 @@
+%0%a001240
+	I know about Coburg! Coburg and Gotha have always been good friends, haven't they?
+%0%a001240
+	You and Prince Harry used to travel about together, didn't you? I wish I could've come
+	along with you.
+%0%a001250
+	Um, Sancho always says he doesn't much fancy the idea of visiting Coburg.
+%0%a001250
+	This is the one castle we didn't visit when we were travelling around with him.
+%0%a001250
+	What a grand-looking castle! But the people live outside the castle walls. Do you think that's safe?
+Sancho
+	My Majesty. You feel only the nostalgia now you return to Coburg, sí?
+Sancho
+	But for your Uncle Sancho ees, ees...
+Sancho
+	I know ees loco, but for me, being een Coburg ees eso hard. My heart, ees breaking, you know?
+Tuppence
+	I understand that you're rather pally with the royal family here, %a000090.
+Tuppence
+	I'm here as a soldier representing the Kingdom of Gotha. I'll do my best not to put you to shame, sir!
+Bianca
+	Looks like Coburg's bin pretty peaceful ever since that kerfuffle all them years ago. That must be a relief to you, eh?
+Nera
+	Prince Harry and King Wilbur seem to be doing an excellent job here. The place has a very warm feel to it now.
+%0%a001240
+	She's pretty clever for a little girl, being able to introduce the place like that.
+%0%a001240
+	You don't think we've got any impostors with us, do you? You're the real thing, aren't you, Dad?
+Sancho
+	When you go missing, friend, I heard señor Harry, he was eso worried.
+Sancho
+	You eshould go to esay buenos días to the señor, My Majesty.
+Nera
+	The soldiers of Gotha really did scour the world looking for us, didn't they?
+Bianca
+	Prince Kendrick? You dun't think that could be Harry's son, do you?
+Nera
+	I wonder if the prince he was talking about could be Harry's son. We'll have to go and find out!
+%0%a001240
+	I'm always good, so no one would have to worry if I became king!
+%0%a001250
+	I don't like rough boys. They pick up insects and things and throw them at you. It's disgusting!
+Sancho
+	You know, I heard the rumours that thees Kendrick, he ees the leettle diablo, just like hees father, señor Harry, was when he was young.
+Bianca
+	Huh. We seem to come across types like that all over the place, eh?
+Nera
+	It's wrong to steal things from people, no matter what the circumstances.
+Nera
+	Imagine how upsetting it must be to find something you hold dear has gone missing.
+Nera
+	Oh dear! I've just remembered that we're always rummaging through people's cupboards! I hadn't thought about it like that before.
+%0%a001240
+	Hey! He disappeared! I doubt he'll get up to no good again, though. Not after we taught him a lesson.
+Sancho
+	No, friend! You no put yourself een danger!
+	You must call for the guards and leave thees to them.
+Tuppence
+	Hm, he's certainly a fast-moving character. What was the treasure he took, anyway?
+%0%a001240
+	Yikes! That armour's pretty scary-looking.
+	I'm not sure I want it.
+Sancho
+	Why ees esuch a theeng here in Coburg?
+%0%a001240
+	I like staying over in lots of different places.
+%0%a001240
+	But the best place of all is at home, with you and Mum and %a001250 nearby.
+%0%a001240
+	Which way's west again? I wonder if that's a cave we've not been to yet.
+%0%a001250
+	Even if there are lots of monsters, we should be okay if we fight with good in our hearts, right?
+%0%a001250
+	I wish I could be more like you, Dad. It's amazing how you can get so many monsters to stop being bad.
+%0%a001240
+	Wow! You're famous, Dad! That's so cool!
+Sancho
+	You are no just a friend!
+	You are the esaviour of thees country.
+	But thees esoldier, he no know eet, eh?
+Tuppence
+	He he! How grand! Being with you makes me a friend of Prince Harry's by extension.
+Tuppence
+	...Sorry. I'm afraid I got rather carried away with
+	the notion.
+Bianca
+	Religious folk often come out with things like that, eh? I wonder if she can sense Grandmaster Nimzo.
+Nera
+	I can feel it too, so much that it hurts. We must hurry to Nadiria before it's too late.
+%0%a001250
+	I'm really scared too. Maybe my bad dreams will come true and I'll get gobbled up!
+Tuppence
+	I do love to see a nun in uniform, I must say. It's a habit I just can't shake, ha ha ha!
+Bianca
+	Folk all over the world seem to be at the end of their tether with their kids. It goes with the territory, eh?
+Bianca
+	I think we've got off pretty lightly in comparison.
+Nera
+	Antics like that are just part of a child growing up. I wish I'd been a bit more that way inclined myself sometimes.
+Sancho
+	The children, they learn from their madre and their papá, you know.
+%0%a001250
+	How come you look so happy, Dad?
+%0%a001250
+	Are you finding it funny that Harry's son is causing him trouble?
+%0%a001240
+	Maybe he's only nice to girls. That's weird!
+%0%a001250
+	I wouldn't mind being friends with him if he was nice to me too.
+Tuppence
+	This Kendrick character obviously has his head screwed on if he's realised at his young age that it's best to befriend the girls.
+Bianca
+	He certainly dun't pull no punches, eh? Fancy puttin' mice on people's heads! Ha ha ha!
+Nera
+	I wonder if %a001240 and %a001250 would've done things like that if we'd brought them up all their lives.
+%0%a001240
+	Mice, eh? Maybe I'll give that a try sometime.
+	...Hm? Er, nothing. Never mind.
+%0%a001250
+	But mice are so cute. Why would anyone say they hate them?
+%0%a001240
+	What a funny name he has. He sounds very clever.
+Sancho
+	These escholars and fortune-tellers, they are all the esame. They talk and they talk and they talk, sí? Anda!
+%0%a001240
+	I'm going to find it! Yep, I'll find that cape and then give it to you as a present!
+%0%a001240
+	That cape's just right for you, Dad. It's good that we found it.
+Sancho
+	You must be careful! You no go too close to thees Kendrick, okay?
+%0%a001250
+	Wow! I've not seen a bump that big in ages!
+Bianca
+	Blimey, that's quite a sacrifice, eh?
+Bianca
+	King Wilbur must be really determined to make things work here.
+Nera
+	It's a very noble intention, but it's rather sad, don't you think?
+Nera
+	He's basically saying that he'll give up the idea of sharing his life with a woman he loves for the sake of his kingdom.
+%0%a001240
+	Why would getting married cause a power struggle? Is marriage a bad thing?
+%0%a001240
+	Hmm... I don't get what grown-ups are on
+	about sometimes.
+Sancho
+	Thees, what happened weeth the fake señora Queen, eet had a beeg effect on señor Wilbur.
+Sancho
+	He ees young, but he ees a very careful man.
+Bianca
+	Hm, havin' the throne up high makes it look pretty important, eh?
+%0%a001240
+	Thrones are really soft and comfortable.
+%0%a001240
+	Bertie used to let us sit on his every now and then.
+Sancho
+	You know, I believe eso estrongly that señor Harry, he gonna become king.
+Sancho
+	But he ees no greedy, eh?
+	He ees like you een thees way, sí, friend?
+Tuppence
+	There aren't many soldiers about. Maybe they
+	don't see the need because their castle walls
+	here are so splendid.
+Sancho
+	Come, friend. Look at me.
+	Sí...sí...
+	Okay!
+Sancho
+	Now you have no hair een the wrong place, and your clothes, I check they are ironed okay.
+	Ees okay for you to esay hola to the King now.
+%0%a001240
+	Is that King Wilbur? He's a lot younger than I expected.
+Sancho
+	Sí! I forget! Señor Wilbur, he esend hees congratulations for your return to Gotha.
+Sancho
+	I must esend the letter to thank heem when we are next home.
+%0%a001240
+	I want to be like you, Dad. It must be nice having so many people being grateful to you like that.
+%0%a001240
+	What's his problem!? I'm bigger than him, so he shouldn't talk to me like that!
+%0%a001250
+	He looks like a bit of a bully. I hope we don't have to spend much time around him.
+Sancho
+	You no esay that I esay thees, okay?
+	But thees boy, he ees like thees only
+	because of hees parents.
+Tuppence
+	I say! What a cheek! Look at him, standing there blocking our view of a beautiful young woman!
+%0%a001240
+	That kid just doesn't know when to shut up,
+	does he?
+%0%a001250
+	I've got plenty of animal and bird friends.
+	I don't need any more, least of all him!
+Sancho
+	You know, %a001240 and %a001250, they never talk to me like thees. Never!
+Sancho
+	Now you esee, no?
+	I no let %a001240 and %a001250 become like thees. I raise them like the good children, sí?
+Sancho
+	My Majesty! You eshould breeng them here and eshow thees young one how to behave!
+Tuppence
+	Maybe I should stand in for the prince, %a000090? No, no, I was only joking!
+Sancho
+	Qué? He no remember!?
+Sancho
+	Eef he ees no making eso much trouble when he was young, señor Pankraz, he would no have to look after heem and, and... (sob)
+Sancho
+	I hope thees kid, he ees no making %a001240 cry.
+Bianca
+	What's up, %a000090? You look worried.
+	I'm sure it'll be okay, though. Just relax.
+Nera
+	Maybe our children are a little bit too quiet.
+Nera
+	It could be quite a good experience for them, spending a bit of time with little Kendrick.
+Tuppence
+	So she's called Maria...
+	A beautiful name for a beautiful woman. Haa...
+Tuppence
+	I could stand here listening to Maria's lovely voice all day long.
+Tuppence
+	I'd happily be a cat if I had to. As long as I could stay here, near her.
+Sancho
+	%0%a001240 and thees kid Kendrick, they are eso differⓚⓛ
+	Er... No! Ees notheeng. Perdón.
+Bianca
+	Harry and Maria look a bit older than before, eh? Not like us!
+Nera
+	I feel a bit like I've been left behind when I look at Harry and Maria.
+Nera
+	If only we could get back all those years we lost.
+Tuppence
+	I'd be more inclined to go off hunting for Kendrick
+	if he were a princess with some resemblance to
+	his mother...
+Sancho
+	Children, they are eso quick. Thees ees the problem.
+	Uf! Where are they?
+Sancho
+	You no theenk thees Kendrick, he ees bullying my %a001240 and %a001250, eh?
+Bianca
+	I feel a bit funny bein' apart from the kids. I just can't seem to relax! Let's hurry up and find 'em!
+Bianca
+	I wonder where the kids have got to.
+Nera
+	I'm sure they won't have left the castle, so we probably don't need to hurry too much...right?
+Nera
+	I never imagined I'd feel so uneasy being apart from the children.
+Nera
+	Let's find them quickly. I don't want to let them out of my sight again.
+Tuppence
+	Children are very good at the old hide-and-seek, you know. We might not be able to find them.
+Sancho
+	No. They are no here.
+	You theenk we find them esoon?
+Sancho
+	They no go outside, eh?
+	Eso where are they?
+%0%a001240
+	I told him I didn't want to be his lackey, but he said he'd start crying if I didn't go and get the badge.
+%0%a001240
+	I wonder where he can have disappeared to.
+%0%a001250
+	Kendrick's such a spoilt little brat!
+	I don't like him one bit.
+%0%a001240
+	It's really weird. We weren't gone long enough for him to have time to leave the room.
+%0%a001250
+	Can't we just leave without finding him?
+	No, I suppose that would be a bit rude.
+Sancho
+	Ees because señor Pankraz, he went to look for thees Prince Harry... Ees because of thees, that he, he...
+Sancho
+	............
+Sancho
+	I no want esometheeng like thees to happen.
+	Thees ees why I no want to come here.
+Tuppence
+	This must be terribly hard on Maria, the poor thing.
+Tuppence
+	Maybe they should tie a bell around his neck so he'll be easier to find next time.
+Sancho
+	No. They are no here.
+	You theenk we find them esoon?
+%0%a001240
+	How did you know about the stairs? No way! Harry played the same trick on you when you were little?
+Sancho
+	Ees because of these estairs...
+%0%a001240
+	Yikes! Did you see him being pulled along by the ear like that? It looked really painful!
+%0%a001240
+	I know! Let's make a secret staircase in Gotha too! That'd be fun.
+%0%a001250
+	What's wrong, Dad? You look a bit shocked and you've gone all sweaty.
+%0%a001250
+	There's no way I'd ever become his lackey! I suppose I might just about consider being his friend, but that's it.
+Sancho
+	Uf! Now I estop worrying, esuddenly I feel
+	eso tired.
+Tuppence
+	It makes one rather anxious about the future, eh? We're quite lucky over in Gotha, really.
+%0%a001240
+	Maybe Kendrick doesn't have many friends. I haven't seen any other boys inside the castle.
+%0%a001240
+	Maybe I should be Kendrick's friend. I don't like him all that much, though.
+%0%a001250
+	I much prefer our castle in Gotha to this one.
+Sancho
+	Hahh... Just being here een thees castle, eet makes me eso tired.
+Tuppence
+	The people of Coburg are observing me. I must perform well, for the honour of the soldiers of Gotha is in my hands!
+%0%a001240
+	I know about Coburg! Coburg and Gotha have always been good friends, haven't they?
+%0%a001240
+	I like this place. You like it too, right, Dad?
+%0%a001250
+	Um, Sancho always says he doesn't much fancy the idea of visiting Coburg.
+%0%a001250
+	This is the one castle we didn't visit when we were travelling around with him.
+%0%a001250
+	It's a really big castle, isn't it? You'd think they'd let the townspeople live inside like we do in Gotha.
+Sancho
+	You feel only the nostalgia for Coburg,
+	sí, friend?
+Sancho
+	But for your Uncle Sancho ees, ees...
+Sancho
+	I know ees loco, but for me, being een Coburg ees eso hard. My heart, ees breaking, you know?
+Tuppence
+	I understand that you're rather pally with the royal family here, %a000090.
+Tuppence
+	I'm here as a soldier representing the Kingdom of Gotha. I'll do my best not to put you to shame, sir!
+Bianca
+	I'm sure it'll all be okay. Harry's a lot different to how he used to be, after all, eh?
+Nera
+	Yes. I suppose Harry only changed for the better because of everything he went through.
+Nera
+	Maybe Kendrick would turn over a new leaf if he had the same kind of experience, but that seems a terrible thing to wish on the boy.
+%0%a001240
+	Is he really going to be king? He doesn't seem like he's cut out for it.
+%0%a001250
+	Urgh! Can you imagine that little brat ruling a kingdom!? He'd probably try to turn everyone
+	into his ⓗlackeysⓘ!
+Sancho
+	Ees no my problem, but for me, I worry about the future of Coburg. Uf, sí... Ees a worry. Heh heh heh.
+Bianca
+	Maria seems really happy.
+Nera
+	Maria is still as beautiful as ever, even though she has aged a bit. It's probably because Harry loves her so much.
+%0%a001240
+	You don't need to worry about a thing, Dad!
+	We'll always be along to help you out.
+%0%a001250
+	Is it really such a difficult journey, Dad? It's not difficult for me. As long as you're with me, everything's fine.
+Tuppence
+	If only we could stay and chat with her a
+	little longer.
+Bianca
+	I'll second that. No more disappearin', d'you hear?
+	...I s'pose I'm hardly one to talk!
+Nera
+	Yes, no more going missing.
+	It was terrible being split up like that.
+%0%a001240
+	It's Kendrick he should worry about going missing, not you! Right, Dad?
+%0%a001250
+	Are you going to come here again, then? Maybe I'll stay at home in Gotha when you do.
+Sancho
+	I esorry eef I always complain, but ees hard
+	for me to estay here eso long, you know?
+Bianca
+	I s'pose he en't all bad. A typical boy, really.
+Nera
+	He he he. See! He means well, despite his rough-and-tumble ways.
+%0%a001240
+	Kendrick's really weird. Why does he always talk to people so rudely?
+%0%a001250
+	He should apologise properly, rather than trying to buy us off with a silly present!
+Sancho
+	Anda! Next time, we no have the fun and the games, eh?
+Tuppence
+	It's hard to believe that the beautiful Maria could give birth to that creature. Urgh!
+Bianca
+	I s'pose he en't all bad. A typical boy, really.
+Nera
+	He he he. See! He means well, despite his rough-and-tumble ways.
+%0%a001240
+	Kendrick's really weird. Why does he always talk to people so rudely?
+%0%a001250
+	I could never be friends with someone who speaks to people like that.
+Sancho
+	You know, next time we are here, your Uncle Sancho, he gonna teach thees kid esome manners.
+Tuppence
+	It's hard to believe that the beautiful Maria could give birth to that creature. Urgh!
+%0%a001240
+	I wonder what the souvenir could be! Let's go and have a look, Dad.
+%0%a001250
+	Oh! Do we have to go to Kendrick's room?
+Bianca
+	You could've come and got it loads of times if you'd wanted to. Fancy bein' so disinterested!
+Nera
+	How nice of him to keep it safe for you all these years. If only we'd come to collect it sooner.
+Sancho
+	Eef ees possible, I no want to have the theengs from Coburg around me, por favor.
+Tuppence
+	I heard about this souvenir from fellow soldiers who visited Coburg in the past.
+Tuppence
+	Prince Harry was determined to give it to you in person, so he insisted on hanging on to it.
+Tuppence
+	Maria's so lovely. I know she's someone else's wife, but I can settle for admiring her from afar.
+%0%a001240
+	A music box maker! We had one of those at Gotha once. He was really amazing.
+Bianca
+	You never seem to want to talk much about it.
+Bianca
+	But I can see that an awful lot happened to you in the time we were apart.
+Bianca
+	I can't tell you how glad I am that you made it through everythin' alive, %a000090.
+Nera
+	To think Harry kept all of those feelings to himself!
+Sancho
+	Sí, señor Harry, he has become a fine,
+	estrong man.
+Sancho
+	But eet must be like thees.
+	Otherwise, señor Pankraz, he, he... (blub)
+%0%a001250
+	Were you really once a slave? Oh, Dad!
+	Thank the Goddess that you're still alive!
+%0%a001240
+	I knew you'd had a hard time of it, Dad, but I didn't realise it was that bad.
+%0%a001240
+	I'm going to grow up strong and brave like you, and I won't let anything get the better of me, either!
+Tuppence
+	I'll bet there aren't too many other royals who've had experience as slaves in their lives! In fact, I'd wager it's just you and Prince Harry.
+Bianca
+	I dunno if it's because I read that message of his, but Harry seems really special now.
+Bianca
+	What a great souvenir. Our weddin' souvenir dun't look like much in comparison, eh?
+Nera
+	I don't think I've ever seen such an exquisite
+	music box.
+Nera
+	And it's all the better because it was made to thank people who'd come to share in their celebrations.
+Sancho
+	The señor who ees king of Coburg before, thees ees a good amigo of señor Pankraz.
+Sancho
+	Eef the eson of a friend of señor Pankraz, he go missing, señor Pankraz, he would do anytheeng to find heem.
+Sancho
+	Eso you esee... Eef only señor Pankraz, he was no esummoned to Coburg that time, he would
+	no be... He would no be... (sob)
+%0%a001240
+	What was the souvenir from your wedding, Dad?
+%0%a001240
+	Buns!? Buns!? But that's really dull!
+%0%a001240
+	Hey! The hollow in the lid looks just the same size as that sapphire, don't you think?
+%0%a001250
+	What a pretty music box! It looks just like a jewellery box, doesn't it?
+Bianca
+	Maria seems really happy.
+Nera
+	Maria is still as beautiful as ever, even though she has aged a bit. It's probably because Harry loves her so much.
+%0%a001240
+	You don't need to worry about a thing, Dad!
+	We'll always be along to help you out.
+%0%a001250
+	Is it really such a difficult journey, Dad? It's not difficult for me. As long as you're with me, everything's fine.
+Tuppence
+	If only we could stay and chat with her a
+	little longer.
+Bianca
+	Harry was a bit of a pain when he was younger, wasn't he? I guess it's in the blood, then!
+Nera
+	I can't help thinking that Kendrick is just like
+	his father.
+%0%a001240
+	Oh! Is Kendrick really just like Harry was when he was young?
+%0%a001240
+	Then you'll have to give me some tips on how to get on with him better!
+%0%a001250
+	Here we are again. I would've much preferred to stay at home in Gotha.
+Sancho
+	Ees no easy for señor Harry, I theenk.
+%0%a001240
+	I know about Coburg! Coburg and Gotha have always been good friends, haven't they?
+%0%a001240
+	Aaaah...
+	I'm a bit sleepy all of a sudden.
+%0%a001250
+	Um, Sancho always says he doesn't much fancy the idea of visiting Coburg.
+%0%a001250
+	This is the one castle we didn't visit when we were travelling around with him.
+%0%a001250
+	Ooh! How pretty! Look at all the stars!
+Sancho
+	My Majesty. You feel only the nostalgia now you return to Coburg, sí?
+Sancho
+	But for your Uncle Sancho ees, ees...
+Sancho
+	I know ees loco, but for me, being een Coburg ees eso hard. My heart, ees breaking, you know?
+Tuppence
+	I understand that you're rather pally with the royal family here, %a000090.
+Tuppence
+	A moat and drawbridge... That makes the castle fairly impenetrable. What a good idea!
+Bianca
+	Looks like Coburg's bin pretty peaceful ever since that kerfuffle all them years ago. That must be a relief to you, eh?
+Nera
+	Prince Harry and King Wilbur seem to be doing an excellent job here. The place has a very warm feel to it now.
+%0%a001240
+	He'll get a cold, sleeping there like that!
+%0%a001250
+	Yuck! That man smells of drink!
+Tuppence
+	I'd say it's fairly likely that character's been
+	thrown out of his house for snoring too loudly, wouldn't you?
+%0%a001250
+	It must be horrible to lose something important to you like that. The poor man!
+Sancho
+	You esee? Ees no esafe here.
+	Ees the work of the thieves.
+Debora
+	Don't you have some friends who live in Coburg?
+Debora
+	You should go and see them while we're here.
+Debora
+	Prince Kendrick? If he's a prince, then surely that means he must be your friend Harry's son?
+Debora
+	Huh! He may be quick on his feet, but that's about the only thing he's got going for him.
+Debora
+	It's bad news if she can sense it even here.
+	We need to hurry.
+Debora
+	It's good that our children are quiet and well-behaved like me.
+Debora
+	How pathetic! A man like him shouldn't have a phobia about mice!
+Debora
+	You don't think that there'll ever be a power struggle between our two children, do you?
+Debora
+	%0%a001240 and %a001250 don't have many friends their own age, do they?
+Debora
+	It might be good for them to make a servⓚⓛ
+	Er, I mean, to make a friend out of Kendrick.
+Debora
+	Harry seems to have acquired a certain air of dignity.
+Debora
+	Maybe there's hope for you yet.
+Debora
+	Children can be quite devious when they want to be. I've no clue where they've got to.
+Debora
+	Do you have any idea where they might be?
+Debora
+	Then hurry up and see if you're right!
+Debora
+	No? Hmph. You're no use. I suppose we'll just have to search the whole castle until we find them.
+Debora
+	It could be quite interesting if someone like that were in power.
+Debora
+	I wouldn't want our children to turn out that
+	way, though.
+Debora
+	You'll bring peace to the world, no problem!
+	You don't seem a likely sort, but you have me with you, so you're sure to succeed.
+Debora
+	I'm going to hold onto your hand all the time to make sure you don't go missing again.
+Debora
+	...You're not taking me seriously, are you?
+	It was just a joke!
+Debora
+	He's a bit of a cheeky one, but I'm sure his heart's in the right place. I've taken quite a shine to him.
+%0%a001240
+	Really? Do you like it when kids act like him then, Mum? Maybe I should copy him...
+Debora
+	He's a bit of a cheeky one, but I'm sure his heart's in the right place. I've taken quite a shine to him.
+%0%a001240
+	Really? Do you like it when kids act like him then, Mum? Maybe I should copy him...
+Debora
+	Wasn't their wedding more than ten years
+	ago already?
+Debora
+	I hope it's not broken or damaged.
+Debora
+	You've never talked much about it, but you and Harry had quite a rough time of it when you were little, didn't you?
+Debora
+	I'll have to make you spill the beans one of these days. Other people's misfortunes always make for a good story.
+Debora
+	Harry's quite the imaginative one, having a music box made as a wedding souvenir. Or do you think it was his wife's idea?
+Debora
+	I let Papa take care of that for my wedding, but now I wish I hadn't. It's the kind of thing you should really decide for yourself.
+Debora
+	You'll bring peace to the world, no problem!
+	You don't seem a likely sort, but you have me with you, so you're sure to succeed.
+Debora
+	Hmm... From what you've told me, I'd say our friend Harry here is in denial!
+Debora
+	Looks like you can't get inside the castle at night.
+	I suppose it's good for security and all, but it could be a bit irritating in an emergency.
